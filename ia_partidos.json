@@ -1,102 +1,16 @@
 [
     {
-        "Fecha": "2026-05-11",
+        "Fecha": "2026-05-12",
+        "Hora": "18:20",
         "Pais": "colombia",
-        "Liga": "Copa Colombia - Primera fase\nCOLOMBIA: \n1\nX\n2",
-        "Partido": "atletico f.c. vs patriotas",
+        "Liga": "Primera A - Apertura - Playoffs",
+        "Partido": "atl. nacional vs inter bogota",
         "Local": {
-            "Equipo": "atletico f.c.",
-            "Tendencia": "DECLIVE",
-            "Promedio Antiguo": 1.0,
-            "Promedio Reciente": 0.5,
-            "Ultimos 5": [
-                {
-                    "GF": 1,
-                    "GC": 3,
-                    "Resultado": "P"
-                },
-                {
-                    "GF": 1,
-                    "GC": 2,
-                    "Resultado": "P"
-                },
-                {
-                    "GF": 1,
-                    "GC": 1,
-                    "Resultado": "E"
-                },
-                {
-                    "GF": 1,
-                    "GC": 1,
-                    "Resultado": "E"
-                },
-                {
-                    "GF": 0,
-                    "GC": 0,
-                    "Resultado": "E"
-                }
-            ]
-        },
-        "Visitante": {
-            "Equipo": "patriotas",
-            "Tendencia": "DECLIVE",
-            "Promedio Antiguo": 0.6666666666666666,
-            "Promedio Reciente": 0.5,
-            "Ultimos 5": [
-                {
-                    "GF": 0,
-                    "GC": 2,
-                    "Resultado": "P"
-                },
-                {
-                    "GF": 1,
-                    "GC": 2,
-                    "Resultado": "P"
-                },
-                {
-                    "GF": 1,
-                    "GC": 1,
-                    "Resultado": "E"
-                },
-                {
-                    "GF": 1,
-                    "GC": 1,
-                    "Resultado": "E"
-                },
-                {
-                    "GF": 0,
-                    "GC": 0,
-                    "Resultado": "E"
-                }
-            ]
-        },
-        "Cuotas": {
-            "Local": 4.8,
-            "Empate": 3.5,
-            "Visitante": 1.84
-        }
-    },
-    {
-        "Fecha": "2026-05-11",
-        "Pais": "colombia",
-        "Liga": "Copa Colombia - Primera fase\nCOLOMBIA: \n1\nX\n2",
-        "Partido": "ind. medellin vs fortaleza",
-        "Local": {
-            "Equipo": "ind. medellin",
+            "Equipo": "atl. nacional",
             "Tendencia": "CRECIMIENTO",
             "Promedio Antiguo": 1.3333333333333333,
-            "Promedio Reciente": 2.0,
+            "Promedio Reciente": 2.5,
             "Ultimos 5": [
-                {
-                    "GF": 1,
-                    "GC": 2,
-                    "Resultado": "P"
-                },
-                {
-                    "GF": 1,
-                    "GC": 0,
-                    "Resultado": "G"
-                },
                 {
                     "GF": 2,
                     "GC": 0,
@@ -104,180 +18,36 @@
                 },
                 {
                     "GF": 2,
-                    "GC": 3,
-                    "Resultado": "P"
-                },
-                {
-                    "GF": 2,
                     "GC": 1,
                     "Resultado": "G"
-                }
-            ]
-        },
-        "Visitante": {
-            "Equipo": "fortaleza",
-            "Tendencia": "CRECIMIENTO",
-            "Promedio Antiguo": 0.6666666666666666,
-            "Promedio Reciente": 1.0,
-            "Ultimos 5": [
-                {
-                    "GF": 0,
-                    "GC": 1,
-                    "Resultado": "P"
-                },
-                {
-                    "GF": 2,
-                    "GC": 2,
-                    "Resultado": "E"
                 },
                 {
                     "GF": 0,
-                    "GC": 2,
-                    "Resultado": "P"
-                },
-                {
-                    "GF": 1,
-                    "GC": 2,
-                    "Resultado": "P"
-                },
-                {
-                    "GF": 1,
-                    "GC": 1,
-                    "Resultado": "E"
-                }
-            ]
-        },
-        "Cuotas": {
-            "Local": 1.74,
-            "Empate": 3.8,
-            "Visitante": 4.9
-        }
-    },
-    {
-        "Fecha": "2026-05-11",
-        "Pais": "colombia",
-        "Liga": "Copa Colombia - Primera fase\nCOLOMBIA: \n1\nX\n2",
-        "Partido": "deportivo cali vs atl. bucaramanga",
-        "Local": {
-            "Equipo": "deportivo cali",
-            "Tendencia": "DECLIVE",
-            "Promedio Antiguo": 1.0,
-            "Promedio Reciente": 1.0,
-            "Ultimos 5": [
-                {
-                    "GF": 1,
                     "GC": 0,
-                    "Resultado": "G"
-                },
-                {
-                    "GF": 1,
-                    "GC": 1,
-                    "Resultado": "E"
-                },
-                {
-                    "GF": 1,
-                    "GC": 0,
-                    "Resultado": "G"
-                },
-                {
-                    "GF": 1,
-                    "GC": 1,
-                    "Resultado": "E"
-                },
-                {
-                    "GF": 1,
-                    "GC": 1,
-                    "Resultado": "E"
-                }
-            ]
-        },
-        "Visitante": {
-            "Equipo": "atl. bucaramanga",
-            "Tendencia": "DECLIVE",
-            "Promedio Antiguo": 0.6666666666666666,
-            "Promedio Reciente": 0.0,
-            "Ultimos 5": [
-                {
-                    "GF": 1,
-                    "GC": 2,
-                    "Resultado": "P"
-                },
-                {
-                    "GF": 0,
-                    "GC": 2,
-                    "Resultado": "P"
-                },
-                {
-                    "GF": 1,
-                    "GC": 2,
-                    "Resultado": "P"
-                },
-                {
-                    "GF": 0,
-                    "GC": 2,
-                    "Resultado": "P"
-                },
-                {
-                    "GF": 0,
-                    "GC": 2,
-                    "Resultado": "P"
-                }
-            ]
-        },
-        "Cuotas": {
-            "Local": 2.18,
-            "Empate": 3.05,
-            "Visitante": 3.95
-        }
-    },
-    {
-        "Fecha": "2026-05-11",
-        "Pais": "espana",
-        "Liga": "LaLiga EA Sports\nESPAÑA: \n1\nX\n2",
-        "Partido": "rayo vallecano vs girona",
-        "Local": {
-            "Equipo": "rayo vallecano",
-            "Tendencia": "DECLIVE",
-            "Promedio Antiguo": 1.6666666666666667,
-            "Promedio Reciente": 1.0,
-            "Ultimos 5": [
-                {
-                    "GF": 1,
-                    "GC": 1,
                     "Resultado": "E"
                 },
                 {
                     "GF": 3,
-                    "GC": 3,
-                    "Resultado": "E"
-                },
-                {
-                    "GF": 1,
                     "GC": 0,
                     "Resultado": "G"
                 },
                 {
-                    "GF": 1,
+                    "GF": 2,
                     "GC": 0,
                     "Resultado": "G"
-                },
-                {
-                    "GF": 1,
-                    "GC": 1,
-                    "Resultado": "E"
                 }
             ]
         },
         "Visitante": {
-            "Equipo": "girona",
+            "Equipo": "inter bogota",
             "Tendencia": "DECLIVE",
             "Promedio Antiguo": 1.0,
             "Promedio Reciente": 0.5,
             "Ultimos 5": [
                 {
                     "GF": 1,
-                    "GC": 1,
-                    "Resultado": "E"
+                    "GC": 3,
+                    "Resultado": "P"
                 },
                 {
                     "GF": 1,
@@ -291,7 +61,7 @@
                 },
                 {
                     "GF": 0,
-                    "GC": 1,
+                    "GC": 3,
                     "Resultado": "P"
                 },
                 {
@@ -302,15 +72,16 @@
             ]
         },
         "Cuotas": {
-            "Local": 2.26,
-            "Empate": 3.35,
-            "Visitante": 3.35
+            "Local": 1.46,
+            "Empate": 4.55,
+            "Visitante": 7.5
         }
     },
     {
-        "Fecha": "2026-05-13",
+        "Fecha": "2026-05-12",
+        "Hora": "20:30",
         "Pais": "colombia",
-        "Liga": "Primera A - Apertura - Playoffs\nCOLOMBIA: \n1\nX\n2",
+        "Liga": "Primera A - Apertura - Playoffs",
         "Partido": "ind. santa fe vs america de cali",
         "Local": {
             "Equipo": "ind. santa fe",
@@ -379,15 +150,16 @@
             ]
         },
         "Cuotas": {
-            "Local": 2.2,
-            "Empate": 3.35,
+            "Local": 2.25,
+            "Empate": 3.25,
             "Visitante": 3.5
         }
     },
     {
-        "Fecha": "2026-05-13",
+        "Fecha": "2026-05-12",
+        "Hora": "00:00",
         "Pais": "colombia",
-        "Liga": "Primera B - Apertura - Cuadrangular\nCOLOMBIA: \n1\nX\n2",
+        "Liga": "Primera B - Apertura - Cuadrangular",
         "Partido": "u. magdalena vs real cartagena",
         "Local": {
             "Equipo": "u. magdalena",
@@ -456,15 +228,16 @@
             ]
         },
         "Cuotas": {
-            "Local": 1.91,
-            "Empate": 3.3,
-            "Visitante": 3.6
+            "Local": 2.15,
+            "Empate": 3.2,
+            "Visitante": 3.2
         }
     },
     {
-        "Fecha": "2026-05-13",
+        "Fecha": "2026-05-12",
+        "Hora": "00:00",
         "Pais": "colombia",
-        "Liga": "Copa Colombia - Primera fase\nCOLOMBIA: \n1\nX\n2",
+        "Liga": "Copa Colombia - Primera fase",
         "Partido": "leones vs orsomarso",
         "Local": {
             "Equipo": "leones",
@@ -533,15 +306,16 @@
             ]
         },
         "Cuotas": {
-            "Local": 3.1,
-            "Empate": 2.9,
-            "Visitante": 2.37
+            "Local": 2.98,
+            "Empate": 3.0,
+            "Visitante": 2.68
         }
     },
     {
-        "Fecha": "2026-05-13",
+        "Fecha": "2026-05-12",
+        "Hora": "00:00",
         "Pais": "colombia",
-        "Liga": "Copa Colombia - Primera fase\nCOLOMBIA: \n1\nX\n2",
+        "Liga": "Copa Colombia - Primera fase",
         "Partido": "real santander vs boca juniors",
         "Local": {
             "Equipo": "real santander",
@@ -610,22 +384,28 @@
             ]
         },
         "Cuotas": {
-            "Local": 2.47,
-            "Empate": 2.9,
-            "Visitante": 2.95
+            "Local": 2.8,
+            "Empate": 3.4,
+            "Visitante": 2.56
         }
     },
     {
-        "Fecha": "2026-05-13",
+        "Fecha": "2026-05-12",
+        "Hora": "00:00",
         "Pais": "espana",
-        "Liga": "LaLiga EA Sports\nESPAÑA: \n1\nX\n2",
+        "Liga": "LaLiga EA Sports",
         "Partido": "celta de vigo vs levante",
         "Local": {
             "Equipo": "celta de vigo",
-            "Tendencia": "DECLIVE",
-            "Promedio Antiguo": 2.0,
-            "Promedio Reciente": 1.5,
+            "Tendencia": "CRECIMIENTO",
+            "Promedio Antiguo": 1.6666666666666667,
+            "Promedio Reciente": 2.0,
             "Ultimos 5": [
+                {
+                    "GF": 2,
+                    "GC": 3,
+                    "Resultado": "P"
+                },
                 {
                     "GF": 3,
                     "GC": 1,
@@ -645,20 +425,20 @@
                     "GF": 1,
                     "GC": 2,
                     "Resultado": "P"
-                },
-                {
-                    "GF": 2,
-                    "GC": 0,
-                    "Resultado": "G"
                 }
             ]
         },
         "Visitante": {
             "Equipo": "levante",
-            "Tendencia": "CRECIMIENTO",
-            "Promedio Antiguo": 0.3333333333333333,
+            "Tendencia": "DECLIVE",
+            "Promedio Antiguo": 1.3333333333333333,
             "Promedio Reciente": 0.5,
             "Ultimos 5": [
+                {
+                    "GF": 3,
+                    "GC": 2,
+                    "Resultado": "G"
+                },
                 {
                     "GF": 1,
                     "GC": 5,
@@ -678,31 +458,32 @@
                     "GF": 1,
                     "GC": 1,
                     "Resultado": "E"
-                },
-                {
-                    "GF": 0,
-                    "GC": 3,
-                    "Resultado": "P"
                 }
             ]
         },
         "Cuotas": {
-            "Local": 1.84,
+            "Local": 1.94,
             "Empate": 3.8,
-            "Visitante": 4.2
+            "Visitante": 3.85
         }
     },
     {
-        "Fecha": "2026-05-13",
+        "Fecha": "2026-05-12",
+        "Hora": "00:00",
         "Pais": "espana",
-        "Liga": "LaLiga EA Sports\nESPAÑA: \n1\nX\n2",
+        "Liga": "LaLiga EA Sports",
         "Partido": "real betis vs elche",
         "Local": {
             "Equipo": "real betis",
-            "Tendencia": "CRECIMIENTO",
-            "Promedio Antiguo": 1.3333333333333333,
-            "Promedio Reciente": 1.5,
+            "Tendencia": "DECLIVE",
+            "Promedio Antiguo": 2.0,
+            "Promedio Reciente": 0.5,
             "Ultimos 5": [
+                {
+                    "GF": 2,
+                    "GC": 1,
+                    "Resultado": "G"
+                },
                 {
                     "GF": 3,
                     "GC": 0,
@@ -722,20 +503,20 @@
                     "GF": 1,
                     "GC": 1,
                     "Resultado": "E"
-                },
-                {
-                    "GF": 2,
-                    "GC": 2,
-                    "Resultado": "E"
                 }
             ]
         },
         "Visitante": {
             "Equipo": "elche",
             "Tendencia": "DECLIVE",
-            "Promedio Antiguo": 1.0,
-            "Promedio Reciente": 1.0,
+            "Promedio Antiguo": 1.3333333333333333,
+            "Promedio Reciente": 0.5,
             "Ultimos 5": [
+                {
+                    "GF": 1,
+                    "GC": 2,
+                    "Resultado": "P"
+                },
                 {
                     "GF": 1,
                     "GC": 3,
@@ -755,31 +536,32 @@
                     "GF": 1,
                     "GC": 4,
                     "Resultado": "P"
-                },
-                {
-                    "GF": 1,
-                    "GC": 2,
-                    "Resultado": "P"
                 }
             ]
         },
         "Cuotas": {
             "Local": 1.66,
-            "Empate": 4.1,
-            "Visitante": 5.2
+            "Empate": 4.2,
+            "Visitante": 5.0
         }
     },
     {
-        "Fecha": "2026-05-13",
+        "Fecha": "2026-05-12",
+        "Hora": "00:00",
         "Pais": "espana",
-        "Liga": "LaLiga EA Sports\nESPAÑA: \n1\nX\n2",
+        "Liga": "LaLiga EA Sports",
         "Partido": "osasuna vs atletico de madrid",
         "Local": {
             "Equipo": "osasuna",
-            "Tendencia": "CRECIMIENTO",
+            "Tendencia": "DECLIVE",
             "Promedio Antiguo": 1.3333333333333333,
-            "Promedio Reciente": 1.5,
+            "Promedio Reciente": 1.0,
             "Ultimos 5": [
+                {
+                    "GF": 1,
+                    "GC": 2,
+                    "Resultado": "P"
+                },
                 {
                     "GF": 1,
                     "GC": 2,
@@ -799,6 +581,391 @@
                     "GF": 1,
                     "GC": 0,
                     "Resultado": "G"
+                }
+            ]
+        },
+        "Visitante": {
+            "Equipo": "atletico de madrid",
+            "Tendencia": "DECLIVE",
+            "Promedio Antiguo": 2.0,
+            "Promedio Reciente": 1.5,
+            "Ultimos 5": [
+                {
+                    "GF": 2,
+                    "GC": 1,
+                    "Resultado": "G"
+                },
+                {
+                    "GF": 2,
+                    "GC": 0,
+                    "Resultado": "G"
+                },
+                {
+                    "GF": 2,
+                    "GC": 3,
+                    "Resultado": "P"
+                },
+                {
+                    "GF": 1,
+                    "GC": 2,
+                    "Resultado": "P"
+                },
+                {
+                    "GF": 2,
+                    "GC": 3,
+                    "Resultado": "P"
+                }
+            ]
+        },
+        "Cuotas": {
+            "Local": 2.62,
+            "Empate": 3.65,
+            "Visitante": 2.62
+        }
+    },
+    {
+        "Fecha": "2026-05-13",
+        "Hora": "18:00",
+        "Pais": "colombia",
+        "Liga": "Primera A - Apertura - Playoffs",
+        "Partido": "dep. pasto vs tolima",
+        "Local": {
+            "Equipo": "dep. pasto",
+            "Tendencia": "CRECIMIENTO",
+            "Promedio Antiguo": 1.0,
+            "Promedio Reciente": 2.0,
+            "Ultimos 5": [
+                {
+                    "GF": 1,
+                    "GC": 2,
+                    "Resultado": "P"
+                },
+                {
+                    "GF": 1,
+                    "GC": 0,
+                    "Resultado": "G"
+                },
+                {
+                    "GF": 1,
+                    "GC": 2,
+                    "Resultado": "P"
+                },
+                {
+                    "GF": 2,
+                    "GC": 0,
+                    "Resultado": "G"
+                },
+                {
+                    "GF": 2,
+                    "GC": 0,
+                    "Resultado": "G"
+                }
+            ]
+        },
+        "Visitante": {
+            "Equipo": "tolima",
+            "Tendencia": "CRECIMIENTO",
+            "Promedio Antiguo": 0.3333333333333333,
+            "Promedio Reciente": 1.5,
+            "Ultimos 5": [
+                {
+                    "GF": 0,
+                    "GC": 2,
+                    "Resultado": "P"
+                },
+                {
+                    "GF": 0,
+                    "GC": 1,
+                    "Resultado": "P"
+                },
+                {
+                    "GF": 1,
+                    "GC": 1,
+                    "Resultado": "E"
+                },
+                {
+                    "GF": 1,
+                    "GC": 1,
+                    "Resultado": "E"
+                },
+                {
+                    "GF": 2,
+                    "GC": 3,
+                    "Resultado": "P"
+                }
+            ]
+        },
+        "Cuotas": {
+            "Local": 2.24,
+            "Empate": 3.3,
+            "Visitante": 3.45
+        }
+    },
+    {
+        "Fecha": "2026-05-13",
+        "Hora": "20:15",
+        "Pais": "colombia",
+        "Liga": "Primera A - Apertura - Playoffs",
+        "Partido": "junior vs once caldas",
+        "Local": {
+            "Equipo": "junior",
+            "Tendencia": "DECLIVE",
+            "Promedio Antiguo": 2.3333333333333335,
+            "Promedio Reciente": 2.0,
+            "Ultimos 5": [
+                {
+                    "GF": 4,
+                    "GC": 3,
+                    "Resultado": "G"
+                },
+                {
+                    "GF": 2,
+                    "GC": 0,
+                    "Resultado": "G"
+                },
+                {
+                    "GF": 1,
+                    "GC": 2,
+                    "Resultado": "P"
+                },
+                {
+                    "GF": 2,
+                    "GC": 0,
+                    "Resultado": "G"
+                },
+                {
+                    "GF": 2,
+                    "GC": 1,
+                    "Resultado": "G"
+                }
+            ]
+        },
+        "Visitante": {
+            "Equipo": "once caldas",
+            "Tendencia": "CRECIMIENTO",
+            "Promedio Antiguo": 1.0,
+            "Promedio Reciente": 1.5,
+            "Ultimos 5": [
+                {
+                    "GF": 2,
+                    "GC": 2,
+                    "Resultado": "E"
+                },
+                {
+                    "GF": 0,
+                    "GC": 0,
+                    "Resultado": "E"
+                },
+                {
+                    "GF": 1,
+                    "GC": 1,
+                    "Resultado": "E"
+                },
+                {
+                    "GF": 1,
+                    "GC": 1,
+                    "Resultado": "E"
+                },
+                {
+                    "GF": 2,
+                    "GC": 0,
+                    "Resultado": "G"
+                }
+            ]
+        },
+        "Cuotas": {
+            "Local": 2.0,
+            "Empate": 3.85,
+            "Visitante": 3.55
+        }
+    },
+    {
+        "Fecha": "2026-05-13",
+        "Hora": "16:00",
+        "Pais": "colombia",
+        "Liga": "Primera B - Apertura - Cuadrangular",
+        "Partido": "bogota vs barranquilla",
+        "Local": {
+            "Equipo": "bogota",
+            "Tendencia": "DECLIVE",
+            "Promedio Antiguo": 1.6666666666666667,
+            "Promedio Reciente": 0.0,
+            "Ultimos 5": [
+                {
+                    "GF": 1,
+                    "GC": 1,
+                    "Resultado": "E"
+                },
+                {
+                    "GF": 2,
+                    "GC": 0,
+                    "Resultado": "G"
+                },
+                {
+                    "GF": 2,
+                    "GC": 2,
+                    "Resultado": "E"
+                },
+                {
+                    "GF": 0,
+                    "GC": 2,
+                    "Resultado": "P"
+                },
+                {
+                    "GF": 0,
+                    "GC": 1,
+                    "Resultado": "P"
+                }
+            ]
+        },
+        "Visitante": {
+            "Equipo": "barranquilla",
+            "Tendencia": "DECLIVE",
+            "Promedio Antiguo": 1.3333333333333333,
+            "Promedio Reciente": 1.0,
+            "Ultimos 5": [
+                {
+                    "GF": 0,
+                    "GC": 2,
+                    "Resultado": "P"
+                },
+                {
+                    "GF": 3,
+                    "GC": 1,
+                    "Resultado": "G"
+                },
+                {
+                    "GF": 1,
+                    "GC": 3,
+                    "Resultado": "P"
+                },
+                {
+                    "GF": 2,
+                    "GC": 2,
+                    "Resultado": "E"
+                },
+                {
+                    "GF": 0,
+                    "GC": 1,
+                    "Resultado": "P"
+                }
+            ]
+        },
+        "Cuotas": {
+            "Local": 1.8,
+            "Empate": 3.4,
+            "Visitante": 4.0
+        }
+    },
+    {
+        "Fecha": "2026-05-13",
+        "Hora": "14:00",
+        "Pais": "colombia",
+        "Liga": "Copa Colombia - Primera fase",
+        "Partido": "real cundinamarca vs ind. yumbo",
+        "Local": {
+            "Equipo": "real cundinamarca",
+            "Tendencia": "CRECIMIENTO",
+            "Promedio Antiguo": 1.0,
+            "Promedio Reciente": 1.5,
+            "Ultimos 5": [
+                {
+                    "GF": 0,
+                    "GC": 2,
+                    "Resultado": "P"
+                },
+                {
+                    "GF": 1,
+                    "GC": 2,
+                    "Resultado": "P"
+                },
+                {
+                    "GF": 2,
+                    "GC": 2,
+                    "Resultado": "E"
+                },
+                {
+                    "GF": 2,
+                    "GC": 2,
+                    "Resultado": "E"
+                },
+                {
+                    "GF": 1,
+                    "GC": 0,
+                    "Resultado": "G"
+                }
+            ]
+        },
+        "Visitante": {
+            "Equipo": "ind. yumbo",
+            "Tendencia": "CRECIMIENTO",
+            "Promedio Antiguo": 0.0,
+            "Promedio Reciente": 2.5,
+            "Ultimos 5": [
+                {
+                    "GF": 0,
+                    "GC": 0,
+                    "Resultado": "E"
+                },
+                {
+                    "GF": 0,
+                    "GC": 2,
+                    "Resultado": "P"
+                },
+                {
+                    "GF": 0,
+                    "GC": 1,
+                    "Resultado": "P"
+                },
+                {
+                    "GF": 2,
+                    "GC": 0,
+                    "Resultado": "G"
+                },
+                {
+                    "GF": 3,
+                    "GC": 1,
+                    "Resultado": "G"
+                }
+            ]
+        },
+        "Cuotas": {
+            "Local": 2.26,
+            "Empate": 3.15,
+            "Visitante": 3.55
+        }
+    },
+    {
+        "Fecha": "2026-05-13",
+        "Hora": "12:00",
+        "Pais": "espana",
+        "Liga": "LaLiga EA Sports",
+        "Partido": "espanyol vs athletic club",
+        "Local": {
+            "Equipo": "espanyol",
+            "Tendencia": "CRECIMIENTO",
+            "Promedio Antiguo": 0.3333333333333333,
+            "Promedio Reciente": 1.5,
+            "Ultimos 5": [
+                {
+                    "GF": 0,
+                    "GC": 2,
+                    "Resultado": "P"
+                },
+                {
+                    "GF": 0,
+                    "GC": 0,
+                    "Resultado": "E"
+                },
+                {
+                    "GF": 1,
+                    "GC": 2,
+                    "Resultado": "P"
+                },
+                {
+                    "GF": 1,
+                    "GC": 1,
+                    "Resultado": "E"
                 },
                 {
                     "GF": 2,
@@ -808,11 +975,172 @@
             ]
         },
         "Visitante": {
-            "Equipo": "atletico de madrid",
+            "Equipo": "athletic club",
             "Tendencia": "DECLIVE",
-            "Promedio Antiguo": 1.6666666666666667,
+            "Promedio Antiguo": 2.0,
+            "Promedio Reciente": 0.5,
+            "Ultimos 5": [
+                {
+                    "GF": 4,
+                    "GC": 2,
+                    "Resultado": "G"
+                },
+                {
+                    "GF": 2,
+                    "GC": 3,
+                    "Resultado": "P"
+                },
+                {
+                    "GF": 0,
+                    "GC": 2,
+                    "Resultado": "P"
+                },
+                {
+                    "GF": 0,
+                    "GC": 3,
+                    "Resultado": "P"
+                },
+                {
+                    "GF": 1,
+                    "GC": 1,
+                    "Resultado": "E"
+                }
+            ]
+        },
+        "Cuotas": {
+            "Local": 2.68,
+            "Empate": 3.25,
+            "Visitante": 2.76
+        }
+    },
+    {
+        "Fecha": "2026-05-13",
+        "Hora": "12:00",
+        "Pais": "espana",
+        "Liga": "LaLiga EA Sports",
+        "Partido": "villarreal vs sevilla",
+        "Local": {
+            "Equipo": "villarreal",
+            "Tendencia": "DECLIVE",
+            "Promedio Antiguo": 3.3333333333333335,
+            "Promedio Reciente": 2.0,
+            "Ultimos 5": [
+                {
+                    "GF": 5,
+                    "GC": 1,
+                    "Resultado": "G"
+                },
+                {
+                    "GF": 2,
+                    "GC": 1,
+                    "Resultado": "G"
+                },
+                {
+                    "GF": 3,
+                    "GC": 1,
+                    "Resultado": "G"
+                },
+                {
+                    "GF": 2,
+                    "GC": 1,
+                    "Resultado": "G"
+                },
+                {
+                    "GF": 2,
+                    "GC": 1,
+                    "Resultado": "G"
+                }
+            ]
+        },
+        "Visitante": {
+            "Equipo": "sevilla",
+            "Tendencia": "CRECIMIENTO",
+            "Promedio Antiguo": 0.3333333333333333,
+            "Promedio Reciente": 2.0,
+            "Ultimos 5": [
+                {
+                    "GF": 1,
+                    "GC": 2,
+                    "Resultado": "P"
+                },
+                {
+                    "GF": 0,
+                    "GC": 2,
+                    "Resultado": "P"
+                },
+                {
+                    "GF": 0,
+                    "GC": 1,
+                    "Resultado": "P"
+                },
+                {
+                    "GF": 2,
+                    "GC": 5,
+                    "Resultado": "P"
+                },
+                {
+                    "GF": 2,
+                    "GC": 2,
+                    "Resultado": "E"
+                }
+            ]
+        },
+        "Cuotas": {
+            "Local": 2.05,
+            "Empate": 3.55,
+            "Visitante": 3.7
+        }
+    },
+    {
+        "Fecha": "2026-05-13",
+        "Hora": "14:30",
+        "Pais": "espana",
+        "Liga": "LaLiga EA Sports",
+        "Partido": "alaves vs barcelona",
+        "Local": {
+            "Equipo": "alaves",
+            "Tendencia": "DECLIVE",
+            "Promedio Antiguo": 2.0,
             "Promedio Reciente": 1.5,
             "Ultimos 5": [
+                {
+                    "GF": 2,
+                    "GC": 4,
+                    "Resultado": "P"
+                },
+                {
+                    "GF": 2,
+                    "GC": 1,
+                    "Resultado": "G"
+                },
+                {
+                    "GF": 2,
+                    "GC": 2,
+                    "Resultado": "E"
+                },
+                {
+                    "GF": 1,
+                    "GC": 1,
+                    "Resultado": "E"
+                },
+                {
+                    "GF": 2,
+                    "GC": 2,
+                    "Resultado": "E"
+                }
+            ]
+        },
+        "Visitante": {
+            "Equipo": "barcelona",
+            "Tendencia": "DECLIVE",
+            "Promedio Antiguo": 2.0,
+            "Promedio Reciente": 1.0,
+            "Ultimos 5": [
+                {
+                    "GF": 2,
+                    "GC": 1,
+                    "Resultado": "G"
+                },
                 {
                     "GF": 2,
                     "GC": 0,
@@ -820,7 +1148,80 @@
                 },
                 {
                     "GF": 2,
-                    "GC": 3,
+                    "GC": 1,
+                    "Resultado": "G"
+                },
+                {
+                    "GF": 1,
+                    "GC": 0,
+                    "Resultado": "G"
+                },
+                {
+                    "GF": 1,
+                    "GC": 2,
+                    "Resultado": "P"
+                }
+            ]
+        },
+        "Cuotas": {
+            "Local": 3.25,
+            "Empate": 3.85,
+            "Visitante": 2.12
+        }
+    },
+    {
+        "Fecha": "2026-05-13",
+        "Hora": "14:30",
+        "Pais": "espana",
+        "Liga": "LaLiga EA Sports",
+        "Partido": "getafe vs mallorca",
+        "Local": {
+            "Equipo": "getafe",
+            "Tendencia": "CRECIMIENTO",
+            "Promedio Antiguo": 0.6666666666666666,
+            "Promedio Reciente": 1.0,
+            "Ultimos 5": [
+                {
+                    "GF": 0,
+                    "GC": 2,
+                    "Resultado": "P"
+                },
+                {
+                    "GF": 0,
+                    "GC": 2,
+                    "Resultado": "P"
+                },
+                {
+                    "GF": 2,
+                    "GC": 0,
+                    "Resultado": "G"
+                },
+                {
+                    "GF": 2,
+                    "GC": 0,
+                    "Resultado": "G"
+                },
+                {
+                    "GF": 0,
+                    "GC": 1,
+                    "Resultado": "P"
+                }
+            ]
+        },
+        "Visitante": {
+            "Equipo": "mallorca",
+            "Tendencia": "DECLIVE",
+            "Promedio Antiguo": 1.0,
+            "Promedio Reciente": 1.0,
+            "Ultimos 5": [
+                {
+                    "GF": 1,
+                    "GC": 0,
+                    "Resultado": "G"
+                },
+                {
+                    "GF": 1,
+                    "GC": 2,
                     "Resultado": "P"
                 },
                 {
@@ -830,26 +1231,27 @@
                 },
                 {
                     "GF": 2,
-                    "GC": 3,
-                    "Resultado": "P"
+                    "GC": 2,
+                    "Resultado": "E"
                 },
                 {
-                    "GF": 1,
-                    "GC": 0,
-                    "Resultado": "G"
+                    "GF": 0,
+                    "GC": 2,
+                    "Resultado": "P"
                 }
             ]
         },
         "Cuotas": {
-            "Local": 2.6,
-            "Empate": 3.55,
-            "Visitante": 2.66
+            "Local": 2.28,
+            "Empate": 3.15,
+            "Visitante": 3.55
         }
     },
     {
         "Fecha": "2026-05-14",
+        "Hora": "12:00",
         "Pais": "espana",
-        "Liga": "LaLiga EA Sports\nESPAÑA: \n1\nX\n2",
+        "Liga": "LaLiga EA Sports",
         "Partido": "valencia vs rayo vallecano",
         "Local": {
             "Equipo": "valencia",
@@ -919,14 +1321,15 @@
         },
         "Cuotas": {
             "Local": 2.24,
-            "Empate": 3.55,
+            "Empate": 3.5,
             "Visitante": 3.25
         }
     },
     {
         "Fecha": "2026-05-14",
+        "Hora": "13:00",
         "Pais": "espana",
-        "Liga": "LaLiga EA Sports\nESPAÑA: \n1\nX\n2",
+        "Liga": "LaLiga EA Sports",
         "Partido": "girona vs real sociedad",
         "Local": {
             "Equipo": "girona",
@@ -995,9 +1398,87 @@
             ]
         },
         "Cuotas": {
-            "Local": 2.12,
+            "Local": 2.0,
             "Empate": 3.8,
-            "Visitante": 3.25
+            "Visitante": 3.6
+        }
+    },
+    {
+        "Fecha": "2026-05-14",
+        "Hora": "14:30",
+        "Pais": "espana",
+        "Liga": "LaLiga EA Sports",
+        "Partido": "real madrid vs real oviedo",
+        "Local": {
+            "Equipo": "real madrid",
+            "Tendencia": "DECLIVE",
+            "Promedio Antiguo": 2.0,
+            "Promedio Reciente": 2.0,
+            "Ultimos 5": [
+                {
+                    "GF": 2,
+                    "GC": 1,
+                    "Resultado": "G"
+                },
+                {
+                    "GF": 1,
+                    "GC": 1,
+                    "Resultado": "E"
+                },
+                {
+                    "GF": 3,
+                    "GC": 2,
+                    "Resultado": "G"
+                },
+                {
+                    "GF": 4,
+                    "GC": 1,
+                    "Resultado": "G"
+                },
+                {
+                    "GF": 0,
+                    "GC": 1,
+                    "Resultado": "P"
+                }
+            ]
+        },
+        "Visitante": {
+            "Equipo": "real oviedo",
+            "Tendencia": "DECLIVE",
+            "Promedio Antiguo": 1.6666666666666667,
+            "Promedio Reciente": 0.5,
+            "Ultimos 5": [
+                {
+                    "GF": 0,
+                    "GC": 3,
+                    "Resultado": "P"
+                },
+                {
+                    "GF": 3,
+                    "GC": 0,
+                    "Resultado": "G"
+                },
+                {
+                    "GF": 2,
+                    "GC": 4,
+                    "Resultado": "P"
+                },
+                {
+                    "GF": 1,
+                    "GC": 1,
+                    "Resultado": "E"
+                },
+                {
+                    "GF": 0,
+                    "GC": 3,
+                    "Resultado": "P"
+                }
+            ]
+        },
+        "Cuotas": {
+            "Local": 1.28,
+            "Empate": 6.0,
+            "Visitante": 10.75
         }
     }
 ]
