@@ -8,9 +8,16 @@
         "Partido": "valencia vs rayo vallecano",
         "Local": {
             "Equipo": "valencia",
-            "Logo": "",
-            "ELO": 1482.23,
+            "Logo": "https://static.flashscore.com/res/image/data/Ioshoye5-MHrRLNUo.png",
+            "ELO": 1482.73,
             "Ultimos 5": [
+                {
+                    "GF": 1,
+                    "GC": 1,
+                    "Resultado": "E",
+                    "Rival": "rayo vallecano",
+                    "Marcador": "1-1"
+                },
                 {
                     "GF": 1,
                     "GC": 0,
@@ -38,21 +45,21 @@
                     "Resultado": "E",
                     "Rival": "mallorca",
                     "Marcador": "1-1"
-                },
-                {
-                    "GF": 0,
-                    "GC": 1,
-                    "Resultado": "P",
-                    "Rival": "elche",
-                    "Marcador": "0-1"
                 }
             ]
         },
         "Visitante": {
             "Equipo": "rayo vallecano",
-            "Logo": "",
-            "ELO": 1499.51,
+            "Logo": "https://static.flashscore.com/res/image/data/jqaha0f5-EPWyZtpb.png",
+            "ELO": 1499.02,
             "Ultimos 5": [
+                {
+                    "GF": 1,
+                    "GC": 1,
+                    "Resultado": "E",
+                    "Rival": "valencia",
+                    "Marcador": "1-1"
+                },
                 {
                     "GF": 1,
                     "GC": 1,
@@ -80,13 +87,6 @@
                     "Resultado": "G",
                     "Rival": "espanyol",
                     "Marcador": "1-0"
-                },
-                {
-                    "GF": 0,
-                    "GC": 3,
-                    "Resultado": "P",
-                    "Rival": "mallorca",
-                    "Marcador": "0-3"
                 }
             ]
         },
@@ -97,37 +97,37 @@
         },
         "IA": {
             "Ganador IA": "valencia",
-            "Probabilidad Local": 42.96,
-            "Probabilidad Empate": 25.64,
-            "Probabilidad Visitante": 31.4,
-            "Expected Goals Local": 1.45,
-            "Expected Goals Visitante": 1.2,
+            "Probabilidad Local": 37.81,
+            "Probabilidad Empate": 26.47,
+            "Probabilidad Visitante": 35.72,
+            "Expected Goals Local": 1.35,
+            "Expected Goals Visitante": 1.3,
             "Expected Goals Total": 2.65,
-            "Score Local": 1.28,
-            "Score Visitante": 1.37,
-            "Value Local": -2.09,
-            "Value Empate": -5.61,
-            "Value Visitante": 3.62,
+            "Score Local": 1.19,
+            "Score Visitante": 1.46,
+            "Value Local": -7.24,
+            "Value Empate": -4.78,
+            "Value Visitante": 7.94,
             "Top Marcadores": [
                 {
                     "Marcador": "1-1",
-                    "Probabilidad": 12.29
+                    "Probabilidad": 12.4
                 },
                 {
                     "Marcador": "1-0",
-                    "Probabilidad": 10.24
-                },
-                {
-                    "Marcador": "2-1",
-                    "Probabilidad": 8.91
+                    "Probabilidad": 9.54
                 },
                 {
                     "Marcador": "0-1",
-                    "Probabilidad": 8.48
+                    "Probabilidad": 9.18
                 },
                 {
-                    "Marcador": "2-0",
-                    "Probabilidad": 7.43
+                    "Marcador": "2-1",
+                    "Probabilidad": 8.37
+                },
+                {
+                    "Marcador": "1-2",
+                    "Probabilidad": 8.06
                 }
             ]
         }
@@ -141,7 +141,7 @@
         "Partido": "girona vs real sociedad",
         "Local": {
             "Equipo": "girona",
-            "Logo": "",
+            "Logo": "https://static.flashscore.com/res/image/data/xGkOqFDa-vPm0hQMN.png",
             "ELO": 1476.16,
             "Ultimos 5": [
                 {
@@ -183,7 +183,7 @@
         },
         "Visitante": {
             "Equipo": "real sociedad",
-            "Logo": "",
+            "Logo": "https://static.flashscore.com/res/image/data/QJraUAcM-vJb36ZBF.png",
             "ELO": 1490.34,
             "Ultimos 5": [
                 {
@@ -230,17 +230,17 @@
         },
         "IA": {
             "Ganador IA": "girona",
-            "Probabilidad Local": 44.39,
-            "Probabilidad Empate": 21.89,
-            "Probabilidad Visitante": 33.72,
+            "Probabilidad Local": 44.66,
+            "Probabilidad Empate": 22.08,
+            "Probabilidad Visitante": 33.26,
             "Expected Goals Local": 1.85,
             "Expected Goals Visitante": 1.6,
             "Expected Goals Total": 3.45,
             "Score Local": 1.71,
             "Score Visitante": 1.74,
-            "Value Local": -5.86,
-            "Value Empate": -3.43,
-            "Value Visitante": 5.55,
+            "Value Local": -5.59,
+            "Value Empate": -3.24,
+            "Value Visitante": 5.09,
             "Top Marcadores": [
                 {
                     "Marcador": "1-1",
@@ -274,7 +274,7 @@
         "Partido": "real madrid vs real oviedo",
         "Local": {
             "Equipo": "real madrid",
-            "Logo": "",
+            "Logo": "https://static.flashscore.com/res/image/data/A7kHoxZA-ttfpEDUq.png",
             "ELO": 1613.39,
             "Ultimos 5": [
                 {
@@ -316,7 +316,7 @@
         },
         "Visitante": {
             "Equipo": "real oviedo",
-            "Logo": "",
+            "Logo": "https://static.flashscore.com/res/image/data/z16nhrjl-Y7pkY0PJ.png",
             "ELO": 1429.88,
             "Ultimos 5": [
                 {
@@ -363,17 +363,17 @@
         },
         "IA": {
             "Ganador IA": "real madrid",
-            "Probabilidad Local": 47.67,
-            "Probabilidad Empate": 24.99,
-            "Probabilidad Visitante": 27.34,
+            "Probabilidad Local": 48.11,
+            "Probabilidad Empate": 25.41,
+            "Probabilidad Visitante": 26.48,
             "Expected Goals Local": 1.55,
             "Expected Goals Visitante": 1.1,
             "Expected Goals Total": 2.65,
             "Score Local": 3.39,
             "Score Visitante": -0.74,
-            "Value Local": -30.45,
-            "Value Empate": 8.99,
-            "Value Visitante": 17.14,
+            "Value Local": -30.02,
+            "Value Empate": 9.41,
+            "Value Visitante": 16.28,
             "Top Marcadores": [
                 {
                     "Marcador": "1-1",
@@ -407,7 +407,7 @@
         "Partido": "aston villa vs liverpool",
         "Local": {
             "Equipo": "aston villa",
-            "Logo": "",
+            "Logo": "https://static.flashscore.com/res/image/data/QsnteKXg-jwz95gs0.png",
             "ELO": 1517.54,
             "Ultimos 5": [
                 {
@@ -449,7 +449,7 @@
         },
         "Visitante": {
             "Equipo": "liverpool",
-            "Logo": "",
+            "Logo": "https://static.flashscore.com/res/image/data/Gr0cGteM-KCp4zq5F.png",
             "ELO": 1531.85,
             "Ultimos 5": [
                 {
@@ -496,17 +496,17 @@
         },
         "IA": {
             "Ganador IA": "liverpool",
-            "Probabilidad Local": 35.92,
-            "Probabilidad Empate": 22.29,
-            "Probabilidad Visitante": 41.79,
+            "Probabilidad Local": 36.23,
+            "Probabilidad Empate": 21.54,
+            "Probabilidad Visitante": 42.23,
             "Expected Goals Local": 1.75,
             "Expected Goals Visitante": 1.9,
             "Expected Goals Total": 3.65,
             "Score Local": 1.61,
             "Score Visitante": 2.04,
-            "Value Local": -0.58,
-            "Value Empate": -4.38,
-            "Value Visitante": 0.97,
+            "Value Local": -0.27,
+            "Value Empate": -5.13,
+            "Value Visitante": 1.41,
             "Top Marcadores": [
                 {
                     "Marcador": "1-1",
@@ -540,7 +540,7 @@
         "Partido": "chelsea vs manchester city",
         "Local": {
             "Equipo": "chelsea",
-            "Logo": "",
+            "Logo": "https://static.flashscore.com/res/image/data/GMmvDEdM-IROrZEJb.png",
             "ELO": 1484.01,
             "Ultimos 5": [
                 {
@@ -582,7 +582,7 @@
         },
         "Visitante": {
             "Equipo": "manchester city",
-            "Logo": "",
+            "Logo": "https://static.flashscore.com/res/image/data/UXcqj7HG-lQuhqN8N.png",
             "ELO": 1620.64,
             "Ultimos 5": [
                 {
@@ -629,17 +629,17 @@
         },
         "IA": {
             "Ganador IA": "manchester city",
-            "Probabilidad Local": 14.07,
-            "Probabilidad Empate": 18.57,
-            "Probabilidad Visitante": 67.36,
+            "Probabilidad Local": 13.74,
+            "Probabilidad Empate": 18.58,
+            "Probabilidad Visitante": 67.68,
             "Expected Goals Local": 0.95,
             "Expected Goals Visitante": 2.3,
             "Expected Goals Total": 3.25,
             "Score Local": -0.42,
             "Score Visitante": 3.67,
-            "Value Local": -7.21,
-            "Value Empate": -5.82,
-            "Value Visitante": 8.88,
+            "Value Local": -7.54,
+            "Value Empate": -5.81,
+            "Value Visitante": 9.2,
             "Top Marcadores": [
                 {
                     "Marcador": "0-2",
