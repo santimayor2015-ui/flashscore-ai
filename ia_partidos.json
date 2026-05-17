@@ -1,1 +1,635 @@
-[]
+[
+    {
+        "Fecha": "2026-05-18",
+        "Hora": "14:00",
+        "Pais": "inglaterra",
+        "Liga": "Premier League",
+        "Link": "https://www.flashscore.co/partido/futbol/arsenal-hA1Zm19f/burnley-z3dmTMMO/?mid=Gxt6zm15",
+        "Partido": "arsenal vs burnley",
+        "Local": {
+            "Equipo": "arsenal",
+            "Logo": "https://static.flashscore.com/res/image/data/pfchdCg5-vcNAdtF9.png",
+            "ELO": 1618.81,
+            "Ultimos 10": [
+                {
+                    "GF": 1,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "west ham",
+                    "Marcador": "1-0"
+                },
+                {
+                    "GF": 3,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "fulham",
+                    "Marcador": "3-0"
+                },
+                {
+                    "GF": 1,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "newcastle",
+                    "Marcador": "1-0"
+                },
+                {
+                    "GF": 1,
+                    "GC": 2,
+                    "Resultado": "P",
+                    "Rival": "manchester city",
+                    "Marcador": "1-2"
+                },
+                {
+                    "GF": 1,
+                    "GC": 2,
+                    "Resultado": "P",
+                    "Rival": "bournemouth",
+                    "Marcador": "1-2"
+                },
+                {
+                    "GF": 2,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "everton",
+                    "Marcador": "2-0"
+                },
+                {
+                    "GF": 1,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "brighton",
+                    "Marcador": "1-0"
+                },
+                {
+                    "GF": 2,
+                    "GC": 1,
+                    "Resultado": "G",
+                    "Rival": "chelsea",
+                    "Marcador": "2-1"
+                },
+                {
+                    "GF": 4,
+                    "GC": 1,
+                    "Resultado": "G",
+                    "Rival": "tottenham",
+                    "Marcador": "4-1"
+                },
+                {
+                    "GF": 2,
+                    "GC": 2,
+                    "Resultado": "E",
+                    "Rival": "wolves",
+                    "Marcador": "2-2"
+                }
+            ]
+        },
+        "Visitante": {
+            "Equipo": "burnley",
+            "Logo": "https://static.flashscore.com/res/image/data/UaPJjYBr-6PhTI7J6.png",
+            "ELO": 1376.85,
+            "Ultimos 10": [
+                {
+                    "GF": 2,
+                    "GC": 2,
+                    "Resultado": "E",
+                    "Rival": "aston villa",
+                    "Marcador": "2-2"
+                },
+                {
+                    "GF": 1,
+                    "GC": 3,
+                    "Resultado": "P",
+                    "Rival": "leeds utd",
+                    "Marcador": "1-3"
+                },
+                {
+                    "GF": 0,
+                    "GC": 1,
+                    "Resultado": "P",
+                    "Rival": "manchester city",
+                    "Marcador": "0-1"
+                },
+                {
+                    "GF": 1,
+                    "GC": 4,
+                    "Resultado": "P",
+                    "Rival": "nottingham forest",
+                    "Marcador": "1-4"
+                },
+                {
+                    "GF": 0,
+                    "GC": 2,
+                    "Resultado": "P",
+                    "Rival": "brighton",
+                    "Marcador": "0-2"
+                },
+                {
+                    "GF": 1,
+                    "GC": 3,
+                    "Resultado": "P",
+                    "Rival": "fulham",
+                    "Marcador": "1-3"
+                },
+                {
+                    "GF": 0,
+                    "GC": 0,
+                    "Resultado": "E",
+                    "Rival": "bournemouth",
+                    "Marcador": "0-0"
+                },
+                {
+                    "GF": 0,
+                    "GC": 2,
+                    "Resultado": "P",
+                    "Rival": "everton",
+                    "Marcador": "0-2"
+                },
+                {
+                    "GF": 3,
+                    "GC": 4,
+                    "Resultado": "P",
+                    "Rival": "brentford",
+                    "Marcador": "3-4"
+                },
+                {
+                    "GF": 1,
+                    "GC": 1,
+                    "Resultado": "E",
+                    "Rival": "chelsea",
+                    "Marcador": "1-1"
+                }
+            ]
+        },
+        "Cuotas": {
+            "Local": 1.09,
+            "Empate": 10.75,
+            "Visitante": 31.0
+        },
+        "IA": {
+            "Ganador IA": "arsenal",
+            "Probabilidad Local": 76.65,
+            "Probabilidad Empate": 14.65,
+            "Probabilidad Visitante": 8.7,
+            "Expected Goals Local": 2.45,
+            "Expected Goals Visitante": 0.69,
+            "Expected Goals Total": 3.14,
+            "BTTS": 45.54,
+            "Over 2.5": 60.74,
+            "Forma Local": 73.33,
+            "Forma Visitante": 10.0,
+            "ELO Local": 1618.81,
+            "ELO Visitante": 1376.85,
+            "Ventaja ELO": 2.42,
+            "Confianza IA": 92.71,
+            "Partido Riesgoso": false,
+            "Hay Value": true,
+            "Value Local": -15.09,
+            "Value Empate": 5.35,
+            "Value Visitante": 5.47,
+            "Top Marcadores": [
+                {
+                    "Marcador": "2-0",
+                    "Probabilidad": 12.99
+                },
+                {
+                    "Marcador": "3-0",
+                    "Probabilidad": 10.61
+                },
+                {
+                    "Marcador": "1-0",
+                    "Probabilidad": 10.6
+                },
+                {
+                    "Marcador": "2-1",
+                    "Probabilidad": 8.96
+                },
+                {
+                    "Marcador": "1-1",
+                    "Probabilidad": 7.32
+                }
+            ]
+        }
+    },
+    {
+        "Fecha": "2026-05-19",
+        "Hora": "13:30",
+        "Pais": "inglaterra",
+        "Liga": "Premier League",
+        "Link": "https://www.flashscore.co/partido/futbol/bournemouth-OtpNdwrc/manchester-city-Wtn9Stg0/?mid=rkXMW40U",
+        "Partido": "bournemouth vs manchester city",
+        "Local": {
+            "Equipo": "bournemouth",
+            "Logo": "https://static.flashscore.com/res/image/data/2Pb55xWg-fVlIcxl3.png",
+            "ELO": 1552.37,
+            "Ultimos 10": [
+                {
+                    "GF": 1,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "fulham",
+                    "Marcador": "1-0"
+                },
+                {
+                    "GF": 3,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "crystal palace",
+                    "Marcador": "3-0"
+                },
+                {
+                    "GF": 2,
+                    "GC": 2,
+                    "Resultado": "E",
+                    "Rival": "leeds utd",
+                    "Marcador": "2-2"
+                },
+                {
+                    "GF": 2,
+                    "GC": 1,
+                    "Resultado": "G",
+                    "Rival": "newcastle",
+                    "Marcador": "2-1"
+                },
+                {
+                    "GF": 2,
+                    "GC": 1,
+                    "Resultado": "G",
+                    "Rival": "arsenal",
+                    "Marcador": "2-1"
+                },
+                {
+                    "GF": 2,
+                    "GC": 2,
+                    "Resultado": "E",
+                    "Rival": "manchester utd",
+                    "Marcador": "2-2"
+                },
+                {
+                    "GF": 0,
+                    "GC": 0,
+                    "Resultado": "E",
+                    "Rival": "burnley",
+                    "Marcador": "0-0"
+                },
+                {
+                    "GF": 0,
+                    "GC": 0,
+                    "Resultado": "E",
+                    "Rival": "brentford",
+                    "Marcador": "0-0"
+                },
+                {
+                    "GF": 1,
+                    "GC": 1,
+                    "Resultado": "E",
+                    "Rival": "sunderland",
+                    "Marcador": "1-1"
+                },
+                {
+                    "GF": 0,
+                    "GC": 0,
+                    "Resultado": "E",
+                    "Rival": "west ham",
+                    "Marcador": "0-0"
+                }
+            ]
+        },
+        "Visitante": {
+            "Equipo": "manchester city",
+            "Logo": "https://static.flashscore.com/res/image/data/UXcqj7HG-lQuhqN8N.png",
+            "ELO": 1620.64,
+            "Ultimos 10": [
+                {
+                    "GF": 3,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "crystal palace",
+                    "Marcador": "3-0"
+                },
+                {
+                    "GF": 3,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "brentford",
+                    "Marcador": "3-0"
+                },
+                {
+                    "GF": 3,
+                    "GC": 3,
+                    "Resultado": "E",
+                    "Rival": "everton",
+                    "Marcador": "3-3"
+                },
+                {
+                    "GF": 1,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "burnley",
+                    "Marcador": "1-0"
+                },
+                {
+                    "GF": 2,
+                    "GC": 1,
+                    "Resultado": "G",
+                    "Rival": "arsenal",
+                    "Marcador": "2-1"
+                },
+                {
+                    "GF": 3,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "chelsea",
+                    "Marcador": "3-0"
+                },
+                {
+                    "GF": 1,
+                    "GC": 1,
+                    "Resultado": "E",
+                    "Rival": "west ham",
+                    "Marcador": "1-1"
+                },
+                {
+                    "GF": 2,
+                    "GC": 2,
+                    "Resultado": "E",
+                    "Rival": "nottingham forest",
+                    "Marcador": "2-2"
+                },
+                {
+                    "GF": 1,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "leeds utd",
+                    "Marcador": "1-0"
+                },
+                {
+                    "GF": 2,
+                    "GC": 1,
+                    "Resultado": "G",
+                    "Rival": "newcastle",
+                    "Marcador": "2-1"
+                }
+            ]
+        },
+        "Cuotas": {
+            "Local": 4.35,
+            "Empate": 4.2,
+            "Visitante": 1.74
+        },
+        "IA": {
+            "Ganador IA": "manchester city",
+            "Probabilidad Local": 35.19,
+            "Probabilidad Empate": 24.74,
+            "Probabilidad Visitante": 40.07,
+            "Expected Goals Local": 1.42,
+            "Expected Goals Visitante": 1.49,
+            "Expected Goals Total": 2.91,
+            "BTTS": 58.74,
+            "Over 2.5": 55.63,
+            "Forma Local": 60.0,
+            "Forma Visitante": 80.0,
+            "ELO Local": 1552.37,
+            "ELO Visitante": 1620.64,
+            "Ventaja ELO": -0.68,
+            "Confianza IA": 12.29,
+            "Partido Riesgoso": true,
+            "Hay Value": true,
+            "Value Local": 12.2,
+            "Value Empate": 0.93,
+            "Value Visitante": -17.4,
+            "Top Marcadores": [
+                {
+                    "Marcador": "1-1",
+                    "Probabilidad": 11.53
+                },
+                {
+                    "Marcador": "1-2",
+                    "Probabilidad": 8.59
+                },
+                {
+                    "Marcador": "2-1",
+                    "Probabilidad": 8.18
+                },
+                {
+                    "Marcador": "0-1",
+                    "Probabilidad": 8.12
+                },
+                {
+                    "Marcador": "1-0",
+                    "Probabilidad": 7.74
+                }
+            ]
+        }
+    },
+    {
+        "Fecha": "2026-05-19",
+        "Hora": "14:15",
+        "Pais": "inglaterra",
+        "Liga": "Premier League",
+        "Link": "https://www.flashscore.co/partido/futbol/chelsea-4fGZN2oK/tottenham-UDg08Ohm/?mid=Uu6uknGb",
+        "Partido": "chelsea vs tottenham",
+        "Local": {
+            "Equipo": "chelsea",
+            "Logo": "https://static.flashscore.com/res/image/data/GMmvDEdM-IROrZEJb.png",
+            "ELO": 1484.01,
+            "Ultimos 10": [
+                {
+                    "GF": 1,
+                    "GC": 1,
+                    "Resultado": "E",
+                    "Rival": "liverpool",
+                    "Marcador": "1-1"
+                },
+                {
+                    "GF": 1,
+                    "GC": 3,
+                    "Resultado": "P",
+                    "Rival": "nottingham forest",
+                    "Marcador": "1-3"
+                },
+                {
+                    "GF": 0,
+                    "GC": 3,
+                    "Resultado": "P",
+                    "Rival": "brighton",
+                    "Marcador": "0-3"
+                },
+                {
+                    "GF": 0,
+                    "GC": 1,
+                    "Resultado": "P",
+                    "Rival": "manchester utd",
+                    "Marcador": "0-1"
+                },
+                {
+                    "GF": 0,
+                    "GC": 3,
+                    "Resultado": "P",
+                    "Rival": "manchester city",
+                    "Marcador": "0-3"
+                },
+                {
+                    "GF": 0,
+                    "GC": 3,
+                    "Resultado": "P",
+                    "Rival": "everton",
+                    "Marcador": "0-3"
+                },
+                {
+                    "GF": 0,
+                    "GC": 1,
+                    "Resultado": "P",
+                    "Rival": "newcastle",
+                    "Marcador": "0-1"
+                },
+                {
+                    "GF": 4,
+                    "GC": 1,
+                    "Resultado": "G",
+                    "Rival": "aston villa",
+                    "Marcador": "4-1"
+                },
+                {
+                    "GF": 1,
+                    "GC": 2,
+                    "Resultado": "P",
+                    "Rival": "arsenal",
+                    "Marcador": "1-2"
+                },
+                {
+                    "GF": 1,
+                    "GC": 1,
+                    "Resultado": "E",
+                    "Rival": "burnley",
+                    "Marcador": "1-1"
+                }
+            ]
+        },
+        "Visitante": {
+            "Equipo": "tottenham",
+            "Logo": "https://static.flashscore.com/res/image/data/ARC62UAr-Ig5FKJZ5.png",
+            "ELO": 1450.72,
+            "Ultimos 10": [
+                {
+                    "GF": 1,
+                    "GC": 1,
+                    "Resultado": "E",
+                    "Rival": "leeds utd",
+                    "Marcador": "1-1"
+                },
+                {
+                    "GF": 2,
+                    "GC": 1,
+                    "Resultado": "G",
+                    "Rival": "aston villa",
+                    "Marcador": "2-1"
+                },
+                {
+                    "GF": 1,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "wolves",
+                    "Marcador": "1-0"
+                },
+                {
+                    "GF": 2,
+                    "GC": 2,
+                    "Resultado": "E",
+                    "Rival": "brighton",
+                    "Marcador": "2-2"
+                },
+                {
+                    "GF": 0,
+                    "GC": 1,
+                    "Resultado": "P",
+                    "Rival": "sunderland",
+                    "Marcador": "0-1"
+                },
+                {
+                    "GF": 0,
+                    "GC": 3,
+                    "Resultado": "P",
+                    "Rival": "nottingham forest",
+                    "Marcador": "0-3"
+                },
+                {
+                    "GF": 1,
+                    "GC": 1,
+                    "Resultado": "E",
+                    "Rival": "liverpool",
+                    "Marcador": "1-1"
+                },
+                {
+                    "GF": 1,
+                    "GC": 3,
+                    "Resultado": "P",
+                    "Rival": "crystal palace",
+                    "Marcador": "1-3"
+                },
+                {
+                    "GF": 1,
+                    "GC": 2,
+                    "Resultado": "P",
+                    "Rival": "fulham",
+                    "Marcador": "1-2"
+                },
+                {
+                    "GF": 1,
+                    "GC": 4,
+                    "Resultado": "P",
+                    "Rival": "arsenal",
+                    "Marcador": "1-4"
+                }
+            ]
+        },
+        "Cuotas": {
+            "Local": 1.99,
+            "Empate": 3.85,
+            "Visitante": 3.6
+        },
+        "IA": {
+            "Ganador IA": "chelsea",
+            "Probabilidad Local": 40.44,
+            "Probabilidad Empate": 23.73,
+            "Probabilidad Visitante": 35.83,
+            "Expected Goals Local": 1.56,
+            "Expected Goals Visitante": 1.47,
+            "Expected Goals Total": 3.03,
+            "BTTS": 60.83,
+            "Over 2.5": 58.35,
+            "Forma Local": 16.67,
+            "Forma Visitante": 30.0,
+            "ELO Local": 1484.01,
+            "ELO Visitante": 1450.72,
+            "Ventaja ELO": 0.33,
+            "Confianza IA": 8.94,
+            "Partido Riesgoso": true,
+            "Hay Value": true,
+            "Value Local": -9.81,
+            "Value Empate": -2.24,
+            "Value Visitante": 8.05,
+            "Top Marcadores": [
+                {
+                    "Marcador": "1-1",
+                    "Probabilidad": 11.08
+                },
+                {
+                    "Marcador": "2-1",
+                    "Probabilidad": 8.64
+                },
+                {
+                    "Marcador": "1-2",
+                    "Probabilidad": 8.14
+                },
+                {
+                    "Marcador": "1-0",
+                    "Probabilidad": 7.54
+                },
+                {
+                    "Marcador": "0-1",
+                    "Probabilidad": 7.1
+                }
+            ]
+        }
+    }
+]
