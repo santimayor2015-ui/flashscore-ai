@@ -1,5 +1,1693 @@
 [
     {
+        "Fecha": "2026-05-17",
+        "Hora": "17:00",
+        "Pais": "colombia",
+        "Liga": "Primera B - Apertura - Cuadrangular",
+        "Link": "https://www.flashscore.co/partido/futbol/barranquilla-O8ANu9JR/union-magdalena-tpLItk4L/?mid=GUrYcDSE",
+        "Partido": "barranquilla vs u. magdalena",
+        "Local": {
+            "Equipo": "barranquilla",
+            "Logo": "https://static.flashscore.com/res/image/data/noLBhOzS-WMQ3R7Tc.png",
+            "ELO": 1496.91,
+            "Ultimos 10": [
+                {
+                    "GF": 1,
+                    "GC": 1,
+                    "Resultado": "E",
+                    "Rival": "bogota",
+                    "Marcador": "1-1"
+                },
+                {
+                    "GF": 2,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "bogota",
+                    "Marcador": "2-0"
+                },
+                {
+                    "GF": 0,
+                    "GC": 2,
+                    "Resultado": "P",
+                    "Rival": "u. magdalena",
+                    "Marcador": "0-2"
+                },
+                {
+                    "GF": 0,
+                    "GC": 0,
+                    "Resultado": "E",
+                    "Rival": "real cartagena",
+                    "Marcador": "0-0"
+                },
+                {
+                    "GF": 3,
+                    "GC": 1,
+                    "Resultado": "G",
+                    "Rival": "real cartagena",
+                    "Marcador": "3-1"
+                },
+                {
+                    "GF": 1,
+                    "GC": 2,
+                    "Resultado": "P",
+                    "Rival": "envigado 2",
+                    "Marcador": "1-2"
+                },
+                {
+                    "GF": 2,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "real santander",
+                    "Marcador": "2-0"
+                },
+                {
+                    "GF": 1,
+                    "GC": 3,
+                    "Resultado": "P",
+                    "Rival": "tigres",
+                    "Marcador": "1-3"
+                },
+                {
+                    "GF": 3,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "leones",
+                    "Marcador": "3-0"
+                },
+                {
+                    "GF": 2,
+                    "GC": 2,
+                    "Resultado": "E",
+                    "Rival": "real cundinamarca",
+                    "Marcador": "2-2"
+                }
+            ]
+        },
+        "Visitante": {
+            "Equipo": "u. magdalena",
+            "Logo": "https://static.flashscore.com/res/image/data/jyJ7DMCr-MTr4IgZi.png",
+            "ELO": 1573.12,
+            "Ultimos 10": [
+                {
+                    "GF": 3,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "real cartagena",
+                    "Marcador": "3-0"
+                },
+                {
+                    "GF": 1,
+                    "GC": 2,
+                    "Resultado": "P",
+                    "Rival": "real cartagena",
+                    "Marcador": "1-2"
+                },
+                {
+                    "GF": 2,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "barranquilla",
+                    "Marcador": "2-0"
+                },
+                {
+                    "GF": 1,
+                    "GC": 1,
+                    "Resultado": "E",
+                    "Rival": "bogota",
+                    "Marcador": "1-1"
+                },
+                {
+                    "GF": 3,
+                    "GC": 1,
+                    "Resultado": "G",
+                    "Rival": "atletico f.c.",
+                    "Marcador": "3-1"
+                },
+                {
+                    "GF": 0,
+                    "GC": 2,
+                    "Resultado": "P",
+                    "Rival": "inter palmira",
+                    "Marcador": "0-2"
+                },
+                {
+                    "GF": 4,
+                    "GC": 2,
+                    "Resultado": "G",
+                    "Rival": "envigado",
+                    "Marcador": "4-2"
+                },
+                {
+                    "GF": 2,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "ind. yumbo",
+                    "Marcador": "2-0"
+                },
+                {
+                    "GF": 2,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "real santander",
+                    "Marcador": "2-0"
+                },
+                {
+                    "GF": 2,
+                    "GC": 1,
+                    "Resultado": "G",
+                    "Rival": "patriotas",
+                    "Marcador": "2-1"
+                }
+            ]
+        },
+        "Cuotas": {
+            "Local": 3.7,
+            "Empate": 3.4,
+            "Visitante": 1.85
+        },
+        "IA": {
+            "Ganador IA": "u. magdalena",
+            "Probabilidad Local": 36.21,
+            "Probabilidad Empate": 24.51,
+            "Probabilidad Visitante": 39.28,
+            "Expected Goals Local": 1.47,
+            "Expected Goals Visitante": 1.56,
+            "Expected Goals Total": 3.03,
+            "BTTS": 60.83,
+            "Over 2.5": 58.35,
+            "Forma Local": 50.0,
+            "Forma Visitante": 73.33,
+            "ELO Local": 1496.91,
+            "ELO Visitante": 1573.12,
+            "Ventaja ELO": -0.76,
+            "Confianza IA": 11.55,
+            "Partido Riesgoso": true,
+            "Hay Value": true,
+            "Value Local": 9.18,
+            "Value Empate": -4.9,
+            "Value Visitante": -14.77,
+            "Top Marcadores": [
+                {
+                    "Marcador": "1-1",
+                    "Probabilidad": 11.08
+                },
+                {
+                    "Marcador": "1-2",
+                    "Probabilidad": 8.64
+                },
+                {
+                    "Marcador": "2-1",
+                    "Probabilidad": 8.14
+                },
+                {
+                    "Marcador": "0-1",
+                    "Probabilidad": 7.54
+                },
+                {
+                    "Marcador": "1-0",
+                    "Probabilidad": 7.1
+                }
+            ]
+        }
+    },
+    {
+        "Fecha": "2026-05-17",
+        "Hora": "19:40",
+        "Pais": "colombia",
+        "Liga": "Primera B - Apertura - Cuadrangular",
+        "Link": "https://www.flashscore.co/partido/futbol/bogota-foERz7de/real-cartagena-6eofBSjQ/?mid=OzdnzAz8",
+        "Partido": "bogota vs real cartagena",
+        "Local": {
+            "Equipo": "bogota",
+            "Logo": "https://static.flashscore.com/res/image/data/fcbudQh5-8dHhJecc.png",
+            "ELO": 1499.09,
+            "Ultimos 10": [
+                {
+                    "GF": 1,
+                    "GC": 1,
+                    "Resultado": "E",
+                    "Rival": "barranquilla",
+                    "Marcador": "1-1"
+                },
+                {
+                    "GF": 0,
+                    "GC": 2,
+                    "Resultado": "P",
+                    "Rival": "barranquilla",
+                    "Marcador": "0-2"
+                },
+                {
+                    "GF": 0,
+                    "GC": 2,
+                    "Resultado": "P",
+                    "Rival": "real cartagena",
+                    "Marcador": "0-2"
+                },
+                {
+                    "GF": 1,
+                    "GC": 1,
+                    "Resultado": "E",
+                    "Rival": "u. magdalena",
+                    "Marcador": "1-1"
+                },
+                {
+                    "GF": 2,
+                    "GC": 1,
+                    "Resultado": "G",
+                    "Rival": "real santander",
+                    "Marcador": "2-1"
+                },
+                {
+                    "GF": 2,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "orsomarso",
+                    "Marcador": "2-0"
+                },
+                {
+                    "GF": 2,
+                    "GC": 2,
+                    "Resultado": "E",
+                    "Rival": "real cundinamarca",
+                    "Marcador": "2-2"
+                },
+                {
+                    "GF": 2,
+                    "GC": 1,
+                    "Resultado": "G",
+                    "Rival": "envigado",
+                    "Marcador": "2-1"
+                },
+                {
+                    "GF": 0,
+                    "GC": 2,
+                    "Resultado": "P",
+                    "Rival": "quindio",
+                    "Marcador": "0-2"
+                },
+                {
+                    "GF": 1,
+                    "GC": 1,
+                    "Resultado": "E",
+                    "Rival": "barranquilla",
+                    "Marcador": "1-1"
+                }
+            ]
+        },
+        "Visitante": {
+            "Equipo": "real cartagena",
+            "Logo": "https://static.flashscore.com/res/image/data/8pmdmdWg-zVgW5cY1.png",
+            "ELO": 1537.09,
+            "Ultimos 10": [
+                {
+                    "GF": 0,
+                    "GC": 3,
+                    "Resultado": "P",
+                    "Rival": "u. magdalena",
+                    "Marcador": "0-3"
+                },
+                {
+                    "GF": 2,
+                    "GC": 1,
+                    "Resultado": "G",
+                    "Rival": "u. magdalena",
+                    "Marcador": "2-1"
+                },
+                {
+                    "GF": 2,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "bogota",
+                    "Marcador": "2-0"
+                },
+                {
+                    "GF": 0,
+                    "GC": 0,
+                    "Resultado": "E",
+                    "Rival": "barranquilla",
+                    "Marcador": "0-0"
+                },
+                {
+                    "GF": 1,
+                    "GC": 3,
+                    "Resultado": "P",
+                    "Rival": "barranquilla",
+                    "Marcador": "1-3"
+                },
+                {
+                    "GF": 0,
+                    "GC": 1,
+                    "Resultado": "P",
+                    "Rival": "patriotas",
+                    "Marcador": "0-1"
+                },
+                {
+                    "GF": 2,
+                    "GC": 1,
+                    "Resultado": "G",
+                    "Rival": "quindio",
+                    "Marcador": "2-1"
+                },
+                {
+                    "GF": 1,
+                    "GC": 1,
+                    "Resultado": "E",
+                    "Rival": "boca juniors",
+                    "Marcador": "1-1"
+                },
+                {
+                    "GF": 2,
+                    "GC": 1,
+                    "Resultado": "G",
+                    "Rival": "u. magdalena 2",
+                    "Marcador": "2-1"
+                },
+                {
+                    "GF": 1,
+                    "GC": 1,
+                    "Resultado": "E",
+                    "Rival": "envigado",
+                    "Marcador": "1-1"
+                }
+            ]
+        },
+        "Cuotas": {
+            "Local": 3.3,
+            "Empate": 3.1,
+            "Visitante": 2.1
+        },
+        "IA": {
+            "Ganador IA": "bogota",
+            "Probabilidad Local": 44.01,
+            "Probabilidad Empate": 25.28,
+            "Probabilidad Visitante": 30.71,
+            "Expected Goals Local": 1.48,
+            "Expected Goals Visitante": 1.21,
+            "Expected Goals Total": 2.69,
+            "BTTS": 54.2,
+            "Over 2.5": 50.39,
+            "Forma Local": 43.33,
+            "Forma Visitante": 50.0,
+            "ELO Local": 1499.09,
+            "ELO Visitante": 1537.09,
+            "Ventaja ELO": -0.38,
+            "Confianza IA": 16.53,
+            "Partido Riesgoso": true,
+            "Hay Value": true,
+            "Value Local": 13.71,
+            "Value Empate": -6.98,
+            "Value Visitante": -16.91,
+            "Top Marcadores": [
+                {
+                    "Marcador": "1-1",
+                    "Probabilidad": 12.16
+                },
+                {
+                    "Marcador": "1-0",
+                    "Probabilidad": 10.05
+                },
+                {
+                    "Marcador": "2-1",
+                    "Probabilidad": 9.0
+                },
+                {
+                    "Marcador": "0-1",
+                    "Probabilidad": 8.21
+                },
+                {
+                    "Marcador": "2-0",
+                    "Probabilidad": 7.43
+                }
+            ]
+        }
+    },
+    {
+        "Fecha": "2026-05-17",
+        "Hora": "16:30",
+        "Pais": "brasil",
+        "Liga": "Serie A Betano",
+        "Link": "https://www.flashscore.co/partido/futbol/chapecoense-jcQV3XP6/remo-2i0B6Zul/?mid=d0XS2bjB",
+        "Partido": "chapecoense vs remo",
+        "Local": {
+            "Equipo": "chapecoense",
+            "Logo": "https://static.flashscore.com/res/image/data/v9EKoUeM-CYex0lQl.png",
+            "ELO": 1444.39,
+            "Ultimos 10": [
+                {
+                    "GF": 1,
+                    "GC": 1,
+                    "Resultado": "E",
+                    "Rival": "mirassol",
+                    "Marcador": "1-1"
+                },
+                {
+                    "GF": 1,
+                    "GC": 2,
+                    "Resultado": "P",
+                    "Rival": "bragantino",
+                    "Marcador": "1-2"
+                },
+                {
+                    "GF": 1,
+                    "GC": 2,
+                    "Resultado": "P",
+                    "Rival": "fluminense",
+                    "Marcador": "1-2"
+                },
+                {
+                    "GF": 1,
+                    "GC": 4,
+                    "Resultado": "P",
+                    "Rival": "botafogo",
+                    "Marcador": "1-4"
+                },
+                {
+                    "GF": 0,
+                    "GC": 2,
+                    "Resultado": "P",
+                    "Rival": "athletico-pr",
+                    "Marcador": "0-2"
+                },
+                {
+                    "GF": 1,
+                    "GC": 1,
+                    "Resultado": "E",
+                    "Rival": "vitoria",
+                    "Marcador": "1-1"
+                },
+                {
+                    "GF": 0,
+                    "GC": 4,
+                    "Resultado": "P",
+                    "Rival": "atletico-mg",
+                    "Marcador": "0-4"
+                },
+                {
+                    "GF": 0,
+                    "GC": 2,
+                    "Resultado": "P",
+                    "Rival": "internacional",
+                    "Marcador": "0-2"
+                },
+                {
+                    "GF": 0,
+                    "GC": 0,
+                    "Resultado": "E",
+                    "Rival": "corinthians",
+                    "Marcador": "0-0"
+                },
+                {
+                    "GF": 1,
+                    "GC": 1,
+                    "Resultado": "E",
+                    "Rival": "gremio",
+                    "Marcador": "1-1"
+                }
+            ]
+        },
+        "Visitante": {
+            "Equipo": "remo",
+            "Logo": "https://static.flashscore.com/res/image/data/dWTc9iBr-vsDPUWUH.png",
+            "ELO": 1462.96,
+            "Ultimos 10": [
+                {
+                    "GF": 1,
+                    "GC": 1,
+                    "Resultado": "E",
+                    "Rival": "palmeiras",
+                    "Marcador": "1-1"
+                },
+                {
+                    "GF": 2,
+                    "GC": 1,
+                    "Resultado": "G",
+                    "Rival": "botafogo",
+                    "Marcador": "2-1"
+                },
+                {
+                    "GF": 0,
+                    "GC": 1,
+                    "Resultado": "P",
+                    "Rival": "cruzeiro",
+                    "Marcador": "0-1"
+                },
+                {
+                    "GF": 2,
+                    "GC": 4,
+                    "Resultado": "P",
+                    "Rival": "bragantino",
+                    "Marcador": "2-4"
+                },
+                {
+                    "GF": 1,
+                    "GC": 1,
+                    "Resultado": "E",
+                    "Rival": "vasco",
+                    "Marcador": "1-1"
+                },
+                {
+                    "GF": 0,
+                    "GC": 0,
+                    "Resultado": "E",
+                    "Rival": "gremio",
+                    "Marcador": "0-0"
+                },
+                {
+                    "GF": 0,
+                    "GC": 2,
+                    "Resultado": "P",
+                    "Rival": "santos",
+                    "Marcador": "0-2"
+                },
+                {
+                    "GF": 4,
+                    "GC": 1,
+                    "Resultado": "G",
+                    "Rival": "bahia",
+                    "Marcador": "4-1"
+                },
+                {
+                    "GF": 0,
+                    "GC": 3,
+                    "Resultado": "P",
+                    "Rival": "flamengo",
+                    "Marcador": "0-3"
+                },
+                {
+                    "GF": 0,
+                    "GC": 1,
+                    "Resultado": "P",
+                    "Rival": "coritiba",
+                    "Marcador": "0-1"
+                }
+            ]
+        },
+        "Cuotas": {
+            "Local": 2.5,
+            "Empate": 3.3,
+            "Visitante": 2.82
+        },
+        "IA": {
+            "Ganador IA": "remo",
+            "Probabilidad Local": 35.43,
+            "Probabilidad Empate": 25.27,
+            "Probabilidad Visitante": 39.3,
+            "Expected Goals Local": 1.41,
+            "Expected Goals Visitante": 1.5,
+            "Expected Goals Total": 2.91,
+            "BTTS": 58.72,
+            "Over 2.5": 55.63,
+            "Forma Local": 13.33,
+            "Forma Visitante": 30.0,
+            "ELO Local": 1444.39,
+            "ELO Visitante": 1462.96,
+            "Ventaja ELO": -0.19,
+            "Confianza IA": 8.13,
+            "Partido Riesgoso": true,
+            "Hay Value": false,
+            "Value Local": -4.57,
+            "Value Empate": -5.03,
+            "Value Visitante": 3.84,
+            "Top Marcadores": [
+                {
+                    "Marcador": "1-1",
+                    "Probabilidad": 11.52
+                },
+                {
+                    "Marcador": "1-2",
+                    "Probabilidad": 8.64
+                },
+                {
+                    "Marcador": "0-1",
+                    "Probabilidad": 8.17
+                },
+                {
+                    "Marcador": "2-1",
+                    "Probabilidad": 8.12
+                },
+                {
+                    "Marcador": "1-0",
+                    "Probabilidad": 7.68
+                }
+            ]
+        }
+    },
+    {
+        "Fecha": "2026-05-17",
+        "Hora": "17:30",
+        "Pais": "brasil",
+        "Liga": "Serie A Betano",
+        "Link": "https://www.flashscore.co/partido/futbol/athletico-pr-UoAxb1Tq/flamengo-WjxY29qB/?mid=IZ3K6tin",
+        "Partido": "athletico-pr vs flamengo",
+        "Local": {
+            "Equipo": "athletico-pr",
+            "Logo": "https://static.flashscore.com/res/image/data/SdnmINcM-QaMaOfUh.png",
+            "ELO": 1505.69,
+            "Ultimos 10": [
+                {
+                    "GF": 0,
+                    "GC": 1,
+                    "Resultado": "P",
+                    "Rival": "vasco",
+                    "Marcador": "0-1"
+                },
+                {
+                    "GF": 0,
+                    "GC": 0,
+                    "Resultado": "E",
+                    "Rival": "gremio",
+                    "Marcador": "0-0"
+                },
+                {
+                    "GF": 3,
+                    "GC": 1,
+                    "Resultado": "G",
+                    "Rival": "vitoria",
+                    "Marcador": "3-1"
+                },
+                {
+                    "GF": 0,
+                    "GC": 1,
+                    "Resultado": "P",
+                    "Rival": "palmeiras",
+                    "Marcador": "0-1"
+                },
+                {
+                    "GF": 2,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "chapecoense",
+                    "Marcador": "2-0"
+                },
+                {
+                    "GF": 1,
+                    "GC": 2,
+                    "Resultado": "P",
+                    "Rival": "atletico-mg",
+                    "Marcador": "1-2"
+                },
+                {
+                    "GF": 0,
+                    "GC": 3,
+                    "Resultado": "P",
+                    "Rival": "bahia",
+                    "Marcador": "0-3"
+                },
+                {
+                    "GF": 4,
+                    "GC": 1,
+                    "Resultado": "G",
+                    "Rival": "botafogo",
+                    "Marcador": "4-1"
+                },
+                {
+                    "GF": 2,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "coritiba",
+                    "Marcador": "2-0"
+                },
+                {
+                    "GF": 2,
+                    "GC": 1,
+                    "Resultado": "G",
+                    "Rival": "cruzeiro",
+                    "Marcador": "2-1"
+                }
+            ]
+        },
+        "Visitante": {
+            "Equipo": "flamengo",
+            "Logo": "https://static.flashscore.com/res/image/data/ADvIaiZA-2R2JjDQC.png",
+            "ELO": 1559.99,
+            "Ultimos 10": [
+                {
+                    "GF": 1,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "gremio",
+                    "Marcador": "1-0"
+                },
+                {
+                    "GF": 2,
+                    "GC": 2,
+                    "Resultado": "E",
+                    "Rival": "vasco",
+                    "Marcador": "2-2"
+                },
+                {
+                    "GF": 4,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "atletico-mg",
+                    "Marcador": "4-0"
+                },
+                {
+                    "GF": 2,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "bahia",
+                    "Marcador": "2-0"
+                },
+                {
+                    "GF": 2,
+                    "GC": 1,
+                    "Resultado": "G",
+                    "Rival": "fluminense",
+                    "Marcador": "2-1"
+                },
+                {
+                    "GF": 3,
+                    "GC": 1,
+                    "Resultado": "G",
+                    "Rival": "santos",
+                    "Marcador": "3-1"
+                },
+                {
+                    "GF": 0,
+                    "GC": 3,
+                    "Resultado": "P",
+                    "Rival": "bragantino",
+                    "Marcador": "0-3"
+                },
+                {
+                    "GF": 1,
+                    "GC": 1,
+                    "Resultado": "E",
+                    "Rival": "corinthians",
+                    "Marcador": "1-1"
+                },
+                {
+                    "GF": 3,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "remo",
+                    "Marcador": "3-0"
+                },
+                {
+                    "GF": 3,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "botafogo",
+                    "Marcador": "3-0"
+                }
+            ]
+        },
+        "Cuotas": {
+            "Local": 3.45,
+            "Empate": 3.25,
+            "Visitante": 2.16
+        },
+        "IA": {
+            "Ganador IA": "flamengo",
+            "Probabilidad Local": 32.64,
+            "Probabilidad Empate": 24.73,
+            "Probabilidad Visitante": 42.63,
+            "Expected Goals Local": 1.36,
+            "Expected Goals Visitante": 1.55,
+            "Expected Goals Total": 2.91,
+            "BTTS": 58.56,
+            "Over 2.5": 55.63,
+            "Forma Local": 53.33,
+            "Forma Visitante": 76.67,
+            "ELO Local": 1505.69,
+            "ELO Visitante": 1559.99,
+            "Ventaja ELO": -0.54,
+            "Confianza IA": 17.37,
+            "Partido Riesgoso": true,
+            "Hay Value": false,
+            "Value Local": 3.65,
+            "Value Empate": -6.04,
+            "Value Visitante": -3.67,
+            "Top Marcadores": [
+                {
+                    "Marcador": "1-1",
+                    "Probabilidad": 11.48
+                },
+                {
+                    "Marcador": "1-2",
+                    "Probabilidad": 8.9
+                },
+                {
+                    "Marcador": "0-1",
+                    "Probabilidad": 8.44
+                },
+                {
+                    "Marcador": "2-1",
+                    "Probabilidad": 7.81
+                },
+                {
+                    "Marcador": "1-0",
+                    "Probabilidad": 7.41
+                }
+            ]
+        }
+    },
+    {
+        "Fecha": "2026-05-17",
+        "Hora": "16:30",
+        "Pais": "chile",
+        "Liga": "Liga de Primera",
+        "Link": "https://www.flashscore.co/partido/futbol/colo-colo-th4HPIws/nublense-vVvwgdNn/?mid=8r53DRmJ",
+        "Partido": "colo colo vs nublense",
+        "Local": {
+            "Equipo": "colo colo",
+            "Logo": "https://static.flashscore.com/res/image/data/CMCTeMxS-tnwDCzLD.png",
+            "ELO": 1544.17,
+            "Ultimos 10": [
+                {
+                    "GF": 3,
+                    "GC": 1,
+                    "Resultado": "G",
+                    "Rival": "coquimbo",
+                    "Marcador": "3-1"
+                },
+                {
+                    "GF": 2,
+                    "GC": 1,
+                    "Resultado": "G",
+                    "Rival": "u. de concepcion",
+                    "Marcador": "2-1"
+                },
+                {
+                    "GF": 0,
+                    "GC": 1,
+                    "Resultado": "P",
+                    "Rival": "palestino",
+                    "Marcador": "0-1"
+                },
+                {
+                    "GF": 1,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "dep. concepcion",
+                    "Marcador": "1-0"
+                },
+                {
+                    "GF": 2,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "huachipato",
+                    "Marcador": "2-0"
+                },
+                {
+                    "GF": 1,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "audax",
+                    "Marcador": "1-0"
+                },
+                {
+                    "GF": 0,
+                    "GC": 1,
+                    "Resultado": "P",
+                    "Rival": "u. de chile",
+                    "Marcador": "0-1"
+                },
+                {
+                    "GF": 1,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "o'higgins",
+                    "Marcador": "1-0"
+                },
+                {
+                    "GF": 1,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "u. la calera",
+                    "Marcador": "1-0"
+                },
+                {
+                    "GF": 2,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "everton",
+                    "Marcador": "2-0"
+                }
+            ]
+        },
+        "Visitante": {
+            "Equipo": "nublense",
+            "Logo": "https://static.flashscore.com/res/image/data/MVoXktAr-KM9757Oh.png",
+            "ELO": 1525.41,
+            "Ultimos 10": [
+                {
+                    "GF": 0,
+                    "GC": 2,
+                    "Resultado": "P",
+                    "Rival": "o'higgins",
+                    "Marcador": "0-2"
+                },
+                {
+                    "GF": 1,
+                    "GC": 1,
+                    "Resultado": "E",
+                    "Rival": "coquimbo",
+                    "Marcador": "1-1"
+                },
+                {
+                    "GF": 1,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "u. de chile",
+                    "Marcador": "1-0"
+                },
+                {
+                    "GF": 0,
+                    "GC": 0,
+                    "Resultado": "E",
+                    "Rival": "everton",
+                    "Marcador": "0-0"
+                },
+                {
+                    "GF": 2,
+                    "GC": 2,
+                    "Resultado": "E",
+                    "Rival": "la serena",
+                    "Marcador": "2-2"
+                },
+                {
+                    "GF": 2,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "dep. concepcion",
+                    "Marcador": "2-0"
+                },
+                {
+                    "GF": 1,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "u. la calera",
+                    "Marcador": "1-0"
+                },
+                {
+                    "GF": 1,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "audax",
+                    "Marcador": "1-0"
+                },
+                {
+                    "GF": 1,
+                    "GC": 1,
+                    "Resultado": "E",
+                    "Rival": "limache",
+                    "Marcador": "1-1"
+                },
+                {
+                    "GF": 1,
+                    "GC": 1,
+                    "Resultado": "E",
+                    "Rival": "palestino",
+                    "Marcador": "1-1"
+                }
+            ]
+        },
+        "Cuotas": {
+            "Local": 1.67,
+            "Empate": 3.5,
+            "Visitante": 4.9
+        },
+        "IA": {
+            "Ganador IA": "colo colo",
+            "Probabilidad Local": 53.47,
+            "Probabilidad Empate": 27.87,
+            "Probabilidad Visitante": 18.66,
+            "Expected Goals Local": 1.4,
+            "Expected Goals Visitante": 0.7,
+            "Expected Goals Total": 2.1,
+            "BTTS": 37.93,
+            "Over 2.5": 35.04,
+            "Forma Local": 80.0,
+            "Forma Visitante": 56.67,
+            "ELO Local": 1544.17,
+            "ELO Visitante": 1525.41,
+            "Ventaja ELO": 0.19,
+            "Confianza IA": 40.41,
+            "Partido Riesgoso": true,
+            "Hay Value": false,
+            "Value Local": -6.41,
+            "Value Empate": -0.7,
+            "Value Visitante": -1.75,
+            "Top Marcadores": [
+                {
+                    "Marcador": "1-0",
+                    "Probabilidad": 17.14
+                },
+                {
+                    "Marcador": "0-0",
+                    "Probabilidad": 12.25
+                },
+                {
+                    "Marcador": "1-1",
+                    "Probabilidad": 12.0
+                },
+                {
+                    "Marcador": "2-0",
+                    "Probabilidad": 12.0
+                },
+                {
+                    "Marcador": "0-1",
+                    "Probabilidad": 8.57
+                }
+            ]
+        }
+    },
+    {
+        "Fecha": "2026-05-17",
+        "Hora": "19:00",
+        "Pais": "chile",
+        "Liga": "Liga de Primera",
+        "Link": "https://www.flashscore.co/partido/futbol/dep-concepcion-GKJrZE7I/everton-Kr3LOxgm/?mid=6J8nH9lf",
+        "Partido": "dep. concepcion vs everton",
+        "Local": {
+            "Equipo": "dep. concepcion",
+            "Logo": "https://static.flashscore.com/res/image/data/nkZ3BZjl-KbTonrXB.png",
+            "ELO": 1459.84,
+            "Ultimos 10": [
+                {
+                    "GF": 1,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "palestino",
+                    "Marcador": "1-0"
+                },
+                {
+                    "GF": 3,
+                    "GC": 3,
+                    "Resultado": "E",
+                    "Rival": "la serena",
+                    "Marcador": "3-3"
+                },
+                {
+                    "GF": 0,
+                    "GC": 1,
+                    "Resultado": "P",
+                    "Rival": "u. la calera",
+                    "Marcador": "0-1"
+                },
+                {
+                    "GF": 0,
+                    "GC": 1,
+                    "Resultado": "P",
+                    "Rival": "colo colo",
+                    "Marcador": "0-1"
+                },
+                {
+                    "GF": 0,
+                    "GC": 3,
+                    "Resultado": "P",
+                    "Rival": "audax",
+                    "Marcador": "0-3"
+                },
+                {
+                    "GF": 0,
+                    "GC": 2,
+                    "Resultado": "P",
+                    "Rival": "nublense",
+                    "Marcador": "0-2"
+                },
+                {
+                    "GF": 1,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "coquimbo",
+                    "Marcador": "1-0"
+                },
+                {
+                    "GF": 1,
+                    "GC": 1,
+                    "Resultado": "E",
+                    "Rival": "cobresal",
+                    "Marcador": "1-1"
+                },
+                {
+                    "GF": 1,
+                    "GC": 2,
+                    "Resultado": "P",
+                    "Rival": "u. de concepcion",
+                    "Marcador": "1-2"
+                },
+                {
+                    "GF": 0,
+                    "GC": 2,
+                    "Resultado": "P",
+                    "Rival": "u. catolica",
+                    "Marcador": "0-2"
+                }
+            ]
+        },
+        "Visitante": {
+            "Equipo": "everton",
+            "Logo": "https://static.flashscore.com/res/image/data/IaM72BCr-futBA1p8.png",
+            "ELO": 1491.07,
+            "Ultimos 10": [
+                {
+                    "GF": 1,
+                    "GC": 3,
+                    "Resultado": "P",
+                    "Rival": "sunderland",
+                    "Marcador": "1-3"
+                },
+                {
+                    "GF": 2,
+                    "GC": 2,
+                    "Resultado": "E",
+                    "Rival": "crystal palace",
+                    "Marcador": "2-2"
+                },
+                {
+                    "GF": 3,
+                    "GC": 3,
+                    "Resultado": "E",
+                    "Rival": "manchester city",
+                    "Marcador": "3-3"
+                },
+                {
+                    "GF": 3,
+                    "GC": 1,
+                    "Resultado": "G",
+                    "Rival": "cobresal",
+                    "Marcador": "3-1"
+                },
+                {
+                    "GF": 1,
+                    "GC": 2,
+                    "Resultado": "P",
+                    "Rival": "west ham",
+                    "Marcador": "1-2"
+                },
+                {
+                    "GF": 1,
+                    "GC": 2,
+                    "Resultado": "P",
+                    "Rival": "liverpool",
+                    "Marcador": "1-2"
+                },
+                {
+                    "GF": 0,
+                    "GC": 0,
+                    "Resultado": "E",
+                    "Rival": "u. de chile",
+                    "Marcador": "0-0"
+                },
+                {
+                    "GF": 0,
+                    "GC": 1,
+                    "Resultado": "P",
+                    "Rival": "la serena",
+                    "Marcador": "0-1"
+                },
+                {
+                    "GF": 2,
+                    "GC": 2,
+                    "Resultado": "E",
+                    "Rival": "brentford",
+                    "Marcador": "2-2"
+                },
+                {
+                    "GF": 0,
+                    "GC": 0,
+                    "Resultado": "E",
+                    "Rival": "nublense",
+                    "Marcador": "0-0"
+                }
+            ]
+        },
+        "Cuotas": {
+            "Local": 2.48,
+            "Empate": 3.1,
+            "Visitante": 2.74
+        },
+        "IA": {
+            "Ganador IA": "dep. concepcion",
+            "Probabilidad Local": 40.77,
+            "Probabilidad Empate": 24.51,
+            "Probabilidad Visitante": 34.72,
+            "Expected Goals Local": 1.57,
+            "Expected Goals Visitante": 1.46,
+            "Expected Goals Total": 3.03,
+            "BTTS": 60.8,
+            "Over 2.5": 58.35,
+            "Forma Local": 26.67,
+            "Forma Visitante": 26.67,
+            "ELO Local": 1459.84,
+            "ELO Visitante": 1491.07,
+            "Ventaja ELO": -0.31,
+            "Confianza IA": 7.61,
+            "Partido Riesgoso": true,
+            "Hay Value": false,
+            "Value Local": 0.45,
+            "Value Empate": -7.75,
+            "Value Visitante": -1.78,
+            "Top Marcadores": [
+                {
+                    "Marcador": "1-1",
+                    "Probabilidad": 11.07
+                },
+                {
+                    "Marcador": "2-1",
+                    "Probabilidad": 8.69
+                },
+                {
+                    "Marcador": "1-2",
+                    "Probabilidad": 8.08
+                },
+                {
+                    "Marcador": "1-0",
+                    "Probabilidad": 7.59
+                },
+                {
+                    "Marcador": "0-1",
+                    "Probabilidad": 7.05
+                }
+            ]
+        }
+    },
+    {
+        "Fecha": "2026-05-18",
+        "Hora": "15:00",
+        "Pais": "colombia",
+        "Liga": "Primera B - Apertura - Cuadrangular",
+        "Link": "https://www.flashscore.co/partido/futbol/envigado-xtFGm2B8/quindio-zms5B2Zr/?mid=bVNjhUHr",
+        "Partido": "envigado vs quindio",
+        "Local": {
+            "Equipo": "envigado",
+            "Logo": "https://static.flashscore.com/res/image/data/pQrkdmhl-2XZjQRJG.png",
+            "ELO": 1545.08,
+            "Ultimos 10": [
+                {
+                    "GF": 2,
+                    "GC": 1,
+                    "Resultado": "G",
+                    "Rival": "tigres",
+                    "Marcador": "2-1"
+                },
+                {
+                    "GF": 0,
+                    "GC": 0,
+                    "Resultado": "E",
+                    "Rival": "inter palmira",
+                    "Marcador": "0-0"
+                },
+                {
+                    "GF": 0,
+                    "GC": 0,
+                    "Resultado": "E",
+                    "Rival": "inter palmira",
+                    "Marcador": "0-0"
+                },
+                {
+                    "GF": 2,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "tigres",
+                    "Marcador": "2-0"
+                },
+                {
+                    "GF": 1,
+                    "GC": 2,
+                    "Resultado": "P",
+                    "Rival": "quindio",
+                    "Marcador": "1-2"
+                },
+                {
+                    "GF": 2,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "patriotas",
+                    "Marcador": "2-0"
+                },
+                {
+                    "GF": 2,
+                    "GC": 4,
+                    "Resultado": "P",
+                    "Rival": "u. magdalena",
+                    "Marcador": "2-4"
+                },
+                {
+                    "GF": 2,
+                    "GC": 1,
+                    "Resultado": "G",
+                    "Rival": "atletico f.c.",
+                    "Marcador": "2-1"
+                },
+                {
+                    "GF": 3,
+                    "GC": 1,
+                    "Resultado": "G",
+                    "Rival": "real santander",
+                    "Marcador": "3-1"
+                },
+                {
+                    "GF": 1,
+                    "GC": 2,
+                    "Resultado": "P",
+                    "Rival": "bogota",
+                    "Marcador": "1-2"
+                }
+            ]
+        },
+        "Visitante": {
+            "Equipo": "quindio",
+            "Logo": "https://static.flashscore.com/res/image/data/S8EdcyFG-Eam1BfjK.png",
+            "ELO": 1571.29,
+            "Ultimos 10": [
+                {
+                    "GF": 0,
+                    "GC": 1,
+                    "Resultado": "P",
+                    "Rival": "inter palmira",
+                    "Marcador": "0-1"
+                },
+                {
+                    "GF": 1,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "tigres",
+                    "Marcador": "1-0"
+                },
+                {
+                    "GF": 1,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "tigres",
+                    "Marcador": "1-0"
+                },
+                {
+                    "GF": 0,
+                    "GC": 0,
+                    "Resultado": "E",
+                    "Rival": "inter palmira",
+                    "Marcador": "0-0"
+                },
+                {
+                    "GF": 2,
+                    "GC": 1,
+                    "Resultado": "G",
+                    "Rival": "envigado",
+                    "Marcador": "2-1"
+                },
+                {
+                    "GF": 1,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "tigres",
+                    "Marcador": "1-0"
+                },
+                {
+                    "GF": 2,
+                    "GC": 1,
+                    "Resultado": "G",
+                    "Rival": "atletico f.c.",
+                    "Marcador": "2-1"
+                },
+                {
+                    "GF": 1,
+                    "GC": 2,
+                    "Resultado": "P",
+                    "Rival": "real cartagena",
+                    "Marcador": "1-2"
+                },
+                {
+                    "GF": 2,
+                    "GC": 2,
+                    "Resultado": "E",
+                    "Rival": "orsomarso",
+                    "Marcador": "2-2"
+                },
+                {
+                    "GF": 2,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "bogota",
+                    "Marcador": "2-0"
+                }
+            ]
+        },
+        "Cuotas": {
+            "Local": 1.85,
+            "Empate": 3.1,
+            "Visitante": 4.1
+        },
+        "IA": {
+            "Ganador IA": "envigado",
+            "Probabilidad Local": 44.54,
+            "Probabilidad Empate": 27.42,
+            "Probabilidad Visitante": 28.04,
+            "Expected Goals Local": 1.38,
+            "Expected Goals Visitante": 1.06,
+            "Expected Goals Total": 2.44,
+            "BTTS": 48.91,
+            "Over 2.5": 44.07,
+            "Forma Local": 56.67,
+            "Forma Visitante": 66.67,
+            "ELO Local": 1545.08,
+            "ELO Visitante": 1571.29,
+            "Ventaja ELO": -0.26,
+            "Confianza IA": 19.81,
+            "Partido Riesgoso": true,
+            "Hay Value": false,
+            "Value Local": -9.51,
+            "Value Empate": -4.84,
+            "Value Visitante": 3.65,
+            "Top Marcadores": [
+                {
+                    "Marcador": "1-1",
+                    "Probabilidad": 12.75
+                },
+                {
+                    "Marcador": "1-0",
+                    "Probabilidad": 12.03
+                },
+                {
+                    "Marcador": "0-1",
+                    "Probabilidad": 9.24
+                },
+                {
+                    "Marcador": "2-1",
+                    "Probabilidad": 8.8
+                },
+                {
+                    "Marcador": "0-0",
+                    "Probabilidad": 8.72
+                }
+            ]
+        }
+    },
+    {
+        "Fecha": "2026-05-18",
+        "Hora": "19:00",
+        "Pais": "colombia",
+        "Liga": "Primera B - Apertura - Cuadrangular",
+        "Link": "https://www.flashscore.co/partido/futbol/inter-palmira-8tIHbqDh/tigres-futbol-club-EcJJz8BQ/?mid=SnXKcjfL",
+        "Partido": "inter palmira vs tigres",
+        "Local": {
+            "Equipo": "inter palmira",
+            "Logo": "https://static.flashscore.com/res/image/data/xC9qu5jl-GGXLQEpI.png",
+            "ELO": 1588.65,
+            "Ultimos 10": [
+                {
+                    "GF": 1,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "quindio",
+                    "Marcador": "1-0"
+                },
+                {
+                    "GF": 0,
+                    "GC": 0,
+                    "Resultado": "E",
+                    "Rival": "envigado",
+                    "Marcador": "0-0"
+                },
+                {
+                    "GF": 0,
+                    "GC": 0,
+                    "Resultado": "E",
+                    "Rival": "envigado",
+                    "Marcador": "0-0"
+                },
+                {
+                    "GF": 0,
+                    "GC": 0,
+                    "Resultado": "E",
+                    "Rival": "quindio",
+                    "Marcador": "0-0"
+                },
+                {
+                    "GF": 0,
+                    "GC": 1,
+                    "Resultado": "P",
+                    "Rival": "tigres",
+                    "Marcador": "0-1"
+                },
+                {
+                    "GF": 2,
+                    "GC": 1,
+                    "Resultado": "G",
+                    "Rival": "boca juniors",
+                    "Marcador": "2-1"
+                },
+                {
+                    "GF": 2,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "u. magdalena",
+                    "Marcador": "2-0"
+                },
+                {
+                    "GF": 2,
+                    "GC": 1,
+                    "Resultado": "G",
+                    "Rival": "orsomarso",
+                    "Marcador": "2-1"
+                },
+                {
+                    "GF": 2,
+                    "GC": 1,
+                    "Resultado": "G",
+                    "Rival": "tigres",
+                    "Marcador": "2-1"
+                },
+                {
+                    "GF": 2,
+                    "GC": 1,
+                    "Resultado": "G",
+                    "Rival": "leones",
+                    "Marcador": "2-1"
+                }
+            ]
+        },
+        "Visitante": {
+            "Equipo": "tigres",
+            "Logo": "https://static.flashscore.com/res/image/data/rstsF9FG-r7qn5qKU.png",
+            "ELO": 1480.73,
+            "Ultimos 10": [
+                {
+                    "GF": 1,
+                    "GC": 2,
+                    "Resultado": "P",
+                    "Rival": "envigado",
+                    "Marcador": "1-2"
+                },
+                {
+                    "GF": 0,
+                    "GC": 1,
+                    "Resultado": "P",
+                    "Rival": "quindio",
+                    "Marcador": "0-1"
+                },
+                {
+                    "GF": 0,
+                    "GC": 1,
+                    "Resultado": "P",
+                    "Rival": "quindio",
+                    "Marcador": "0-1"
+                },
+                {
+                    "GF": 0,
+                    "GC": 2,
+                    "Resultado": "P",
+                    "Rival": "envigado",
+                    "Marcador": "0-2"
+                },
+                {
+                    "GF": 1,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "inter palmira",
+                    "Marcador": "1-0"
+                },
+                {
+                    "GF": 0,
+                    "GC": 1,
+                    "Resultado": "P",
+                    "Rival": "quindio",
+                    "Marcador": "0-1"
+                },
+                {
+                    "GF": 2,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "real cundinamarca",
+                    "Marcador": "2-0"
+                },
+                {
+                    "GF": 3,
+                    "GC": 1,
+                    "Resultado": "G",
+                    "Rival": "barranquilla",
+                    "Marcador": "3-1"
+                },
+                {
+                    "GF": 1,
+                    "GC": 2,
+                    "Resultado": "P",
+                    "Rival": "inter palmira",
+                    "Marcador": "1-2"
+                },
+                {
+                    "GF": 1,
+                    "GC": 1,
+                    "Resultado": "E",
+                    "Rival": "real santander",
+                    "Marcador": "1-1"
+                }
+            ]
+        },
+        "Cuotas": {
+            "Local": 1.85,
+            "Empate": 3.1,
+            "Visitante": 4.1
+        },
+        "IA": {
+            "Ganador IA": "inter palmira",
+            "Probabilidad Local": 58.22,
+            "Probabilidad Empate": 27.0,
+            "Probabilidad Visitante": 14.78,
+            "Expected Goals Local": 1.45,
+            "Expected Goals Visitante": 0.57,
+            "Expected Goals Total": 2.02,
+            "BTTS": 33.26,
+            "Over 2.5": 32.87,
+            "Forma Local": 70.0,
+            "Forma Visitante": 33.33,
+            "ELO Local": 1588.65,
+            "ELO Visitante": 1480.73,
+            "Ventaja ELO": 1.08,
+            "Confianza IA": 56.17,
+            "Partido Riesgoso": false,
+            "Hay Value": false,
+            "Value Local": 4.17,
+            "Value Empate": -5.26,
+            "Value Visitante": -9.61,
+            "Top Marcadores": [
+                {
+                    "Marcador": "1-0",
+                    "Probabilidad": 19.24
+                },
+                {
+                    "Marcador": "2-0",
+                    "Probabilidad": 13.95
+                },
+                {
+                    "Marcador": "0-0",
+                    "Probabilidad": 13.27
+                },
+                {
+                    "Marcador": "1-1",
+                    "Probabilidad": 10.96
+                },
+                {
+                    "Marcador": "2-1",
+                    "Probabilidad": 7.95
+                }
+            ]
+        }
+    },
+    {
         "Fecha": "2026-05-18",
         "Hora": "14:00",
         "Pais": "inglaterra",
@@ -9,7 +1697,7 @@
         "Local": {
             "Equipo": "arsenal",
             "Logo": "https://static.flashscore.com/res/image/data/pfchdCg5-vcNAdtF9.png",
-            "ELO": 1618.81,
+            "ELO": 1618.82,
             "Ultimos 10": [
                 {
                     "GF": 1,
@@ -86,7 +1774,7 @@
         "Visitante": {
             "Equipo": "burnley",
             "Logo": "https://static.flashscore.com/res/image/data/UaPJjYBr-6PhTI7J6.png",
-            "ELO": 1376.85,
+            "ELO": 1376.63,
             "Ultimos 10": [
                 {
                     "GF": 2,
@@ -167,9 +1855,9 @@
         },
         "IA": {
             "Ganador IA": "arsenal",
-            "Probabilidad Local": 76.65,
-            "Probabilidad Empate": 14.65,
-            "Probabilidad Visitante": 8.7,
+            "Probabilidad Local": 76.5,
+            "Probabilidad Empate": 15.12,
+            "Probabilidad Visitante": 8.38,
             "Expected Goals Local": 2.45,
             "Expected Goals Visitante": 0.69,
             "Expected Goals Total": 3.14,
@@ -177,15 +1865,15 @@
             "Over 2.5": 60.74,
             "Forma Local": 73.33,
             "Forma Visitante": 10.0,
-            "ELO Local": 1618.81,
-            "ELO Visitante": 1376.85,
+            "ELO Local": 1618.82,
+            "ELO Visitante": 1376.63,
             "Ventaja ELO": 2.42,
-            "Confianza IA": 92.71,
+            "Confianza IA": 92.9,
             "Partido Riesgoso": false,
             "Hay Value": true,
-            "Value Local": -15.09,
-            "Value Empate": 5.35,
-            "Value Visitante": 5.47,
+            "Value Local": -15.24,
+            "Value Empate": 5.82,
+            "Value Visitante": 5.15,
             "Top Marcadores": [
                 {
                     "Marcador": "2-0",
@@ -211,6 +1899,850 @@
         }
     },
     {
+        "Fecha": "2026-05-18",
+        "Hora": "13:30",
+        "Pais": "espana",
+        "Liga": "LaLiga Hypermotion",
+        "Link": "https://www.flashscore.co/partido/futbol/leganes-Mi0rXQg7/sd-huesca-UytPaaEP/?mid=IPhCKs9L",
+        "Partido": "leganes vs huesca",
+        "Local": {
+            "Equipo": "leganes",
+            "Logo": "https://static.flashscore.com/res/image/data/IqhNyYjl-Q3zX1dyT.png",
+            "ELO": 1457.4,
+            "Ultimos 10": [
+                {
+                    "GF": 1,
+                    "GC": 2,
+                    "Resultado": "P",
+                    "Rival": "r. racing club",
+                    "Marcador": "1-2"
+                },
+                {
+                    "GF": 1,
+                    "GC": 2,
+                    "Resultado": "P",
+                    "Rival": "deportivo de la coruna",
+                    "Marcador": "1-2"
+                },
+                {
+                    "GF": 0,
+                    "GC": 4,
+                    "Resultado": "P",
+                    "Rival": "andorra",
+                    "Marcador": "0-4"
+                },
+                {
+                    "GF": 0,
+                    "GC": 2,
+                    "Resultado": "P",
+                    "Rival": "las palmas",
+                    "Marcador": "0-2"
+                },
+                {
+                    "GF": 2,
+                    "GC": 1,
+                    "Resultado": "G",
+                    "Rival": "albacete",
+                    "Marcador": "2-1"
+                },
+                {
+                    "GF": 1,
+                    "GC": 2,
+                    "Resultado": "P",
+                    "Rival": "almeria",
+                    "Marcador": "1-2"
+                },
+                {
+                    "GF": 1,
+                    "GC": 1,
+                    "Resultado": "E",
+                    "Rival": "real zaragoza",
+                    "Marcador": "1-1"
+                },
+                {
+                    "GF": 0,
+                    "GC": 0,
+                    "Resultado": "E",
+                    "Rival": "malaga",
+                    "Marcador": "0-0"
+                },
+                {
+                    "GF": 5,
+                    "GC": 2,
+                    "Resultado": "G",
+                    "Rival": "ad ceuta",
+                    "Marcador": "5-2"
+                },
+                {
+                    "GF": 2,
+                    "GC": 3,
+                    "Resultado": "P",
+                    "Rival": "real valladolid",
+                    "Marcador": "2-3"
+                }
+            ]
+        },
+        "Visitante": {
+            "Equipo": "huesca",
+            "Logo": "https://static.flashscore.com/res/image/data/UwzkXAxS-EkA5g8Rs.png",
+            "ELO": 1416.8,
+            "Ultimos 10": [
+                {
+                    "GF": 1,
+                    "GC": 2,
+                    "Resultado": "P",
+                    "Rival": "real sociedad b",
+                    "Marcador": "1-2"
+                },
+                {
+                    "GF": 2,
+                    "GC": 4,
+                    "Resultado": "P",
+                    "Rival": "r. racing club",
+                    "Marcador": "2-4"
+                },
+                {
+                    "GF": 1,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "real zaragoza 2",
+                    "Marcador": "1-0"
+                },
+                {
+                    "GF": 1,
+                    "GC": 2,
+                    "Resultado": "P",
+                    "Rival": "eibar",
+                    "Marcador": "1-2"
+                },
+                {
+                    "GF": 1,
+                    "GC": 1,
+                    "Resultado": "E",
+                    "Rival": "deportivo de la coruna",
+                    "Marcador": "1-1"
+                },
+                {
+                    "GF": 1,
+                    "GC": 2,
+                    "Resultado": "P",
+                    "Rival": "las palmas",
+                    "Marcador": "1-2"
+                },
+                {
+                    "GF": 1,
+                    "GC": 1,
+                    "Resultado": "E",
+                    "Rival": "cultural leonesa",
+                    "Marcador": "1-1"
+                },
+                {
+                    "GF": 2,
+                    "GC": 4,
+                    "Resultado": "P",
+                    "Rival": "granada",
+                    "Marcador": "2-4"
+                },
+                {
+                    "GF": 1,
+                    "GC": 3,
+                    "Resultado": "P",
+                    "Rival": "almeria",
+                    "Marcador": "1-3"
+                },
+                {
+                    "GF": 3,
+                    "GC": 5,
+                    "Resultado": "P",
+                    "Rival": "malaga",
+                    "Marcador": "3-5"
+                }
+            ]
+        },
+        "Cuotas": {
+            "Local": 1.9,
+            "Empate": 3.45,
+            "Visitante": 3.95
+        },
+        "IA": {
+            "Ganador IA": "leganes",
+            "Probabilidad Local": 48.63,
+            "Probabilidad Empate": 20.92,
+            "Probabilidad Visitante": 30.45,
+            "Expected Goals Local": 2.1,
+            "Expected Goals Visitante": 1.62,
+            "Expected Goals Total": 3.72,
+            "BTTS": 70.39,
+            "Over 2.5": 71.79,
+            "Forma Local": 26.67,
+            "Forma Visitante": 16.67,
+            "ELO Local": 1457.4,
+            "ELO Visitante": 1416.8,
+            "Ventaja ELO": 0.41,
+            "Confianza IA": 22.21,
+            "Partido Riesgoso": true,
+            "Hay Value": true,
+            "Value Local": -4.0,
+            "Value Empate": -8.07,
+            "Value Visitante": 5.13,
+            "Top Marcadores": [
+                {
+                    "Marcador": "2-1",
+                    "Probabilidad": 8.66
+                },
+                {
+                    "Marcador": "1-1",
+                    "Probabilidad": 8.24
+                },
+                {
+                    "Marcador": "2-2",
+                    "Probabilidad": 7.01
+                },
+                {
+                    "Marcador": "1-2",
+                    "Probabilidad": 6.68
+                },
+                {
+                    "Marcador": "3-1",
+                    "Probabilidad": 6.06
+                }
+            ]
+        }
+    },
+    {
+        "Fecha": "2026-05-18",
+        "Hora": "09:00",
+        "Pais": "india",
+        "Liga": "ISL",
+        "Link": "https://www.flashscore.co/partido/futbol/fc-goa-bmsNPY6c/kerala-blasters-hAtROhM3/?mid=pvQjhVY8",
+        "Partido": "kerala blasters vs goa",
+        "Local": {
+            "Equipo": "kerala blasters",
+            "Logo": "https://static.flashscore.com/res/image/data/ERtKcYzS-Awc1z0cU.png",
+            "ELO": 1488.75,
+            "Ultimos 10": [
+                {
+                    "GF": 3,
+                    "GC": 1,
+                    "Resultado": "G",
+                    "Rival": "mohammedan",
+                    "Marcador": "3-1"
+                },
+                {
+                    "GF": 2,
+                    "GC": 1,
+                    "Resultado": "G",
+                    "Rival": "odisha fc",
+                    "Marcador": "2-1"
+                },
+                {
+                    "GF": 2,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "jamshedpur",
+                    "Marcador": "2-0"
+                },
+                {
+                    "GF": 1,
+                    "GC": 1,
+                    "Resultado": "E",
+                    "Rival": "north east utd",
+                    "Marcador": "1-1"
+                },
+                {
+                    "GF": 2,
+                    "GC": 1,
+                    "Resultado": "G",
+                    "Rival": "bengaluru fc",
+                    "Marcador": "2-1"
+                },
+                {
+                    "GF": 0,
+                    "GC": 2,
+                    "Resultado": "P",
+                    "Rival": "sc delhi",
+                    "Marcador": "0-2"
+                },
+                {
+                    "GF": 1,
+                    "GC": 3,
+                    "Resultado": "P",
+                    "Rival": "punjab",
+                    "Marcador": "1-3"
+                },
+                {
+                    "GF": 1,
+                    "GC": 1,
+                    "Resultado": "E",
+                    "Rival": "east bengal",
+                    "Marcador": "1-1"
+                },
+                {
+                    "GF": 0,
+                    "GC": 1,
+                    "Resultado": "P",
+                    "Rival": "chennaiyin",
+                    "Marcador": "0-1"
+                },
+                {
+                    "GF": 1,
+                    "GC": 2,
+                    "Resultado": "P",
+                    "Rival": "inter kashi",
+                    "Marcador": "1-2"
+                }
+            ]
+        },
+        "Visitante": {
+            "Equipo": "goa",
+            "Logo": "https://static.flashscore.com/res/image/data/rkh9oXwS-jNHgJus6.png",
+            "ELO": 1526.33,
+            "Ultimos 10": [
+                {
+                    "GF": 1,
+                    "GC": 1,
+                    "Resultado": "E",
+                    "Rival": "mohun bagan",
+                    "Marcador": "1-1"
+                },
+                {
+                    "GF": 0,
+                    "GC": 2,
+                    "Resultado": "P",
+                    "Rival": "jamshedpur",
+                    "Marcador": "0-2"
+                },
+                {
+                    "GF": 2,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "north east utd",
+                    "Marcador": "2-0"
+                },
+                {
+                    "GF": 2,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "mumbai city",
+                    "Marcador": "2-0"
+                },
+                {
+                    "GF": 3,
+                    "GC": 1,
+                    "Resultado": "G",
+                    "Rival": "odisha fc",
+                    "Marcador": "3-1"
+                },
+                {
+                    "GF": 0,
+                    "GC": 2,
+                    "Resultado": "P",
+                    "Rival": "bengaluru fc",
+                    "Marcador": "0-2"
+                },
+                {
+                    "GF": 1,
+                    "GC": 1,
+                    "Resultado": "E",
+                    "Rival": "chennaiyin",
+                    "Marcador": "1-1"
+                },
+                {
+                    "GF": 1,
+                    "GC": 1,
+                    "Resultado": "E",
+                    "Rival": "punjab",
+                    "Marcador": "1-1"
+                },
+                {
+                    "GF": 0,
+                    "GC": 0,
+                    "Resultado": "E",
+                    "Rival": "east bengal",
+                    "Marcador": "0-0"
+                },
+                {
+                    "GF": 1,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "sc delhi",
+                    "Marcador": "1-0"
+                }
+            ]
+        },
+        "Cuotas": {
+            "Local": 3.35,
+            "Empate": 3.1,
+            "Visitante": 2.1
+        },
+        "IA": {
+            "Ganador IA": "kerala blasters",
+            "Probabilidad Local": 42.84,
+            "Probabilidad Empate": 25.62,
+            "Probabilidad Visitante": 31.54,
+            "Expected Goals Local": 1.47,
+            "Expected Goals Visitante": 1.2,
+            "Expected Goals Total": 2.67,
+            "BTTS": 53.81,
+            "Over 2.5": 49.9,
+            "Forma Local": 46.67,
+            "Forma Visitante": 53.33,
+            "ELO Local": 1488.75,
+            "ELO Visitante": 1526.33,
+            "Ventaja ELO": -0.38,
+            "Confianza IA": 14.51,
+            "Partido Riesgoso": true,
+            "Hay Value": true,
+            "Value Local": 12.99,
+            "Value Empate": -6.64,
+            "Value Visitante": -16.08,
+            "Top Marcadores": [
+                {
+                    "Marcador": "1-1",
+                    "Probabilidad": 12.22
+                },
+                {
+                    "Marcador": "1-0",
+                    "Probabilidad": 10.18
+                },
+                {
+                    "Marcador": "2-1",
+                    "Probabilidad": 8.98
+                },
+                {
+                    "Marcador": "0-1",
+                    "Probabilidad": 8.31
+                },
+                {
+                    "Marcador": "2-0",
+                    "Probabilidad": 7.48
+                }
+            ]
+        }
+    },
+    {
+        "Fecha": "2026-05-18",
+        "Hora": "12:00",
+        "Pais": "polonia",
+        "Liga": "Ekstraklasa",
+        "Link": "https://www.flashscore.co/partido/futbol/arka-feEez0Ei/nieciecza-YNkK4khO/?mid=nsSrjBh4",
+        "Partido": "arka vs termalica b-b.",
+        "Local": {
+            "Equipo": "arka",
+            "Logo": "https://static.flashscore.com/res/image/data/tdEy0jBr-SUsL3Ba2.png",
+            "ELO": 1470.12,
+            "Ultimos 10": [
+                {
+                    "GF": 0,
+                    "GC": 0,
+                    "Resultado": "E",
+                    "Rival": "gornik zabrze",
+                    "Marcador": "0-0"
+                },
+                {
+                    "GF": 1,
+                    "GC": 1,
+                    "Resultado": "E",
+                    "Rival": "lech poznan",
+                    "Marcador": "1-1"
+                },
+                {
+                    "GF": 1,
+                    "GC": 4,
+                    "Resultado": "P",
+                    "Rival": "piast",
+                    "Marcador": "1-4"
+                },
+                {
+                    "GF": 0,
+                    "GC": 3,
+                    "Resultado": "P",
+                    "Rival": "jagiellonia",
+                    "Marcador": "0-3"
+                },
+                {
+                    "GF": 2,
+                    "GC": 2,
+                    "Resultado": "E",
+                    "Rival": "cracovia",
+                    "Marcador": "2-2"
+                },
+                {
+                    "GF": 3,
+                    "GC": 1,
+                    "Resultado": "G",
+                    "Rival": "zaglebie",
+                    "Marcador": "3-1"
+                },
+                {
+                    "GF": 0,
+                    "GC": 3,
+                    "Resultado": "P",
+                    "Rival": "korona",
+                    "Marcador": "0-3"
+                },
+                {
+                    "GF": 0,
+                    "GC": 0,
+                    "Resultado": "E",
+                    "Rival": "widzew lodz",
+                    "Marcador": "0-0"
+                },
+                {
+                    "GF": 3,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "plock",
+                    "Marcador": "3-0"
+                },
+                {
+                    "GF": 1,
+                    "GC": 3,
+                    "Resultado": "P",
+                    "Rival": "radomiak radom",
+                    "Marcador": "1-3"
+                }
+            ]
+        },
+        "Visitante": {
+            "Equipo": "termalica b-b.",
+            "Logo": "https://static.flashscore.com/res/image/data/hdiq9sZA-KdpWArUq.png",
+            "ELO": 1423.49,
+            "Ultimos 10": [
+                {
+                    "GF": 0,
+                    "GC": 1,
+                    "Resultado": "P",
+                    "Rival": "legia",
+                    "Marcador": "0-1"
+                },
+                {
+                    "GF": 1,
+                    "GC": 5,
+                    "Resultado": "P",
+                    "Rival": "katowice",
+                    "Marcador": "1-5"
+                },
+                {
+                    "GF": 2,
+                    "GC": 1,
+                    "Resultado": "G",
+                    "Rival": "zaglebie",
+                    "Marcador": "2-1"
+                },
+                {
+                    "GF": 1,
+                    "GC": 3,
+                    "Resultado": "P",
+                    "Rival": "plock",
+                    "Marcador": "1-3"
+                },
+                {
+                    "GF": 0,
+                    "GC": 1,
+                    "Resultado": "P",
+                    "Rival": "widzew lodz",
+                    "Marcador": "0-1"
+                },
+                {
+                    "GF": 3,
+                    "GC": 2,
+                    "Resultado": "G",
+                    "Rival": "piast",
+                    "Marcador": "3-2"
+                },
+                {
+                    "GF": 1,
+                    "GC": 4,
+                    "Resultado": "P",
+                    "Rival": "lech poznan",
+                    "Marcador": "1-4"
+                },
+                {
+                    "GF": 1,
+                    "GC": 2,
+                    "Resultado": "P",
+                    "Rival": "motor lublin",
+                    "Marcador": "1-2"
+                },
+                {
+                    "GF": 1,
+                    "GC": 2,
+                    "Resultado": "P",
+                    "Rival": "korona",
+                    "Marcador": "1-2"
+                },
+                {
+                    "GF": 1,
+                    "GC": 1,
+                    "Resultado": "E",
+                    "Rival": "radomiak radom",
+                    "Marcador": "1-1"
+                }
+            ]
+        },
+        "Cuotas": {
+            "Local": 1.76,
+            "Empate": 3.9,
+            "Visitante": 4.3
+        },
+        "IA": {
+            "Ganador IA": "arka",
+            "Probabilidad Local": 52.72,
+            "Probabilidad Empate": 21.4,
+            "Probabilidad Visitante": 25.88,
+            "Expected Goals Local": 2.01,
+            "Expected Goals Visitante": 1.37,
+            "Expected Goals Total": 3.38,
+            "BTTS": 64.6,
+            "Over 2.5": 65.64,
+            "Forma Local": 33.33,
+            "Forma Visitante": 23.33,
+            "ELO Local": 1470.12,
+            "ELO Visitante": 1423.49,
+            "Ventaja ELO": 0.47,
+            "Confianza IA": 31.17,
+            "Partido Riesgoso": true,
+            "Hay Value": false,
+            "Value Local": -4.1,
+            "Value Empate": -4.24,
+            "Value Visitante": 2.62,
+            "Top Marcadores": [
+                {
+                    "Marcador": "2-1",
+                    "Probabilidad": 9.42
+                },
+                {
+                    "Marcador": "1-1",
+                    "Probabilidad": 9.38
+                },
+                {
+                    "Marcador": "2-0",
+                    "Probabilidad": 6.88
+                },
+                {
+                    "Marcador": "1-0",
+                    "Probabilidad": 6.84
+                },
+                {
+                    "Marcador": "2-2",
+                    "Probabilidad": 6.45
+                }
+            ]
+        }
+    },
+    {
+        "Fecha": "2026-05-18",
+        "Hora": "06:30",
+        "Pais": "singapur",
+        "Liga": "Premier League",
+        "Link": "https://www.flashscore.co/partido/futbol/hougang-SA3Ytn2m/tanjong-pagar-tKuMJ4Mc/?mid=fsfI2XUb",
+        "Partido": "tanjong pagar vs hougang",
+        "Local": {
+            "Equipo": "tanjong pagar",
+            "Logo": "https://static.flashscore.com/res/image/data/bVqHhDWg-bwrRv2m2.png",
+            "ELO": 1367.87,
+            "Ultimos 10": [
+                {
+                    "GF": 0,
+                    "GC": 6,
+                    "Resultado": "P",
+                    "Rival": "balestier khalsa",
+                    "Marcador": "0-6"
+                },
+                {
+                    "GF": 1,
+                    "GC": 2,
+                    "Resultado": "P",
+                    "Rival": "hougang",
+                    "Marcador": "1-2"
+                },
+                {
+                    "GF": 0,
+                    "GC": 4,
+                    "Resultado": "P",
+                    "Rival": "albirex niigata (s)",
+                    "Marcador": "0-4"
+                },
+                {
+                    "GF": 1,
+                    "GC": 2,
+                    "Resultado": "P",
+                    "Rival": "geylang",
+                    "Marcador": "1-2"
+                },
+                {
+                    "GF": 0,
+                    "GC": 1,
+                    "Resultado": "P",
+                    "Rival": "young lions",
+                    "Marcador": "0-1"
+                },
+                {
+                    "GF": 0,
+                    "GC": 4,
+                    "Resultado": "P",
+                    "Rival": "lion city",
+                    "Marcador": "0-4"
+                },
+                {
+                    "GF": 0,
+                    "GC": 3,
+                    "Resultado": "P",
+                    "Rival": "tampines",
+                    "Marcador": "0-3"
+                },
+                {
+                    "GF": 0,
+                    "GC": 2,
+                    "Resultado": "P",
+                    "Rival": "albirex niigata (s)",
+                    "Marcador": "0-2"
+                },
+                {
+                    "GF": 1,
+                    "GC": 4,
+                    "Resultado": "P",
+                    "Rival": "balestier khalsa",
+                    "Marcador": "1-4"
+                },
+                {
+                    "GF": 0,
+                    "GC": 3,
+                    "Resultado": "P",
+                    "Rival": "hougang",
+                    "Marcador": "0-3"
+                }
+            ]
+        },
+        "Visitante": {
+            "Equipo": "hougang",
+            "Logo": "https://static.flashscore.com/res/image/data/xz8jdoeM-4fcEsivK.png",
+            "ELO": 1471.49,
+            "Ultimos 10": [
+                {
+                    "GF": 2,
+                    "GC": 1,
+                    "Resultado": "G",
+                    "Rival": "tanjong pagar",
+                    "Marcador": "2-1"
+                },
+                {
+                    "GF": 3,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "balestier khalsa",
+                    "Marcador": "3-0"
+                },
+                {
+                    "GF": 0,
+                    "GC": 4,
+                    "Resultado": "P",
+                    "Rival": "albirex niigata (s)",
+                    "Marcador": "0-4"
+                },
+                {
+                    "GF": 1,
+                    "GC": 4,
+                    "Resultado": "P",
+                    "Rival": "lion city",
+                    "Marcador": "1-4"
+                },
+                {
+                    "GF": 0,
+                    "GC": 1,
+                    "Resultado": "P",
+                    "Rival": "geylang",
+                    "Marcador": "0-1"
+                },
+                {
+                    "GF": 2,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "young lions",
+                    "Marcador": "2-0"
+                },
+                {
+                    "GF": 1,
+                    "GC": 2,
+                    "Resultado": "P",
+                    "Rival": "balestier khalsa",
+                    "Marcador": "1-2"
+                },
+                {
+                    "GF": 0,
+                    "GC": 3,
+                    "Resultado": "P",
+                    "Rival": "tampines",
+                    "Marcador": "0-3"
+                },
+                {
+                    "GF": 3,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "tanjong pagar",
+                    "Marcador": "3-0"
+                },
+                {
+                    "GF": 2,
+                    "GC": 1,
+                    "Resultado": "G",
+                    "Rival": "geylang",
+                    "Marcador": "2-1"
+                }
+            ]
+        },
+        "Cuotas": {
+            "Local": 5.2,
+            "Empate": 5.1,
+            "Visitante": 1.4
+        },
+        "IA": {
+            "Ganador IA": "hougang",
+            "Probabilidad Local": 20.04,
+            "Probabilidad Empate": 19.64,
+            "Probabilidad Visitante": 60.32,
+            "Expected Goals Local": 1.27,
+            "Expected Goals Visitante": 2.32,
+            "Expected Goals Total": 3.59,
+            "BTTS": 64.85,
+            "Over 2.5": 69.55,
+            "Forma Local": 0.0,
+            "Forma Visitante": 50.0,
+            "ELO Local": 1367.87,
+            "ELO Visitante": 1471.49,
+            "Ventaja ELO": -1.04,
+            "Confianza IA": 55.46,
+            "Partido Riesgoso": false,
+            "Hay Value": false,
+            "Value Local": 0.81,
+            "Value Empate": 0.03,
+            "Value Visitante": -11.11,
+            "Top Marcadores": [
+                {
+                    "Marcador": "1-2",
+                    "Probabilidad": 9.43
+                },
+                {
+                    "Marcador": "1-1",
+                    "Probabilidad": 8.13
+                },
+                {
+                    "Marcador": "0-2",
+                    "Probabilidad": 7.43
+                },
+                {
+                    "Marcador": "1-3",
+                    "Probabilidad": 7.29
+                },
+                {
+                    "Marcador": "0-1",
+                    "Probabilidad": 6.4
+                }
+            ]
+        }
+    },
+    {
         "Fecha": "2026-05-19",
         "Hora": "13:30",
         "Pais": "inglaterra",
@@ -220,7 +2752,7 @@
         "Local": {
             "Equipo": "bournemouth",
             "Logo": "https://static.flashscore.com/res/image/data/2Pb55xWg-fVlIcxl3.png",
-            "ELO": 1552.37,
+            "ELO": 1552.31,
             "Ultimos 10": [
                 {
                     "GF": 1,
@@ -378,9 +2910,9 @@
         },
         "IA": {
             "Ganador IA": "manchester city",
-            "Probabilidad Local": 35.19,
-            "Probabilidad Empate": 24.74,
-            "Probabilidad Visitante": 40.07,
+            "Probabilidad Local": 35.86,
+            "Probabilidad Empate": 24.58,
+            "Probabilidad Visitante": 39.56,
             "Expected Goals Local": 1.42,
             "Expected Goals Visitante": 1.49,
             "Expected Goals Total": 2.91,
@@ -388,15 +2920,15 @@
             "Over 2.5": 55.63,
             "Forma Local": 60.0,
             "Forma Visitante": 80.0,
-            "ELO Local": 1552.37,
+            "ELO Local": 1552.31,
             "ELO Visitante": 1620.64,
             "Ventaja ELO": -0.68,
-            "Confianza IA": 12.29,
+            "Confianza IA": 11.12,
             "Partido Riesgoso": true,
             "Hay Value": true,
-            "Value Local": 12.2,
-            "Value Empate": 0.93,
-            "Value Visitante": -17.4,
+            "Value Local": 12.87,
+            "Value Empate": 0.77,
+            "Value Visitante": -17.91,
             "Top Marcadores": [
                 {
                     "Marcador": "1-1",
@@ -431,7 +2963,7 @@
         "Local": {
             "Equipo": "chelsea",
             "Logo": "https://static.flashscore.com/res/image/data/GMmvDEdM-IROrZEJb.png",
-            "ELO": 1484.01,
+            "ELO": 1483.99,
             "Ultimos 10": [
                 {
                     "GF": 1,
@@ -508,7 +3040,7 @@
         "Visitante": {
             "Equipo": "tottenham",
             "Logo": "https://static.flashscore.com/res/image/data/ARC62UAr-Ig5FKJZ5.png",
-            "ELO": 1450.72,
+            "ELO": 1450.73,
             "Ultimos 10": [
                 {
                     "GF": 1,
@@ -583,15 +3115,15 @@
             ]
         },
         "Cuotas": {
-            "Local": 1.99,
-            "Empate": 3.85,
-            "Visitante": 3.6
+            "Local": 2.05,
+            "Empate": 3.55,
+            "Visitante": 3.7
         },
         "IA": {
             "Ganador IA": "chelsea",
-            "Probabilidad Local": 40.44,
-            "Probabilidad Empate": 23.73,
-            "Probabilidad Visitante": 35.83,
+            "Probabilidad Local": 39.48,
+            "Probabilidad Empate": 23.86,
+            "Probabilidad Visitante": 36.66,
             "Expected Goals Local": 1.56,
             "Expected Goals Visitante": 1.47,
             "Expected Goals Total": 3.03,
@@ -599,15 +3131,15 @@
             "Over 2.5": 58.35,
             "Forma Local": 16.67,
             "Forma Visitante": 30.0,
-            "ELO Local": 1484.01,
-            "ELO Visitante": 1450.72,
+            "ELO Local": 1483.99,
+            "ELO Visitante": 1450.73,
             "Ventaja ELO": 0.33,
-            "Confianza IA": 8.94,
+            "Confianza IA": 7.15,
             "Partido Riesgoso": true,
             "Hay Value": true,
-            "Value Local": -9.81,
-            "Value Empate": -2.24,
-            "Value Visitante": 8.05,
+            "Value Local": -9.3,
+            "Value Empate": -4.31,
+            "Value Visitante": 9.63,
             "Top Marcadores": [
                 {
                     "Marcador": "1-1",
@@ -628,6 +3160,1061 @@
                 {
                     "Marcador": "0-1",
                     "Probabilidad": 7.1
+                }
+            ]
+        }
+    },
+    {
+        "Fecha": "2026-05-19",
+        "Hora": "06:35",
+        "Pais": "china",
+        "Liga": "Superliga",
+        "Link": "https://www.flashscore.co/partido/futbol/dalian-yingbo-zDctmLjH/shenzhen-xinpengcheng-08kX8Xr0/?mid=bBc2ScCN",
+        "Partido": "shenzhen xinpengcheng vs dalian yingbo",
+        "Local": {
+            "Equipo": "shenzhen xinpengcheng",
+            "Logo": "https://static.flashscore.com/res/image/data/CphYqiyB-dtfEriST.png",
+            "ELO": 1453.6,
+            "Ultimos 10": [
+                {
+                    "GF": 0,
+                    "GC": 1,
+                    "Resultado": "P",
+                    "Rival": "henan songshan longmen",
+                    "Marcador": "0-1"
+                },
+                {
+                    "GF": 1,
+                    "GC": 2,
+                    "Resultado": "P",
+                    "Rival": "shandong taishan",
+                    "Marcador": "1-2"
+                },
+                {
+                    "GF": 1,
+                    "GC": 1,
+                    "Resultado": "E",
+                    "Rival": "shanghai port",
+                    "Marcador": "1-1"
+                },
+                {
+                    "GF": 1,
+                    "GC": 2,
+                    "Resultado": "P",
+                    "Rival": "zhejiang professional",
+                    "Marcador": "1-2"
+                },
+                {
+                    "GF": 1,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "liaoning tieren",
+                    "Marcador": "1-0"
+                },
+                {
+                    "GF": 0,
+                    "GC": 1,
+                    "Resultado": "P",
+                    "Rival": "beijing guoan",
+                    "Marcador": "0-1"
+                },
+                {
+                    "GF": 0,
+                    "GC": 2,
+                    "Resultado": "P",
+                    "Rival": "chongqing tonglianglong",
+                    "Marcador": "0-2"
+                },
+                {
+                    "GF": 3,
+                    "GC": 4,
+                    "Resultado": "P",
+                    "Rival": "yunnan yukun",
+                    "Marcador": "3-4"
+                },
+                {
+                    "GF": 5,
+                    "GC": 2,
+                    "Resultado": "G",
+                    "Rival": "wuhan three towns",
+                    "Marcador": "5-2"
+                },
+                {
+                    "GF": 0,
+                    "GC": 1,
+                    "Resultado": "P",
+                    "Rival": "qingdao west coast",
+                    "Marcador": "0-1"
+                }
+            ]
+        },
+        "Visitante": {
+            "Equipo": "dalian yingbo",
+            "Logo": "https://static.flashscore.com/res/image/data/8bMO16HG-YPPxnY3b.png",
+            "ELO": 1497.25,
+            "Ultimos 10": [
+                {
+                    "GF": 2,
+                    "GC": 3,
+                    "Resultado": "P",
+                    "Rival": "qingdao west coast",
+                    "Marcador": "2-3"
+                },
+                {
+                    "GF": 1,
+                    "GC": 3,
+                    "Resultado": "P",
+                    "Rival": "qingdao hainiu",
+                    "Marcador": "1-3"
+                },
+                {
+                    "GF": 0,
+                    "GC": 3,
+                    "Resultado": "P",
+                    "Rival": "beijing guoan",
+                    "Marcador": "0-3"
+                },
+                {
+                    "GF": 1,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "chongqing tonglianglong",
+                    "Marcador": "1-0"
+                },
+                {
+                    "GF": 1,
+                    "GC": 3,
+                    "Resultado": "P",
+                    "Rival": "yunnan yukun",
+                    "Marcador": "1-3"
+                },
+                {
+                    "GF": 1,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "liaoning tieren",
+                    "Marcador": "1-0"
+                },
+                {
+                    "GF": 2,
+                    "GC": 1,
+                    "Resultado": "G",
+                    "Rival": "henan songshan longmen",
+                    "Marcador": "2-1"
+                },
+                {
+                    "GF": 3,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "zhejiang professional",
+                    "Marcador": "3-0"
+                },
+                {
+                    "GF": 2,
+                    "GC": 1,
+                    "Resultado": "G",
+                    "Rival": "shandong taishan",
+                    "Marcador": "2-1"
+                },
+                {
+                    "GF": 1,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "shanghai port",
+                    "Marcador": "1-0"
+                }
+            ]
+        },
+        "Cuotas": {
+            "Local": 2.68,
+            "Empate": 3.1,
+            "Visitante": 2.52
+        },
+        "IA": {
+            "Ganador IA": "shenzhen xinpengcheng",
+            "Probabilidad Local": 41.07,
+            "Probabilidad Empate": 23.93,
+            "Probabilidad Visitante": 35.0,
+            "Expected Goals Local": 1.66,
+            "Expected Goals Visitante": 1.47,
+            "Expected Goals Total": 3.13,
+            "BTTS": 62.37,
+            "Over 2.5": 60.53,
+            "Forma Local": 23.33,
+            "Forma Visitante": 60.0,
+            "ELO Local": 1453.6,
+            "ELO Visitante": 1497.25,
+            "Ventaja ELO": -0.44,
+            "Confianza IA": 15.59,
+            "Partido Riesgoso": true,
+            "Hay Value": false,
+            "Value Local": 3.76,
+            "Value Empate": -8.33,
+            "Value Visitante": -4.68,
+            "Top Marcadores": [
+                {
+                    "Marcador": "1-1",
+                    "Probabilidad": 10.67
+                },
+                {
+                    "Marcador": "2-1",
+                    "Probabilidad": 8.85
+                },
+                {
+                    "Marcador": "1-2",
+                    "Probabilidad": 7.84
+                },
+                {
+                    "Marcador": "1-0",
+                    "Probabilidad": 7.26
+                },
+                {
+                    "Marcador": "2-2",
+                    "Probabilidad": 6.51
+                }
+            ]
+        }
+    },
+    {
+        "Fecha": "2026-05-19",
+        "Hora": "06:35",
+        "Pais": "china",
+        "Liga": "Superliga",
+        "Link": "https://www.flashscore.co/partido/futbol/henan-songshan-longmen-Ywy81Djb/tianjin-jinmen-tiger-tCx1gsk2/?mid=fsqYMyzo",
+        "Partido": "tianjin jinmen tiger vs henan songshan longmen",
+        "Local": {
+            "Equipo": "tianjin jinmen tiger",
+            "Logo": "https://static.flashscore.com/res/image/data/GUC0BOzS-A5sD8c6B.png",
+            "ELO": 1476.26,
+            "Ultimos 10": [
+                {
+                    "GF": 1,
+                    "GC": 2,
+                    "Resultado": "P",
+                    "Rival": "chengdu rongcheng",
+                    "Marcador": "1-2"
+                },
+                {
+                    "GF": 1,
+                    "GC": 1,
+                    "Resultado": "E",
+                    "Rival": "zhejiang professional",
+                    "Marcador": "1-1"
+                },
+                {
+                    "GF": 1,
+                    "GC": 1,
+                    "Resultado": "E",
+                    "Rival": "qingdao west coast",
+                    "Marcador": "1-1"
+                },
+                {
+                    "GF": 2,
+                    "GC": 2,
+                    "Resultado": "E",
+                    "Rival": "wuhan three towns",
+                    "Marcador": "2-2"
+                },
+                {
+                    "GF": 4,
+                    "GC": 2,
+                    "Resultado": "G",
+                    "Rival": "beijing guoan",
+                    "Marcador": "4-2"
+                },
+                {
+                    "GF": 1,
+                    "GC": 2,
+                    "Resultado": "P",
+                    "Rival": "shandong taishan",
+                    "Marcador": "1-2"
+                },
+                {
+                    "GF": 3,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "yunnan yukun",
+                    "Marcador": "3-0"
+                },
+                {
+                    "GF": 1,
+                    "GC": 1,
+                    "Resultado": "E",
+                    "Rival": "qingdao hainiu",
+                    "Marcador": "1-1"
+                },
+                {
+                    "GF": 2,
+                    "GC": 3,
+                    "Resultado": "P",
+                    "Rival": "shanghai shenhua",
+                    "Marcador": "2-3"
+                },
+                {
+                    "GF": 0,
+                    "GC": 3,
+                    "Resultado": "P",
+                    "Rival": "liaoning tieren",
+                    "Marcador": "0-3"
+                }
+            ]
+        },
+        "Visitante": {
+            "Equipo": "henan songshan longmen",
+            "Logo": "https://static.flashscore.com/res/image/data/WQSZxrg5-fgNUPaDK.png",
+            "ELO": 1492.62,
+            "Ultimos 10": [
+                {
+                    "GF": 1,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "shenzhen xinpengcheng",
+                    "Marcador": "1-0"
+                },
+                {
+                    "GF": 0,
+                    "GC": 3,
+                    "Resultado": "P",
+                    "Rival": "chengdu rongcheng",
+                    "Marcador": "0-3"
+                },
+                {
+                    "GF": 1,
+                    "GC": 1,
+                    "Resultado": "E",
+                    "Rival": "chongqing tonglianglong",
+                    "Marcador": "1-1"
+                },
+                {
+                    "GF": 4,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "liaoning tieren",
+                    "Marcador": "4-0"
+                },
+                {
+                    "GF": 0,
+                    "GC": 3,
+                    "Resultado": "P",
+                    "Rival": "shanghai shenhua",
+                    "Marcador": "0-3"
+                },
+                {
+                    "GF": 0,
+                    "GC": 0,
+                    "Resultado": "E",
+                    "Rival": "qingdao west coast",
+                    "Marcador": "0-0"
+                },
+                {
+                    "GF": 1,
+                    "GC": 2,
+                    "Resultado": "P",
+                    "Rival": "dalian yingbo",
+                    "Marcador": "1-2"
+                },
+                {
+                    "GF": 0,
+                    "GC": 1,
+                    "Resultado": "P",
+                    "Rival": "shandong taishan",
+                    "Marcador": "0-1"
+                },
+                {
+                    "GF": 0,
+                    "GC": 1,
+                    "Resultado": "P",
+                    "Rival": "qingdao hainiu",
+                    "Marcador": "0-1"
+                },
+                {
+                    "GF": 1,
+                    "GC": 1,
+                    "Resultado": "E",
+                    "Rival": "wuhan three towns",
+                    "Marcador": "1-1"
+                }
+            ]
+        },
+        "Cuotas": {
+            "Local": 3.0,
+            "Empate": 2.96,
+            "Visitante": 2.38
+        },
+        "IA": {
+            "Ganador IA": "tianjin jinmen tiger",
+            "Probabilidad Local": 49.28,
+            "Probabilidad Empate": 23.22,
+            "Probabilidad Visitante": 27.5,
+            "Expected Goals Local": 1.75,
+            "Expected Goals Visitante": 1.26,
+            "Expected Goals Total": 3.01,
+            "BTTS": 59.19,
+            "Over 2.5": 57.9,
+            "Forma Local": 33.33,
+            "Forma Visitante": 30.0,
+            "ELO Local": 1476.26,
+            "ELO Visitante": 1492.62,
+            "Ventaja ELO": -0.16,
+            "Confianza IA": 23.26,
+            "Partido Riesgoso": true,
+            "Hay Value": true,
+            "Value Local": 15.95,
+            "Value Empate": -10.56,
+            "Value Visitante": -14.52,
+            "Top Marcadores": [
+                {
+                    "Marcador": "1-1",
+                    "Probabilidad": 10.87
+                },
+                {
+                    "Marcador": "2-1",
+                    "Probabilidad": 9.51
+                },
+                {
+                    "Marcador": "1-0",
+                    "Probabilidad": 8.63
+                },
+                {
+                    "Marcador": "2-0",
+                    "Probabilidad": 7.55
+                },
+                {
+                    "Marcador": "1-2",
+                    "Probabilidad": 6.85
+                }
+            ]
+        }
+    },
+    {
+        "Fecha": "2026-05-19",
+        "Hora": "07:00",
+        "Pais": "china",
+        "Liga": "Superliga",
+        "Link": "https://www.flashscore.co/partido/futbol/chengdu-rongcheng-ILi3oBgH/shanghai-port-O88o93rn/?mid=nkoJpuSi",
+        "Partido": "chengdu rongcheng vs shanghai port",
+        "Local": {
+            "Equipo": "chengdu rongcheng",
+            "Logo": "https://static.flashscore.com/res/image/data/Y9kl3wjl-OOoISEmk.png",
+            "ELO": 1593.7,
+            "Ultimos 10": [
+                {
+                    "GF": 2,
+                    "GC": 1,
+                    "Resultado": "G",
+                    "Rival": "tianjin jinmen tiger",
+                    "Marcador": "2-1"
+                },
+                {
+                    "GF": 3,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "henan songshan longmen",
+                    "Marcador": "3-0"
+                },
+                {
+                    "GF": 1,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "liaoning tieren",
+                    "Marcador": "1-0"
+                },
+                {
+                    "GF": 3,
+                    "GC": 2,
+                    "Resultado": "G",
+                    "Rival": "shanghai shenhua",
+                    "Marcador": "3-2"
+                },
+                {
+                    "GF": 4,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "zhejiang professional",
+                    "Marcador": "4-0"
+                },
+                {
+                    "GF": 2,
+                    "GC": 1,
+                    "Resultado": "G",
+                    "Rival": "yunnan yukun",
+                    "Marcador": "2-1"
+                },
+                {
+                    "GF": 1,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "wuhan three towns",
+                    "Marcador": "1-0"
+                },
+                {
+                    "GF": 2,
+                    "GC": 1,
+                    "Resultado": "G",
+                    "Rival": "beijing guoan",
+                    "Marcador": "2-1"
+                },
+                {
+                    "GF": 5,
+                    "GC": 1,
+                    "Resultado": "G",
+                    "Rival": "qingdao west coast",
+                    "Marcador": "5-1"
+                },
+                {
+                    "GF": 3,
+                    "GC": 3,
+                    "Resultado": "E",
+                    "Rival": "chongqing tonglianglong",
+                    "Marcador": "3-3"
+                }
+            ]
+        },
+        "Visitante": {
+            "Equipo": "shanghai port",
+            "Logo": "https://static.flashscore.com/res/image/data/pv2alWYA-4Iubiv1h.png",
+            "ELO": 1482.77,
+            "Ultimos 10": [
+                {
+                    "GF": 2,
+                    "GC": 2,
+                    "Resultado": "E",
+                    "Rival": "zhejiang professional",
+                    "Marcador": "2-2"
+                },
+                {
+                    "GF": 2,
+                    "GC": 2,
+                    "Resultado": "E",
+                    "Rival": "beijing guoan",
+                    "Marcador": "2-2"
+                },
+                {
+                    "GF": 1,
+                    "GC": 1,
+                    "Resultado": "E",
+                    "Rival": "shenzhen xinpengcheng",
+                    "Marcador": "1-1"
+                },
+                {
+                    "GF": 1,
+                    "GC": 3,
+                    "Resultado": "P",
+                    "Rival": "qingdao hainiu",
+                    "Marcador": "1-3"
+                },
+                {
+                    "GF": 4,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "wuhan three towns",
+                    "Marcador": "4-0"
+                },
+                {
+                    "GF": 1,
+                    "GC": 2,
+                    "Resultado": "P",
+                    "Rival": "chongqing tonglianglong",
+                    "Marcador": "1-2"
+                },
+                {
+                    "GF": 1,
+                    "GC": 1,
+                    "Resultado": "E",
+                    "Rival": "shandong taishan",
+                    "Marcador": "1-1"
+                },
+                {
+                    "GF": 0,
+                    "GC": 1,
+                    "Resultado": "P",
+                    "Rival": "shanghai shenhua",
+                    "Marcador": "0-1"
+                },
+                {
+                    "GF": 2,
+                    "GC": 1,
+                    "Resultado": "G",
+                    "Rival": "yunnan yukun",
+                    "Marcador": "2-1"
+                },
+                {
+                    "GF": 0,
+                    "GC": 1,
+                    "Resultado": "P",
+                    "Rival": "dalian yingbo",
+                    "Marcador": "0-1"
+                }
+            ]
+        },
+        "Cuotas": {
+            "Local": 1.44,
+            "Empate": 4.35,
+            "Visitante": 6.0
+        },
+        "IA": {
+            "Ganador IA": "chengdu rongcheng",
+            "Probabilidad Local": 66.14,
+            "Probabilidad Empate": 18.0,
+            "Probabilidad Visitante": 15.86,
+            "Expected Goals Local": 2.41,
+            "Expected Goals Visitante": 1.09,
+            "Expected Goals Total": 3.5,
+            "BTTS": 60.42,
+            "Over 2.5": 67.92,
+            "Forma Local": 93.33,
+            "Forma Visitante": 33.33,
+            "ELO Local": 1593.7,
+            "ELO Visitante": 1482.77,
+            "Ventaja ELO": 1.11,
+            "Confianza IA": 67.83,
+            "Partido Riesgoso": false,
+            "Hay Value": false,
+            "Value Local": -3.3,
+            "Value Empate": -4.99,
+            "Value Visitante": -0.81,
+            "Top Marcadores": [
+                {
+                    "Marcador": "2-1",
+                    "Probabilidad": 9.56
+                },
+                {
+                    "Marcador": "2-0",
+                    "Probabilidad": 8.77
+                },
+                {
+                    "Marcador": "1-1",
+                    "Probabilidad": 7.93
+                },
+                {
+                    "Marcador": "3-1",
+                    "Probabilidad": 7.68
+                },
+                {
+                    "Marcador": "1-0",
+                    "Probabilidad": 7.28
+                }
+            ]
+        }
+    },
+    {
+        "Fecha": "2026-05-19",
+        "Hora": "07:00",
+        "Pais": "china",
+        "Liga": "Superliga",
+        "Link": "https://www.flashscore.co/partido/futbol/beijing-guoan-WSLjVBLN/qingdao-west-coast-0QkqH4Gf/?mid=fFlRrJd4",
+        "Partido": "qingdao west coast vs beijing guoan",
+        "Local": {
+            "Equipo": "qingdao west coast",
+            "Logo": "https://static.flashscore.com/res/image/data/ddr7VMYA-21BCdP3t.png",
+            "ELO": 1494.7,
+            "Ultimos 10": [
+                {
+                    "GF": 3,
+                    "GC": 2,
+                    "Resultado": "G",
+                    "Rival": "dalian yingbo",
+                    "Marcador": "3-2"
+                },
+                {
+                    "GF": 1,
+                    "GC": 1,
+                    "Resultado": "E",
+                    "Rival": "wuhan three towns",
+                    "Marcador": "1-1"
+                },
+                {
+                    "GF": 1,
+                    "GC": 1,
+                    "Resultado": "E",
+                    "Rival": "tianjin jinmen tiger",
+                    "Marcador": "1-1"
+                },
+                {
+                    "GF": 1,
+                    "GC": 1,
+                    "Resultado": "E",
+                    "Rival": "shandong taishan",
+                    "Marcador": "1-1"
+                },
+                {
+                    "GF": 1,
+                    "GC": 1,
+                    "Resultado": "E",
+                    "Rival": "chongqing tonglianglong",
+                    "Marcador": "1-1"
+                },
+                {
+                    "GF": 0,
+                    "GC": 0,
+                    "Resultado": "E",
+                    "Rival": "henan songshan longmen",
+                    "Marcador": "0-0"
+                },
+                {
+                    "GF": 0,
+                    "GC": 0,
+                    "Resultado": "E",
+                    "Rival": "qingdao hainiu",
+                    "Marcador": "0-0"
+                },
+                {
+                    "GF": 1,
+                    "GC": 1,
+                    "Resultado": "E",
+                    "Rival": "liaoning tieren",
+                    "Marcador": "1-1"
+                },
+                {
+                    "GF": 1,
+                    "GC": 5,
+                    "Resultado": "P",
+                    "Rival": "chengdu rongcheng",
+                    "Marcador": "1-5"
+                },
+                {
+                    "GF": 1,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "shenzhen xinpengcheng",
+                    "Marcador": "1-0"
+                }
+            ]
+        },
+        "Visitante": {
+            "Equipo": "beijing guoan",
+            "Logo": "https://static.flashscore.com/res/image/data/jy16BaFa-0WVkf0ET.png",
+            "ELO": 1503.34,
+            "Ultimos 10": [
+                {
+                    "GF": 4,
+                    "GC": 2,
+                    "Resultado": "G",
+                    "Rival": "qingdao hainiu",
+                    "Marcador": "4-2"
+                },
+                {
+                    "GF": 2,
+                    "GC": 2,
+                    "Resultado": "E",
+                    "Rival": "shanghai port",
+                    "Marcador": "2-2"
+                },
+                {
+                    "GF": 3,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "dalian yingbo",
+                    "Marcador": "3-0"
+                },
+                {
+                    "GF": 3,
+                    "GC": 3,
+                    "Resultado": "E",
+                    "Rival": "yunnan yukun",
+                    "Marcador": "3-3"
+                },
+                {
+                    "GF": 2,
+                    "GC": 4,
+                    "Resultado": "P",
+                    "Rival": "tianjin jinmen tiger",
+                    "Marcador": "2-4"
+                },
+                {
+                    "GF": 1,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "shenzhen xinpengcheng",
+                    "Marcador": "1-0"
+                },
+                {
+                    "GF": 0,
+                    "GC": 0,
+                    "Resultado": "E",
+                    "Rival": "zhejiang professional",
+                    "Marcador": "0-0"
+                },
+                {
+                    "GF": 1,
+                    "GC": 2,
+                    "Resultado": "P",
+                    "Rival": "chengdu rongcheng",
+                    "Marcador": "1-2"
+                },
+                {
+                    "GF": 1,
+                    "GC": 2,
+                    "Resultado": "P",
+                    "Rival": "liaoning tieren",
+                    "Marcador": "1-2"
+                },
+                {
+                    "GF": 1,
+                    "GC": 1,
+                    "Resultado": "E",
+                    "Rival": "shanghai shenhua",
+                    "Marcador": "1-1"
+                }
+            ]
+        },
+        "Cuotas": {
+            "Local": 3.5,
+            "Empate": 3.25,
+            "Visitante": 2.02
+        },
+        "IA": {
+            "Ganador IA": "qingdao west coast",
+            "Probabilidad Local": 40.77,
+            "Probabilidad Empate": 23.21,
+            "Probabilidad Visitante": 36.02,
+            "Expected Goals Local": 1.7,
+            "Expected Goals Visitante": 1.58,
+            "Expected Goals Total": 3.28,
+            "BTTS": 64.9,
+            "Over 2.5": 63.65,
+            "Forma Local": 43.33,
+            "Forma Visitante": 43.33,
+            "ELO Local": 1494.7,
+            "ELO Visitante": 1503.34,
+            "Ventaja ELO": -0.09,
+            "Confianza IA": 5.18,
+            "Partido Riesgoso": true,
+            "Hay Value": true,
+            "Value Local": 12.2,
+            "Value Empate": -7.56,
+            "Value Visitante": -13.48,
+            "Top Marcadores": [
+                {
+                    "Marcador": "1-1",
+                    "Probabilidad": 10.11
+                },
+                {
+                    "Marcador": "2-1",
+                    "Probabilidad": 8.59
+                },
+                {
+                    "Marcador": "1-2",
+                    "Probabilidad": 7.98
+                },
+                {
+                    "Marcador": "2-2",
+                    "Probabilidad": 6.79
+                },
+                {
+                    "Marcador": "1-0",
+                    "Probabilidad": 6.4
+                }
+            ]
+        }
+    },
+    {
+        "Fecha": "2026-05-19",
+        "Hora": "06:30",
+        "Pais": "india",
+        "Liga": "ISL",
+        "Link": "https://www.flashscore.co/partido/futbol/mohammedan-4WuwGxXs/north-east-united-lxzzNWjG/?mid=IXX4URt2",
+        "Partido": "north east utd vs mohammedan",
+        "Local": {
+            "Equipo": "north east utd",
+            "Logo": "https://static.flashscore.com/res/image/data/QRP6jUZA-URNmjRbg.png",
+            "ELO": 1485.18,
+            "Ultimos 10": [
+                {
+                    "GF": 4,
+                    "GC": 1,
+                    "Resultado": "G",
+                    "Rival": "chennaiyin",
+                    "Marcador": "4-1"
+                },
+                {
+                    "GF": 3,
+                    "GC": 2,
+                    "Resultado": "G",
+                    "Rival": "inter kashi",
+                    "Marcador": "3-2"
+                },
+                {
+                    "GF": 0,
+                    "GC": 2,
+                    "Resultado": "P",
+                    "Rival": "goa",
+                    "Marcador": "0-2"
+                },
+                {
+                    "GF": 0,
+                    "GC": 1,
+                    "Resultado": "P",
+                    "Rival": "mohun bagan",
+                    "Marcador": "0-1"
+                },
+                {
+                    "GF": 1,
+                    "GC": 1,
+                    "Resultado": "E",
+                    "Rival": "kerala blasters",
+                    "Marcador": "1-1"
+                },
+                {
+                    "GF": 0,
+                    "GC": 3,
+                    "Resultado": "P",
+                    "Rival": "sc delhi",
+                    "Marcador": "0-3"
+                },
+                {
+                    "GF": 1,
+                    "GC": 4,
+                    "Resultado": "P",
+                    "Rival": "odisha fc",
+                    "Marcador": "1-4"
+                },
+                {
+                    "GF": 2,
+                    "GC": 1,
+                    "Resultado": "G",
+                    "Rival": "jamshedpur",
+                    "Marcador": "2-1"
+                },
+                {
+                    "GF": 1,
+                    "GC": 1,
+                    "Resultado": "E",
+                    "Rival": "punjab",
+                    "Marcador": "1-1"
+                },
+                {
+                    "GF": 1,
+                    "GC": 1,
+                    "Resultado": "E",
+                    "Rival": "mumbai city",
+                    "Marcador": "1-1"
+                }
+            ]
+        },
+        "Visitante": {
+            "Equipo": "mohammedan",
+            "Logo": "https://static.flashscore.com/res/image/data/p4baepjl-bRHSiNvq.png",
+            "ELO": 1424.06,
+            "Ultimos 10": [
+                {
+                    "GF": 0,
+                    "GC": 4,
+                    "Resultado": "P",
+                    "Rival": "mumbai city",
+                    "Marcador": "0-4"
+                },
+                {
+                    "GF": 1,
+                    "GC": 3,
+                    "Resultado": "P",
+                    "Rival": "kerala blasters",
+                    "Marcador": "1-3"
+                },
+                {
+                    "GF": 2,
+                    "GC": 2,
+                    "Resultado": "E",
+                    "Rival": "sc delhi",
+                    "Marcador": "2-2"
+                },
+                {
+                    "GF": 0,
+                    "GC": 0,
+                    "Resultado": "E",
+                    "Rival": "chennaiyin",
+                    "Marcador": "0-0"
+                },
+                {
+                    "GF": 1,
+                    "GC": 1,
+                    "Resultado": "E",
+                    "Rival": "odisha fc",
+                    "Marcador": "1-1"
+                },
+                {
+                    "GF": 0,
+                    "GC": 1,
+                    "Resultado": "P",
+                    "Rival": "inter kashi",
+                    "Marcador": "0-1"
+                },
+                {
+                    "GF": 1,
+                    "GC": 2,
+                    "Resultado": "P",
+                    "Rival": "punjab",
+                    "Marcador": "1-2"
+                },
+                {
+                    "GF": 0,
+                    "GC": 7,
+                    "Resultado": "P",
+                    "Rival": "east bengal",
+                    "Marcador": "0-7"
+                },
+                {
+                    "GF": 1,
+                    "GC": 2,
+                    "Resultado": "P",
+                    "Rival": "bengaluru fc",
+                    "Marcador": "1-2"
+                },
+                {
+                    "GF": 1,
+                    "GC": 5,
+                    "Resultado": "P",
+                    "Rival": "mohun bagan",
+                    "Marcador": "1-5"
+                }
+            ]
+        },
+        "Cuotas": {
+            "Local": 1.29,
+            "Empate": 5.0,
+            "Visitante": 8.75
+        },
+        "IA": {
+            "Ganador IA": "north east utd",
+            "Probabilidad Local": 64.37,
+            "Probabilidad Empate": 18.23,
+            "Probabilidad Visitante": 17.4,
+            "Expected Goals Local": 2.37,
+            "Expected Goals Visitante": 1.17,
+            "Expected Goals Total": 3.54,
+            "BTTS": 62.52,
+            "Over 2.5": 68.65,
+            "Forma Local": 40.0,
+            "Forma Visitante": 10.0,
+            "ELO Local": 1485.18,
+            "ELO Visitante": 1424.06,
+            "Ventaja ELO": 0.61,
+            "Confianza IA": 56.03,
+            "Partido Riesgoso": false,
+            "Hay Value": true,
+            "Value Local": -13.15,
+            "Value Empate": -1.77,
+            "Value Visitante": 5.97,
+            "Top Marcadores": [
+                {
+                    "Marcador": "2-1",
+                    "Probabilidad": 9.53
+                },
+                {
+                    "Marcador": "2-0",
+                    "Probabilidad": 8.15
+                },
+                {
+                    "Marcador": "1-1",
+                    "Probabilidad": 8.05
+                },
+                {
+                    "Marcador": "3-1",
+                    "Probabilidad": 7.53
+                },
+                {
+                    "Marcador": "1-0",
+                    "Probabilidad": 6.88
                 }
             ]
         }
