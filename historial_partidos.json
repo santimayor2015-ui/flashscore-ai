@@ -2,6 +2,15 @@
     {
         "Pais":"alemania",
         "Liga":"bundesliga",
+        "Fecha":"2026-05-21T13:30:00.000",
+        "Local":"wolfsburgo",
+        "Visitante":"paderborn",
+        "Gol Local":0,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"alemania",
+        "Liga":"bundesliga",
         "Fecha":"2026-05-16T08:30:00.000",
         "Local":"bayer leverkusen",
         "Visitante":"hamburgo",
@@ -2751,6 +2760,15 @@
         "Local":"bayern munich",
         "Visitante":"rb leipzig",
         "Gol Local":6,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"alemania",
+        "Liga":"2. bundesliga",
+        "Fecha":"2026-05-22T13:30:00.000",
+        "Local":"rw essen",
+        "Visitante":"greuther furth",
+        "Gol Local":1,
         "Gol Visitante":0
     },
     {
@@ -10568,6 +10586,15 @@
     {
         "Pais":"andorra",
         "Liga":"primera divisio",
+        "Fecha":"2026-05-23T13:30:00.000",
+        "Local":"sporting escaldes",
+        "Visitante":"esperanca",
+        "Gol Local":1,
+        "Gol Visitante":3
+    },
+    {
+        "Pais":"andorra",
+        "Liga":"primera divisio",
         "Fecha":"2026-05-17T04:00:00.000",
         "Local":"atletic escaldes",
         "Visitante":"penya",
@@ -10607,8 +10634,8 @@
         "Fecha":"2026-05-10T04:00:00.000",
         "Local":"esperanca",
         "Visitante":"ue santa coloma",
-        "Gol Local":0,
-        "Gol Visitante":3
+        "Gol Local":3,
+        "Gol Visitante":0
     },
     {
         "Pais":"andorra",
@@ -11554,6 +11581,150 @@
         "Visitante":"inter escaldes",
         "Gol Local":1,
         "Gol Visitante":2
+    },
+    {
+        "Pais":"angola",
+        "Liga":"girabola",
+        "Fecha":"2026-05-24T09:00:00.000",
+        "Local":"academica",
+        "Visitante":"interclube",
+        "Gol Local":0,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"angola",
+        "Liga":"girabola",
+        "Fecha":"2026-05-24T09:00:00.000",
+        "Local":"bravos do maquis",
+        "Visitante":"guelson",
+        "Gol Local":0,
+        "Gol Visitante":2
+    },
+    {
+        "Pais":"angola",
+        "Liga":"girabola",
+        "Fecha":"2026-05-24T09:00:00.000",
+        "Local":"desportivo huila",
+        "Visitante":"petro",
+        "Gol Local":0,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"angola",
+        "Liga":"girabola",
+        "Fecha":"2026-05-24T09:00:00.000",
+        "Local":"libolo",
+        "Visitante":"kabuscorp",
+        "Gol Local":0,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"angola",
+        "Liga":"girabola",
+        "Fecha":"2026-05-24T09:00:00.000",
+        "Local":"primeiro de agosto",
+        "Visitante":"redonda",
+        "Gol Local":1,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"angola",
+        "Liga":"girabola",
+        "Fecha":"2026-05-24T09:00:00.000",
+        "Local":"sagrada",
+        "Visitante":"primeiro de maio",
+        "Gol Local":1,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"angola",
+        "Liga":"girabola",
+        "Fecha":"2026-05-24T09:00:00.000",
+        "Local":"sao salvador",
+        "Visitante":"luanda city",
+        "Gol Local":1,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"angola",
+        "Liga":"girabola",
+        "Fecha":"2026-05-24T09:00:00.000",
+        "Local":"wiliete",
+        "Visitante":"cd lunda sul",
+        "Gol Local":1,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"angola",
+        "Liga":"girabola",
+        "Fecha":"2026-05-20T09:00:00.000",
+        "Local":"academica",
+        "Visitante":"petro",
+        "Gol Local":1,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"angola",
+        "Liga":"girabola",
+        "Fecha":"2026-05-20T09:00:00.000",
+        "Local":"cd lunda sul",
+        "Visitante":"bravos do maquis",
+        "Gol Local":1,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"angola",
+        "Liga":"girabola",
+        "Fecha":"2026-05-20T09:00:00.000",
+        "Local":"guelson",
+        "Visitante":"sagrada",
+        "Gol Local":1,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"angola",
+        "Liga":"girabola",
+        "Fecha":"2026-05-20T09:00:00.000",
+        "Local":"interclube",
+        "Visitante":"libolo",
+        "Gol Local":1,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"angola",
+        "Liga":"girabola",
+        "Fecha":"2026-05-20T09:00:00.000",
+        "Local":"kabuscorp",
+        "Visitante":"sao salvador",
+        "Gol Local":1,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"angola",
+        "Liga":"girabola",
+        "Fecha":"2026-05-20T09:00:00.000",
+        "Local":"luanda city",
+        "Visitante":"primeiro de agosto",
+        "Gol Local":0,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"angola",
+        "Liga":"girabola",
+        "Fecha":"2026-05-20T09:00:00.000",
+        "Local":"primeiro de maio",
+        "Visitante":"desportivo huila",
+        "Gol Local":0,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"angola",
+        "Liga":"girabola",
+        "Fecha":"2026-05-20T09:00:00.000",
+        "Local":"redonda",
+        "Visitante":"wiliete",
+        "Gol Local":1,
+        "Gol Visitante":1
     },
     {
         "Pais":"angola",
@@ -13552,6 +13723,87 @@
         "Visitante":"kabuscorp",
         "Gol Local":0,
         "Gol Visitante":1
+    },
+    {
+        "Pais":"arabia saudi",
+        "Liga":"saudi professional league",
+        "Fecha":"2026-05-21T13:00:00.000",
+        "Local":"al fayha",
+        "Visitante":"al-hilal",
+        "Gol Local":0,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"arabia saudi",
+        "Liga":"saudi professional league",
+        "Fecha":"2026-05-21T13:00:00.000",
+        "Local":"al hazem",
+        "Visitante":"al-taawon",
+        "Gol Local":2,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"arabia saudi",
+        "Liga":"saudi professional league",
+        "Fecha":"2026-05-21T13:00:00.000",
+        "Local":"al kholood",
+        "Visitante":"al fateh",
+        "Gol Local":0,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"arabia saudi",
+        "Liga":"saudi professional league",
+        "Fecha":"2026-05-21T13:00:00.000",
+        "Local":"al nassr riyadh",
+        "Visitante":"damac",
+        "Gol Local":4,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"arabia saudi",
+        "Liga":"saudi professional league",
+        "Fecha":"2026-05-21T13:00:00.000",
+        "Local":"al riyadh",
+        "Visitante":"al okhdood",
+        "Gol Local":1,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"arabia saudi",
+        "Liga":"saudi professional league",
+        "Fecha":"2026-05-21T13:00:00.000",
+        "Local":"al-ittihad fc",
+        "Visitante":"al qadsiah",
+        "Gol Local":1,
+        "Gol Visitante":5
+    },
+    {
+        "Pais":"arabia saudi",
+        "Liga":"saudi professional league",
+        "Fecha":"2026-05-21T13:00:00.000",
+        "Local":"neom sc",
+        "Visitante":"al-ettifaq",
+        "Gol Local":1,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"arabia saudi",
+        "Liga":"saudi professional league",
+        "Fecha":"2026-05-20T13:00:00.000",
+        "Local":"al khaleej",
+        "Visitante":"al ahli sc",
+        "Gol Local":1,
+        "Gol Visitante":4
+    },
+    {
+        "Pais":"arabia saudi",
+        "Liga":"saudi professional league",
+        "Fecha":"2026-05-20T13:00:00.000",
+        "Local":"al najma",
+        "Visitante":"al shabab",
+        "Gol Local":1,
+        "Gol Visitante":0
     },
     {
         "Pais":"arabia saudi",
@@ -16229,6 +16481,15 @@
     {
         "Pais":"argentina",
         "Liga":"liga profesional",
+        "Fecha":"2026-05-24T13:30:00.000",
+        "Local":"river plate",
+        "Visitante":"belgrano",
+        "Gol Local":2,
+        "Gol Visitante":3
+    },
+    {
+        "Pais":"argentina",
+        "Liga":"liga profesional",
         "Fecha":"2026-05-17T15:00:00.000",
         "Local":"argentinos jrs.",
         "Visitante":"belgrano",
@@ -18515,6 +18776,186 @@
     {
         "Pais":"argentina",
         "Liga":"primera nacional",
+        "Fecha":"2026-05-24T17:00:00.000",
+        "Local":"san martin tuc.",
+        "Visitante":"atlanta",
+        "Gol Local":0,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"argentina",
+        "Liga":"primera nacional",
+        "Fecha":"2026-05-24T16:30:00.000",
+        "Local":"club a. guemes",
+        "Visitante":"patronato",
+        "Gol Local":1,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"argentina",
+        "Liga":"primera nacional",
+        "Fecha":"2026-05-24T16:30:00.000",
+        "Local":"gimnasia y tiro",
+        "Visitante":"gimnasia jujuy",
+        "Gol Local":1,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"argentina",
+        "Liga":"primera nacional",
+        "Fecha":"2026-05-24T16:00:00.000",
+        "Local":"colon",
+        "Visitante":"ca mitre",
+        "Gol Local":1,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"argentina",
+        "Liga":"primera nacional",
+        "Fecha":"2026-05-24T14:30:00.000",
+        "Local":"godoy cruz",
+        "Visitante":"all boys",
+        "Gol Local":4,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"argentina",
+        "Liga":"primera nacional",
+        "Fecha":"2026-05-24T14:00:00.000",
+        "Local":"agropecuario",
+        "Visitante":"quilmes",
+        "Gol Local":0,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"argentina",
+        "Liga":"primera nacional",
+        "Fecha":"2026-05-24T14:00:00.000",
+        "Local":"chaco for ever",
+        "Visitante":"deportivo madryn",
+        "Gol Local":1,
+        "Gol Visitante":2
+    },
+    {
+        "Pais":"argentina",
+        "Liga":"primera nacional",
+        "Fecha":"2026-05-24T14:00:00.000",
+        "Local":"ferro carril oeste",
+        "Visitante":"central norte",
+        "Gol Local":1,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"argentina",
+        "Liga":"primera nacional",
+        "Fecha":"2026-05-24T13:30:00.000",
+        "Local":"chacarita",
+        "Visitante":"almagro",
+        "Gol Local":1,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"argentina",
+        "Liga":"primera nacional",
+        "Fecha":"2026-05-24T13:00:00.000",
+        "Local":"deportivo moron",
+        "Visitante":"ca estudiantes 2",
+        "Gol Local":2,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"argentina",
+        "Liga":"primera nacional",
+        "Fecha":"2026-05-24T12:00:00.000",
+        "Local":"acassuso",
+        "Visitante":"def. de belgrano",
+        "Gol Local":1,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"argentina",
+        "Liga":"primera nacional",
+        "Fecha":"2026-05-23T14:30:00.000",
+        "Local":"atl. rafaela",
+        "Visitante":"midland",
+        "Gol Local":1,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"argentina",
+        "Liga":"primera nacional",
+        "Fecha":"2026-05-23T14:30:00.000",
+        "Local":"san martin s.j.",
+        "Visitante":"deportivo maipu",
+        "Gol Local":2,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"argentina",
+        "Liga":"primera nacional",
+        "Fecha":"2026-05-23T14:00:00.000",
+        "Local":"nueva chicago",
+        "Visitante":"temperley",
+        "Gol Local":1,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"argentina",
+        "Liga":"primera nacional",
+        "Fecha":"2026-05-23T13:30:00.000",
+        "Local":"san miguel",
+        "Visitante":"alte. brown",
+        "Gol Local":1,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"argentina",
+        "Liga":"primera nacional",
+        "Fecha":"2026-05-23T13:00:00.000",
+        "Local":"los andes",
+        "Visitante":"racing de cordoba",
+        "Gol Local":2,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"argentina",
+        "Liga":"primera nacional",
+        "Fecha":"2026-05-23T13:00:00.000",
+        "Local":"san telmo",
+        "Visitante":"ciudad bolivar",
+        "Gol Local":0,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"argentina",
+        "Liga":"primera nacional",
+        "Fecha":"2026-05-23T13:00:00.000",
+        "Local":"tristan suarez",
+        "Visitante":"colegiales",
+        "Gol Local":0,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"argentina",
+        "Liga":"primera nacional",
+        "Fecha":"2026-05-18T18:00:00.000",
+        "Local":"all boys",
+        "Visitante":"deportivo moron",
+        "Gol Local":1,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"argentina",
+        "Liga":"primera nacional",
+        "Fecha":"2026-05-18T13:30:00.000",
+        "Local":"def. de belgrano",
+        "Visitante":"chaco for ever",
+        "Gol Local":0,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"argentina",
+        "Liga":"primera nacional",
         "Fecha":"2026-05-17T15:00:00.000",
         "Local":"deportivo maipu",
         "Visitante":"nueva chicago",
@@ -20603,6 +21044,15 @@
     {
         "Pais":"australia",
         "Liga":"a-league",
+        "Fecha":"2026-05-23T03:10:00.000",
+        "Local":"auckland fc",
+        "Visitante":"sydney fc",
+        "Gol Local":1,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"australia",
+        "Liga":"a-league",
         "Fecha":"2026-05-16T04:40:00.000",
         "Local":"newcastle jets",
         "Visitante":"sydney fc",
@@ -22055,6 +22505,33 @@
         "Fecha":"2025-10-17T00:00:00.000",
         "Local":"adelaide united",
         "Visitante":"sydney fc",
+        "Gol Local":2,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"austria",
+        "Liga":"bundesliga",
+        "Fecha":"2026-05-25T10:00:00.000",
+        "Local":"sk rapid",
+        "Visitante":"ried",
+        "Gol Local":3,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"austria",
+        "Liga":"bundesliga",
+        "Fecha":"2026-05-22T12:30:00.000",
+        "Local":"ried",
+        "Visitante":"sk rapid",
+        "Gol Local":2,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"austria",
+        "Liga":"bundesliga",
+        "Fecha":"2026-05-19T11:30:00.000",
+        "Local":"ried",
+        "Visitante":"wolfsberger",
         "Gol Local":2,
         "Gol Visitante":1
     },
@@ -25787,6 +26264,60 @@
     {
         "Pais":"azerbaiyan",
         "Liga":"premier league",
+        "Fecha":"2026-05-24T07:00:00.000",
+        "Local":"imisli fk",
+        "Visitante":"karvan",
+        "Gol Local":1,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"azerbaiyan",
+        "Liga":"premier league",
+        "Fecha":"2026-05-23T10:00:00.000",
+        "Local":"araz",
+        "Visitante":"zira",
+        "Gol Local":3,
+        "Gol Visitante":2
+    },
+    {
+        "Pais":"azerbaiyan",
+        "Liga":"premier league",
+        "Fecha":"2026-05-23T06:00:00.000",
+        "Local":"kapaz",
+        "Visitante":"neftci baku",
+        "Gol Local":0,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"azerbaiyan",
+        "Liga":"premier league",
+        "Fecha":"2026-05-22T10:30:00.000",
+        "Local":"sumqayit",
+        "Visitante":"qarabag",
+        "Gol Local":3,
+        "Gol Visitante":4
+    },
+    {
+        "Pais":"azerbaiyan",
+        "Liga":"premier league",
+        "Fecha":"2026-05-22T08:00:00.000",
+        "Local":"turan",
+        "Visitante":"sabah baku",
+        "Gol Local":1,
+        "Gol Visitante":2
+    },
+    {
+        "Pais":"azerbaiyan",
+        "Liga":"premier league",
+        "Fecha":"2026-05-21T09:30:00.000",
+        "Local":"gabala",
+        "Visitante":"shamakhi",
+        "Gol Local":3,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"azerbaiyan",
+        "Liga":"premier league",
         "Fecha":"2026-05-17T09:00:00.000",
         "Local":"sabah baku",
         "Visitante":"neftci baku",
@@ -27506,6 +28037,42 @@
     {
         "Pais":"bahrein",
         "Liga":"premier league",
+        "Fecha":"2026-05-25T11:00:00.000",
+        "Local":"al-budaiya",
+        "Visitante":"al-najma",
+        "Gol Local":0,
+        "Gol Visitante":3
+    },
+    {
+        "Pais":"bahrein",
+        "Liga":"premier league",
+        "Fecha":"2026-05-25T11:00:00.000",
+        "Local":"manama club",
+        "Visitante":"al-ittihad",
+        "Gol Local":3,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"bahrein",
+        "Liga":"premier league",
+        "Fecha":"2026-05-21T11:00:00.000",
+        "Local":"al-budaiya",
+        "Visitante":"manama club",
+        "Gol Local":0,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"bahrein",
+        "Liga":"premier league",
+        "Fecha":"2026-05-21T11:00:00.000",
+        "Local":"al-najma",
+        "Visitante":"al-ittihad",
+        "Gol Local":2,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"bahrein",
+        "Liga":"premier league",
         "Fecha":"2026-05-16T09:30:00.000",
         "Local":"al-muharraq",
         "Visitante":"aali club",
@@ -28694,6 +29261,51 @@
     {
         "Pais":"barbados",
         "Liga":"premier league",
+        "Fecha":"2026-05-24T19:00:00.000",
+        "Local":"kickstart",
+        "Visitante":"weymouth wales",
+        "Gol Local":1,
+        "Gol Visitante":3
+    },
+    {
+        "Pais":"barbados",
+        "Liga":"premier league",
+        "Fecha":"2026-05-24T17:00:00.000",
+        "Local":"paradise sc",
+        "Visitante":"brittons hill",
+        "Gol Local":0,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"barbados",
+        "Liga":"premier league",
+        "Fecha":"2026-05-19T20:00:00.000",
+        "Local":"ellerton fc",
+        "Visitante":"paradise sc",
+        "Gol Local":2,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"barbados",
+        "Liga":"premier league",
+        "Fecha":"2026-05-19T18:00:00.000",
+        "Local":"bagatelle ssc",
+        "Visitante":"pride of gall hill",
+        "Gol Local":0,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"barbados",
+        "Liga":"premier league",
+        "Fecha":"2026-05-17T19:00:00.000",
+        "Local":"weymouth wales",
+        "Visitante":"uwi blackbirds",
+        "Gol Local":1,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"barbados",
+        "Liga":"premier league",
         "Fecha":"2026-05-17T17:00:00.000",
         "Local":"brittons hill",
         "Visitante":"wotton",
@@ -29382,6 +29994,123 @@
         "Local":"bagatelle ssc",
         "Visitante":"weymouth wales",
         "Gol Local":0,
+        "Gol Visitante":2
+    },
+    {
+        "Pais":"belgica",
+        "Liga":"jupiler pro league",
+        "Fecha":"2026-05-24T11:30:00.000",
+        "Local":"club brujas",
+        "Visitante":"gent",
+        "Gol Local":5,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"belgica",
+        "Liga":"jupiler pro league",
+        "Fecha":"2026-05-24T11:30:00.000",
+        "Local":"royale union sg",
+        "Visitante":"anderlecht",
+        "Gol Local":5,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"belgica",
+        "Liga":"jupiler pro league",
+        "Fecha":"2026-05-24T11:30:00.000",
+        "Local":"st. truiden",
+        "Visitante":"kv mechelen",
+        "Gol Local":3,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"belgica",
+        "Liga":"jupiler pro league",
+        "Fecha":"2026-05-23T13:45:00.000",
+        "Local":"antwerp",
+        "Visitante":"westerlo",
+        "Gol Local":2,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"belgica",
+        "Liga":"jupiler pro league",
+        "Fecha":"2026-05-23T13:45:00.000",
+        "Local":"leuven",
+        "Visitante":"genk",
+        "Gol Local":0,
+        "Gol Visitante":2
+    },
+    {
+        "Pais":"belgica",
+        "Liga":"jupiler pro league",
+        "Fecha":"2026-05-23T13:45:00.000",
+        "Local":"st. lieja",
+        "Visitante":"charleroi",
+        "Gol Local":0,
+        "Gol Visitante":2
+    },
+    {
+        "Pais":"belgica",
+        "Liga":"jupiler pro league",
+        "Fecha":"2026-05-23T11:15:00.000",
+        "Local":"dender",
+        "Visitante":"lommel sk",
+        "Gol Local":0,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"belgica",
+        "Liga":"jupiler pro league",
+        "Fecha":"2026-05-21T13:30:00.000",
+        "Local":"anderlecht",
+        "Visitante":"st. truiden",
+        "Gol Local":3,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"belgica",
+        "Liga":"jupiler pro league",
+        "Fecha":"2026-05-21T13:30:00.000",
+        "Local":"gent",
+        "Visitante":"royale union sg",
+        "Gol Local":0,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"belgica",
+        "Liga":"jupiler pro league",
+        "Fecha":"2026-05-21T13:30:00.000",
+        "Local":"kv mechelen",
+        "Visitante":"club brujas",
+        "Gol Local":2,
+        "Gol Visitante":2
+    },
+    {
+        "Pais":"belgica",
+        "Liga":"jupiler pro league",
+        "Fecha":"2026-05-19T13:30:00.000",
+        "Local":"charleroi",
+        "Visitante":"leuven",
+        "Gol Local":1,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"belgica",
+        "Liga":"jupiler pro league",
+        "Fecha":"2026-05-19T13:30:00.000",
+        "Local":"genk",
+        "Visitante":"antwerp",
+        "Gol Local":0,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"belgica",
+        "Liga":"jupiler pro league",
+        "Fecha":"2026-05-19T13:30:00.000",
+        "Local":"westerlo",
+        "Visitante":"st. lieja",
+        "Gol Local":1,
         "Gol Visitante":2
     },
     {
@@ -34598,6 +35327,87 @@
     {
         "Pais":"bielorrusia",
         "Liga":"vysshaya liga",
+        "Fecha":"2026-05-24T10:00:00.000",
+        "Local":"dinamo minsk",
+        "Visitante":"dnepr mogilev",
+        "Gol Local":3,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"bielorrusia",
+        "Liga":"vysshaya liga",
+        "Fecha":"2026-05-24T08:00:00.000",
+        "Local":"baranovici",
+        "Visitante":"neman grodno",
+        "Gol Local":1,
+        "Gol Visitante":2
+    },
+    {
+        "Pais":"bielorrusia",
+        "Liga":"vysshaya liga",
+        "Fecha":"2026-05-24T06:00:00.000",
+        "Local":"slavia mozyr",
+        "Visitante":"bate",
+        "Gol Local":1,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"bielorrusia",
+        "Liga":"vysshaya liga",
+        "Fecha":"2026-05-23T12:00:00.000",
+        "Local":"dinamo brest",
+        "Visitante":"arsenal dzerzhinsk",
+        "Gol Local":3,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"bielorrusia",
+        "Liga":"vysshaya liga",
+        "Fecha":"2026-05-23T10:00:00.000",
+        "Local":"zhodino",
+        "Visitante":"fc minsk",
+        "Gol Local":3,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"bielorrusia",
+        "Liga":"vysshaya liga",
+        "Fecha":"2026-05-23T08:00:00.000",
+        "Local":"isloch",
+        "Visitante":"vitebsk",
+        "Gol Local":3,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"bielorrusia",
+        "Liga":"vysshaya liga",
+        "Fecha":"2026-05-23T06:00:00.000",
+        "Local":"belshina",
+        "Visitante":"naftan",
+        "Gol Local":5,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"bielorrusia",
+        "Liga":"vysshaya liga",
+        "Fecha":"2026-05-22T12:00:00.000",
+        "Local":"ml vitebsk",
+        "Visitante":"gomel",
+        "Gol Local":0,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"bielorrusia",
+        "Liga":"vysshaya liga",
+        "Fecha":"2026-05-20T12:30:00.000",
+        "Local":"bate",
+        "Visitante":"dinamo minsk",
+        "Gol Local":0,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"bielorrusia",
+        "Liga":"vysshaya liga",
         "Fecha":"2026-05-17T12:00:00.000",
         "Local":"arsenal dzerzhinsk",
         "Visitante":"ml vitebsk",
@@ -35165,6 +35975,15 @@
     {
         "Pais":"bolivia",
         "Liga":"division profesional",
+        "Fecha":"2026-05-17T18:30:00.000",
+        "Local":"guabira",
+        "Visitante":"nacional potosi 2",
+        "Gol Local":2,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"bolivia",
+        "Liga":"division profesional",
         "Fecha":"2026-05-16T14:00:00.000",
         "Local":"universitario de vinto",
         "Visitante":"bolivar",
@@ -35463,7 +36282,7 @@
         "Pais":"bolivia",
         "Liga":"division profesional",
         "Fecha":"2026-04-22T17:00:00.000",
-        "Local":"real potosi 3",
+        "Local":"real potosi 2",
         "Visitante":"guabira",
         "Gol Local":3,
         "Gol Visitante":0
@@ -35647,6 +36466,87 @@
         "Visitante":"real oruro",
         "Gol Local":5,
         "Gol Visitante":2
+    },
+    {
+        "Pais":"brasil",
+        "Liga":"serie a betano",
+        "Fecha":"2026-05-24T18:30:00.000",
+        "Local":"vasco",
+        "Visitante":"bragantino",
+        "Gol Local":0,
+        "Gol Visitante":3
+    },
+    {
+        "Pais":"brasil",
+        "Liga":"serie a betano",
+        "Fecha":"2026-05-24T16:30:00.000",
+        "Local":"corinthians",
+        "Visitante":"atletico-mg",
+        "Gol Local":1,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"brasil",
+        "Liga":"serie a betano",
+        "Fecha":"2026-05-24T14:00:00.000",
+        "Local":"cruzeiro",
+        "Visitante":"chapecoense",
+        "Gol Local":2,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"brasil",
+        "Liga":"serie a betano",
+        "Fecha":"2026-05-24T14:00:00.000",
+        "Local":"remo",
+        "Visitante":"athletico-pr",
+        "Gol Local":1,
+        "Gol Visitante":2
+    },
+    {
+        "Pais":"brasil",
+        "Liga":"serie a betano",
+        "Fecha":"2026-05-23T19:00:00.000",
+        "Local":"flamengo",
+        "Visitante":"palmeiras",
+        "Gol Local":0,
+        "Gol Visitante":3
+    },
+    {
+        "Pais":"brasil",
+        "Liga":"serie a betano",
+        "Fecha":"2026-05-23T17:00:00.000",
+        "Local":"gremio",
+        "Visitante":"santos",
+        "Gol Local":3,
+        "Gol Visitante":2
+    },
+    {
+        "Pais":"brasil",
+        "Liga":"serie a betano",
+        "Fecha":"2026-05-23T17:00:00.000",
+        "Local":"mirassol",
+        "Visitante":"fluminense",
+        "Gol Local":1,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"brasil",
+        "Liga":"serie a betano",
+        "Fecha":"2026-05-23T15:00:00.000",
+        "Local":"sao paulo",
+        "Visitante":"botafogo",
+        "Gol Local":1,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"brasil",
+        "Liga":"serie a betano",
+        "Fecha":"2026-05-23T15:00:00.000",
+        "Local":"vitoria",
+        "Visitante":"internacional",
+        "Gol Local":2,
+        "Gol Visitante":0
     },
     {
         "Pais":"brasil",
@@ -37064,6 +37964,105 @@
     {
         "Pais":"brasil",
         "Liga":"brasileirao serie b",
+        "Fecha":"2026-05-24T18:30:00.000",
+        "Local":"operario",
+        "Visitante":"criciuma",
+        "Gol Local":1,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"brasil",
+        "Liga":"brasileirao serie b",
+        "Fecha":"2026-05-24T17:00:00.000",
+        "Local":"avai",
+        "Visitante":"goias",
+        "Gol Local":0,
+        "Gol Visitante":2
+    },
+    {
+        "Pais":"brasil",
+        "Liga":"brasileirao serie b",
+        "Fecha":"2026-05-24T16:30:00.000",
+        "Local":"america-mg",
+        "Visitante":"vila nova",
+        "Gol Local":1,
+        "Gol Visitante":2
+    },
+    {
+        "Pais":"brasil",
+        "Liga":"brasileirao serie b",
+        "Fecha":"2026-05-24T14:30:00.000",
+        "Local":"crb",
+        "Visitante":"ponte preta",
+        "Gol Local":4,
+        "Gol Visitante":2
+    },
+    {
+        "Pais":"brasil",
+        "Liga":"brasileirao serie b",
+        "Fecha":"2026-05-24T14:00:00.000",
+        "Local":"atletico-go",
+        "Visitante":"sao bernardo",
+        "Gol Local":0,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"brasil",
+        "Liga":"brasileirao serie b",
+        "Fecha":"2026-05-23T18:30:00.000",
+        "Local":"juventude",
+        "Visitante":"sport recife",
+        "Gol Local":0,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"brasil",
+        "Liga":"brasileirao serie b",
+        "Fecha":"2026-05-23T16:30:00.000",
+        "Local":"fortaleza",
+        "Visitante":"londrina",
+        "Gol Local":3,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"brasil",
+        "Liga":"brasileirao serie b",
+        "Fecha":"2026-05-23T14:00:00.000",
+        "Local":"novorizontino",
+        "Visitante":"ceara",
+        "Gol Local":2,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"brasil",
+        "Liga":"brasileirao serie b",
+        "Fecha":"2026-05-22T17:00:00.000",
+        "Local":"nautico",
+        "Visitante":"cuiaba",
+        "Gol Local":1,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"brasil",
+        "Liga":"brasileirao serie b",
+        "Fecha":"2026-05-18T17:00:00.000",
+        "Local":"ponte preta",
+        "Visitante":"londrina",
+        "Gol Local":1,
+        "Gol Visitante":4
+    },
+    {
+        "Pais":"brasil",
+        "Liga":"brasileirao serie b",
+        "Fecha":"2026-05-17T18:30:00.000",
+        "Local":"sport recife",
+        "Visitante":"crb",
+        "Gol Local":1,
+        "Gol Visitante":2
+    },
+    {
+        "Pais":"brasil",
+        "Liga":"brasileirao serie b",
         "Fecha":"2026-05-17T16:30:00.000",
         "Local":"ceara",
         "Visitante":"fortaleza",
@@ -37851,6 +38850,114 @@
         "Local":"vila nova",
         "Visitante":"crb",
         "Gol Local":2,
+        "Gol Visitante":2
+    },
+    {
+        "Pais":"bulgaria",
+        "Liga":"efbet league",
+        "Fecha":"2026-05-25T12:30:00.000",
+        "Local":"cska 1948 sofia",
+        "Visitante":"levski",
+        "Gol Local":0,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"bulgaria",
+        "Liga":"efbet league",
+        "Fecha":"2026-05-25T12:30:00.000",
+        "Local":"ludogorets",
+        "Visitante":"cska sofia",
+        "Gol Local":1,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"bulgaria",
+        "Liga":"efbet league",
+        "Fecha":"2026-05-25T09:45:00.000",
+        "Local":"cherno more",
+        "Visitante":"arda",
+        "Gol Local":2,
+        "Gol Visitante":3
+    },
+    {
+        "Pais":"bulgaria",
+        "Liga":"efbet league",
+        "Fecha":"2026-05-25T09:45:00.000",
+        "Local":"lok. plovdiv",
+        "Visitante":"botev plovdiv",
+        "Gol Local":2,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"bulgaria",
+        "Liga":"efbet league",
+        "Fecha":"2026-05-22T10:00:00.000",
+        "Local":"botev vratsa",
+        "Visitante":"beroe",
+        "Gol Local":3,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"bulgaria",
+        "Liga":"efbet league",
+        "Fecha":"2026-05-22T10:00:00.000",
+        "Local":"septemvri sofia 2",
+        "Visitante":"dobrudzha 2",
+        "Gol Local":1,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"bulgaria",
+        "Liga":"efbet league",
+        "Fecha":"2026-05-22T10:00:00.000",
+        "Local":"spartak varna",
+        "Visitante":"lok. sofia",
+        "Gol Local":3,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"bulgaria",
+        "Liga":"efbet league",
+        "Fecha":"2026-05-22T07:30:00.000",
+        "Local":"slavia sofia",
+        "Visitante":"montana",
+        "Gol Local":2,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"bulgaria",
+        "Liga":"efbet league",
+        "Fecha":"2026-05-18T11:30:00.000",
+        "Local":"beroe",
+        "Visitante":"septemvri sofia",
+        "Gol Local":0,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"bulgaria",
+        "Liga":"efbet league",
+        "Fecha":"2026-05-18T11:30:00.000",
+        "Local":"dobrudzha",
+        "Visitante":"botev vratsa",
+        "Gol Local":1,
+        "Gol Visitante":2
+    },
+    {
+        "Pais":"bulgaria",
+        "Liga":"efbet league",
+        "Fecha":"2026-05-18T11:30:00.000",
+        "Local":"lok. sofia",
+        "Visitante":"slavia sofia",
+        "Gol Local":2,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"bulgaria",
+        "Liga":"efbet league",
+        "Fecha":"2026-05-18T11:30:00.000",
+        "Local":"montana",
+        "Visitante":"spartak varna",
+        "Gol Local":0,
         "Gol Visitante":2
     },
     {
@@ -40367,6 +41474,69 @@
     {
         "Pais":"camerun",
         "Liga":"elite one",
+        "Fecha":"2026-05-25T10:00:00.000",
+        "Local":"fortuna mfou",
+        "Visitante":"colombe",
+        "Gol Local":0,
+        "Gol Visitante":3
+    },
+    {
+        "Pais":"camerun",
+        "Liga":"elite one",
+        "Fecha":"2026-05-24T10:00:00.000",
+        "Local":"cotonsport",
+        "Visitante":"stade renard",
+        "Gol Local":2,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"camerun",
+        "Liga":"elite one",
+        "Fecha":"2026-05-24T09:30:00.000",
+        "Local":"canon yaounde",
+        "Visitante":"aigle moungo",
+        "Gol Local":0,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"camerun",
+        "Liga":"elite one",
+        "Fecha":"2026-05-24T09:00:00.000",
+        "Local":"aigle royal",
+        "Visitante":"dynamo douala",
+        "Gol Local":0,
+        "Gol Visitante":2
+    },
+    {
+        "Pais":"camerun",
+        "Liga":"elite one",
+        "Fecha":"2026-05-24T09:00:00.000",
+        "Local":"bamenda",
+        "Visitante":"fauve azur elite",
+        "Gol Local":4,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"camerun",
+        "Liga":"elite one",
+        "Fecha":"2026-05-24T09:00:00.000",
+        "Local":"victoria united",
+        "Visitante":"unisport bafang",
+        "Gol Local":2,
+        "Gol Visitante":4
+    },
+    {
+        "Pais":"camerun",
+        "Liga":"elite one",
+        "Fecha":"2026-05-24T08:00:00.000",
+        "Local":"gazelle",
+        "Visitante":"panthere",
+        "Gol Local":0,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"camerun",
+        "Liga":"elite one",
         "Fecha":"2026-05-17T10:00:00.000",
         "Local":"colombe",
         "Visitante":"panthere",
@@ -41564,6 +42734,51 @@
     {
         "Pais":"canada",
         "Liga":"canadian premier league",
+        "Fecha":"2026-05-24T16:00:00.000",
+        "Local":"cavalry",
+        "Visitante":"pacific fc",
+        "Gol Local":3,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"canada",
+        "Liga":"canadian premier league",
+        "Fecha":"2026-05-24T13:00:00.000",
+        "Local":"atl. ottawa",
+        "Visitante":"forge",
+        "Gol Local":2,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"canada",
+        "Liga":"canadian premier league",
+        "Fecha":"2026-05-23T17:00:00.000",
+        "Local":"vancouver fc",
+        "Visitante":"supra du quebec",
+        "Gol Local":1,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"canada",
+        "Liga":"canadian premier league",
+        "Fecha":"2026-05-23T14:00:00.000",
+        "Local":"hfx wanderers",
+        "Visitante":"inter toronto",
+        "Gol Local":1,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"canada",
+        "Liga":"canadian premier league",
+        "Fecha":"2026-05-17T20:00:00.000",
+        "Local":"vancouver fc",
+        "Visitante":"cavalry",
+        "Gol Local":0,
+        "Gol Visitante":2
+    },
+    {
+        "Pais":"canada",
+        "Liga":"canadian premier league",
         "Fecha":"2026-05-17T16:00:00.000",
         "Local":"pacific fc",
         "Visitante":"inter toronto",
@@ -41758,6 +42973,78 @@
         "Visitante":"atl. ottawa",
         "Gol Local":2,
         "Gol Visitante":0
+    },
+    {
+        "Pais":"chile",
+        "Liga":"liga de primera",
+        "Fecha":"2026-05-24T17:00:00.000",
+        "Local":"u. catolica",
+        "Visitante":"colo colo",
+        "Gol Local":1,
+        "Gol Visitante":2
+    },
+    {
+        "Pais":"chile",
+        "Liga":"liga de primera",
+        "Fecha":"2026-05-24T14:00:00.000",
+        "Local":"la serena",
+        "Visitante":"limache",
+        "Gol Local":4,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"chile",
+        "Liga":"liga de primera",
+        "Fecha":"2026-05-24T11:30:00.000",
+        "Local":"dep. concepcion",
+        "Visitante":"huachipato",
+        "Gol Local":2,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"chile",
+        "Liga":"liga de primera",
+        "Fecha":"2026-05-23T19:00:00.000",
+        "Local":"u. la calera",
+        "Visitante":"palestino",
+        "Gol Local":1,
+        "Gol Visitante":2
+    },
+    {
+        "Pais":"chile",
+        "Liga":"liga de primera",
+        "Fecha":"2026-05-23T14:00:00.000",
+        "Local":"nublense",
+        "Visitante":"u. de concepcion",
+        "Gol Local":2,
+        "Gol Visitante":2
+    },
+    {
+        "Pais":"chile",
+        "Liga":"liga de primera",
+        "Fecha":"2026-05-23T11:30:00.000",
+        "Local":"audax",
+        "Visitante":"cobresal",
+        "Gol Local":2,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"chile",
+        "Liga":"liga de primera",
+        "Fecha":"2026-05-22T14:00:00.000",
+        "Local":"everton",
+        "Visitante":"coquimbo",
+        "Gol Local":1,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"chile",
+        "Liga":"liga de primera",
+        "Fecha":"2026-05-17T19:00:00.000",
+        "Local":"dep. concepcion",
+        "Visitante":"everton",
+        "Gol Local":0,
+        "Gol Visitante":2
     },
     {
         "Pais":"chile",
@@ -42613,6 +43900,150 @@
         "Visitante":"audax",
         "Gol Local":0,
         "Gol Visitante":0
+    },
+    {
+        "Pais":"china",
+        "Liga":"superliga",
+        "Fecha":"2026-05-24T07:00:00.000",
+        "Local":"shanghai shenhua",
+        "Visitante":"shenzhen xinpengcheng",
+        "Gol Local":1,
+        "Gol Visitante":2
+    },
+    {
+        "Pais":"china",
+        "Liga":"superliga",
+        "Fecha":"2026-05-24T06:35:00.000",
+        "Local":"shandong taishan",
+        "Visitante":"wuhan three towns",
+        "Gol Local":3,
+        "Gol Visitante":3
+    },
+    {
+        "Pais":"china",
+        "Liga":"superliga",
+        "Fecha":"2026-05-24T06:35:00.000",
+        "Local":"zhejiang professional",
+        "Visitante":"liaoning tieren",
+        "Gol Local":0,
+        "Gol Visitante":5
+    },
+    {
+        "Pais":"china",
+        "Liga":"superliga",
+        "Fecha":"2026-05-24T06:00:00.000",
+        "Local":"yunnan yukun",
+        "Visitante":"qingdao west coast",
+        "Gol Local":2,
+        "Gol Visitante":3
+    },
+    {
+        "Pais":"china",
+        "Liga":"superliga",
+        "Fecha":"2026-05-24T04:00:00.000",
+        "Local":"qingdao hainiu",
+        "Visitante":"chongqing tonglianglong",
+        "Gol Local":0,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"china",
+        "Liga":"superliga",
+        "Fecha":"2026-05-23T07:00:00.000",
+        "Local":"dalian yingbo",
+        "Visitante":"chengdu rongcheng",
+        "Gol Local":2,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"china",
+        "Liga":"superliga",
+        "Fecha":"2026-05-23T06:35:00.000",
+        "Local":"beijing guoan",
+        "Visitante":"henan songshan longmen",
+        "Gol Local":1,
+        "Gol Visitante":2
+    },
+    {
+        "Pais":"china",
+        "Liga":"superliga",
+        "Fecha":"2026-05-23T06:00:00.000",
+        "Local":"shanghai port",
+        "Visitante":"tianjin jinmen tiger",
+        "Gol Local":1,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"china",
+        "Liga":"superliga",
+        "Fecha":"2026-05-20T07:00:00.000",
+        "Local":"chongqing tonglianglong",
+        "Visitante":"yunnan yukun",
+        "Gol Local":0,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"china",
+        "Liga":"superliga",
+        "Fecha":"2026-05-20T07:00:00.000",
+        "Local":"zhejiang professional",
+        "Visitante":"shandong taishan",
+        "Gol Local":4,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"china",
+        "Liga":"superliga",
+        "Fecha":"2026-05-20T06:35:00.000",
+        "Local":"shanghai shenhua",
+        "Visitante":"wuhan three towns",
+        "Gol Local":2,
+        "Gol Visitante":2
+    },
+    {
+        "Pais":"china",
+        "Liga":"superliga",
+        "Fecha":"2026-05-20T06:00:00.000",
+        "Local":"liaoning tieren",
+        "Visitante":"qingdao hainiu",
+        "Gol Local":2,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"china",
+        "Liga":"superliga",
+        "Fecha":"2026-05-19T07:00:00.000",
+        "Local":"chengdu rongcheng",
+        "Visitante":"shanghai port",
+        "Gol Local":0,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"china",
+        "Liga":"superliga",
+        "Fecha":"2026-05-19T07:00:00.000",
+        "Local":"qingdao west coast",
+        "Visitante":"beijing guoan",
+        "Gol Local":1,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"china",
+        "Liga":"superliga",
+        "Fecha":"2026-05-19T06:35:00.000",
+        "Local":"shenzhen xinpengcheng",
+        "Visitante":"dalian yingbo",
+        "Gol Local":1,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"china",
+        "Liga":"superliga",
+        "Fecha":"2026-05-19T06:35:00.000",
+        "Local":"tianjin jinmen tiger",
+        "Visitante":"henan songshan longmen",
+        "Gol Local":1,
+        "Gol Visitante":2
     },
     {
         "Pais":"china",
@@ -43477,6 +44908,33 @@
         "Visitante":"shenzhen xinpengcheng",
         "Gol Local":5,
         "Gol Visitante":1
+    },
+    {
+        "Pais":"chipre",
+        "Liga":"cyprus league",
+        "Fecha":"2026-05-22T09:30:00.000",
+        "Local":"aris limassol",
+        "Visitante":"aek larnaca",
+        "Gol Local":3,
+        "Gol Visitante":4
+    },
+    {
+        "Pais":"chipre",
+        "Liga":"cyprus league",
+        "Fecha":"2026-05-22T09:30:00.000",
+        "Local":"omonia",
+        "Visitante":"apollon",
+        "Gol Local":5,
+        "Gol Visitante":2
+    },
+    {
+        "Pais":"chipre",
+        "Liga":"cyprus league",
+        "Fecha":"2026-05-22T09:30:00.000",
+        "Local":"pafos",
+        "Visitante":"apoel",
+        "Gol Local":2,
+        "Gol Visitante":0
     },
     {
         "Pais":"chipre",
@@ -45614,6 +47072,24 @@
     {
         "Pais":"colombia",
         "Liga":"primera a - apertura - playoffs",
+        "Fecha":"2026-05-23T20:30:00.000",
+        "Local":"junior",
+        "Visitante":"ind. santa fe",
+        "Gol Local":1,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"colombia",
+        "Liga":"primera a - apertura - playoffs",
+        "Fecha":"2026-05-23T18:00:00.000",
+        "Local":"atl. nacional",
+        "Visitante":"tolima",
+        "Gol Local":3,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"colombia",
+        "Liga":"primera a - apertura - playoffs",
         "Fecha":"2026-05-16T20:30:00.000",
         "Local":"ind. santa fe",
         "Visitante":"junior",
@@ -47409,6 +48885,51 @@
         "Local":"pereira",
         "Visitante":"llaneros",
         "Gol Local":0,
+        "Gol Visitante":2
+    },
+    {
+        "Pais":"colombia",
+        "Liga":"primera b - apertura - cuadrangular",
+        "Fecha":"2026-05-21T19:30:00.000",
+        "Local":"real cartagena",
+        "Visitante":"barranquilla",
+        "Gol Local":2,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"colombia",
+        "Liga":"primera b - apertura - cuadrangular",
+        "Fecha":"2026-05-21T16:00:00.000",
+        "Local":"u. magdalena",
+        "Visitante":"bogota",
+        "Gol Local":0,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"colombia",
+        "Liga":"primera b - apertura - cuadrangular",
+        "Fecha":"2026-05-18T19:00:00.000",
+        "Local":"inter palmira 3",
+        "Visitante":"tigres",
+        "Gol Local":2,
+        "Gol Visitante":2
+    },
+    {
+        "Pais":"colombia",
+        "Liga":"primera b - apertura - cuadrangular",
+        "Fecha":"2026-05-18T15:00:00.000",
+        "Local":"envigado",
+        "Visitante":"quindio",
+        "Gol Local":1,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"colombia",
+        "Liga":"primera b - apertura - cuadrangular",
+        "Fecha":"2026-05-17T19:40:00.000",
+        "Local":"bogota",
+        "Visitante":"real cartagena",
+        "Gol Local":1,
         "Gol Visitante":2
     },
     {
@@ -49470,6 +50991,78 @@
         "Local":"ulsan hd",
         "Visitante":"gangwon",
         "Gol Local":3,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"corea del sur",
+        "Liga":"k league 2",
+        "Fecha":"2026-05-25T02:30:00.000",
+        "Local":"paju frontier",
+        "Visitante":"gimpo fc",
+        "Gol Local":0,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"corea del sur",
+        "Liga":"k league 2",
+        "Fecha":"2026-05-25T02:30:00.000",
+        "Local":"suwon bluewings",
+        "Visitante":"cheonan city",
+        "Gol Local":3,
+        "Gol Visitante":2
+    },
+    {
+        "Pais":"corea del sur",
+        "Liga":"k league 2",
+        "Fecha":"2026-05-24T05:00:00.000",
+        "Local":"daegu",
+        "Visitante":"ansan greeners",
+        "Gol Local":3,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"corea del sur",
+        "Liga":"k league 2",
+        "Fecha":"2026-05-24T05:00:00.000",
+        "Local":"seoul e-land",
+        "Visitante":"seongnam",
+        "Gol Local":3,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"corea del sur",
+        "Liga":"k league 2",
+        "Fecha":"2026-05-24T02:30:00.000",
+        "Local":"yongin",
+        "Visitante":"asan",
+        "Gol Local":0,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"corea del sur",
+        "Liga":"k league 2",
+        "Fecha":"2026-05-23T05:00:00.000",
+        "Local":"cheongju jikji",
+        "Visitante":"hwaseong",
+        "Gol Local":2,
+        "Gol Visitante":3
+    },
+    {
+        "Pais":"corea del sur",
+        "Liga":"k league 2",
+        "Fecha":"2026-05-23T02:30:00.000",
+        "Local":"gyeongnam",
+        "Visitante":"suwon fc",
+        "Gol Local":3,
+        "Gol Visitante":2
+    },
+    {
+        "Pais":"corea del sur",
+        "Liga":"k league 2",
+        "Fecha":"2026-05-23T02:30:00.000",
+        "Local":"jeonnam",
+        "Visitante":"gimhae",
+        "Gol Local":0,
         "Gol Visitante":1
     },
     {
@@ -52067,6 +53660,51 @@
     {
         "Pais":"croacia",
         "Liga":"hnl",
+        "Fecha":"2026-05-23T11:45:00.000",
+        "Local":"dinamo zagreb",
+        "Visitante":"lok. zagreb",
+        "Gol Local":0,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"croacia",
+        "Liga":"hnl",
+        "Fecha":"2026-05-23T09:00:00.000",
+        "Local":"rijeka",
+        "Visitante":"gorica",
+        "Gol Local":2,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"croacia",
+        "Liga":"hnl",
+        "Fecha":"2026-05-23T09:00:00.000",
+        "Local":"varazdin",
+        "Visitante":"istra 1961",
+        "Gol Local":2,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"croacia",
+        "Liga":"hnl",
+        "Fecha":"2026-05-22T11:15:00.000",
+        "Local":"hajduk split",
+        "Visitante":"vukovar 1991",
+        "Gol Local":6,
+        "Gol Visitante":3
+    },
+    {
+        "Pais":"croacia",
+        "Liga":"hnl",
+        "Fecha":"2026-05-22T09:00:00.000",
+        "Local":"osijek",
+        "Visitante":"slaven belupo",
+        "Gol Local":2,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"croacia",
+        "Liga":"hnl",
         "Fecha":"2026-05-17T11:45:00.000",
         "Local":"istra 1961",
         "Visitante":"rijeka",
@@ -53638,6 +55276,15 @@
         "Visitante":"vukovar 1991",
         "Gol Local":1,
         "Gol Visitante":0
+    },
+    {
+        "Pais":"dinamarca",
+        "Liga":"superliga",
+        "Fecha":"2026-05-21T11:30:00.000",
+        "Local":"brondby",
+        "Visitante":"copenhague",
+        "Gol Local":1,
+        "Gol Visitante":3
     },
     {
         "Pais":"dinamarca",
@@ -55366,6 +57013,132 @@
         "Visitante":"copenhague",
         "Gol Local":2,
         "Gol Visitante":3
+    },
+    {
+        "Pais":"egipto",
+        "Liga":"premier league",
+        "Fecha":"2026-05-23T12:00:00.000",
+        "Local":"al ittihad",
+        "Visitante":"ismaily",
+        "Gol Local":3,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"egipto",
+        "Liga":"premier league",
+        "Fecha":"2026-05-23T12:00:00.000",
+        "Local":"haras el hodood",
+        "Visitante":"petrojet",
+        "Gol Local":0,
+        "Gol Visitante":3
+    },
+    {
+        "Pais":"egipto",
+        "Liga":"premier league",
+        "Fecha":"2026-05-23T12:00:00.000",
+        "Local":"kahrabaa ismailia",
+        "Visitante":"arab contractors",
+        "Gol Local":2,
+        "Gol Visitante":2
+    },
+    {
+        "Pais":"egipto",
+        "Liga":"premier league",
+        "Fecha":"2026-05-23T12:00:00.000",
+        "Local":"modern sport",
+        "Visitante":"ghazl el mahallah",
+        "Gol Local":0,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"egipto",
+        "Liga":"premier league",
+        "Fecha":"2026-05-22T12:00:00.000",
+        "Local":"pharco",
+        "Visitante":"national bank egypt",
+        "Gol Local":0,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"egipto",
+        "Liga":"premier league",
+        "Fecha":"2026-05-22T09:00:00.000",
+        "Local":"el gounah",
+        "Visitante":"el gaish",
+        "Gol Local":2,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"egipto",
+        "Liga":"premier league",
+        "Fecha":"2026-05-21T12:00:00.000",
+        "Local":"wadi degla",
+        "Visitante":"zed",
+        "Gol Local":2,
+        "Gol Visitante":2
+    },
+    {
+        "Pais":"egipto",
+        "Liga":"premier league",
+        "Fecha":"2026-05-20T12:00:00.000",
+        "Local":"al masry",
+        "Visitante":"al ahly",
+        "Gol Local":0,
+        "Gol Visitante":2
+    },
+    {
+        "Pais":"egipto",
+        "Liga":"premier league",
+        "Fecha":"2026-05-20T12:00:00.000",
+        "Local":"pyramids",
+        "Visitante":"smouha",
+        "Gol Local":2,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"egipto",
+        "Liga":"premier league",
+        "Fecha":"2026-05-20T12:00:00.000",
+        "Local":"zamalek",
+        "Visitante":"ceramica cleopatra",
+        "Gol Local":1,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"egipto",
+        "Liga":"premier league",
+        "Fecha":"2026-05-18T12:00:00.000",
+        "Local":"arab contractors",
+        "Visitante":"wadi degla",
+        "Gol Local":1,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"egipto",
+        "Liga":"premier league",
+        "Fecha":"2026-05-18T12:00:00.000",
+        "Local":"ghazl el mahallah",
+        "Visitante":"al ittihad",
+        "Gol Local":1,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"egipto",
+        "Liga":"premier league",
+        "Fecha":"2026-05-18T09:00:00.000",
+        "Local":"el gaish",
+        "Visitante":"pharco",
+        "Gol Local":1,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"egipto",
+        "Liga":"premier league",
+        "Fecha":"2026-05-18T09:00:00.000",
+        "Local":"kahrabaa ismailia",
+        "Visitante":"haras el hodood",
+        "Gol Local":0,
+        "Gol Visitante":2
     },
     {
         "Pais":"egipto",
@@ -59717,6 +61490,69 @@
     {
         "Pais":"emiratos arabes unidos",
         "Liga":"division 1",
+        "Fecha":"2026-05-23T09:10:00.000",
+        "Local":"al fujairah",
+        "Visitante":"majd fc",
+        "Gol Local":0,
+        "Gol Visitante":2
+    },
+    {
+        "Pais":"emiratos arabes unidos",
+        "Liga":"division 1",
+        "Fecha":"2026-05-23T09:10:00.000",
+        "Local":"dibba al hisn",
+        "Visitante":"al thaid",
+        "Gol Local":3,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"emiratos arabes unidos",
+        "Liga":"division 1",
+        "Fecha":"2026-05-23T09:10:00.000",
+        "Local":"emirates club",
+        "Visitante":"al hamriyah",
+        "Gol Local":0,
+        "Gol Visitante":3
+    },
+    {
+        "Pais":"emiratos arabes unidos",
+        "Liga":"division 1",
+        "Fecha":"2026-05-23T09:10:00.000",
+        "Local":"gulf united",
+        "Visitante":"al urooba",
+        "Gol Local":0,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"emiratos arabes unidos",
+        "Liga":"division 1",
+        "Fecha":"2026-05-23T09:10:00.000",
+        "Local":"hatta",
+        "Visitante":"dubai city",
+        "Gol Local":3,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"emiratos arabes unidos",
+        "Liga":"division 1",
+        "Fecha":"2026-05-23T09:10:00.000",
+        "Local":"masfut",
+        "Visitante":"al arabi",
+        "Gol Local":2,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"emiratos arabes unidos",
+        "Liga":"division 1",
+        "Fecha":"2026-05-23T09:10:00.000",
+        "Local":"united fc",
+        "Visitante":"al-ittifaq",
+        "Gol Local":1,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"emiratos arabes unidos",
+        "Liga":"division 1",
         "Fecha":"2026-05-15T09:05:00.000",
         "Local":"al arabi",
         "Visitante":"gulf united",
@@ -61481,6 +63317,42 @@
     {
         "Pais":"eslovenia",
         "Liga":"prva liga",
+        "Fecha":"2026-05-23T13:15:00.000",
+        "Local":"bravo",
+        "Visitante":"o. ljubljana",
+        "Gol Local":2,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"eslovenia",
+        "Liga":"prva liga",
+        "Fecha":"2026-05-23T10:30:00.000",
+        "Local":"maribor",
+        "Visitante":"aluminij",
+        "Gol Local":3,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"eslovenia",
+        "Liga":"prva liga",
+        "Fecha":"2026-05-22T13:00:00.000",
+        "Local":"primorje",
+        "Visitante":"celje",
+        "Gol Local":0,
+        "Gol Visitante":4
+    },
+    {
+        "Pais":"eslovenia",
+        "Liga":"prva liga",
+        "Fecha":"2026-05-22T13:00:00.000",
+        "Local":"radomlje",
+        "Visitante":"mura",
+        "Gol Local":3,
+        "Gol Visitante":2
+    },
+    {
+        "Pais":"eslovenia",
+        "Liga":"prva liga",
         "Fecha":"2026-05-17T10:30:00.000",
         "Local":"o. ljubljana",
         "Visitante":"radomlje",
@@ -61530,7 +63402,7 @@
         "Local":"maribor",
         "Visitante":"o. ljubljana",
         "Gol Local":0,
-        "Gol Visitante":1
+        "Gol Visitante":3
     },
     {
         "Pais":"eslovenia",
@@ -62899,6 +64771,96 @@
         "Visitante":"aluminij",
         "Gol Local":1,
         "Gol Visitante":2
+    },
+    {
+        "Pais":"espana",
+        "Liga":"laliga ea sports",
+        "Fecha":"2026-05-24T14:00:00.000",
+        "Local":"villarreal",
+        "Visitante":"atletico de madrid",
+        "Gol Local":5,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"espana",
+        "Liga":"laliga ea sports",
+        "Fecha":"2026-05-23T14:00:00.000",
+        "Local":"alaves",
+        "Visitante":"rayo vallecano",
+        "Gol Local":1,
+        "Gol Visitante":2
+    },
+    {
+        "Pais":"espana",
+        "Liga":"laliga ea sports",
+        "Fecha":"2026-05-23T14:00:00.000",
+        "Local":"celta de vigo",
+        "Visitante":"sevilla",
+        "Gol Local":1,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"espana",
+        "Liga":"laliga ea sports",
+        "Fecha":"2026-05-23T14:00:00.000",
+        "Local":"espanyol",
+        "Visitante":"real sociedad",
+        "Gol Local":1,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"espana",
+        "Liga":"laliga ea sports",
+        "Fecha":"2026-05-23T14:00:00.000",
+        "Local":"getafe",
+        "Visitante":"osasuna",
+        "Gol Local":1,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"espana",
+        "Liga":"laliga ea sports",
+        "Fecha":"2026-05-23T14:00:00.000",
+        "Local":"girona",
+        "Visitante":"elche",
+        "Gol Local":1,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"espana",
+        "Liga":"laliga ea sports",
+        "Fecha":"2026-05-23T14:00:00.000",
+        "Local":"mallorca",
+        "Visitante":"real oviedo",
+        "Gol Local":3,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"espana",
+        "Liga":"laliga ea sports",
+        "Fecha":"2026-05-23T14:00:00.000",
+        "Local":"real betis",
+        "Visitante":"levante",
+        "Gol Local":2,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"espana",
+        "Liga":"laliga ea sports",
+        "Fecha":"2026-05-23T14:00:00.000",
+        "Local":"real madrid",
+        "Visitante":"athletic club",
+        "Gol Local":4,
+        "Gol Visitante":2
+    },
+    {
+        "Pais":"espana",
+        "Liga":"laliga ea sports",
+        "Fecha":"2026-05-23T14:00:00.000",
+        "Local":"valencia",
+        "Visitante":"barcelona",
+        "Gol Local":3,
+        "Gol Visitante":1
     },
     {
         "Pais":"espana",
@@ -66229,6 +68191,114 @@
         "Visitante":"rayo vallecano",
         "Gol Local":1,
         "Gol Visitante":3
+    },
+    {
+        "Pais":"espana",
+        "Liga":"laliga hypermotion",
+        "Fecha":"2026-05-24T11:30:00.000",
+        "Local":"cadiz",
+        "Visitante":"leganes",
+        "Gol Local":3,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"espana",
+        "Liga":"laliga hypermotion",
+        "Fecha":"2026-05-24T11:30:00.000",
+        "Local":"cultural leonesa",
+        "Visitante":"burgos cf",
+        "Gol Local":0,
+        "Gol Visitante":2
+    },
+    {
+        "Pais":"espana",
+        "Liga":"laliga hypermotion",
+        "Fecha":"2026-05-24T11:30:00.000",
+        "Local":"eibar",
+        "Visitante":"cordoba",
+        "Gol Local":2,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"espana",
+        "Liga":"laliga hypermotion",
+        "Fecha":"2026-05-24T11:30:00.000",
+        "Local":"huesca",
+        "Visitante":"castellon",
+        "Gol Local":0,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"espana",
+        "Liga":"laliga hypermotion",
+        "Fecha":"2026-05-24T11:30:00.000",
+        "Local":"las palmas",
+        "Visitante":"real zaragoza",
+        "Gol Local":1,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"espana",
+        "Liga":"laliga hypermotion",
+        "Fecha":"2026-05-24T11:30:00.000",
+        "Local":"malaga",
+        "Visitante":"r. racing club",
+        "Gol Local":1,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"espana",
+        "Liga":"laliga hypermotion",
+        "Fecha":"2026-05-24T11:30:00.000",
+        "Local":"mirandes",
+        "Visitante":"granada",
+        "Gol Local":3,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"espana",
+        "Liga":"laliga hypermotion",
+        "Fecha":"2026-05-24T11:30:00.000",
+        "Local":"real sporting",
+        "Visitante":"almeria",
+        "Gol Local":3,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"espana",
+        "Liga":"laliga hypermotion",
+        "Fecha":"2026-05-24T11:30:00.000",
+        "Local":"real valladolid",
+        "Visitante":"deportivo de la coruna",
+        "Gol Local":0,
+        "Gol Visitante":2
+    },
+    {
+        "Pais":"espana",
+        "Liga":"laliga hypermotion",
+        "Fecha":"2026-05-24T09:15:00.000",
+        "Local":"albacete",
+        "Visitante":"real sociedad b",
+        "Gol Local":3,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"espana",
+        "Liga":"laliga hypermotion",
+        "Fecha":"2026-05-24T09:15:00.000",
+        "Local":"andorra",
+        "Visitante":"ad ceuta",
+        "Gol Local":0,
+        "Gol Visitante":2
+    },
+    {
+        "Pais":"espana",
+        "Liga":"laliga hypermotion",
+        "Fecha":"2026-05-18T13:30:00.000",
+        "Local":"leganes",
+        "Visitante":"huesca",
+        "Gol Local":0,
+        "Gol Visitante":0
     },
     {
         "Pais":"espana",
@@ -72200,6 +74270,78 @@
     {
         "Pais":"filipinas",
         "Liga":"pfl",
+        "Fecha":"2026-05-24T06:00:00.000",
+        "Local":"maharlika",
+        "Visitante":"don bosco garelli",
+        "Gol Local":3,
+        "Gol Visitante":2
+    },
+    {
+        "Pais":"filipinas",
+        "Liga":"pfl",
+        "Fecha":"2026-05-24T03:00:00.000",
+        "Local":"mendiola fc 1991",
+        "Visitante":"tuloy",
+        "Gol Local":1,
+        "Gol Visitante":4
+    },
+    {
+        "Pais":"filipinas",
+        "Liga":"pfl",
+        "Fecha":"2026-05-23T08:00:00.000",
+        "Local":"cebu fc",
+        "Visitante":"davao aguilas",
+        "Gol Local":0,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"filipinas",
+        "Liga":"pfl",
+        "Fecha":"2026-05-23T05:15:00.000",
+        "Local":"one taguig",
+        "Visitante":"kaya",
+        "Gol Local":1,
+        "Gol Visitante":3
+    },
+    {
+        "Pais":"filipinas",
+        "Liga":"pfl",
+        "Fecha":"2026-05-23T02:30:00.000",
+        "Local":"manila digger",
+        "Visitante":"stallion",
+        "Gol Local":1,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"filipinas",
+        "Liga":"pfl",
+        "Fecha":"2026-05-20T08:00:00.000",
+        "Local":"one taguig",
+        "Visitante":"cebu fc",
+        "Gol Local":1,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"filipinas",
+        "Liga":"pfl",
+        "Fecha":"2026-05-20T05:15:00.000",
+        "Local":"tuloy",
+        "Visitante":"maharlika",
+        "Gol Local":1,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"filipinas",
+        "Liga":"pfl",
+        "Fecha":"2026-05-20T02:30:00.000",
+        "Local":"don bosco garelli",
+        "Visitante":"philippine army",
+        "Gol Local":8,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"filipinas",
+        "Liga":"pfl",
         "Fecha":"2026-05-16T08:00:00.000",
         "Local":"one taguig",
         "Visitante":"stallion",
@@ -73285,6 +75427,87 @@
         "Visitante":"philippine army",
         "Gol Local":12,
         "Gol Visitante":0
+    },
+    {
+        "Pais":"finlandia",
+        "Liga":"veikkausliiga",
+        "Fecha":"2026-05-23T09:00:00.000",
+        "Local":"ilves",
+        "Visitante":"gnistan",
+        "Gol Local":2,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"finlandia",
+        "Liga":"veikkausliiga",
+        "Fecha":"2026-05-23T09:00:00.000",
+        "Local":"jaro",
+        "Visitante":"mariehamn",
+        "Gol Local":3,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"finlandia",
+        "Liga":"veikkausliiga",
+        "Fecha":"2026-05-23T09:00:00.000",
+        "Local":"kups",
+        "Visitante":"lahti",
+        "Gol Local":2,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"finlandia",
+        "Liga":"veikkausliiga",
+        "Fecha":"2026-05-23T09:00:00.000",
+        "Local":"sjk",
+        "Visitante":"oulu",
+        "Gol Local":0,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"finlandia",
+        "Liga":"veikkausliiga",
+        "Fecha":"2026-05-23T06:00:00.000",
+        "Local":"inter turku",
+        "Visitante":"tps turku",
+        "Gol Local":2,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"finlandia",
+        "Liga":"veikkausliiga",
+        "Fecha":"2026-05-22T11:00:00.000",
+        "Local":"vps",
+        "Visitante":"hjk",
+        "Gol Local":2,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"finlandia",
+        "Liga":"veikkausliiga",
+        "Fecha":"2026-05-20T11:00:00.000",
+        "Local":"kups",
+        "Visitante":"jaro",
+        "Gol Local":3,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"finlandia",
+        "Liga":"veikkausliiga",
+        "Fecha":"2026-05-20T10:00:00.000",
+        "Local":"ilves",
+        "Visitante":"inter turku",
+        "Gol Local":1,
+        "Gol Visitante":3
+    },
+    {
+        "Pais":"finlandia",
+        "Liga":"veikkausliiga",
+        "Fecha":"2026-05-18T10:00:00.000",
+        "Local":"lahti",
+        "Visitante":"vps",
+        "Gol Local":1,
+        "Gol Visitante":1
     },
     {
         "Pais":"finlandia",
@@ -76448,6 +78671,24 @@
     {
         "Pais":"francia",
         "Liga":"ligue 2",
+        "Fecha":"2026-05-24T10:00:00.000",
+        "Local":"laval",
+        "Visitante":"rouen",
+        "Gol Local":1,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"francia",
+        "Liga":"ligue 2",
+        "Fecha":"2026-05-19T13:30:00.000",
+        "Local":"rouen",
+        "Visitante":"laval",
+        "Gol Local":1,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"francia",
+        "Liga":"ligue 2",
         "Fecha":"2026-05-09T13:00:00.000",
         "Local":"annecy",
         "Visitante":"rodez",
@@ -79247,6 +81488,15 @@
     {
         "Pais":"gales",
         "Liga":"cymru premier",
+        "Fecha":"2026-04-03T08:30:00.000",
+        "Local":"briton ferry",
+        "Visitante":"cardiff metropolitan",
+        "Gol Local":3,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"gales",
+        "Liga":"cymru premier",
         "Fecha":"2026-04-18T11:15:00.000",
         "Local":"barry",
         "Visitante":"tns",
@@ -79270,6 +81520,24 @@
         "Visitante":"colwyn bay",
         "Gol Local":1,
         "Gol Visitante":1
+    },
+    {
+        "Pais":"gales",
+        "Liga":"cymru premier",
+        "Fecha":"2026-04-03T08:30:00.000",
+        "Local":"flint",
+        "Visitante":"haverfordwest",
+        "Gol Local":0,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"gales",
+        "Liga":"cymru premier",
+        "Fecha":"2026-04-03T08:30:00.000",
+        "Local":"llanelli",
+        "Visitante":"bala town",
+        "Gol Local":0,
+        "Gol Visitante":5
     },
     {
         "Pais":"gales",
@@ -79301,47 +81569,11 @@
     {
         "Pais":"gales",
         "Liga":"cymru premier",
-        "Fecha":"2026-04-03T08:30:00.000",
-        "Local":"briton ferry",
-        "Visitante":"cardiff metropolitan",
-        "Gol Local":3,
-        "Gol Visitante":1
-    },
-    {
-        "Pais":"gales",
-        "Liga":"cymru premier",
-        "Fecha":"2026-04-03T08:30:00.000",
-        "Local":"flint",
-        "Visitante":"haverfordwest",
-        "Gol Local":0,
-        "Gol Visitante":1
-    },
-    {
-        "Pais":"gales",
-        "Liga":"cymru premier",
-        "Fecha":"2026-04-03T08:30:00.000",
-        "Local":"llanelli",
-        "Visitante":"bala town",
-        "Gol Local":0,
-        "Gol Visitante":5
-    },
-    {
-        "Pais":"gales",
-        "Liga":"cymru premier",
         "Fecha":"2026-03-29T08:30:00.000",
         "Local":"connah's q.",
         "Visitante":"barry",
         "Gol Local":1,
         "Gol Visitante":1
-    },
-    {
-        "Pais":"gales",
-        "Liga":"cymru premier",
-        "Fecha":"2026-03-28T09:30:00.000",
-        "Local":"penybont",
-        "Visitante":"colwyn bay",
-        "Gol Local":0,
-        "Gol Visitante":0
     },
     {
         "Pais":"gales",
@@ -79368,6 +81600,15 @@
         "Local":"haverfordwest",
         "Visitante":"briton ferry",
         "Gol Local":1,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"gales",
+        "Liga":"cymru premier",
+        "Fecha":"2026-03-28T09:30:00.000",
+        "Local":"penybont",
+        "Visitante":"colwyn bay",
+        "Gol Local":0,
         "Gol Visitante":0
     },
     {
@@ -80948,6 +83189,87 @@
     {
         "Pais":"ghana",
         "Liga":"premier league",
+        "Fecha":"2026-05-24T10:00:00.000",
+        "Local":"asante kotoko",
+        "Visitante":"swedru all blacks",
+        "Gol Local":1,
+        "Gol Visitante":2
+    },
+    {
+        "Pais":"ghana",
+        "Liga":"premier league",
+        "Fecha":"2026-05-24T10:00:00.000",
+        "Local":"berekum chelsea",
+        "Visitante":"bechem united",
+        "Gol Local":3,
+        "Gol Visitante":2
+    },
+    {
+        "Pais":"ghana",
+        "Liga":"premier league",
+        "Fecha":"2026-05-24T10:00:00.000",
+        "Local":"bibiani gold stars",
+        "Visitante":"eleven wonders",
+        "Gol Local":8,
+        "Gol Visitante":3
+    },
+    {
+        "Pais":"ghana",
+        "Liga":"premier league",
+        "Fecha":"2026-05-24T10:00:00.000",
+        "Local":"hearts of oak",
+        "Visitante":"medeama",
+        "Gol Local":4,
+        "Gol Visitante":2
+    },
+    {
+        "Pais":"ghana",
+        "Liga":"premier league",
+        "Fecha":"2026-05-24T10:00:00.000",
+        "Local":"holy stars",
+        "Visitante":"dreams",
+        "Gol Local":1,
+        "Gol Visitante":4
+    },
+    {
+        "Pais":"ghana",
+        "Liga":"premier league",
+        "Fecha":"2026-05-24T10:00:00.000",
+        "Local":"karela",
+        "Visitante":"nations fc",
+        "Gol Local":0,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"ghana",
+        "Liga":"premier league",
+        "Fecha":"2026-05-24T10:00:00.000",
+        "Local":"vision",
+        "Visitante":"aduana",
+        "Gol Local":3,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"ghana",
+        "Liga":"premier league",
+        "Fecha":"2026-05-24T10:00:00.000",
+        "Local":"young apostles",
+        "Visitante":"samartex",
+        "Gol Local":2,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"ghana",
+        "Liga":"premier league",
+        "Fecha":"2026-05-23T10:00:00.000",
+        "Local":"heart of lions",
+        "Visitante":"hohoe united",
+        "Gol Local":3,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"ghana",
+        "Liga":"premier league",
         "Fecha":"2026-05-17T11:30:00.000",
         "Local":"medeama",
         "Visitante":"heart of lions",
@@ -80994,6 +83316,15 @@
         "Pais":"ghana",
         "Liga":"premier league",
         "Fecha":"2026-05-17T10:00:00.000",
+        "Local":"hohoe united",
+        "Visitante":"holy stars",
+        "Gol Local":0,
+        "Gol Visitante":3
+    },
+    {
+        "Pais":"ghana",
+        "Liga":"premier league",
+        "Fecha":"2026-05-17T10:00:00.000",
         "Local":"karela",
         "Visitante":"swedru all blacks",
         "Gol Local":1,
@@ -81033,6 +83364,15 @@
         "Local":"berekum chelsea",
         "Visitante":"dreams",
         "Gol Local":1,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"ghana",
+        "Liga":"premier league",
+        "Fecha":"2026-05-10T10:00:00.000",
+        "Local":"bibiani gold stars",
+        "Visitante":"hohoe united",
+        "Gol Local":3,
         "Gol Visitante":0
     },
     {
@@ -81087,6 +83427,15 @@
         "Local":"young apostles",
         "Visitante":"nations fc",
         "Gol Local":1,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"ghana",
+        "Liga":"premier league",
+        "Fecha":"2026-05-06T10:00:00.000",
+        "Local":"asante kotoko",
+        "Visitante":"hohoe united",
+        "Gol Local":3,
         "Gol Visitante":0
     },
     {
@@ -81183,6 +83532,15 @@
         "Pais":"ghana",
         "Liga":"premier league",
         "Fecha":"2026-05-03T10:00:00.000",
+        "Local":"hohoe united",
+        "Visitante":"berekum chelsea",
+        "Gol Local":0,
+        "Gol Visitante":3
+    },
+    {
+        "Pais":"ghana",
+        "Liga":"premier league",
+        "Fecha":"2026-05-03T10:00:00.000",
         "Local":"karela",
         "Visitante":"young apostles",
         "Gol Local":2,
@@ -81241,6 +83599,15 @@
         "Visitante":"eleven wonders",
         "Gol Local":5,
         "Gol Visitante":1
+    },
+    {
+        "Pais":"ghana",
+        "Liga":"premier league",
+        "Fecha":"2026-04-12T10:00:00.000",
+        "Local":"hohoe united",
+        "Visitante":"bechem united",
+        "Gol Local":0,
+        "Gol Visitante":3
     },
     {
         "Pais":"ghana",
@@ -81376,6 +83743,15 @@
         "Visitante":"medeama",
         "Gol Local":1,
         "Gol Visitante":1
+    },
+    {
+        "Pais":"ghana",
+        "Liga":"premier league",
+        "Fecha":"2026-04-03T10:00:00.000",
+        "Local":"eleven wonders",
+        "Visitante":"hohoe united",
+        "Gol Local":3,
+        "Gol Visitante":0
     },
     {
         "Pais":"ghana",
@@ -83567,6 +85943,33 @@
     {
         "Pais":"grecia",
         "Liga":"superliga",
+        "Fecha":"2026-05-21T11:00:00.000",
+        "Local":"kifisia",
+        "Visitante":"ael larissa",
+        "Gol Local":3,
+        "Gol Visitante":2
+    },
+    {
+        "Pais":"grecia",
+        "Liga":"superliga",
+        "Fecha":"2026-05-21T11:00:00.000",
+        "Local":"panetolikos",
+        "Visitante":"asteras t.",
+        "Gol Local":1,
+        "Gol Visitante":2
+    },
+    {
+        "Pais":"grecia",
+        "Liga":"superliga",
+        "Fecha":"2026-05-21T10:00:00.000",
+        "Local":"atromitos",
+        "Visitante":"panserraikos",
+        "Gol Local":6,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"grecia",
+        "Liga":"superliga",
         "Fecha":"2026-05-17T11:30:00.000",
         "Local":"aek",
         "Visitante":"olympiacos",
@@ -85660,6 +88063,15 @@
         "Visitante":"asteras t.",
         "Gol Local":2,
         "Gol Visitante":0
+    },
+    {
+        "Pais":"guatemala",
+        "Liga":"liga nacional",
+        "Fecha":"2026-05-23T21:00:00.000",
+        "Local":"xelaju",
+        "Visitante":"municipal",
+        "Gol Local":1,
+        "Gol Visitante":2
     },
     {
         "Pais":"guatemala",
@@ -89912,6 +92324,42 @@
     {
         "Pais":"honduras",
         "Liga":"liga nacional",
+        "Fecha":"2026-05-24T18:00:00.000",
+        "Local":"motagua",
+        "Visitante":"marathon",
+        "Gol Local":1,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"honduras",
+        "Liga":"liga nacional",
+        "Fecha":"2026-05-21T21:00:00.000",
+        "Local":"marathon",
+        "Visitante":"motagua",
+        "Gol Local":1,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"honduras",
+        "Liga":"liga nacional",
+        "Fecha":"2026-05-18T21:15:00.000",
+        "Local":"real espana",
+        "Visitante":"marathon",
+        "Gol Local":1,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"honduras",
+        "Liga":"liga nacional",
+        "Fecha":"2026-05-18T19:00:00.000",
+        "Local":"motagua",
+        "Visitante":"genesis",
+        "Gol Local":2,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"honduras",
+        "Liga":"liga nacional",
         "Fecha":"2026-05-15T21:15:00.000",
         "Local":"marathon",
         "Visitante":"olimpia",
@@ -93089,6 +95537,24 @@
     {
         "Pais":"hong kong",
         "Liga":"fa cup",
+        "Fecha":"2026-05-24T02:00:00.000",
+        "Local":"eastern district",
+        "Visitante":"north district",
+        "Gol Local":3,
+        "Gol Visitante":2
+    },
+    {
+        "Pais":"hong kong",
+        "Liga":"fa cup",
+        "Fecha":"2026-05-23T02:00:00.000",
+        "Local":"tai po",
+        "Visitante":"hong kong rangers",
+        "Gol Local":2,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"hong kong",
+        "Liga":"fa cup",
         "Fecha":"2026-03-08T05:30:00.000",
         "Local":"hong kong fc",
         "Visitante":"north district",
@@ -94925,6 +97391,60 @@
     {
         "Pais":"india",
         "Liga":"isl",
+        "Fecha":"2026-05-21T09:00:00.000",
+        "Local":"inter kashi",
+        "Visitante":"east bengal",
+        "Gol Local":1,
+        "Gol Visitante":2
+    },
+    {
+        "Pais":"india",
+        "Liga":"isl",
+        "Fecha":"2026-05-21T09:00:00.000",
+        "Local":"jamshedpur",
+        "Visitante":"odisha fc",
+        "Gol Local":0,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"india",
+        "Liga":"isl",
+        "Fecha":"2026-05-21T09:00:00.000",
+        "Local":"mohun bagan",
+        "Visitante":"sc delhi",
+        "Gol Local":2,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"india",
+        "Liga":"isl",
+        "Fecha":"2026-05-21T09:00:00.000",
+        "Local":"punjab",
+        "Visitante":"mumbai city",
+        "Gol Local":0,
+        "Gol Visitante":2
+    },
+    {
+        "Pais":"india",
+        "Liga":"isl",
+        "Fecha":"2026-05-19T06:30:00.000",
+        "Local":"north east utd",
+        "Visitante":"mohammedan",
+        "Gol Local":2,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"india",
+        "Liga":"isl",
+        "Fecha":"2026-05-18T09:00:00.000",
+        "Local":"kerala blasters",
+        "Visitante":"goa",
+        "Gol Local":2,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"india",
+        "Liga":"isl",
         "Fecha":"2026-05-17T09:00:00.000",
         "Local":"mohun bagan",
         "Visitante":"east bengal",
@@ -95685,6 +98205,123 @@
         "Local":"mohun bagan",
         "Visitante":"kerala blasters",
         "Gol Local":2,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"inglaterra",
+        "Liga":"premier league",
+        "Fecha":"2026-05-24T10:00:00.000",
+        "Local":"brighton",
+        "Visitante":"manchester utd",
+        "Gol Local":0,
+        "Gol Visitante":3
+    },
+    {
+        "Pais":"inglaterra",
+        "Liga":"premier league",
+        "Fecha":"2026-05-24T10:00:00.000",
+        "Local":"burnley",
+        "Visitante":"wolves",
+        "Gol Local":1,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"inglaterra",
+        "Liga":"premier league",
+        "Fecha":"2026-05-24T10:00:00.000",
+        "Local":"crystal palace",
+        "Visitante":"arsenal",
+        "Gol Local":1,
+        "Gol Visitante":2
+    },
+    {
+        "Pais":"inglaterra",
+        "Liga":"premier league",
+        "Fecha":"2026-05-24T10:00:00.000",
+        "Local":"fulham",
+        "Visitante":"newcastle",
+        "Gol Local":2,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"inglaterra",
+        "Liga":"premier league",
+        "Fecha":"2026-05-24T10:00:00.000",
+        "Local":"liverpool",
+        "Visitante":"brentford",
+        "Gol Local":1,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"inglaterra",
+        "Liga":"premier league",
+        "Fecha":"2026-05-24T10:00:00.000",
+        "Local":"manchester city",
+        "Visitante":"aston villa",
+        "Gol Local":1,
+        "Gol Visitante":2
+    },
+    {
+        "Pais":"inglaterra",
+        "Liga":"premier league",
+        "Fecha":"2026-05-24T10:00:00.000",
+        "Local":"nottingham forest",
+        "Visitante":"bournemouth",
+        "Gol Local":1,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"inglaterra",
+        "Liga":"premier league",
+        "Fecha":"2026-05-24T10:00:00.000",
+        "Local":"sunderland",
+        "Visitante":"chelsea",
+        "Gol Local":2,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"inglaterra",
+        "Liga":"premier league",
+        "Fecha":"2026-05-24T10:00:00.000",
+        "Local":"tottenham",
+        "Visitante":"everton",
+        "Gol Local":1,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"inglaterra",
+        "Liga":"premier league",
+        "Fecha":"2026-05-24T10:00:00.000",
+        "Local":"west ham",
+        "Visitante":"leeds utd",
+        "Gol Local":3,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"inglaterra",
+        "Liga":"premier league",
+        "Fecha":"2026-05-19T14:15:00.000",
+        "Local":"chelsea",
+        "Visitante":"tottenham",
+        "Gol Local":2,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"inglaterra",
+        "Liga":"premier league",
+        "Fecha":"2026-05-19T13:30:00.000",
+        "Local":"bournemouth",
+        "Visitante":"manchester city",
+        "Gol Local":1,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"inglaterra",
+        "Liga":"premier league",
+        "Fecha":"2026-05-18T14:00:00.000",
+        "Local":"arsenal",
+        "Visitante":"burnley",
+        "Gol Local":1,
         "Gol Visitante":0
     },
     {
@@ -98989,6 +101626,15 @@
         "Visitante":"bournemouth",
         "Gol Local":4,
         "Gol Visitante":2
+    },
+    {
+        "Pais":"inglaterra",
+        "Liga":"championship",
+        "Fecha":"2026-05-23T09:30:00.000",
+        "Local":"hull",
+        "Visitante":"middlesbrough",
+        "Gol Local":1,
+        "Gol Visitante":0
     },
     {
         "Pais":"inglaterra",
@@ -103992,6 +106638,15 @@
         "Local":"birmingham",
         "Visitante":"ipswich",
         "Gol Local":1,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"inglaterra",
+        "Liga":"league one",
+        "Fecha":"2026-05-24T07:00:00.000",
+        "Local":"bolton",
+        "Visitante":"stockport",
+        "Gol Local":4,
         "Gol Visitante":1
     },
     {
@@ -109001,6 +111656,96 @@
     {
         "Pais":"italia",
         "Liga":"serie a",
+        "Fecha":"2026-05-24T13:45:00.000",
+        "Local":"ac milan",
+        "Visitante":"cagliari",
+        "Gol Local":1,
+        "Gol Visitante":2
+    },
+    {
+        "Pais":"italia",
+        "Liga":"serie a",
+        "Fecha":"2026-05-24T13:45:00.000",
+        "Local":"cremonese",
+        "Visitante":"como",
+        "Gol Local":1,
+        "Gol Visitante":4
+    },
+    {
+        "Pais":"italia",
+        "Liga":"serie a",
+        "Fecha":"2026-05-24T13:45:00.000",
+        "Local":"lecce",
+        "Visitante":"genoa",
+        "Gol Local":1,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"italia",
+        "Liga":"serie a",
+        "Fecha":"2026-05-24T13:45:00.000",
+        "Local":"torino",
+        "Visitante":"juventus",
+        "Gol Local":2,
+        "Gol Visitante":2
+    },
+    {
+        "Pais":"italia",
+        "Liga":"serie a",
+        "Fecha":"2026-05-24T13:45:00.000",
+        "Local":"verona",
+        "Visitante":"roma",
+        "Gol Local":0,
+        "Gol Visitante":2
+    },
+    {
+        "Pais":"italia",
+        "Liga":"serie a",
+        "Fecha":"2026-05-24T11:00:00.000",
+        "Local":"napoles",
+        "Visitante":"udinese",
+        "Gol Local":1,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"italia",
+        "Liga":"serie a",
+        "Fecha":"2026-05-24T08:00:00.000",
+        "Local":"parma",
+        "Visitante":"sassuolo",
+        "Gol Local":1,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"italia",
+        "Liga":"serie a",
+        "Fecha":"2026-05-23T13:45:00.000",
+        "Local":"lazio",
+        "Visitante":"pisa",
+        "Gol Local":2,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"italia",
+        "Liga":"serie a",
+        "Fecha":"2026-05-23T11:00:00.000",
+        "Local":"bolonia",
+        "Visitante":"inter",
+        "Gol Local":3,
+        "Gol Visitante":3
+    },
+    {
+        "Pais":"italia",
+        "Liga":"serie a",
+        "Fecha":"2026-05-22T13:45:00.000",
+        "Local":"fiorentina",
+        "Visitante":"atalanta",
+        "Gol Local":1,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"italia",
+        "Liga":"serie a",
         "Fecha":"2026-05-17T13:45:00.000",
         "Local":"cagliari",
         "Visitante":"torino",
@@ -112327,6 +115072,42 @@
         "Visitante":"napoles",
         "Gol Local":0,
         "Gol Visitante":2
+    },
+    {
+        "Pais":"italia",
+        "Liga":"serie b",
+        "Fecha":"2026-05-24T13:00:00.000",
+        "Local":"catanzaro",
+        "Visitante":"monza",
+        "Gol Local":0,
+        "Gol Visitante":2
+    },
+    {
+        "Pais":"italia",
+        "Liga":"serie b",
+        "Fecha":"2026-05-22T13:00:00.000",
+        "Local":"sudtirol",
+        "Visitante":"bari",
+        "Gol Local":0,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"italia",
+        "Liga":"serie b",
+        "Fecha":"2026-05-20T13:00:00.000",
+        "Local":"palermo 2",
+        "Visitante":"catanzaro",
+        "Gol Local":2,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"italia",
+        "Liga":"serie b",
+        "Fecha":"2026-05-19T13:00:00.000",
+        "Local":"monza",
+        "Visitante":"juve stabia",
+        "Gol Local":2,
+        "Gol Visitante":1
     },
     {
         "Pais":"italia",
@@ -115796,6 +118577,51 @@
     {
         "Pais":"jamaica",
         "Liga":"premier league",
+        "Fecha":"2026-05-24T20:00:00.000",
+        "Local":"cavalier",
+        "Visitante":"portmore",
+        "Gol Local":2,
+        "Gol Visitante":3
+    },
+    {
+        "Pais":"jamaica",
+        "Liga":"premier league",
+        "Fecha":"2026-05-24T17:00:00.000",
+        "Local":"montego bay",
+        "Visitante":"mount pleasant",
+        "Gol Local":2,
+        "Gol Visitante":3
+    },
+    {
+        "Pais":"jamaica",
+        "Liga":"premier league",
+        "Fecha":"2026-05-20T21:00:00.000",
+        "Local":"montego bay",
+        "Visitante":"cavalier",
+        "Gol Local":0,
+        "Gol Visitante":2
+    },
+    {
+        "Pais":"jamaica",
+        "Liga":"premier league",
+        "Fecha":"2026-05-20T18:00:00.000",
+        "Local":"mount pleasant",
+        "Visitante":"portmore",
+        "Gol Local":2,
+        "Gol Visitante":4
+    },
+    {
+        "Pais":"jamaica",
+        "Liga":"premier league",
+        "Fecha":"2026-05-17T19:35:00.000",
+        "Local":"portmore",
+        "Visitante":"mount pleasant",
+        "Gol Local":0,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"jamaica",
+        "Liga":"premier league",
         "Fecha":"2026-05-17T17:00:00.000",
         "Local":"cavalier",
         "Visitante":"montego bay",
@@ -118293,6 +121119,96 @@
         "Local":"treasure beach",
         "Visitante":"spanish town police",
         "Gol Local":2,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"japon",
+        "Liga":"j1 league",
+        "Fecha":"2026-05-24T03:00:00.000",
+        "Local":"shimizu",
+        "Visitante":"g-osaka",
+        "Gol Local":1,
+        "Gol Visitante":2
+    },
+    {
+        "Pais":"japon",
+        "Liga":"j1 league",
+        "Fecha":"2026-05-24T00:00:00.000",
+        "Local":"mito",
+        "Visitante":"kawasaki",
+        "Gol Local":1,
+        "Gol Visitante":3
+    },
+    {
+        "Pais":"japon",
+        "Liga":"j1 league",
+        "Fecha":"2026-05-24T00:00:00.000",
+        "Local":"verdy",
+        "Visitante":"yokohama m.",
+        "Gol Local":0,
+        "Gol Visitante":6
+    },
+    {
+        "Pais":"japon",
+        "Liga":"j1 league",
+        "Fecha":"2026-05-23T22:55:00.000",
+        "Local":"okayama",
+        "Visitante":"c-osaka",
+        "Gol Local":2,
+        "Gol Visitante":3
+    },
+    {
+        "Pais":"japon",
+        "Liga":"j1 league",
+        "Fecha":"2026-05-23T05:00:00.000",
+        "Local":"kyoto",
+        "Visitante":"v-varen nagasaki",
+        "Gol Local":1,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"japon",
+        "Liga":"j1 league",
+        "Fecha":"2026-05-23T04:00:00.000",
+        "Local":"kashiwa",
+        "Visitante":"chiba",
+        "Gol Local":4,
+        "Gol Visitante":2
+    },
+    {
+        "Pais":"japon",
+        "Liga":"j1 league",
+        "Fecha":"2026-05-23T03:30:00.000",
+        "Local":"kashima",
+        "Visitante":"tokyo",
+        "Gol Local":1,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"japon",
+        "Liga":"j1 league",
+        "Fecha":"2026-05-23T00:00:00.000",
+        "Local":"avispa fukuoka",
+        "Visitante":"vissel kobe",
+        "Gol Local":0,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"japon",
+        "Liga":"j1 league",
+        "Fecha":"2026-05-23T00:00:00.000",
+        "Local":"hiroshima",
+        "Visitante":"nagoya",
+        "Gol Local":4,
+        "Gol Visitante":2
+    },
+    {
+        "Pais":"japon",
+        "Liga":"j1 league",
+        "Fecha":"2026-05-22T05:30:00.000",
+        "Local":"machida",
+        "Visitante":"urawa",
+        "Gol Local":1,
         "Gol Visitante":0
     },
     {
@@ -124490,6 +127406,78 @@
     {
         "Pais":"kazajistan",
         "Liga":"premier league",
+        "Fecha":"2026-05-23T10:00:00.000",
+        "Local":"tobol",
+        "Visitante":"ordabasy",
+        "Gol Local":0,
+        "Gol Visitante":3
+    },
+    {
+        "Pais":"kazajistan",
+        "Liga":"premier league",
+        "Fecha":"2026-05-23T09:00:00.000",
+        "Local":"aktobe",
+        "Visitante":"kyzylzhar",
+        "Gol Local":0,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"kazajistan",
+        "Liga":"premier league",
+        "Fecha":"2026-05-23T08:00:00.000",
+        "Local":"kairat almaty",
+        "Visitante":"kaisar",
+        "Gol Local":0,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"kazajistan",
+        "Liga":"premier league",
+        "Fecha":"2026-05-23T07:00:00.000",
+        "Local":"yelimay semey",
+        "Visitante":"zhenis",
+        "Gol Local":2,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"kazajistan",
+        "Liga":"premier league",
+        "Fecha":"2026-05-23T06:00:00.000",
+        "Local":"zhetysu",
+        "Visitante":"atyrau",
+        "Gol Local":0,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"kazajistan",
+        "Liga":"premier league",
+        "Fecha":"2026-05-22T09:00:00.000",
+        "Local":"kaspij aktau",
+        "Visitante":"ertis pavlodar",
+        "Gol Local":2,
+        "Gol Visitante":2
+    },
+    {
+        "Pais":"kazajistan",
+        "Liga":"premier league",
+        "Fecha":"2026-05-22T07:00:00.000",
+        "Local":"astana",
+        "Visitante":"ulytau",
+        "Gol Local":3,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"kazajistan",
+        "Liga":"premier league",
+        "Fecha":"2026-05-22T05:00:00.000",
+        "Local":"altai",
+        "Visitante":"okzhetpes",
+        "Gol Local":0,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"kazajistan",
+        "Liga":"premier league",
         "Fecha":"2026-05-17T10:00:00.000",
         "Local":"ordabasy",
         "Visitante":"zhetysu",
@@ -125215,6 +128203,51 @@
         "Visitante":"yelimay semey",
         "Gol Local":1,
         "Gol Visitante":1
+    },
+    {
+        "Pais":"kosovo",
+        "Liga":"superliga",
+        "Fecha":"2026-05-24T09:00:00.000",
+        "Local":"drenica",
+        "Visitante":"ferizaj",
+        "Gol Local":3,
+        "Gol Visitante":2
+    },
+    {
+        "Pais":"kosovo",
+        "Liga":"superliga",
+        "Fecha":"2026-05-24T09:00:00.000",
+        "Local":"drita",
+        "Visitante":"gjilani",
+        "Gol Local":0,
+        "Gol Visitante":2
+    },
+    {
+        "Pais":"kosovo",
+        "Liga":"superliga",
+        "Fecha":"2026-05-24T09:00:00.000",
+        "Local":"fc ballkani",
+        "Visitante":"prishtina",
+        "Gol Local":1,
+        "Gol Visitante":2
+    },
+    {
+        "Pais":"kosovo",
+        "Liga":"superliga",
+        "Fecha":"2026-05-24T09:00:00.000",
+        "Local":"kf llapi",
+        "Visitante":"malisheva",
+        "Gol Local":3,
+        "Gol Visitante":2
+    },
+    {
+        "Pais":"kosovo",
+        "Liga":"superliga",
+        "Fecha":"2026-05-24T09:00:00.000",
+        "Local":"prishtina e re",
+        "Visitante":"dukagjini",
+        "Gol Local":2,
+        "Gol Visitante":3
     },
     {
         "Pais":"kosovo",
@@ -126740,6 +129773,78 @@
     {
         "Pais":"letonia",
         "Liga":"virsliga",
+        "Fecha":"2026-05-25T11:00:00.000",
+        "Local":"rfs",
+        "Visitante":"tukums 2000",
+        "Gol Local":3,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"letonia",
+        "Liga":"virsliga",
+        "Fecha":"2026-05-25T10:00:00.000",
+        "Local":"ogre united",
+        "Visitante":"grobina",
+        "Gol Local":1,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"letonia",
+        "Liga":"virsliga",
+        "Fecha":"2026-05-24T07:00:00.000",
+        "Local":"riga fc",
+        "Visitante":"super nova",
+        "Gol Local":3,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"letonia",
+        "Liga":"virsliga",
+        "Fecha":"2026-05-22T10:00:00.000",
+        "Local":"auda",
+        "Visitante":"fk liepaja",
+        "Gol Local":3,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"letonia",
+        "Liga":"virsliga",
+        "Fecha":"2026-05-21T12:00:00.000",
+        "Local":"rfs",
+        "Visitante":"jelgava",
+        "Gol Local":4,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"letonia",
+        "Liga":"virsliga",
+        "Fecha":"2026-05-21T10:00:00.000",
+        "Local":"bfc daugavpils",
+        "Visitante":"ogre united",
+        "Gol Local":3,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"letonia",
+        "Liga":"virsliga",
+        "Fecha":"2026-05-20T11:00:00.000",
+        "Local":"grobina",
+        "Visitante":"super nova",
+        "Gol Local":0,
+        "Gol Visitante":2
+    },
+    {
+        "Pais":"letonia",
+        "Liga":"virsliga",
+        "Fecha":"2026-05-20T10:00:00.000",
+        "Local":"tukums 2000",
+        "Visitante":"riga fc",
+        "Gol Local":1,
+        "Gol Visitante":3
+    },
+    {
+        "Pais":"letonia",
+        "Liga":"virsliga",
         "Fecha":"2026-05-17T11:00:00.000",
         "Local":"fk liepaja",
         "Visitante":"bfc daugavpils",
@@ -127320,6 +130425,114 @@
         "Local":"rfs",
         "Visitante":"ogre united",
         "Gol Local":2,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"libia",
+        "Liga":"premier league",
+        "Fecha":"2026-05-24T10:00:00.000",
+        "Local":"al ahly tripoli",
+        "Visitante":"asswehly",
+        "Gol Local":0,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"libia",
+        "Liga":"premier league",
+        "Fecha":"2026-05-24T10:00:00.000",
+        "Local":"al madina",
+        "Visitante":"al ittihad misurata",
+        "Gol Local":1,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"libia",
+        "Liga":"premier league",
+        "Fecha":"2026-05-24T10:00:00.000",
+        "Local":"olympic azzaweya",
+        "Visitante":"al ittihad",
+        "Gol Local":1,
+        "Gol Visitante":2
+    },
+    {
+        "Pais":"libia",
+        "Liga":"premier league",
+        "Fecha":"2026-05-23T09:30:00.000",
+        "Local":"al akhdar",
+        "Visitante":"al hilal benghazi",
+        "Gol Local":2,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"libia",
+        "Liga":"premier league",
+        "Fecha":"2026-05-23T09:30:00.000",
+        "Local":"al-afreeki",
+        "Visitante":"al ahly benghazi",
+        "Gol Local":1,
+        "Gol Visitante":4
+    },
+    {
+        "Pais":"libia",
+        "Liga":"premier league",
+        "Fecha":"2026-05-23T09:30:00.000",
+        "Local":"al-nasr",
+        "Visitante":"military union",
+        "Gol Local":2,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"libia",
+        "Liga":"premier league",
+        "Fecha":"2026-05-20T10:00:00.000",
+        "Local":"al ahly tripoli",
+        "Visitante":"olympic azzaweya",
+        "Gol Local":2,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"libia",
+        "Liga":"premier league",
+        "Fecha":"2026-05-20T10:00:00.000",
+        "Local":"al ittihad misurata",
+        "Visitante":"al ittihad",
+        "Gol Local":1,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"libia",
+        "Liga":"premier league",
+        "Fecha":"2026-05-20T10:00:00.000",
+        "Local":"al madina",
+        "Visitante":"asswehly",
+        "Gol Local":0,
+        "Gol Visitante":3
+    },
+    {
+        "Pais":"libia",
+        "Liga":"premier league",
+        "Fecha":"2026-05-19T09:30:00.000",
+        "Local":"al-afreeki",
+        "Visitante":"al akhdar",
+        "Gol Local":2,
+        "Gol Visitante":3
+    },
+    {
+        "Pais":"libia",
+        "Liga":"premier league",
+        "Fecha":"2026-05-19T09:30:00.000",
+        "Local":"al-nasr",
+        "Visitante":"al ahly benghazi",
+        "Gol Local":1,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"libia",
+        "Liga":"premier league",
+        "Fecha":"2026-05-19T09:30:00.000",
+        "Local":"military union",
+        "Visitante":"al hilal benghazi",
+        "Gol Local":0,
         "Gol Visitante":0
     },
     {
@@ -130097,6 +133310,69 @@
     {
         "Pais":"marruecos",
         "Liga":"botola pro",
+        "Fecha":"2026-05-24T12:00:00.000",
+        "Local":"berkane",
+        "Visitante":"renaissance zemamra",
+        "Gol Local":1,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"marruecos",
+        "Liga":"botola pro",
+        "Fecha":"2026-05-24T10:00:00.000",
+        "Local":"dcheira",
+        "Visitante":"raja casablanca",
+        "Gol Local":0,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"marruecos",
+        "Liga":"botola pro",
+        "Fecha":"2026-05-23T15:00:00.000",
+        "Local":"difaa el jadidi",
+        "Visitante":"safi",
+        "Gol Local":1,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"marruecos",
+        "Liga":"botola pro",
+        "Fecha":"2026-05-23T13:00:00.000",
+        "Local":"wydad ac",
+        "Visitante":"agadir",
+        "Gol Local":3,
+        "Gol Visitante":2
+    },
+    {
+        "Pais":"marruecos",
+        "Liga":"botola pro",
+        "Fecha":"2026-05-23T11:00:00.000",
+        "Local":"yacoub el mansour",
+        "Visitante":"union touarga",
+        "Gol Local":1,
+        "Gol Visitante":2
+    },
+    {
+        "Pais":"marruecos",
+        "Liga":"botola pro",
+        "Fecha":"2026-05-22T15:00:00.000",
+        "Local":"kawkab marrakech",
+        "Visitante":"cod meknes",
+        "Gol Local":3,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"marruecos",
+        "Liga":"botola pro",
+        "Fecha":"2026-05-22T13:00:00.000",
+        "Local":"maghreb fez",
+        "Visitante":"ir tanger",
+        "Gol Local":0,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"marruecos",
+        "Liga":"botola pro",
         "Fecha":"2026-05-11T15:00:00.000",
         "Local":"renaissance zemamra",
         "Visitante":"dcheira",
@@ -131537,6 +134813,24 @@
     {
         "Pais":"moldavia",
         "Liga":"super liga",
+        "Fecha":"2026-05-20T09:00:00.000",
+        "Local":"real sireti",
+        "Visitante":"iskra ribnita",
+        "Gol Local":1,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"moldavia",
+        "Liga":"super liga",
+        "Fecha":"2026-05-20T09:00:00.000",
+        "Local":"sparta selemet",
+        "Visitante":"floresti",
+        "Gol Local":1,
+        "Gol Visitante":4
+    },
+    {
+        "Pais":"moldavia",
+        "Liga":"super liga",
         "Fecha":"2026-05-17T12:30:00.000",
         "Local":"balti",
         "Visitante":"dacia buiucani",
@@ -132887,6 +136181,78 @@
     {
         "Pais":"mongolia",
         "Liga":"premier league",
+        "Fecha":"2026-05-24T05:00:00.000",
+        "Local":"khovd",
+        "Visitante":"khangarid",
+        "Gol Local":0,
+        "Gol Visitante":6
+    },
+    {
+        "Pais":"mongolia",
+        "Liga":"premier league",
+        "Fecha":"2026-05-24T02:00:00.000",
+        "Local":"central stallions",
+        "Visitante":"hunters",
+        "Gol Local":1,
+        "Gol Visitante":3
+    },
+    {
+        "Pais":"mongolia",
+        "Liga":"premier league",
+        "Fecha":"2026-05-23T05:00:00.000",
+        "Local":"fc ulaanbaatar",
+        "Visitante":"deren",
+        "Gol Local":2,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"mongolia",
+        "Liga":"premier league",
+        "Fecha":"2026-05-23T02:00:00.000",
+        "Local":"khoromkhon",
+        "Visitante":"khovd western",
+        "Gol Local":1,
+        "Gol Visitante":3
+    },
+    {
+        "Pais":"mongolia",
+        "Liga":"premier league",
+        "Fecha":"2026-05-21T05:00:00.000",
+        "Local":"ulaangom city",
+        "Visitante":"khovd",
+        "Gol Local":2,
+        "Gol Visitante":3
+    },
+    {
+        "Pais":"mongolia",
+        "Liga":"premier league",
+        "Fecha":"2026-05-21T02:00:00.000",
+        "Local":"khangarid",
+        "Visitante":"central stallions",
+        "Gol Local":1,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"mongolia",
+        "Liga":"premier league",
+        "Fecha":"2026-05-20T05:00:00.000",
+        "Local":"hunters",
+        "Visitante":"fc ulaanbaatar",
+        "Gol Local":1,
+        "Gol Visitante":4
+    },
+    {
+        "Pais":"mongolia",
+        "Liga":"premier league",
+        "Fecha":"2026-05-20T02:00:00.000",
+        "Local":"deren",
+        "Visitante":"khoromkhon",
+        "Gol Local":12,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"mongolia",
+        "Liga":"premier league",
         "Fecha":"2026-05-17T05:00:00.000",
         "Local":"deren",
         "Visitante":"hunters 2",
@@ -133423,6 +136789,96 @@
         "Visitante":"deren",
         "Gol Local":2,
         "Gol Visitante":0
+    },
+    {
+        "Pais":"montenegro",
+        "Liga":"prva crnogorska liga",
+        "Fecha":"2026-05-24T13:00:00.000",
+        "Local":"arsenal tivat",
+        "Visitante":"mladost dg",
+        "Gol Local":1,
+        "Gol Visitante":4
+    },
+    {
+        "Pais":"montenegro",
+        "Liga":"prva crnogorska liga",
+        "Fecha":"2026-05-24T13:00:00.000",
+        "Local":"bokelj",
+        "Visitante":"decic",
+        "Gol Local":1,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"montenegro",
+        "Liga":"prva crnogorska liga",
+        "Fecha":"2026-05-24T13:00:00.000",
+        "Local":"jezero",
+        "Visitante":"mornar",
+        "Gol Local":0,
+        "Gol Visitante":2
+    },
+    {
+        "Pais":"montenegro",
+        "Liga":"prva crnogorska liga",
+        "Fecha":"2026-05-24T13:00:00.000",
+        "Local":"petrovac",
+        "Visitante":"buducnost",
+        "Gol Local":1,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"montenegro",
+        "Liga":"prva crnogorska liga",
+        "Fecha":"2026-05-24T13:00:00.000",
+        "Local":"sutjeska",
+        "Visitante":"jedinstvo",
+        "Gol Local":1,
+        "Gol Visitante":3
+    },
+    {
+        "Pais":"montenegro",
+        "Liga":"prva crnogorska liga",
+        "Fecha":"2026-05-20T13:00:00.000",
+        "Local":"buducnost",
+        "Visitante":"bokelj",
+        "Gol Local":2,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"montenegro",
+        "Liga":"prva crnogorska liga",
+        "Fecha":"2026-05-20T13:00:00.000",
+        "Local":"decic",
+        "Visitante":"arsenal tivat",
+        "Gol Local":1,
+        "Gol Visitante":2
+    },
+    {
+        "Pais":"montenegro",
+        "Liga":"prva crnogorska liga",
+        "Fecha":"2026-05-20T13:00:00.000",
+        "Local":"jedinstvo",
+        "Visitante":"jezero",
+        "Gol Local":2,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"montenegro",
+        "Liga":"prva crnogorska liga",
+        "Fecha":"2026-05-20T13:00:00.000",
+        "Local":"mladost dg",
+        "Visitante":"sutjeska",
+        "Gol Local":0,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"montenegro",
+        "Liga":"prva crnogorska liga",
+        "Fecha":"2026-05-20T13:00:00.000",
+        "Local":"mornar",
+        "Visitante":"petrovac",
+        "Gol Local":1,
+        "Gol Visitante":1
     },
     {
         "Pais":"montenegro",
@@ -134953,6 +138409,15 @@
         "Visitante":"bokelj",
         "Gol Local":2,
         "Gol Visitante":0
+    },
+    {
+        "Pais":"nicaragua",
+        "Liga":"liga primera",
+        "Fecha":"2026-05-23T20:00:00.000",
+        "Local":"unan-managua",
+        "Visitante":"matiguas fc",
+        "Gol Local":2,
+        "Gol Visitante":1
     },
     {
         "Pais":"nicaragua",
@@ -136708,6 +140173,96 @@
         "Visitante":"sport sebaco",
         "Gol Local":3,
         "Gol Visitante":2
+    },
+    {
+        "Pais":"nigeria",
+        "Liga":"npfl",
+        "Fecha":"2026-05-24T10:00:00.000",
+        "Local":"barau",
+        "Visitante":"nasarawa",
+        "Gol Local":3,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"nigeria",
+        "Liga":"npfl",
+        "Fecha":"2026-05-24T10:00:00.000",
+        "Local":"bayelsa united",
+        "Visitante":"kwara",
+        "Gol Local":4,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"nigeria",
+        "Liga":"npfl",
+        "Fecha":"2026-05-24T10:00:00.000",
+        "Local":"bendel",
+        "Visitante":"remo stars",
+        "Gol Local":1,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"nigeria",
+        "Liga":"npfl",
+        "Fecha":"2026-05-24T10:00:00.000",
+        "Local":"enyimba",
+        "Visitante":"el kanemi",
+        "Gol Local":3,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"nigeria",
+        "Liga":"npfl",
+        "Fecha":"2026-05-24T10:00:00.000",
+        "Local":"ikorodu city",
+        "Visitante":"rangers int'l",
+        "Gol Local":1,
+        "Gol Visitante":2
+    },
+    {
+        "Pais":"nigeria",
+        "Liga":"npfl",
+        "Fecha":"2026-05-24T10:00:00.000",
+        "Local":"kun khalifa",
+        "Visitante":"wikki tourist",
+        "Gol Local":3,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"nigeria",
+        "Liga":"npfl",
+        "Fecha":"2026-05-24T10:00:00.000",
+        "Local":"niger",
+        "Visitante":"shooting stars",
+        "Gol Local":1,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"nigeria",
+        "Liga":"npfl",
+        "Fecha":"2026-05-24T10:00:00.000",
+        "Local":"plateau",
+        "Visitante":"kano",
+        "Gol Local":1,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"nigeria",
+        "Liga":"npfl",
+        "Fecha":"2026-05-24T10:00:00.000",
+        "Local":"rivers united",
+        "Visitante":"katsina utd",
+        "Gol Local":3,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"nigeria",
+        "Liga":"npfl",
+        "Fecha":"2026-05-24T10:00:00.000",
+        "Local":"warri wolves",
+        "Visitante":"abia warriors",
+        "Gol Local":2,
+        "Gol Visitante":1
     },
     {
         "Pais":"nigeria",
@@ -140033,6 +143588,105 @@
     {
         "Pais":"noruega",
         "Liga":"eliteserien",
+        "Fecha":"2026-05-25T12:15:00.000",
+        "Local":"sandefjord",
+        "Visitante":"fredrikstad",
+        "Gol Local":1,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"noruega",
+        "Liga":"eliteserien",
+        "Fecha":"2026-05-25T10:00:00.000",
+        "Local":"hamkam",
+        "Visitante":"lillestrom",
+        "Gol Local":2,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"noruega",
+        "Liga":"eliteserien",
+        "Fecha":"2026-05-25T10:00:00.000",
+        "Local":"kfum oslo",
+        "Visitante":"rosenborg",
+        "Gol Local":2,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"noruega",
+        "Liga":"eliteserien",
+        "Fecha":"2026-05-25T10:00:00.000",
+        "Local":"sarpsborg 08",
+        "Visitante":"molde",
+        "Gol Local":2,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"noruega",
+        "Liga":"eliteserien",
+        "Fecha":"2026-05-25T10:00:00.000",
+        "Local":"troms",
+        "Visitante":"aalesund",
+        "Gol Local":1,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"noruega",
+        "Liga":"eliteserien",
+        "Fecha":"2026-05-25T07:30:00.000",
+        "Local":"start",
+        "Visitante":"valerenga",
+        "Gol Local":2,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"noruega",
+        "Liga":"eliteserien",
+        "Fecha":"2026-05-24T11:00:00.000",
+        "Local":"kristiansund",
+        "Visitante":"viking",
+        "Gol Local":1,
+        "Gol Visitante":2
+    },
+    {
+        "Pais":"noruega",
+        "Liga":"eliteserien",
+        "Fecha":"2026-05-24T09:00:00.000",
+        "Local":"bodo\/glimt",
+        "Visitante":"brann",
+        "Gol Local":3,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"noruega",
+        "Liga":"eliteserien",
+        "Fecha":"2026-05-20T13:00:00.000",
+        "Local":"aalesund",
+        "Visitante":"brann",
+        "Gol Local":2,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"noruega",
+        "Liga":"eliteserien",
+        "Fecha":"2026-05-20T12:00:00.000",
+        "Local":"lillestrom 2",
+        "Visitante":"kristiansund",
+        "Gol Local":1,
+        "Gol Visitante":2
+    },
+    {
+        "Pais":"noruega",
+        "Liga":"eliteserien",
+        "Fecha":"2026-05-20T11:00:00.000",
+        "Local":"start",
+        "Visitante":"bodo\/glimt",
+        "Gol Local":1,
+        "Gol Visitante":4
+    },
+    {
+        "Pais":"noruega",
+        "Liga":"eliteserien",
         "Fecha":"2026-05-16T13:00:00.000",
         "Local":"valerenga",
         "Visitante":"sarpsborg 08",
@@ -140668,6 +144322,33 @@
         "Visitante":"viking",
         "Gol Local":2,
         "Gol Visitante":1
+    },
+    {
+        "Pais":"paises bajos",
+        "Liga":"eredivisie",
+        "Fecha":"2026-05-24T05:15:00.000",
+        "Local":"ajax",
+        "Visitante":"utrecht",
+        "Gol Local":2,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"paises bajos",
+        "Liga":"eredivisie",
+        "Fecha":"2026-05-21T14:00:00.000",
+        "Local":"utrecht",
+        "Visitante":"heerenveen",
+        "Gol Local":3,
+        "Gol Visitante":2
+    },
+    {
+        "Pais":"paises bajos",
+        "Liga":"eredivisie",
+        "Fecha":"2026-05-21T11:45:00.000",
+        "Local":"ajax",
+        "Visitante":"groningen",
+        "Gol Local":2,
+        "Gol Visitante":0
     },
     {
         "Pais":"paises bajos",
@@ -143421,6 +147102,24 @@
         "Local":"sittard",
         "Visitante":"g.a. eagles",
         "Gol Local":2,
+        "Gol Visitante":2
+    },
+    {
+        "Pais":"paises bajos",
+        "Liga":"keuken kampioen divisie",
+        "Fecha":"2026-05-23T09:30:00.000",
+        "Local":"fc volendam",
+        "Visitante":"willem ii",
+        "Gol Local":1,
+        "Gol Visitante":3
+    },
+    {
+        "Pais":"paises bajos",
+        "Liga":"keuken kampioen divisie",
+        "Fecha":"2026-05-20T11:45:00.000",
+        "Local":"willem ii",
+        "Visitante":"fc volendam",
+        "Gol Local":1,
         "Gol Visitante":2
     },
     {
@@ -146936,6 +150635,60 @@
     {
         "Pais":"paraguay",
         "Liga":"copa de primera",
+        "Fecha":"2026-05-24T15:00:00.000",
+        "Local":"cerro porteno",
+        "Visitante":"rubio nu",
+        "Gol Local":2,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"paraguay",
+        "Liga":"copa de primera",
+        "Fecha":"2026-05-24T15:00:00.000",
+        "Local":"nacional asuncion",
+        "Visitante":"libertad",
+        "Gol Local":2,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"paraguay",
+        "Liga":"copa de primera",
+        "Fecha":"2026-05-24T15:00:00.000",
+        "Local":"s. ameliano",
+        "Visitante":"sportivo trinidense",
+        "Gol Local":1,
+        "Gol Visitante":2
+    },
+    {
+        "Pais":"paraguay",
+        "Liga":"copa de primera",
+        "Fecha":"2026-05-23T16:15:00.000",
+        "Local":"recoleta",
+        "Visitante":"guarani",
+        "Gol Local":2,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"paraguay",
+        "Liga":"copa de primera",
+        "Fecha":"2026-05-23T14:00:00.000",
+        "Local":"sp. luqueno",
+        "Visitante":"olimpia",
+        "Gol Local":1,
+        "Gol Visitante":2
+    },
+    {
+        "Pais":"paraguay",
+        "Liga":"copa de primera",
+        "Fecha":"2026-05-22T16:00:00.000",
+        "Local":"2 de mayo",
+        "Visitante":"san lorenzo",
+        "Gol Local":0,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"paraguay",
+        "Liga":"copa de primera",
         "Fecha":"2026-05-17T15:00:00.000",
         "Local":"san lorenzo",
         "Visitante":"sp. luqueno",
@@ -148066,6 +151819,96 @@
         "Visitante":"sportivo trinidense",
         "Gol Local":1,
         "Gol Visitante":1
+    },
+    {
+        "Pais":"polonia",
+        "Liga":"ekstraklasa",
+        "Fecha":"2026-05-23T10:30:00.000",
+        "Local":"cracovia",
+        "Visitante":"korona",
+        "Gol Local":1,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"polonia",
+        "Liga":"ekstraklasa",
+        "Fecha":"2026-05-23T10:30:00.000",
+        "Local":"gornik zabrze",
+        "Visitante":"radomiak radom",
+        "Gol Local":6,
+        "Gol Visitante":2
+    },
+    {
+        "Pais":"polonia",
+        "Liga":"ekstraklasa",
+        "Fecha":"2026-05-23T10:30:00.000",
+        "Local":"jagiellonia",
+        "Visitante":"zaglebie",
+        "Gol Local":1,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"polonia",
+        "Liga":"ekstraklasa",
+        "Fecha":"2026-05-23T10:30:00.000",
+        "Local":"lech poznan",
+        "Visitante":"plock",
+        "Gol Local":2,
+        "Gol Visitante":2
+    },
+    {
+        "Pais":"polonia",
+        "Liga":"ekstraklasa",
+        "Fecha":"2026-05-23T10:30:00.000",
+        "Local":"legia",
+        "Visitante":"motor lublin",
+        "Gol Local":4,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"polonia",
+        "Liga":"ekstraklasa",
+        "Fecha":"2026-05-23T10:30:00.000",
+        "Local":"pogon szczecin",
+        "Visitante":"katowice",
+        "Gol Local":1,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"polonia",
+        "Liga":"ekstraklasa",
+        "Fecha":"2026-05-23T10:30:00.000",
+        "Local":"rakow",
+        "Visitante":"arka",
+        "Gol Local":3,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"polonia",
+        "Liga":"ekstraklasa",
+        "Fecha":"2026-05-23T10:30:00.000",
+        "Local":"termalica b-b.",
+        "Visitante":"lechia",
+        "Gol Local":3,
+        "Gol Visitante":2
+    },
+    {
+        "Pais":"polonia",
+        "Liga":"ekstraklasa",
+        "Fecha":"2026-05-23T10:30:00.000",
+        "Local":"widzew lodz",
+        "Visitante":"piast",
+        "Gol Local":2,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"polonia",
+        "Liga":"ekstraklasa",
+        "Fecha":"2026-05-18T12:00:00.000",
+        "Local":"arka",
+        "Visitante":"termalica b-b.",
+        "Gol Local":2,
+        "Gol Visitante":3
     },
     {
         "Pais":"polonia",
@@ -150730,6 +154573,15 @@
         "Visitante":"termalica b-b.",
         "Gol Local":0,
         "Gol Visitante":4
+    },
+    {
+        "Pais":"portugal",
+        "Liga":"liga portugal",
+        "Fecha":"2026-05-20T12:00:00.000",
+        "Local":"torreense",
+        "Visitante":"casa pia",
+        "Gol Local":0,
+        "Gol Visitante":0
     },
     {
         "Pais":"portugal",
@@ -153488,6 +157340,69 @@
     {
         "Pais":"republica checa",
         "Liga":"chance liga",
+        "Fecha":"2026-05-24T07:00:00.000",
+        "Local":"jablonec",
+        "Visitante":"liberec",
+        "Gol Local":2,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"republica checa",
+        "Liga":"chance liga",
+        "Fecha":"2026-05-24T07:00:00.000",
+        "Local":"slavia praga",
+        "Visitante":"plzen",
+        "Gol Local":3,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"republica checa",
+        "Liga":"chance liga",
+        "Fecha":"2026-05-24T07:00:00.000",
+        "Local":"sparta praga",
+        "Visitante":"hradec kralove",
+        "Gol Local":2,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"republica checa",
+        "Liga":"chance liga",
+        "Fecha":"2026-05-23T07:00:00.000",
+        "Local":"sigma olomouc",
+        "Visitante":"karvina",
+        "Gol Local":4,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"republica checa",
+        "Liga":"chance liga",
+        "Fecha":"2026-05-23T07:00:00.000",
+        "Local":"dukla praga",
+        "Visitante":"ostrava",
+        "Gol Local":0,
+        "Gol Visitante":3
+    },
+    {
+        "Pais":"republica checa",
+        "Liga":"chance liga",
+        "Fecha":"2026-05-23T07:00:00.000",
+        "Local":"mlada boleslav",
+        "Visitante":"teplice",
+        "Gol Local":0,
+        "Gol Visitante":2
+    },
+    {
+        "Pais":"republica checa",
+        "Liga":"chance liga",
+        "Fecha":"2026-05-23T07:00:00.000",
+        "Local":"zlin",
+        "Visitante":"slovacko",
+        "Gol Local":1,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"republica checa",
+        "Liga":"chance liga",
         "Fecha":"2026-05-17T10:00:00.000",
         "Local":"hradec kralove",
         "Visitante":"slavia praga",
@@ -153704,24 +157619,6 @@
     {
         "Pais":"republica checa",
         "Liga":"chance liga",
-        "Fecha":"2026-05-02T08:00:00.000",
-        "Local":"ostrava",
-        "Visitante":"mlada boleslav",
-        "Gol Local":0,
-        "Gol Visitante":0
-    },
-    {
-        "Pais":"republica checa",
-        "Liga":"chance liga",
-        "Fecha":"2026-05-02T08:00:00.000",
-        "Local":"zlin",
-        "Visitante":"dukla praga",
-        "Gol Local":2,
-        "Gol Visitante":1
-    },
-    {
-        "Pais":"republica checa",
-        "Liga":"chance liga",
         "Fecha":"2026-05-02T11:00:00.000",
         "Local":"liberec",
         "Visitante":"slavia praga",
@@ -153745,6 +157642,24 @@
         "Visitante":"pardubice",
         "Gol Local":1,
         "Gol Visitante":2
+    },
+    {
+        "Pais":"republica checa",
+        "Liga":"chance liga",
+        "Fecha":"2026-05-02T08:00:00.000",
+        "Local":"ostrava",
+        "Visitante":"mlada boleslav",
+        "Gol Local":0,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"republica checa",
+        "Liga":"chance liga",
+        "Fecha":"2026-05-02T08:00:00.000",
+        "Local":"zlin",
+        "Visitante":"dukla praga",
+        "Gol Local":2,
+        "Gol Visitante":1
     },
     {
         "Pais":"republica checa",
@@ -155909,6 +159824,15 @@
     {
         "Pais":"republica dominicana",
         "Liga":"ldf",
+        "Fecha":"2026-05-24T17:00:00.000",
+        "Local":"cibao",
+        "Visitante":"salcedo",
+        "Gol Local":2,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"republica dominicana",
+        "Liga":"ldf",
         "Fecha":"2026-05-17T15:00:00.000",
         "Local":"salcedo",
         "Visitante":"cibao",
@@ -157109,6 +161033,96 @@
         "Fecha":"2025-08-08T00:00:00.000",
         "Local":"cibao",
         "Visitante":"moca",
+        "Gol Local":0,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"rumania",
+        "Liga":"superliga",
+        "Fecha":"2026-05-25T12:30:00.000",
+        "Local":"rapid bucarest",
+        "Visitante":"univ. craiova",
+        "Gol Local":0,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"rumania",
+        "Liga":"superliga",
+        "Fecha":"2026-05-24T12:30:00.000",
+        "Local":"fcsb",
+        "Visitante":"botosani",
+        "Gol Local":4,
+        "Gol Visitante":3
+    },
+    {
+        "Pais":"rumania",
+        "Liga":"superliga",
+        "Fecha":"2026-05-24T09:30:00.000",
+        "Local":"fc hermannstadt",
+        "Visitante":"fc voluntari",
+        "Gol Local":3,
+        "Gol Visitante":2
+    },
+    {
+        "Pais":"rumania",
+        "Liga":"superliga",
+        "Fecha":"2026-05-23T12:30:00.000",
+        "Local":"u. cluj",
+        "Visitante":"dinamo bucarest",
+        "Gol Local":1,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"rumania",
+        "Liga":"superliga",
+        "Fecha":"2026-05-23T09:30:00.000",
+        "Local":"chindia targoviste",
+        "Visitante":"farul constanta",
+        "Gol Local":3,
+        "Gol Visitante":3
+    },
+    {
+        "Pais":"rumania",
+        "Liga":"superliga",
+        "Fecha":"2026-05-22T12:30:00.000",
+        "Local":"cfr cluj",
+        "Visitante":"fc arges",
+        "Gol Local":1,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"rumania",
+        "Liga":"superliga",
+        "Fecha":"2026-05-18T12:30:00.000",
+        "Local":"farul constanta",
+        "Visitante":"metaloglobus bucharest",
+        "Gol Local":0,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"rumania",
+        "Liga":"superliga",
+        "Fecha":"2026-05-18T12:30:00.000",
+        "Local":"fc hermannstadt",
+        "Visitante":"fcsb",
+        "Gol Local":2,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"rumania",
+        "Liga":"superliga",
+        "Fecha":"2026-05-18T12:30:00.000",
+        "Local":"petrolul",
+        "Visitante":"otelul",
+        "Gol Local":1,
+        "Gol Visitante":5
+    },
+    {
+        "Pais":"rumania",
+        "Liga":"superliga",
+        "Fecha":"2026-05-18T12:30:00.000",
+        "Local":"unirea slobozia",
+        "Visitante":"uta arad",
         "Gol Local":0,
         "Gol Visitante":1
     },
@@ -159887,6 +163901,42 @@
     {
         "Pais":"rusia",
         "Liga":"premier league",
+        "Fecha":"2026-05-23T10:30:00.000",
+        "Local":"akron togliatti",
+        "Visitante":"r. volgograd",
+        "Gol Local":0,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"rusia",
+        "Liga":"premier league",
+        "Fecha":"2026-05-23T08:00:00.000",
+        "Local":"dynamo makhachkala",
+        "Visitante":"ural",
+        "Gol Local":2,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"rusia",
+        "Liga":"premier league",
+        "Fecha":"2026-05-20T11:30:00.000",
+        "Local":"r. volgograd",
+        "Visitante":"akron togliatti",
+        "Gol Local":0,
+        "Gol Visitante":2
+    },
+    {
+        "Pais":"rusia",
+        "Liga":"premier league",
+        "Fecha":"2026-05-20T09:30:00.000",
+        "Local":"ural",
+        "Visitante":"dynamo makhachkala",
+        "Gol Local":0,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"rusia",
+        "Liga":"premier league",
         "Fecha":"2026-05-17T10:00:00.000",
         "Local":"baltika",
         "Visitante":"dinamo moscu",
@@ -162047,6 +166097,15 @@
     {
         "Pais":"singapur",
         "Liga":"premier league",
+        "Fecha":"2026-05-18T06:30:00.000",
+        "Local":"tanjong pagar",
+        "Visitante":"hougang",
+        "Gol Local":2,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"singapur",
+        "Liga":"premier league",
         "Fecha":"2026-05-17T06:30:00.000",
         "Local":"tampines",
         "Visitante":"lion city",
@@ -162789,6 +166848,78 @@
         "Local":"albirex niigata (s)",
         "Visitante":"balestier khalsa",
         "Gol Local":2,
+        "Gol Visitante":2
+    },
+    {
+        "Pais":"sudan",
+        "Liga":"premier league",
+        "Fecha":"2026-05-24T08:45:00.000",
+        "Local":"madani",
+        "Visitante":"alfalah atbra",
+        "Gol Local":2,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"sudan",
+        "Liga":"premier league",
+        "Fecha":"2026-05-24T08:45:00.000",
+        "Local":"umm mughad",
+        "Visitante":"al-hilal omdurman ii",
+        "Gol Local":0,
+        "Gol Visitante":3
+    },
+    {
+        "Pais":"sudan",
+        "Liga":"premier league",
+        "Fecha":"2026-05-23T08:45:00.000",
+        "Local":"al wadi",
+        "Visitante":"hilal alsahil",
+        "Gol Local":0,
+        "Gol Visitante":2
+    },
+    {
+        "Pais":"sudan",
+        "Liga":"premier league",
+        "Fecha":"2026-05-23T08:45:00.000",
+        "Local":"al-merreikh ii",
+        "Visitante":"hilal el-fasher",
+        "Gol Local":2,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"sudan",
+        "Liga":"premier league",
+        "Fecha":"2026-05-20T08:45:00.000",
+        "Local":"al-merreikh ii",
+        "Visitante":"umm mughad",
+        "Gol Local":5,
+        "Gol Visitante":2
+    },
+    {
+        "Pais":"sudan",
+        "Liga":"premier league",
+        "Fecha":"2026-05-20T08:45:00.000",
+        "Local":"alfalah atbra",
+        "Visitante":"hilal alsahil",
+        "Gol Local":0,
+        "Gol Visitante":3
+    },
+    {
+        "Pais":"sudan",
+        "Liga":"premier league",
+        "Fecha":"2026-05-19T08:45:00.000",
+        "Local":"al wadi",
+        "Visitante":"al-hilal omdurman ii",
+        "Gol Local":0,
+        "Gol Visitante":2
+    },
+    {
+        "Pais":"sudan",
+        "Liga":"premier league",
+        "Fecha":"2026-05-19T08:45:00.000",
+        "Local":"hilal el-fasher",
+        "Visitante":"madani",
+        "Gol Local":0,
         "Gol Visitante":2
     },
     {
@@ -163910,6 +168041,114 @@
     {
         "Pais":"suecia",
         "Liga":"allsvenskan",
+        "Fecha":"2026-05-25T12:00:00.000",
+        "Local":"elfsborg",
+        "Visitante":"hacken",
+        "Gol Local":1,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"suecia",
+        "Liga":"allsvenskan",
+        "Fecha":"2026-05-25T12:00:00.000",
+        "Local":"goteborg",
+        "Visitante":"mjallby",
+        "Gol Local":1,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"suecia",
+        "Liga":"allsvenskan",
+        "Fecha":"2026-05-24T09:30:00.000",
+        "Local":"malmo",
+        "Visitante":"vasteras sk",
+        "Gol Local":2,
+        "Gol Visitante":3
+    },
+    {
+        "Pais":"suecia",
+        "Liga":"allsvenskan",
+        "Fecha":"2026-05-24T07:00:00.000",
+        "Local":"hammarby",
+        "Visitante":"aik",
+        "Gol Local":1,
+        "Gol Visitante":2
+    },
+    {
+        "Pais":"suecia",
+        "Liga":"allsvenskan",
+        "Fecha":"2026-05-24T07:00:00.000",
+        "Local":"sirius",
+        "Visitante":"gais",
+        "Gol Local":2,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"suecia",
+        "Liga":"allsvenskan",
+        "Fecha":"2026-05-23T08:00:00.000",
+        "Local":"halmstad",
+        "Visitante":"orgryte",
+        "Gol Local":2,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"suecia",
+        "Liga":"allsvenskan",
+        "Fecha":"2026-05-23T08:00:00.000",
+        "Local":"kalmar",
+        "Visitante":"degerfors",
+        "Gol Local":2,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"suecia",
+        "Liga":"allsvenskan",
+        "Fecha":"2026-05-22T12:00:00.000",
+        "Local":"djurgarden",
+        "Visitante":"brommapojkarna",
+        "Gol Local":1,
+        "Gol Visitante":2
+    },
+    {
+        "Pais":"suecia",
+        "Liga":"allsvenskan",
+        "Fecha":"2026-05-21T12:00:00.000",
+        "Local":"elfsborg",
+        "Visitante":"mjallby",
+        "Gol Local":1,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"suecia",
+        "Liga":"allsvenskan",
+        "Fecha":"2026-05-20T12:00:00.000",
+        "Local":"gais",
+        "Visitante":"hammarby",
+        "Gol Local":2,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"suecia",
+        "Liga":"allsvenskan",
+        "Fecha":"2026-05-19T08:00:00.000",
+        "Local":"orgryte",
+        "Visitante":"goteborg",
+        "Gol Local":2,
+        "Gol Visitante":3
+    },
+    {
+        "Pais":"suecia",
+        "Liga":"allsvenskan",
+        "Fecha":"2026-05-18T12:00:00.000",
+        "Local":"djurgarden",
+        "Visitante":"sirius",
+        "Gol Local":2,
+        "Gol Visitante":3
+    },
+    {
+        "Pais":"suecia",
+        "Liga":"allsvenskan",
         "Fecha":"2026-05-17T09:30:00.000",
         "Local":"mjallby",
         "Visitante":"hacken",
@@ -164463,6 +168702,24 @@
         "Local":"hammarby",
         "Visitante":"mjallby",
         "Gol Local":3,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"suiza",
+        "Liga":"super league",
+        "Fecha":"2026-05-21T13:15:00.000",
+        "Local":"grasshoppers",
+        "Visitante":"aarau",
+        "Gol Local":2,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"suiza",
+        "Liga":"super league",
+        "Fecha":"2026-05-18T13:15:00.000",
+        "Local":"aarau",
+        "Visitante":"grasshoppers",
+        "Gol Local":0,
         "Gol Visitante":0
     },
     {
@@ -173572,6 +177829,78 @@
         "Visitante":"galatasaray",
         "Gol Local":0,
         "Gol Visitante":3
+    },
+    {
+        "Pais":"uruguay",
+        "Liga":"liga auf uruguaya",
+        "Fecha":"2026-05-24T16:30:00.000",
+        "Local":"defensor sp.",
+        "Visitante":"penarol",
+        "Gol Local":0,
+        "Gol Visitante":2
+    },
+    {
+        "Pais":"uruguay",
+        "Liga":"liga auf uruguaya",
+        "Fecha":"2026-05-24T13:00:00.000",
+        "Local":"wanderers",
+        "Visitante":"maldonado",
+        "Gol Local":1,
+        "Gol Visitante":1
+    },
+    {
+        "Pais":"uruguay",
+        "Liga":"liga auf uruguaya",
+        "Fecha":"2026-05-24T08:00:00.000",
+        "Local":"ca cerro",
+        "Visitante":"central esp.",
+        "Gol Local":1,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"uruguay",
+        "Liga":"liga auf uruguaya",
+        "Fecha":"2026-05-23T16:30:00.000",
+        "Local":"nacional",
+        "Visitante":"albion",
+        "Gol Local":1,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"uruguay",
+        "Liga":"liga auf uruguaya",
+        "Fecha":"2026-05-23T13:00:00.000",
+        "Local":"cerro largo",
+        "Visitante":"boston river",
+        "Gol Local":3,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"uruguay",
+        "Liga":"liga auf uruguaya",
+        "Fecha":"2026-05-23T08:00:00.000",
+        "Local":"progreso",
+        "Visitante":"montevideo city",
+        "Gol Local":1,
+        "Gol Visitante":2
+    },
+    {
+        "Pais":"uruguay",
+        "Liga":"liga auf uruguaya",
+        "Fecha":"2026-05-22T17:30:00.000",
+        "Local":"liverpool m.",
+        "Visitante":"racing montevideo",
+        "Gol Local":0,
+        "Gol Visitante":0
+    },
+    {
+        "Pais":"uruguay",
+        "Liga":"liga auf uruguaya",
+        "Fecha":"2026-05-18T16:30:00.000",
+        "Local":"maldonado",
+        "Visitante":"danubio",
+        "Gol Local":3,
+        "Gol Visitante":1
     },
     {
         "Pais":"uruguay",
