@@ -1,844 +1,422 @@
 [
     {
         "Fecha": "2026-06-01",
-        "Hora": "11:00",
-        "Pais": "marruecos",
-        "Liga": "Botola Pro",
-        "Link": "https://www.flashscore.co/partido/futbol/marrakech-lA6RXjzH/union-touarga-GKY9yk5c/?mid=Aw1iBWf2",
-        "Partido": "union touarga vs kawkab marrakech",
+        "Hora": "17:00",
+        "Pais": "ecuador",
+        "Liga": "Liga Pro",
+        "Link": "https://www.flashscore.co/partido/futbol/leones-del-norte-Y3V74SEO/macara-QN9rPKwC/?mid=0xgUgAAr",
+        "Partido": "leones del norte vs macara",
         "Local": {
-            "Equipo": "union touarga",
-            "Logo": "https://static.flashscore.com/res/image/data/bkYK1GyB-Q1R9dE24.png",
-            "ELO": 1454.95,
+            "Equipo": "leones del norte",
+            "Logo": "https://static.flashscore.com/res/image/data/6X8A8Xkl-I15DvptJ.png",
+            "ELO": 1482.55,
             "Ultimos 10": [
                 {
-                    "GF": 2,
-                    "GC": 1,
-                    "Resultado": "G",
-                    "Rival": "yacoub el mansour",
-                    "Marcador": "2-1"
-                },
-                {
-                    "GF": 0,
-                    "GC": 1,
-                    "Resultado": "P",
-                    "Rival": "maghreb fez",
-                    "Marcador": "0-1"
-                },
-                {
-                    "GF": 3,
-                    "GC": 4,
-                    "Resultado": "P",
-                    "Rival": "berkane",
-                    "Marcador": "3-4"
-                },
-                {
-                    "GF": 0,
+                    "GF": 1,
                     "GC": 2,
                     "Resultado": "P",
-                    "Rival": "fus rabat",
-                    "Marcador": "0-2"
+                    "Rival": "tecnico u.",
+                    "Marcador": "1-2"
                 },
-                {
-                    "GF": 2,
-                    "GC": 1,
-                    "Resultado": "G",
-                    "Rival": "dcheira",
-                    "Marcador": "2-1"
-                },
-                {
-                    "GF": 1,
-                    "GC": 1,
-                    "Resultado": "E",
-                    "Rival": "safi",
-                    "Marcador": "1-1"
-                },
-                {
-                    "GF": 3,
-                    "GC": 4,
-                    "Resultado": "P",
-                    "Rival": "wydad ac",
-                    "Marcador": "3-4"
-                },
-                {
-                    "GF": 1,
-                    "GC": 1,
-                    "Resultado": "E",
-                    "Rival": "ir tanger",
-                    "Marcador": "1-1"
-                },
-                {
-                    "GF": 1,
-                    "GC": 1,
-                    "Resultado": "E",
-                    "Rival": "far rabat",
-                    "Marcador": "1-1"
-                },
-                {
-                    "GF": 0,
-                    "GC": 1,
-                    "Resultado": "P",
-                    "Rival": "difaa el jadidi",
-                    "Marcador": "0-1"
-                }
-            ]
-        },
-        "Visitante": {
-            "Equipo": "kawkab marrakech",
-            "Logo": "https://static.flashscore.com/res/image/data/69vVLyFG-vmWBtCrO.png",
-            "ELO": 1498.88,
-            "Ultimos 10": [
                 {
                     "GF": 3,
                     "GC": 1,
                     "Resultado": "G",
-                    "Rival": "cod meknes",
+                    "Rival": "mushuc runa",
                     "Marcador": "3-1"
                 },
                 {
-                    "GF": 1,
-                    "GC": 2,
-                    "Resultado": "P",
-                    "Rival": "yacoub el mansour",
-                    "Marcador": "1-2"
-                },
-                {
-                    "GF": 1,
-                    "GC": 2,
-                    "Resultado": "P",
-                    "Rival": "renaissance zemamra",
-                    "Marcador": "1-2"
-                },
-                {
-                    "GF": 2,
-                    "GC": 1,
-                    "Resultado": "G",
-                    "Rival": "dcheira",
-                    "Marcador": "2-1"
-                },
-                {
-                    "GF": 1,
-                    "GC": 0,
-                    "Resultado": "G",
-                    "Rival": "berkane",
-                    "Marcador": "1-0"
-                },
-                {
-                    "GF": 0,
-                    "GC": 0,
-                    "Resultado": "E",
-                    "Rival": "wydad ac",
-                    "Marcador": "0-0"
-                },
-                {
-                    "GF": 0,
-                    "GC": 0,
-                    "Resultado": "E",
-                    "Rival": "far rabat",
-                    "Marcador": "0-0"
-                },
-                {
-                    "GF": 2,
-                    "GC": 1,
-                    "Resultado": "G",
-                    "Rival": "agadir",
-                    "Marcador": "2-1"
-                },
-                {
-                    "GF": 1,
-                    "GC": 1,
-                    "Resultado": "E",
-                    "Rival": "safi",
-                    "Marcador": "1-1"
-                },
-                {
-                    "GF": 1,
-                    "GC": 1,
-                    "Resultado": "E",
-                    "Rival": "maghreb fez",
-                    "Marcador": "1-1"
-                }
-            ]
-        },
-        "Cuotas": {
-            "Local": 2.38,
-            "Empate": 3.0,
-            "Visitante": 2.9
-        },
-        "IA": {
-            "Ganador IA": "kawkab marrakech",
-            "Probabilidad Local": 36.81,
-            "Probabilidad Empate": 23.9,
-            "Probabilidad Visitante": 39.29,
-            "Expected Goals Local": 1.47,
-            "Expected Goals Visitante": 1.52,
-            "Expected Goals Total": 2.99,
-            "BTTS": 60.17,
-            "Over 2.5": 57.46,
-            "Forma Local": 30.0,
-            "Forma Visitante": 53.33,
-            "ELO Local": 1454.95,
-            "ELO Visitante": 1498.88,
-            "Ventaja ELO": -0.44,
-            "Confianza IA": 9.34,
-            "Partido Riesgoso": true,
-            "Hay Value": false,
-            "Value Local": -5.21,
-            "Value Empate": -9.43,
-            "Value Visitante": 4.81,
-            "Top Marcadores": [
-                {
-                    "Marcador": "1-1",
-                    "Probabilidad": 11.24
-                },
-                {
-                    "Marcador": "1-2",
-                    "Probabilidad": 8.54
-                },
-                {
-                    "Marcador": "2-1",
-                    "Probabilidad": 8.26
-                },
-                {
-                    "Marcador": "0-1",
-                    "Probabilidad": 7.64
-                },
-                {
-                    "Marcador": "1-0",
-                    "Probabilidad": 7.39
-                }
-            ]
-        }
-    },
-    {
-        "Fecha": "2026-06-01",
-        "Hora": "13:00",
-        "Pais": "marruecos",
-        "Liga": "Botola Pro",
-        "Link": "https://www.flashscore.co/partido/futbol/maghreb-fez-ptdhYAkN/safi-fFoSR8Sj/?mid=zHhwZZn9",
-        "Partido": "safi vs maghreb fez",
-        "Local": {
-            "Equipo": "safi",
-            "Logo": "https://static.flashscore.com/res/image/data/2cgM9gDa-AVtM8kuO.png",
-            "ELO": 1440.14,
-            "Ultimos 10": [
-                {
-                    "GF": 1,
-                    "GC": 1,
-                    "Resultado": "E",
-                    "Rival": "difaa el jadidi",
-                    "Marcador": "1-1"
-                },
-                {
-                    "GF": 1,
-                    "GC": 1,
-                    "Resultado": "E",
-                    "Rival": "fus rabat",
-                    "Marcador": "1-1"
-                },
-                {
-                    "GF": 1,
-                    "GC": 1,
-                    "Resultado": "E",
-                    "Rival": "far rabat",
-                    "Marcador": "1-1"
-                },
-                {
-                    "GF": 1,
-                    "GC": 2,
-                    "Resultado": "P",
-                    "Rival": "agadir",
-                    "Marcador": "1-2"
-                },
-                {
-                    "GF": 1,
-                    "GC": 2,
-                    "Resultado": "P",
-                    "Rival": "ir tanger",
-                    "Marcador": "1-2"
-                },
-                {
-                    "GF": 1,
-                    "GC": 1,
-                    "Resultado": "E",
-                    "Rival": "union touarga",
-                    "Marcador": "1-1"
-                },
-                {
-                    "GF": 1,
-                    "GC": 3,
-                    "Resultado": "P",
-                    "Rival": "renaissance zemamra",
-                    "Marcador": "1-3"
-                },
-                {
-                    "GF": 3,
-                    "GC": 1,
-                    "Resultado": "G",
-                    "Rival": "yacoub el mansour",
-                    "Marcador": "3-1"
-                },
-                {
-                    "GF": 1,
-                    "GC": 1,
-                    "Resultado": "E",
-                    "Rival": "berkane",
-                    "Marcador": "1-1"
-                },
-                {
                     "GF": 0,
                     "GC": 2,
                     "Resultado": "P",
-                    "Rival": "raja casablanca",
-                    "Marcador": "0-2"
-                }
-            ]
-        },
-        "Visitante": {
-            "Equipo": "maghreb fez",
-            "Logo": "https://static.flashscore.com/res/image/data/WYYLJbyS-KrkUCdS2.png",
-            "ELO": 1563.43,
-            "Ultimos 10": [
-                {
-                    "GF": 0,
-                    "GC": 1,
-                    "Resultado": "P",
-                    "Rival": "ir tanger",
-                    "Marcador": "0-1"
-                },
-                {
-                    "GF": 1,
-                    "GC": 0,
-                    "Resultado": "G",
-                    "Rival": "union touarga",
-                    "Marcador": "1-0"
-                },
-                {
-                    "GF": 0,
-                    "GC": 2,
-                    "Resultado": "P",
-                    "Rival": "raja casablanca",
+                    "Rival": "orense",
                     "Marcador": "0-2"
                 },
                 {
-                    "GF": 0,
-                    "GC": 0,
-                    "Resultado": "E",
-                    "Rival": "cod meknes",
-                    "Marcador": "0-0"
-                },
-                {
-                    "GF": 4,
-                    "GC": 0,
-                    "Resultado": "G",
-                    "Rival": "agadir",
-                    "Marcador": "4-0"
-                },
-                {
-                    "GF": 2,
-                    "GC": 1,
-                    "Resultado": "G",
-                    "Rival": "renaissance zemamra",
-                    "Marcador": "2-1"
-                },
-                {
-                    "GF": 1,
-                    "GC": 0,
-                    "Resultado": "G",
-                    "Rival": "wydad ac",
-                    "Marcador": "1-0"
-                },
-                {
-                    "GF": 1,
-                    "GC": 1,
-                    "Resultado": "E",
-                    "Rival": "berkane",
-                    "Marcador": "1-1"
-                },
-                {
                     "GF": 2,
                     "GC": 0,
                     "Resultado": "G",
-                    "Rival": "dcheira",
+                    "Rival": "emelec",
                     "Marcador": "2-0"
                 },
                 {
                     "GF": 1,
-                    "GC": 1,
-                    "Resultado": "E",
-                    "Rival": "kawkab marrakech",
-                    "Marcador": "1-1"
-                }
-            ]
-        },
-        "Cuotas": {
-            "Local": 3.1,
-            "Empate": 2.7,
-            "Visitante": 2.45
-        },
-        "IA": {
-            "Ganador IA": "maghreb fez",
-            "Probabilidad Local": 31.07,
-            "Probabilidad Empate": 26.83,
-            "Probabilidad Visitante": 42.1,
-            "Expected Goals Local": 1.14,
-            "Expected Goals Visitante": 1.36,
-            "Expected Goals Total": 2.5,
-            "BTTS": 50.56,
-            "Over 2.5": 45.62,
-            "Forma Local": 26.67,
-            "Forma Visitante": 60.0,
-            "ELO Local": 1440.14,
-            "ELO Visitante": 1563.43,
-            "Ventaja ELO": -1.23,
-            "Confianza IA": 23.86,
-            "Partido Riesgoso": true,
-            "Hay Value": false,
-            "Value Local": -1.19,
-            "Value Empate": -10.21,
-            "Value Visitante": 1.28,
-            "Top Marcadores": [
-                {
-                    "Marcador": "1-1",
-                    "Probabilidad": 12.73
-                },
-                {
-                    "Marcador": "0-1",
-                    "Probabilidad": 11.16
-                },
-                {
-                    "Marcador": "1-0",
-                    "Probabilidad": 9.36
-                },
-                {
-                    "Marcador": "1-2",
-                    "Probabilidad": 8.65
-                },
-                {
-                    "Marcador": "0-0",
-                    "Probabilidad": 8.21
-                }
-            ]
-        }
-    },
-    {
-        "Fecha": "2026-06-01",
-        "Hora": "15:00",
-        "Pais": "marruecos",
-        "Liga": "Botola Pro",
-        "Link": "https://www.flashscore.co/partido/futbol/cod-meknes-E1gvHxFa/dcheira-ATMggjiC/?mid=8UjoXDHL",
-        "Partido": "cod meknes vs dcheira",
-        "Local": {
-            "Equipo": "cod meknes",
-            "Logo": "https://static.flashscore.com/res/image/data/CMNS73yB-zLWTcQkh.png",
-            "ELO": 1485.35,
-            "Ultimos 10": [
-                {
-                    "GF": 1,
-                    "GC": 3,
-                    "Resultado": "P",
-                    "Rival": "kawkab marrakech",
-                    "Marcador": "1-3"
-                },
-                {
-                    "GF": 0,
-                    "GC": 1,
-                    "Resultado": "P",
-                    "Rival": "berkane",
-                    "Marcador": "0-1"
-                },
-                {
-                    "GF": 0,
                     "GC": 2,
                     "Resultado": "P",
-                    "Rival": "wydad ac",
-                    "Marcador": "0-2"
+                    "Rival": "ind. del valle",
+                    "Marcador": "1-2"
                 },
                 {
-                    "GF": 0,
+                    "GF": 3,
                     "GC": 0,
-                    "Resultado": "E",
-                    "Rival": "maghreb fez",
-                    "Marcador": "0-0"
+                    "Resultado": "G",
+                    "Rival": "manta",
+                    "Marcador": "3-0"
                 },
                 {
                     "GF": 0,
                     "GC": 1,
                     "Resultado": "P",
-                    "Rival": "fus rabat",
+                    "Rival": "aucas",
                     "Marcador": "0-1"
                 },
                 {
-                    "GF": 0,
-                    "GC": 1,
+                    "GF": 1,
+                    "GC": 2,
                     "Resultado": "P",
-                    "Rival": "difaa el jadidi",
-                    "Marcador": "0-1"
+                    "Rival": "barcelona sc",
+                    "Marcador": "1-2"
                 },
                 {
                     "GF": 1,
                     "GC": 0,
                     "Resultado": "G",
-                    "Rival": "ir tanger",
+                    "Rival": "delfin",
                     "Marcador": "1-0"
+                },
+                {
+                    "GF": 0,
+                    "GC": 0,
+                    "Resultado": "E",
+                    "Rival": "guayaquil city",
+                    "Marcador": "0-0"
+                }
+            ]
+        },
+        "Visitante": {
+            "Equipo": "macara",
+            "Logo": "https://static.flashscore.com/res/image/data/4tKF7Wh5-0C12xtlP.png",
+            "ELO": 1480.78,
+            "Ultimos 10": [
+                {
+                    "GF": 0,
+                    "GC": 2,
+                    "Resultado": "P",
+                    "Rival": "emelec",
+                    "Marcador": "0-2"
                 },
                 {
                     "GF": 0,
                     "GC": 3,
                     "Resultado": "P",
-                    "Rival": "far rabat",
+                    "Rival": "ind. del valle",
                     "Marcador": "0-3"
                 },
                 {
                     "GF": 1,
                     "GC": 0,
                     "Resultado": "G",
-                    "Rival": "safi",
+                    "Rival": "manta",
                     "Marcador": "1-0"
                 },
                 {
-                    "GF": 0,
+                    "GF": 1,
+                    "GC": 2,
+                    "Resultado": "P",
+                    "Rival": "orense",
+                    "Marcador": "1-2"
+                },
+                {
+                    "GF": 3,
                     "GC": 0,
-                    "Resultado": "E",
-                    "Rival": "agadir",
-                    "Marcador": "0-0"
-                }
-            ]
-        },
-        "Visitante": {
-            "Equipo": "dcheira",
-            "Logo": "https://static.flashscore.com/res/image/data/WC6gY1FG-GpN4dMsj.png",
-            "ELO": 1440.97,
-            "Ultimos 10": [
+                    "Resultado": "G",
+                    "Rival": "libertad",
+                    "Marcador": "3-0"
+                },
+                {
+                    "GF": 0,
+                    "GC": 4,
+                    "Resultado": "P",
+                    "Rival": "u. catolica",
+                    "Marcador": "0-4"
+                },
+                {
+                    "GF": 3,
+                    "GC": 1,
+                    "Resultado": "G",
+                    "Rival": "barcelona sc",
+                    "Marcador": "3-1"
+                },
+                {
+                    "GF": 1,
+                    "GC": 2,
+                    "Resultado": "P",
+                    "Rival": "guayaquil city",
+                    "Marcador": "1-2"
+                },
                 {
                     "GF": 0,
                     "GC": 1,
                     "Resultado": "P",
-                    "Rival": "raja casablanca",
+                    "Rival": "aucas",
                     "Marcador": "0-1"
                 },
                 {
-                    "GF": 0,
-                    "GC": 0,
-                    "Resultado": "E",
-                    "Rival": "renaissance zemamra",
-                    "Marcador": "0-0"
-                },
-                {
                     "GF": 1,
                     "GC": 1,
                     "Resultado": "E",
-                    "Rival": "yacoub el mansour",
+                    "Rival": "dep. cuenca",
                     "Marcador": "1-1"
-                },
-                {
-                    "GF": 1,
-                    "GC": 2,
-                    "Resultado": "P",
-                    "Rival": "kawkab marrakech",
-                    "Marcador": "1-2"
-                },
-                {
-                    "GF": 1,
-                    "GC": 2,
-                    "Resultado": "P",
-                    "Rival": "union touarga",
-                    "Marcador": "1-2"
-                },
-                {
-                    "GF": 1,
-                    "GC": 2,
-                    "Resultado": "P",
-                    "Rival": "berkane",
-                    "Marcador": "1-2"
-                },
-                {
-                    "GF": 2,
-                    "GC": 3,
-                    "Resultado": "P",
-                    "Rival": "far rabat",
-                    "Marcador": "2-3"
-                },
-                {
-                    "GF": 0,
-                    "GC": 2,
-                    "Resultado": "P",
-                    "Rival": "maghreb fez",
-                    "Marcador": "0-2"
-                },
-                {
-                    "GF": 0,
-                    "GC": 0,
-                    "Resultado": "E",
-                    "Rival": "safi",
-                    "Marcador": "0-0"
-                },
-                {
-                    "GF": 0,
-                    "GC": 5,
-                    "Resultado": "P",
-                    "Rival": "wydad ac",
-                    "Marcador": "0-5"
                 }
             ]
         },
         "Cuotas": {
-            "Local": 2.05,
-            "Empate": 3.0,
-            "Visitante": 3.55
+            "Local": 2.6,
+            "Empate": 3.05,
+            "Visitante": 2.78
         },
         "IA": {
-            "Ganador IA": "cod meknes",
-            "Probabilidad Local": 47.71,
-            "Probabilidad Empate": 27.91,
-            "Probabilidad Visitante": 24.38,
-            "Expected Goals Local": 1.35,
-            "Expected Goals Visitante": 0.88,
-            "Expected Goals Total": 2.23,
-            "BTTS": 43.35,
-            "Over 2.5": 38.53,
-            "Forma Local": 26.67,
-            "Forma Visitante": 10.0,
-            "ELO Local": 1485.35,
-            "ELO Visitante": 1440.97,
-            "Ventaja ELO": 0.44,
-            "Confianza IA": 28.88,
+            "Ganador IA": "leones del norte",
+            "Probabilidad Local": 56.51,
+            "Probabilidad Empate": 23.14,
+            "Probabilidad Visitante": 20.35,
+            "Expected Goals Local": 1.81,
+            "Expected Goals Visitante": 1.02,
+            "Expected Goals Total": 2.83,
+            "BTTS": 53.48,
+            "Over 2.5": 53.77,
+            "Forma Local": 43.33,
+            "Forma Visitante": 33.33,
+            "ELO Local": 1482.55,
+            "ELO Visitante": 1480.78,
+            "Ventaja ELO": 0.02,
+            "Confianza IA": 38.25,
             "Partido Riesgoso": true,
-            "Hay Value": false,
-            "Value Local": -1.07,
-            "Value Empate": -5.42,
-            "Value Visitante": -3.79,
+            "Hay Value": true,
+            "Value Local": 18.05,
+            "Value Empate": -9.65,
+            "Value Visitante": -15.62,
             "Top Marcadores": [
                 {
-                    "Marcador": "1-0",
-                    "Probabilidad": 14.52
-                },
-                {
                     "Marcador": "1-1",
-                    "Probabilidad": 12.77
+                    "Probabilidad": 10.89
                 },
                 {
-                    "Marcador": "0-0",
-                    "Probabilidad": 10.75
+                    "Marcador": "1-0",
+                    "Probabilidad": 10.68
+                },
+                {
+                    "Marcador": "2-1",
+                    "Probabilidad": 9.86
                 },
                 {
                     "Marcador": "2-0",
-                    "Probabilidad": 9.8
+                    "Probabilidad": 9.67
                 },
                 {
                     "Marcador": "0-1",
-                    "Probabilidad": 9.46
+                    "Probabilidad": 6.02
                 }
             ]
         }
     },
     {
-        "Fecha": "2026-06-02",
+        "Fecha": "2026-06-01",
         "Hora": "19:30",
-        "Pais": "colombia",
-        "Liga": "Primera A - Apertura - Playoffs",
-        "Link": "https://www.flashscore.co/partido/futbol/atl-nacional-C23omttL/junior-ptqMix37/?mid=IRrLGlCj",
-        "Partido": "junior vs atl. nacional",
+        "Pais": "ecuador",
+        "Liga": "Liga Pro",
+        "Link": "https://www.flashscore.co/partido/futbol/barcelona-sc-pCMG6CNp/tecnico-universitario-Em6vQ0O5/?mid=82dxhlue",
+        "Partido": "tecnico u. vs barcelona sc",
         "Local": {
-            "Equipo": "junior",
-            "Logo": "https://static.flashscore.com/res/image/data/Kz2UFMh5-G2820wU0.png",
-            "ELO": 1562.5,
+            "Equipo": "tecnico u.",
+            "Logo": "https://static.flashscore.com/res/image/data/I1aNzCBr-dGIIEbtB.png",
+            "ELO": 1481.07,
             "Ultimos 10": [
                 {
-                    "GF": 1,
-                    "GC": 0,
-                    "Resultado": "G",
-                    "Rival": "ind. santa fe",
-                    "Marcador": "1-0"
-                },
-                {
-                    "GF": 1,
-                    "GC": 1,
-                    "Resultado": "E",
-                    "Rival": "ind. santa fe",
-                    "Marcador": "1-1"
-                },
-                {
                     "GF": 2,
-                    "GC": 2,
-                    "Resultado": "E",
-                    "Rival": "once caldas",
-                    "Marcador": "2-2"
-                },
-                {
-                    "GF": 1,
-                    "GC": 0,
-                    "Resultado": "G",
-                    "Rival": "once caldas",
-                    "Marcador": "1-0"
-                },
-                {
-                    "GF": 4,
-                    "GC": 3,
-                    "Resultado": "G",
-                    "Rival": "dep. pasto",
-                    "Marcador": "4-3"
-                },
-                {
-                    "GF": 1,
                     "GC": 1,
-                    "Resultado": "E",
-                    "Rival": "cucuta",
-                    "Marcador": "1-1"
-                },
-                {
-                    "GF": 2,
-                    "GC": 0,
                     "Resultado": "G",
-                    "Rival": "llaneros",
-                    "Marcador": "2-0"
-                },
-                {
-                    "GF": 3,
-                    "GC": 0,
-                    "Resultado": "G",
-                    "Rival": "aguilas doradas",
-                    "Marcador": "3-0"
+                    "Rival": "leones del norte",
+                    "Marcador": "2-1"
                 },
                 {
                     "GF": 1,
                     "GC": 2,
                     "Resultado": "P",
-                    "Rival": "deportivo cali",
+                    "Rival": "ldu quito",
                     "Marcador": "1-2"
                 },
                 {
-                    "GF": 1,
+                    "GF": 4,
                     "GC": 0,
                     "Resultado": "G",
-                    "Rival": "inter bogota",
-                    "Marcador": "1-0"
+                    "Rival": "delfin",
+                    "Marcador": "4-0"
+                },
+                {
+                    "GF": 1,
+                    "GC": 2,
+                    "Resultado": "P",
+                    "Rival": "dep. cuenca",
+                    "Marcador": "1-2"
+                },
+                {
+                    "GF": 0,
+                    "GC": 1,
+                    "Resultado": "P",
+                    "Rival": "guayaquil city",
+                    "Marcador": "0-1"
+                },
+                {
+                    "GF": 0,
+                    "GC": 1,
+                    "Resultado": "P",
+                    "Rival": "emelec",
+                    "Marcador": "0-1"
+                },
+                {
+                    "GF": 0,
+                    "GC": 1,
+                    "Resultado": "P",
+                    "Rival": "mushuc runa",
+                    "Marcador": "0-1"
+                },
+                {
+                    "GF": 0,
+                    "GC": 2,
+                    "Resultado": "P",
+                    "Rival": "u. catolica",
+                    "Marcador": "0-2"
+                },
+                {
+                    "GF": 2,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "manta",
+                    "Marcador": "2-0"
+                },
+                {
+                    "GF": 1,
+                    "GC": 2,
+                    "Resultado": "P",
+                    "Rival": "ind. del valle",
+                    "Marcador": "1-2"
                 }
             ]
         },
         "Visitante": {
-            "Equipo": "atl. nacional",
-            "Logo": "https://static.flashscore.com/res/image/data/EVh8vJcM-tnwDCzLD.png",
-            "ELO": 1599.52,
+            "Equipo": "barcelona sc",
+            "Logo": "https://static.flashscore.com/res/image/data/nit9vJwS-WErjuywa.png",
+            "ELO": 1527.48,
             "Ultimos 10": [
                 {
-                    "GF": 3,
+                    "GF": 2,
                     "GC": 1,
                     "Resultado": "G",
-                    "Rival": "tolima",
-                    "Marcador": "3-1"
+                    "Rival": "delfin",
+                    "Marcador": "2-1"
+                },
+                {
+                    "GF": 3,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "aucas",
+                    "Marcador": "3-0"
+                },
+                {
+                    "GF": 0,
+                    "GC": 1,
+                    "Resultado": "P",
+                    "Rival": "ind. del valle",
+                    "Marcador": "0-1"
                 },
                 {
                     "GF": 1,
-                    "GC": 0,
-                    "Resultado": "G",
-                    "Rival": "tolima",
-                    "Marcador": "1-0"
+                    "GC": 1,
+                    "Resultado": "E",
+                    "Rival": "manta",
+                    "Marcador": "1-1"
                 },
                 {
-                    "GF": 7,
+                    "GF": 1,
                     "GC": 1,
-                    "Resultado": "G",
-                    "Rival": "inter bogota",
-                    "Marcador": "7-1"
+                    "Resultado": "E",
+                    "Rival": "orense",
+                    "Marcador": "1-1"
                 },
                 {
                     "GF": 2,
                     "GC": 1,
                     "Resultado": "G",
-                    "Rival": "inter bogota",
+                    "Rival": "mushuc runa",
                     "Marcador": "2-1"
                 },
                 {
-                    "GF": 0,
-                    "GC": 1,
+                    "GF": 1,
+                    "GC": 3,
                     "Resultado": "P",
-                    "Rival": "once caldas",
-                    "Marcador": "0-1"
+                    "Rival": "macara",
+                    "Marcador": "1-3"
                 },
                 {
-                    "GF": 0,
+                    "GF": 2,
                     "GC": 1,
-                    "Resultado": "P",
-                    "Rival": "pereira",
-                    "Marcador": "0-1"
+                    "Resultado": "G",
+                    "Rival": "leones del norte",
+                    "Marcador": "2-1"
                 },
                 {
                     "GF": 2,
                     "GC": 0,
                     "Resultado": "G",
-                    "Rival": "atl. bucaramanga",
+                    "Rival": "ldu quito",
                     "Marcador": "2-0"
                 },
                 {
-                    "GF": 3,
-                    "GC": 2,
-                    "Resultado": "G",
-                    "Rival": "ind. medellin",
-                    "Marcador": "3-2"
-                },
-                {
-                    "GF": 2,
+                    "GF": 1,
                     "GC": 1,
-                    "Resultado": "G",
-                    "Rival": "jaguares de cordoba",
-                    "Marcador": "2-1"
-                },
-                {
-                    "GF": 0,
-                    "GC": 0,
                     "Resultado": "E",
-                    "Rival": "cucuta",
-                    "Marcador": "0-0"
+                    "Rival": "u. catolica",
+                    "Marcador": "1-1"
                 }
             ]
         },
         "Cuotas": {
-            "Local": 2.48,
+            "Local": 3.05,
             "Empate": 3.2,
-            "Visitante": 2.88
+            "Visitante": 2.34
         },
         "IA": {
-            "Ganador IA": "junior",
-            "Probabilidad Local": 38.32,
-            "Probabilidad Empate": 24.37,
-            "Probabilidad Visitante": 37.31,
-            "Expected Goals Local": 1.57,
-            "Expected Goals Visitante": 1.54,
-            "Expected Goals Total": 3.11,
-            "BTTS": 62.22,
-            "Over 2.5": 60.1,
-            "Forma Local": 70.0,
-            "Forma Visitante": 73.33,
-            "ELO Local": 1562.5,
-            "ELO Visitante": 1599.52,
-            "Ventaja ELO": -0.37,
-            "Confianza IA": 3.53,
+            "Ganador IA": "tecnico u.",
+            "Probabilidad Local": 38.02,
+            "Probabilidad Empate": 25.32,
+            "Probabilidad Visitante": 36.66,
+            "Expected Goals Local": 1.41,
+            "Expected Goals Visitante": 1.38,
+            "Expected Goals Total": 2.79,
+            "BTTS": 56.57,
+            "Over 2.5": 52.82,
+            "Forma Local": 30.0,
+            "Forma Visitante": 60.0,
+            "ELO Local": 1481.07,
+            "ELO Visitante": 1527.48,
+            "Ventaja ELO": -0.46,
+            "Confianza IA": 9.68,
             "Partido Riesgoso": true,
-            "Hay Value": false,
-            "Value Local": -2.0,
-            "Value Empate": -6.88,
-            "Value Visitante": 2.59,
+            "Hay Value": true,
+            "Value Local": 5.23,
+            "Value Empate": -5.93,
+            "Value Visitante": -6.08,
             "Top Marcadores": [
                 {
                     "Marcador": "1-1",
-                    "Probabilidad": 10.78
-                },
-                {
-                    "Marcador": "2-1",
-                    "Probabilidad": 8.47
-                },
-                {
-                    "Marcador": "1-2",
-                    "Probabilidad": 8.3
+                    "Probabilidad": 11.95
                 },
                 {
                     "Marcador": "1-0",
-                    "Probabilidad": 7.0
+                    "Probabilidad": 8.66
                 },
                 {
                     "Marcador": "0-1",
-                    "Probabilidad": 6.87
+                    "Probabilidad": 8.48
+                },
+                {
+                    "Marcador": "2-1",
+                    "Probabilidad": 8.43
+                },
+                {
+                    "Marcador": "1-2",
+                    "Probabilidad": 8.25
                 }
             ]
         }
