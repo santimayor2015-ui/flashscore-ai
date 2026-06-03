@@ -1,422 +1,633 @@
 [
     {
-        "Fecha": "2026-06-01",
-        "Hora": "17:00",
+        "Fecha": "2026-06-03",
+        "Hora": "14:00",
         "Pais": "ecuador",
-        "Liga": "Liga Pro",
-        "Link": "https://www.flashscore.co/partido/futbol/leones-del-norte-Y3V74SEO/macara-QN9rPKwC/?mid=0xgUgAAr",
-        "Partido": "leones del norte vs macara",
+        "Liga": "Serie B",
+        "Link": "https://www.flashscore.co/partido/futbol/atletico-fc-IHCcdRIt/nueve-de-octubre-2VHQWiAb/?mid=M12d3H6a",
+        "Partido": "atletico fc vs nueve de octubre",
         "Local": {
-            "Equipo": "leones del norte",
-            "Logo": "https://static.flashscore.com/res/image/data/6X8A8Xkl-I15DvptJ.png",
-            "ELO": 1482.55,
+            "Equipo": "atletico fc",
+            "Logo": "https://static.flashscore.com/res/image/data/n952JRzS-QXFqXJzq.png",
+            "ELO": 1517.32,
             "Ultimos 10": [
+                {
+                    "GF": 0,
+                    "GC": 3,
+                    "Resultado": "P",
+                    "Rival": "vinotinto",
+                    "Marcador": "0-3"
+                },
+                {
+                    "GF": 2,
+                    "GC": 1,
+                    "Resultado": "G",
+                    "Rival": "gualaceo",
+                    "Marcador": "2-1"
+                },
+                {
+                    "GF": 1,
+                    "GC": 1,
+                    "Resultado": "E",
+                    "Rival": "dep. santo domingo",
+                    "Marcador": "1-1"
+                },
+                {
+                    "GF": 1,
+                    "GC": 1,
+                    "Resultado": "E",
+                    "Rival": "ldu portoviejo",
+                    "Marcador": "1-1"
+                },
+                {
+                    "GF": 0,
+                    "GC": 0,
+                    "Resultado": "E",
+                    "Rival": "cuenca juniors",
+                    "Marcador": "0-0"
+                },
+                {
+                    "GF": 1,
+                    "GC": 1,
+                    "Resultado": "E",
+                    "Rival": "san antonio",
+                    "Marcador": "1-1"
+                },
+                {
+                    "GF": 1,
+                    "GC": 1,
+                    "Resultado": "E",
+                    "Rival": "ind. juniors",
+                    "Marcador": "1-1"
+                },
+                {
+                    "GF": 1,
+                    "GC": 1,
+                    "Resultado": "E",
+                    "Rival": "el nacional",
+                    "Marcador": "1-1"
+                },
                 {
                     "GF": 1,
                     "GC": 2,
                     "Resultado": "P",
-                    "Rival": "tecnico u.",
+                    "Rival": "juventud italiana",
                     "Marcador": "1-2"
+                },
+                {
+                    "GF": 1,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "22 de julio",
+                    "Marcador": "1-0"
+                }
+            ]
+        },
+        "Visitante": {
+            "Equipo": "nueve de octubre",
+            "Logo": "https://static.flashscore.com/res/image/data/8ApsAAYA-Sd09nJrQ.png",
+            "ELO": 1540.09,
+            "Ultimos 10": [
+                {
+                    "GF": 3,
+                    "GC": 3,
+                    "Resultado": "E",
+                    "Rival": "cuenca juniors",
+                    "Marcador": "3-3"
+                },
+                {
+                    "GF": 0,
+                    "GC": 0,
+                    "Resultado": "E",
+                    "Rival": "ind. juniors",
+                    "Marcador": "0-0"
+                },
+                {
+                    "GF": 0,
+                    "GC": 1,
+                    "Resultado": "P",
+                    "Rival": "manta",
+                    "Marcador": "0-1"
                 },
                 {
                     "GF": 3,
                     "GC": 1,
                     "Resultado": "G",
-                    "Rival": "mushuc runa",
+                    "Rival": "el nacional",
                     "Marcador": "3-1"
                 },
                 {
+                    "GF": 1,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "dep. santo domingo",
+                    "Marcador": "1-0"
+                },
+                {
+                    "GF": 1,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "22 de julio",
+                    "Marcador": "1-0"
+                },
+                {
+                    "GF": 1,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "cumbaya",
+                    "Marcador": "1-0"
+                },
+                {
                     "GF": 0,
-                    "GC": 2,
+                    "GC": 1,
                     "Resultado": "P",
+                    "Rival": "gualaceo",
+                    "Marcador": "0-1"
+                },
+                {
+                    "GF": 3,
+                    "GC": 2,
+                    "Resultado": "G",
+                    "Rival": "ldu portoviejo",
+                    "Marcador": "3-2"
+                },
+                {
+                    "GF": 4,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "nazareno",
+                    "Marcador": "4-0"
+                }
+            ]
+        },
+        "Cuotas": {
+            "Local": 2.0,
+            "Empate": 3.0,
+            "Visitante": 3.6
+        },
+        "IA": {
+            "Ganador IA": "nueve de octubre",
+            "Probabilidad Local": 34.35,
+            "Probabilidad Empate": 25.96,
+            "Probabilidad Visitante": 39.69,
+            "Expected Goals Local": 1.21,
+            "Expected Goals Visitante": 1.35,
+            "Expected Goals Total": 2.56,
+            "BTTS": 51.99,
+            "Over 2.5": 47.15,
+            "Forma Local": 40.0,
+            "Forma Visitante": 66.67,
+            "ELO Local": 1517.32,
+            "ELO Visitante": 1540.09,
+            "Ventaja ELO": -0.23,
+            "Confianza IA": 11.81,
+            "Partido Riesgoso": true,
+            "Hay Value": true,
+            "Value Local": -15.65,
+            "Value Empate": -7.37,
+            "Value Visitante": 11.91,
+            "Top Marcadores": [
+                {
+                    "Marcador": "1-1",
+                    "Probabilidad": 12.63
+                },
+                {
+                    "Marcador": "0-1",
+                    "Probabilidad": 10.44
+                },
+                {
+                    "Marcador": "1-0",
+                    "Probabilidad": 9.35
+                },
+                {
+                    "Marcador": "1-2",
+                    "Probabilidad": 8.52
+                },
+                {
+                    "Marcador": "0-0",
+                    "Probabilidad": 7.73
+                }
+            ]
+        }
+    },
+    {
+        "Fecha": "2026-06-04",
+        "Hora": "15:30",
+        "Pais": "ecuador",
+        "Liga": "Serie B",
+        "Link": "https://www.flashscore.co/partido/futbol/cumbaya-jTkHFBAM/vinotinto-vy3P17u4/?mid=jaLWndMI",
+        "Partido": "vinotinto vs cumbaya",
+        "Local": {
+            "Equipo": "vinotinto",
+            "Logo": "https://static.flashscore.com/res/image/data/pnvMaxDr-WUhGQJk3.png",
+            "ELO": 1538.58,
+            "Ultimos 10": [
+                {
+                    "GF": 3,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "atletico fc",
+                    "Marcador": "3-0"
+                },
+                {
+                    "GF": 2,
+                    "GC": 1,
+                    "Resultado": "G",
                     "Rival": "orense",
-                    "Marcador": "0-2"
+                    "Marcador": "2-1"
+                },
+                {
+                    "GF": 0,
+                    "GC": 1,
+                    "Resultado": "P",
+                    "Rival": "ldu portoviejo",
+                    "Marcador": "0-1"
+                },
+                {
+                    "GF": 3,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "cuenca juniors",
+                    "Marcador": "3-0"
+                },
+                {
+                    "GF": 1,
+                    "GC": 1,
+                    "Resultado": "E",
+                    "Rival": "san antonio",
+                    "Marcador": "1-1"
+                },
+                {
+                    "GF": 2,
+                    "GC": 2,
+                    "Resultado": "E",
+                    "Rival": "ind. juniors",
+                    "Marcador": "2-2"
+                },
+                {
+                    "GF": 2,
+                    "GC": 1,
+                    "Resultado": "G",
+                    "Rival": "el nacional",
+                    "Marcador": "2-1"
                 },
                 {
                     "GF": 2,
                     "GC": 0,
                     "Resultado": "G",
-                    "Rival": "emelec",
+                    "Rival": "22 de julio 2",
                     "Marcador": "2-0"
                 },
                 {
-                    "GF": 1,
-                    "GC": 2,
-                    "Resultado": "P",
-                    "Rival": "ind. del valle",
-                    "Marcador": "1-2"
-                },
-                {
-                    "GF": 3,
-                    "GC": 0,
+                    "GF": 2,
+                    "GC": 1,
                     "Resultado": "G",
-                    "Rival": "manta",
-                    "Marcador": "3-0"
+                    "Rival": "domingo tsa",
+                    "Marcador": "2-1"
                 },
                 {
                     "GF": 0,
-                    "GC": 1,
-                    "Resultado": "P",
-                    "Rival": "aucas",
-                    "Marcador": "0-1"
-                },
-                {
-                    "GF": 1,
-                    "GC": 2,
-                    "Resultado": "P",
-                    "Rival": "barcelona sc",
-                    "Marcador": "1-2"
-                },
+                    "GC": 0,
+                    "Resultado": "E",
+                    "Rival": "gualaceo",
+                    "Marcador": "0-0"
+                }
+            ]
+        },
+        "Visitante": {
+            "Equipo": "cumbaya",
+            "Logo": "https://static.flashscore.com/res/image/data/Wb2F2NDa-8AYhs5Q9.png",
+            "ELO": 1488.06,
+            "Ultimos 10": [
                 {
                     "GF": 1,
                     "GC": 0,
                     "Resultado": "G",
-                    "Rival": "delfin",
+                    "Rival": "ind. juniors",
                     "Marcador": "1-0"
                 },
                 {
                     "GF": 0,
                     "GC": 0,
                     "Resultado": "E",
-                    "Rival": "guayaquil city",
+                    "Rival": "dep. santo domingo",
                     "Marcador": "0-0"
-                }
-            ]
-        },
-        "Visitante": {
-            "Equipo": "macara",
-            "Logo": "https://static.flashscore.com/res/image/data/4tKF7Wh5-0C12xtlP.png",
-            "ELO": 1480.78,
-            "Ultimos 10": [
+                },
                 {
-                    "GF": 0,
-                    "GC": 2,
-                    "Resultado": "P",
-                    "Rival": "emelec",
-                    "Marcador": "0-2"
+                    "GF": 1,
+                    "GC": 1,
+                    "Resultado": "E",
+                    "Rival": "ldu portoviejo",
+                    "Marcador": "1-1"
+                },
+                {
+                    "GF": 3,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "cuenca juniors",
+                    "Marcador": "3-0"
                 },
                 {
                     "GF": 0,
                     "GC": 3,
                     "Resultado": "P",
-                    "Rival": "ind. del valle",
+                    "Rival": "san antonio",
+                    "Marcador": "0-3"
+                },
+                {
+                    "GF": 0,
+                    "GC": 1,
+                    "Resultado": "P",
+                    "Rival": "nueve de octubre",
+                    "Marcador": "0-1"
+                },
+                {
+                    "GF": 2,
+                    "GC": 1,
+                    "Resultado": "G",
+                    "Rival": "el nacional",
+                    "Marcador": "2-1"
+                },
+                {
+                    "GF": 1,
+                    "GC": 2,
+                    "Resultado": "P",
+                    "Rival": "22 de julio",
+                    "Marcador": "1-2"
+                },
+                {
+                    "GF": 0,
+                    "GC": 1,
+                    "Resultado": "P",
+                    "Rival": "la union",
+                    "Marcador": "0-1"
+                },
+                {
+                    "GF": 1,
+                    "GC": 1,
+                    "Resultado": "E",
+                    "Rival": "gualaceo",
+                    "Marcador": "1-1"
+                }
+            ]
+        },
+        "Cuotas": {
+            "Local": 1.78,
+            "Empate": 3.2,
+            "Visitante": 4.3
+        },
+        "IA": {
+            "Ganador IA": "vinotinto",
+            "Probabilidad Local": 59.34,
+            "Probabilidad Empate": 23.86,
+            "Probabilidad Visitante": 16.8,
+            "Expected Goals Local": 1.72,
+            "Expected Goals Visitante": 0.78,
+            "Expected Goals Total": 2.5,
+            "BTTS": 44.46,
+            "Over 2.5": 45.62,
+            "Forma Local": 70.0,
+            "Forma Visitante": 40.0,
+            "ELO Local": 1538.58,
+            "ELO Visitante": 1488.06,
+            "Ventaja ELO": 0.51,
+            "Confianza IA": 51.07,
+            "Partido Riesgoso": true,
+            "Hay Value": false,
+            "Value Local": 3.16,
+            "Value Empate": -7.39,
+            "Value Visitante": -6.46,
+            "Top Marcadores": [
+                {
+                    "Marcador": "1-0",
+                    "Probabilidad": 14.12
+                },
+                {
+                    "Marcador": "2-0",
+                    "Probabilidad": 12.14
+                },
+                {
+                    "Marcador": "1-1",
+                    "Probabilidad": 11.01
+                },
+                {
+                    "Marcador": "2-1",
+                    "Probabilidad": 9.47
+                },
+                {
+                    "Marcador": "0-0",
+                    "Probabilidad": 8.21
+                }
+            ]
+        }
+    },
+    {
+        "Fecha": "2026-06-04",
+        "Hora": "19:00",
+        "Pais": "ecuador",
+        "Liga": "Serie B",
+        "Link": "https://www.flashscore.co/partido/futbol/independiente-juniors-M9z5NMQc/san-antonio-GEW1PolH/?mid=I5DIAaEP",
+        "Partido": "san antonio vs ind. juniors",
+        "Local": {
+            "Equipo": "san antonio",
+            "Logo": "https://static.flashscore.com/res/image/data/WQldu5Yg-OhqyRP0A.png",
+            "ELO": 1535.3,
+            "Ultimos 10": [
+                {
+                    "GF": 0,
+                    "GC": 2,
+                    "Resultado": "P",
+                    "Rival": "22 de julio",
+                    "Marcador": "0-2"
+                },
+                {
+                    "GF": 4,
+                    "GC": 4,
+                    "Resultado": "E",
+                    "Rival": "sporting jax",
+                    "Marcador": "4-4"
+                },
+                {
+                    "GF": 1,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "el nacional",
+                    "Marcador": "1-0"
+                },
+                {
+                    "GF": 2,
+                    "GC": 1,
+                    "Resultado": "G",
+                    "Rival": "sacramento republic",
+                    "Marcador": "2-1"
+                },
+                {
+                    "GF": 0,
+                    "GC": 3,
+                    "Resultado": "P",
+                    "Rival": "aucas",
                     "Marcador": "0-3"
                 },
                 {
                     "GF": 1,
                     "GC": 0,
                     "Resultado": "G",
-                    "Rival": "manta",
+                    "Rival": "one knoxville",
                     "Marcador": "1-0"
                 },
                 {
                     "GF": 1,
-                    "GC": 2,
-                    "Resultado": "P",
-                    "Rival": "orense",
-                    "Marcador": "1-2"
-                },
-                {
-                    "GF": 3,
-                    "GC": 0,
-                    "Resultado": "G",
-                    "Rival": "libertad",
-                    "Marcador": "3-0"
-                },
-                {
-                    "GF": 0,
-                    "GC": 4,
-                    "Resultado": "P",
-                    "Rival": "u. catolica",
-                    "Marcador": "0-4"
-                },
-                {
-                    "GF": 3,
                     "GC": 1,
-                    "Resultado": "G",
-                    "Rival": "barcelona sc",
-                    "Marcador": "3-1"
-                },
-                {
-                    "GF": 1,
-                    "GC": 2,
-                    "Resultado": "P",
-                    "Rival": "guayaquil city",
-                    "Marcador": "1-2"
-                },
-                {
-                    "GF": 0,
-                    "GC": 1,
-                    "Resultado": "P",
-                    "Rival": "aucas",
-                    "Marcador": "0-1"
+                    "Resultado": "E",
+                    "Rival": "gualaceo",
+                    "Marcador": "1-1"
                 },
                 {
                     "GF": 1,
                     "GC": 1,
                     "Resultado": "E",
-                    "Rival": "dep. cuenca",
+                    "Rival": "phoenix rising",
                     "Marcador": "1-1"
-                }
-            ]
-        },
-        "Cuotas": {
-            "Local": 2.6,
-            "Empate": 3.05,
-            "Visitante": 2.78
-        },
-        "IA": {
-            "Ganador IA": "leones del norte",
-            "Probabilidad Local": 56.51,
-            "Probabilidad Empate": 23.14,
-            "Probabilidad Visitante": 20.35,
-            "Expected Goals Local": 1.81,
-            "Expected Goals Visitante": 1.02,
-            "Expected Goals Total": 2.83,
-            "BTTS": 53.48,
-            "Over 2.5": 53.77,
-            "Forma Local": 43.33,
-            "Forma Visitante": 33.33,
-            "ELO Local": 1482.55,
-            "ELO Visitante": 1480.78,
-            "Ventaja ELO": 0.02,
-            "Confianza IA": 38.25,
-            "Partido Riesgoso": true,
-            "Hay Value": true,
-            "Value Local": 18.05,
-            "Value Empate": -9.65,
-            "Value Visitante": -15.62,
-            "Top Marcadores": [
-                {
-                    "Marcador": "1-1",
-                    "Probabilidad": 10.89
-                },
-                {
-                    "Marcador": "1-0",
-                    "Probabilidad": 10.68
-                },
-                {
-                    "Marcador": "2-1",
-                    "Probabilidad": 9.86
-                },
-                {
-                    "Marcador": "2-0",
-                    "Probabilidad": 9.67
-                },
-                {
-                    "Marcador": "0-1",
-                    "Probabilidad": 6.02
-                }
-            ]
-        }
-    },
-    {
-        "Fecha": "2026-06-01",
-        "Hora": "19:30",
-        "Pais": "ecuador",
-        "Liga": "Liga Pro",
-        "Link": "https://www.flashscore.co/partido/futbol/barcelona-sc-pCMG6CNp/tecnico-universitario-Em6vQ0O5/?mid=82dxhlue",
-        "Partido": "tecnico u. vs barcelona sc",
-        "Local": {
-            "Equipo": "tecnico u.",
-            "Logo": "https://static.flashscore.com/res/image/data/I1aNzCBr-dGIIEbtB.png",
-            "ELO": 1481.07,
-            "Ultimos 10": [
-                {
-                    "GF": 2,
-                    "GC": 1,
-                    "Resultado": "G",
-                    "Rival": "leones del norte",
-                    "Marcador": "2-1"
                 },
                 {
                     "GF": 1,
-                    "GC": 2,
-                    "Resultado": "P",
-                    "Rival": "ldu quito",
-                    "Marcador": "1-2"
+                    "GC": 1,
+                    "Resultado": "E",
+                    "Rival": "vinotinto",
+                    "Marcador": "1-1"
                 },
                 {
-                    "GF": 4,
+                    "GF": 3,
                     "GC": 0,
                     "Resultado": "G",
-                    "Rival": "delfin",
-                    "Marcador": "4-0"
-                },
-                {
-                    "GF": 1,
-                    "GC": 2,
-                    "Resultado": "P",
-                    "Rival": "dep. cuenca",
-                    "Marcador": "1-2"
-                },
-                {
-                    "GF": 0,
-                    "GC": 1,
-                    "Resultado": "P",
-                    "Rival": "guayaquil city",
-                    "Marcador": "0-1"
-                },
-                {
-                    "GF": 0,
-                    "GC": 1,
-                    "Resultado": "P",
-                    "Rival": "emelec",
-                    "Marcador": "0-1"
-                },
-                {
-                    "GF": 0,
-                    "GC": 1,
-                    "Resultado": "P",
-                    "Rival": "mushuc runa",
-                    "Marcador": "0-1"
-                },
-                {
-                    "GF": 0,
-                    "GC": 2,
-                    "Resultado": "P",
-                    "Rival": "u. catolica",
-                    "Marcador": "0-2"
-                },
-                {
-                    "GF": 2,
-                    "GC": 0,
-                    "Resultado": "G",
-                    "Rival": "manta",
-                    "Marcador": "2-0"
-                },
-                {
-                    "GF": 1,
-                    "GC": 2,
-                    "Resultado": "P",
-                    "Rival": "ind. del valle",
-                    "Marcador": "1-2"
+                    "Rival": "cumbaya",
+                    "Marcador": "3-0"
                 }
             ]
         },
         "Visitante": {
-            "Equipo": "barcelona sc",
-            "Logo": "https://static.flashscore.com/res/image/data/nit9vJwS-WErjuywa.png",
-            "ELO": 1527.48,
+            "Equipo": "ind. juniors",
+            "Logo": "https://static.flashscore.com/res/image/data/ni66bOg5-0xyuHYu9.png",
+            "ELO": 1533.54,
             "Ultimos 10": [
-                {
-                    "GF": 2,
-                    "GC": 1,
-                    "Resultado": "G",
-                    "Rival": "delfin",
-                    "Marcador": "2-1"
-                },
-                {
-                    "GF": 3,
-                    "GC": 0,
-                    "Resultado": "G",
-                    "Rival": "aucas",
-                    "Marcador": "3-0"
-                },
                 {
                     "GF": 0,
                     "GC": 1,
                     "Resultado": "P",
-                    "Rival": "ind. del valle",
+                    "Rival": "cumbaya",
                     "Marcador": "0-1"
                 },
                 {
-                    "GF": 1,
-                    "GC": 1,
+                    "GF": 0,
+                    "GC": 0,
                     "Resultado": "E",
-                    "Rival": "manta",
-                    "Marcador": "1-1"
+                    "Rival": "nueve de octubre",
+                    "Marcador": "0-0"
                 },
                 {
                     "GF": 1,
-                    "GC": 1,
-                    "Resultado": "E",
-                    "Rival": "orense",
-                    "Marcador": "1-1"
-                },
-                {
-                    "GF": 2,
-                    "GC": 1,
-                    "Resultado": "G",
-                    "Rival": "mushuc runa",
-                    "Marcador": "2-1"
-                },
-                {
-                    "GF": 1,
-                    "GC": 3,
-                    "Resultado": "P",
-                    "Rival": "macara",
-                    "Marcador": "1-3"
-                },
-                {
-                    "GF": 2,
-                    "GC": 1,
-                    "Resultado": "G",
-                    "Rival": "leones del norte",
-                    "Marcador": "2-1"
-                },
-                {
-                    "GF": 2,
                     "GC": 0,
                     "Resultado": "G",
-                    "Rival": "ldu quito",
-                    "Marcador": "2-0"
+                    "Rival": "22 de julio",
+                    "Marcador": "1-0"
                 },
                 {
                     "GF": 1,
                     "GC": 1,
                     "Resultado": "E",
-                    "Rival": "u. catolica",
+                    "Rival": "gualaceo",
                     "Marcador": "1-1"
+                },
+                {
+                    "GF": 2,
+                    "GC": 2,
+                    "Resultado": "E",
+                    "Rival": "vinotinto",
+                    "Marcador": "2-2"
+                },
+                {
+                    "GF": 2,
+                    "GC": 1,
+                    "Resultado": "G",
+                    "Rival": "ldu portoviejo",
+                    "Marcador": "2-1"
+                },
+                {
+                    "GF": 1,
+                    "GC": 1,
+                    "Resultado": "E",
+                    "Rival": "atletico fc",
+                    "Marcador": "1-1"
+                },
+                {
+                    "GF": 2,
+                    "GC": 1,
+                    "Resultado": "G",
+                    "Rival": "africando",
+                    "Marcador": "2-1"
+                },
+                {
+                    "GF": 2,
+                    "GC": 1,
+                    "Resultado": "G",
+                    "Rival": "dep. santo domingo",
+                    "Marcador": "2-1"
+                },
+                {
+                    "GF": 1,
+                    "GC": 2,
+                    "Resultado": "P",
+                    "Rival": "cuenca juniors",
+                    "Marcador": "1-2"
                 }
             ]
         },
         "Cuotas": {
-            "Local": 3.05,
-            "Empate": 3.2,
-            "Visitante": 2.34
+            "Local": 2.77,
+            "Empate": 3.05,
+            "Visitante": 2.37
         },
         "IA": {
-            "Ganador IA": "tecnico u.",
-            "Probabilidad Local": 38.02,
-            "Probabilidad Empate": 25.32,
-            "Probabilidad Visitante": 36.66,
-            "Expected Goals Local": 1.41,
-            "Expected Goals Visitante": 1.38,
-            "Expected Goals Total": 2.79,
-            "BTTS": 56.57,
-            "Over 2.5": 52.82,
-            "Forma Local": 30.0,
-            "Forma Visitante": 60.0,
-            "ELO Local": 1481.07,
-            "ELO Visitante": 1527.48,
-            "Ventaja ELO": -0.46,
-            "Confianza IA": 9.68,
+            "Ganador IA": "san antonio",
+            "Probabilidad Local": 43.39,
+            "Probabilidad Empate": 25.36,
+            "Probabilidad Visitante": 31.25,
+            "Expected Goals Local": 1.52,
+            "Expected Goals Visitante": 1.26,
+            "Expected Goals Total": 2.78,
+            "BTTS": 55.97,
+            "Over 2.5": 52.58,
+            "Forma Local": 53.33,
+            "Forma Visitante": 53.33,
+            "ELO Local": 1535.3,
+            "ELO Visitante": 1533.54,
+            "Ventaja ELO": 0.02,
+            "Confianza IA": 12.23,
             "Partido Riesgoso": true,
             "Hay Value": true,
-            "Value Local": 5.23,
-            "Value Empate": -5.93,
-            "Value Visitante": -6.08,
+            "Value Local": 7.29,
+            "Value Empate": -7.43,
+            "Value Visitante": -10.94,
             "Top Marcadores": [
                 {
                     "Marcador": "1-1",
-                    "Probabilidad": 11.95
+                    "Probabilidad": 11.88
                 },
                 {
                     "Marcador": "1-0",
-                    "Probabilidad": 8.66
-                },
-                {
-                    "Marcador": "0-1",
-                    "Probabilidad": 8.48
+                    "Probabilidad": 9.43
                 },
                 {
                     "Marcador": "2-1",
-                    "Probabilidad": 8.43
+                    "Probabilidad": 9.03
+                },
+                {
+                    "Marcador": "0-1",
+                    "Probabilidad": 7.82
                 },
                 {
                     "Marcador": "1-2",
-                    "Probabilidad": 8.25
+                    "Probabilidad": 7.49
                 }
             ]
         }
