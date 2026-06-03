@@ -9,7 +9,7 @@
         "Local": {
             "Equipo": "atletico fc",
             "Logo": "https://static.flashscore.com/res/image/data/n952JRzS-QXFqXJzq.png",
-            "ELO": 1517.32,
+            "ELO": 1500,
             "Ultimos 10": [
                 {
                     "GF": 0,
@@ -86,7 +86,7 @@
         "Visitante": {
             "Equipo": "nueve de octubre",
             "Logo": "https://static.flashscore.com/res/image/data/8ApsAAYA-Sd09nJrQ.png",
-            "ELO": 1540.09,
+            "ELO": 1500,
             "Ultimos 10": [
                 {
                     "GF": 3,
@@ -161,47 +161,47 @@
             ]
         },
         "Cuotas": {
-            "Local": 2.0,
-            "Empate": 3.0,
-            "Visitante": 3.6
+            "Local": 2.25,
+            "Empate": 2.9,
+            "Visitante": 3.0
         },
         "IA": {
             "Ganador IA": "nueve de octubre",
-            "Probabilidad Local": 34.35,
-            "Probabilidad Empate": 25.96,
+            "Probabilidad Local": 33.13,
+            "Probabilidad Empate": 27.18,
             "Probabilidad Visitante": 39.69,
-            "Expected Goals Local": 1.21,
-            "Expected Goals Visitante": 1.35,
+            "Expected Goals Local": 1.22,
+            "Expected Goals Visitante": 1.34,
             "Expected Goals Total": 2.56,
-            "BTTS": 51.99,
+            "BTTS": 52.02,
             "Over 2.5": 47.15,
             "Forma Local": 40.0,
             "Forma Visitante": 66.67,
-            "ELO Local": 1517.32,
-            "ELO Visitante": 1540.09,
-            "Ventaja ELO": -0.23,
-            "Confianza IA": 11.81,
+            "ELO Local": 1500,
+            "ELO Visitante": 1500,
+            "Ventaja ELO": 0.0,
+            "Confianza IA": 11.89,
             "Partido Riesgoso": true,
             "Hay Value": true,
-            "Value Local": -15.65,
-            "Value Empate": -7.37,
-            "Value Visitante": 11.91,
+            "Value Local": -11.31,
+            "Value Empate": -7.3,
+            "Value Visitante": 6.36,
             "Top Marcadores": [
                 {
                     "Marcador": "1-1",
-                    "Probabilidad": 12.63
+                    "Probabilidad": 12.64
                 },
                 {
                     "Marcador": "0-1",
-                    "Probabilidad": 10.44
+                    "Probabilidad": 10.36
                 },
                 {
                     "Marcador": "1-0",
-                    "Probabilidad": 9.35
+                    "Probabilidad": 9.43
                 },
                 {
                     "Marcador": "1-2",
-                    "Probabilidad": 8.52
+                    "Probabilidad": 8.47
                 },
                 {
                     "Marcador": "0-0",
@@ -220,7 +220,7 @@
         "Local": {
             "Equipo": "vinotinto",
             "Logo": "https://static.flashscore.com/res/image/data/pnvMaxDr-WUhGQJk3.png",
-            "ELO": 1538.58,
+            "ELO": 1500,
             "Ultimos 10": [
                 {
                     "GF": 3,
@@ -297,7 +297,7 @@
         "Visitante": {
             "Equipo": "cumbaya",
             "Logo": "https://static.flashscore.com/res/image/data/Wb2F2NDa-8AYhs5Q9.png",
-            "ELO": 1488.06,
+            "ELO": 1500,
             "Ultimos 10": [
                 {
                     "GF": 1,
@@ -378,37 +378,37 @@
         },
         "IA": {
             "Ganador IA": "vinotinto",
-            "Probabilidad Local": 59.34,
-            "Probabilidad Empate": 23.86,
-            "Probabilidad Visitante": 16.8,
-            "Expected Goals Local": 1.72,
-            "Expected Goals Visitante": 0.78,
-            "Expected Goals Total": 2.5,
-            "BTTS": 44.46,
-            "Over 2.5": 45.62,
+            "Probabilidad Local": 57.93,
+            "Probabilidad Empate": 24.55,
+            "Probabilidad Visitante": 17.52,
+            "Expected Goals Local": 1.69,
+            "Expected Goals Visitante": 0.8,
+            "Expected Goals Total": 2.49,
+            "BTTS": 44.91,
+            "Over 2.5": 45.36,
             "Forma Local": 70.0,
             "Forma Visitante": 40.0,
-            "ELO Local": 1538.58,
-            "ELO Visitante": 1488.06,
-            "Ventaja ELO": 0.51,
-            "Confianza IA": 51.07,
+            "ELO Local": 1500,
+            "ELO Visitante": 1500,
+            "Ventaja ELO": 0.0,
+            "Confianza IA": 46.41,
             "Partido Riesgoso": true,
             "Hay Value": false,
-            "Value Local": 3.16,
-            "Value Empate": -7.39,
-            "Value Visitante": -6.46,
+            "Value Local": 1.75,
+            "Value Empate": -6.7,
+            "Value Visitante": -5.74,
             "Top Marcadores": [
                 {
                     "Marcador": "1-0",
-                    "Probabilidad": 14.12
+                    "Probabilidad": 14.01
                 },
                 {
                     "Marcador": "2-0",
-                    "Probabilidad": 12.14
+                    "Probabilidad": 11.84
                 },
                 {
                     "Marcador": "1-1",
-                    "Probabilidad": 11.01
+                    "Probabilidad": 11.21
                 },
                 {
                     "Marcador": "2-1",
@@ -416,7 +416,7 @@
                 },
                 {
                     "Marcador": "0-0",
-                    "Probabilidad": 8.21
+                    "Probabilidad": 8.29
                 }
             ]
         }
@@ -431,7 +431,7 @@
         "Local": {
             "Equipo": "san antonio",
             "Logo": "https://static.flashscore.com/res/image/data/WQldu5Yg-OhqyRP0A.png",
-            "ELO": 1535.3,
+            "ELO": 1500,
             "Ultimos 10": [
                 {
                     "GF": 0,
@@ -508,7 +508,7 @@
         "Visitante": {
             "Equipo": "ind. juniors",
             "Logo": "https://static.flashscore.com/res/image/data/ni66bOg5-0xyuHYu9.png",
-            "ELO": 1533.54,
+            "ELO": 1500,
             "Ultimos 10": [
                 {
                     "GF": 0,
@@ -589,45 +589,45 @@
         },
         "IA": {
             "Ganador IA": "san antonio",
-            "Probabilidad Local": 43.39,
-            "Probabilidad Empate": 25.36,
-            "Probabilidad Visitante": 31.25,
+            "Probabilidad Local": 42.13,
+            "Probabilidad Empate": 25.48,
+            "Probabilidad Visitante": 32.39,
             "Expected Goals Local": 1.52,
-            "Expected Goals Visitante": 1.26,
-            "Expected Goals Total": 2.78,
-            "BTTS": 55.97,
-            "Over 2.5": 52.58,
+            "Expected Goals Visitante": 1.27,
+            "Expected Goals Total": 2.79,
+            "BTTS": 56.19,
+            "Over 2.5": 52.82,
             "Forma Local": 53.33,
             "Forma Visitante": 53.33,
-            "ELO Local": 1535.3,
-            "ELO Visitante": 1533.54,
-            "Ventaja ELO": 0.02,
-            "Confianza IA": 12.23,
+            "ELO Local": 1500,
+            "ELO Visitante": 1500,
+            "Ventaja ELO": 0.0,
+            "Confianza IA": 9.74,
             "Partido Riesgoso": true,
             "Hay Value": true,
-            "Value Local": 7.29,
-            "Value Empate": -7.43,
-            "Value Visitante": -10.94,
+            "Value Local": 6.03,
+            "Value Empate": -7.31,
+            "Value Visitante": -9.8,
             "Top Marcadores": [
                 {
                     "Marcador": "1-1",
-                    "Probabilidad": 11.88
+                    "Probabilidad": 11.86
                 },
                 {
                     "Marcador": "1-0",
-                    "Probabilidad": 9.43
+                    "Probabilidad": 9.34
                 },
                 {
                     "Marcador": "2-1",
-                    "Probabilidad": 9.03
+                    "Probabilidad": 9.01
                 },
                 {
                     "Marcador": "0-1",
-                    "Probabilidad": 7.82
+                    "Probabilidad": 7.8
                 },
                 {
                     "Marcador": "1-2",
-                    "Probabilidad": 7.49
+                    "Probabilidad": 7.53
                 }
             ]
         }
