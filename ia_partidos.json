@@ -1,6 +1,850 @@
 [
     {
         "Fecha": "2026-06-03",
+        "Hora": "12:00",
+        "Pais": "austria",
+        "Liga": "Regionalliga East",
+        "Link": "https://www.flashscore.co/partido/futbol/donaufeld-wien-hpBo5FAl/fc-marchfeld-donauauen-xbYhZl0d/?mid=QNyCXgke",
+        "Partido": "marchfeld vs donaufeld wien",
+        "Local": {
+            "Equipo": "marchfeld",
+            "Logo": "https://static.flashscore.com/res/image/data/4tWfTrf5-b5IgCexp.png",
+            "ELO": 1500,
+            "Ultimos 10": [
+                {
+                    "GF": 1,
+                    "GC": 2,
+                    "Resultado": "P",
+                    "Rival": "parndorf",
+                    "Marcador": "1-2"
+                },
+                {
+                    "GF": 2,
+                    "GC": 1,
+                    "Resultado": "G",
+                    "Rival": "kremser",
+                    "Marcador": "2-1"
+                },
+                {
+                    "GF": 3,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "wiener viktoria",
+                    "Marcador": "3-0"
+                },
+                {
+                    "GF": 1,
+                    "GC": 3,
+                    "Resultado": "P",
+                    "Rival": "traiskirchen",
+                    "Marcador": "1-3"
+                },
+                {
+                    "GF": 2,
+                    "GC": 2,
+                    "Resultado": "E",
+                    "Rival": "wiener sport-club",
+                    "Marcador": "2-2"
+                },
+                {
+                    "GF": 4,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "favoritner",
+                    "Marcador": "4-0"
+                },
+                {
+                    "GF": 3,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "sportunion mauer",
+                    "Marcador": "3-0"
+                },
+                {
+                    "GF": 1,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "retz",
+                    "Marcador": "1-0"
+                },
+                {
+                    "GF": 2,
+                    "GC": 4,
+                    "Resultado": "P",
+                    "Rival": "gloggnitz",
+                    "Marcador": "2-4"
+                },
+                {
+                    "GF": 5,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "leobendorf",
+                    "Marcador": "5-0"
+                }
+            ]
+        },
+        "Visitante": {
+            "Equipo": "donaufeld wien",
+            "Logo": "https://static.flashscore.com/res/image/data/fXA16he5-S2Dv1Upp.png",
+            "ELO": 1500,
+            "Ultimos 10": [
+                {
+                    "GF": 4,
+                    "GC": 2,
+                    "Resultado": "G",
+                    "Rival": "twl elektra",
+                    "Marcador": "4-2"
+                },
+                {
+                    "GF": 2,
+                    "GC": 1,
+                    "Resultado": "G",
+                    "Rival": "horn",
+                    "Marcador": "2-1"
+                },
+                {
+                    "GF": 1,
+                    "GC": 4,
+                    "Resultado": "P",
+                    "Rival": "parndorf",
+                    "Marcador": "1-4"
+                },
+                {
+                    "GF": 0,
+                    "GC": 2,
+                    "Resultado": "P",
+                    "Rival": "kremser",
+                    "Marcador": "0-2"
+                },
+                {
+                    "GF": 0,
+                    "GC": 1,
+                    "Resultado": "P",
+                    "Rival": "wiener viktoria",
+                    "Marcador": "0-1"
+                },
+                {
+                    "GF": 2,
+                    "GC": 3,
+                    "Resultado": "P",
+                    "Rival": "traiskirchen",
+                    "Marcador": "2-3"
+                },
+                {
+                    "GF": 2,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "wiener sport-club",
+                    "Marcador": "2-0"
+                },
+                {
+                    "GF": 0,
+                    "GC": 2,
+                    "Resultado": "P",
+                    "Rival": "favoritner",
+                    "Marcador": "0-2"
+                },
+                {
+                    "GF": 3,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "sportunion mauer",
+                    "Marcador": "3-0"
+                },
+                {
+                    "GF": 2,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "retz",
+                    "Marcador": "2-0"
+                }
+            ]
+        },
+        "Cuotas": {
+            "Local": 1.91,
+            "Empate": 3.75,
+            "Visitante": 3.1
+        },
+        "IA": {
+            "Ganador IA": "marchfeld",
+            "Probabilidad Local": 56.96,
+            "Probabilidad Empate": 19.16,
+            "Probabilidad Visitante": 23.88,
+            "Expected Goals Local": 2.31,
+            "Expected Goals Visitante": 1.43,
+            "Expected Goals Total": 3.74,
+            "BTTS": 68.52,
+            "Over 2.5": 72.13,
+            "Forma Local": 63.33,
+            "Forma Visitante": 50.0,
+            "ELO Local": 1500,
+            "ELO Visitante": 1500,
+            "Ventaja ELO": 0.0,
+            "Confianza IA": 35.75,
+            "Partido Riesgoso": true,
+            "Hay Value": false,
+            "Value Local": 4.6,
+            "Value Empate": -7.51,
+            "Value Visitante": -8.38,
+            "Top Marcadores": [
+                {
+                    "Marcador": "2-1",
+                    "Probabilidad": 9.06
+                },
+                {
+                    "Marcador": "1-1",
+                    "Probabilidad": 7.85
+                },
+                {
+                    "Marcador": "3-1",
+                    "Probabilidad": 6.98
+                },
+                {
+                    "Marcador": "2-2",
+                    "Probabilidad": 6.48
+                },
+                {
+                    "Marcador": "2-0",
+                    "Probabilidad": 6.34
+                }
+            ]
+        }
+    },
+    {
+        "Fecha": "2026-06-03",
+        "Hora": "12:30",
+        "Pais": "austria",
+        "Liga": "Regionalliga East",
+        "Link": "https://www.flashscore.co/partido/futbol/leobendorf-vHBrG6b7/traiskirchen-6P4OYeNd/?mid=zX1VHVqA",
+        "Partido": "leobendorf vs traiskirchen",
+        "Local": {
+            "Equipo": "leobendorf",
+            "Logo": "https://static.flashscore.com/res/image/data/Aw804MEG-fPLncfc1.png",
+            "ELO": 1500,
+            "Ultimos 10": [
+                {
+                    "GF": 0,
+                    "GC": 3,
+                    "Resultado": "P",
+                    "Rival": "wiener sport-club",
+                    "Marcador": "0-3"
+                },
+                {
+                    "GF": 0,
+                    "GC": 1,
+                    "Resultado": "P",
+                    "Rival": "favoritner",
+                    "Marcador": "0-1"
+                },
+                {
+                    "GF": 0,
+                    "GC": 1,
+                    "Resultado": "P",
+                    "Rival": "sportunion mauer",
+                    "Marcador": "0-1"
+                },
+                {
+                    "GF": 1,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "retz",
+                    "Marcador": "1-0"
+                },
+                {
+                    "GF": 0,
+                    "GC": 1,
+                    "Resultado": "P",
+                    "Rival": "gloggnitz",
+                    "Marcador": "0-1"
+                },
+                {
+                    "GF": 3,
+                    "GC": 2,
+                    "Resultado": "G",
+                    "Rival": "neusiedl 2",
+                    "Marcador": "3-2"
+                },
+                {
+                    "GF": 0,
+                    "GC": 4,
+                    "Resultado": "P",
+                    "Rival": "sv oberwart",
+                    "Marcador": "0-4"
+                },
+                {
+                    "GF": 0,
+                    "GC": 0,
+                    "Resultado": "E",
+                    "Rival": "sv donau",
+                    "Marcador": "0-0"
+                },
+                {
+                    "GF": 0,
+                    "GC": 5,
+                    "Resultado": "P",
+                    "Rival": "marchfeld",
+                    "Marcador": "0-5"
+                },
+                {
+                    "GF": 5,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "twl elektra",
+                    "Marcador": "5-0"
+                }
+            ]
+        },
+        "Visitante": {
+            "Equipo": "traiskirchen",
+            "Logo": "https://static.flashscore.com/res/image/data/S6EkvcEa-4UmQO1Um.png",
+            "ELO": 1500,
+            "Ultimos 10": [
+                {
+                    "GF": 2,
+                    "GC": 4,
+                    "Resultado": "P",
+                    "Rival": "neusiedl",
+                    "Marcador": "2-4"
+                },
+                {
+                    "GF": 0,
+                    "GC": 3,
+                    "Resultado": "P",
+                    "Rival": "sv oberwart",
+                    "Marcador": "0-3"
+                },
+                {
+                    "GF": 3,
+                    "GC": 2,
+                    "Resultado": "G",
+                    "Rival": "sv donau",
+                    "Marcador": "3-2"
+                },
+                {
+                    "GF": 3,
+                    "GC": 1,
+                    "Resultado": "G",
+                    "Rival": "marchfeld",
+                    "Marcador": "3-1"
+                },
+                {
+                    "GF": 3,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "twl elektra",
+                    "Marcador": "3-0"
+                },
+                {
+                    "GF": 3,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "horn",
+                    "Marcador": "3-0"
+                },
+                {
+                    "GF": 3,
+                    "GC": 2,
+                    "Resultado": "G",
+                    "Rival": "donaufeld wien",
+                    "Marcador": "3-2"
+                },
+                {
+                    "GF": 0,
+                    "GC": 2,
+                    "Resultado": "P",
+                    "Rival": "parndorf",
+                    "Marcador": "0-2"
+                },
+                {
+                    "GF": 0,
+                    "GC": 1,
+                    "Resultado": "P",
+                    "Rival": "kremser",
+                    "Marcador": "0-1"
+                },
+                {
+                    "GF": 2,
+                    "GC": 2,
+                    "Resultado": "E",
+                    "Rival": "wiener viktoria",
+                    "Marcador": "2-2"
+                }
+            ]
+        },
+        "Cuotas": {
+            "Local": 2.25,
+            "Empate": 3.8,
+            "Visitante": 2.4
+        },
+        "IA": {
+            "Ganador IA": "traiskirchen",
+            "Probabilidad Local": 35.84,
+            "Probabilidad Empate": 22.23,
+            "Probabilidad Visitante": 41.93,
+            "Expected Goals Local": 1.62,
+            "Expected Goals Visitante": 1.81,
+            "Expected Goals Total": 3.43,
+            "BTTS": 67.08,
+            "Over 2.5": 66.6,
+            "Forma Local": 33.33,
+            "Forma Visitante": 53.33,
+            "ELO Local": 1500,
+            "ELO Visitante": 1500,
+            "Ventaja ELO": 0.0,
+            "Confianza IA": 10.09,
+            "Partido Riesgoso": true,
+            "Hay Value": false,
+            "Value Local": -8.6,
+            "Value Empate": -4.09,
+            "Value Visitante": 0.26,
+            "Top Marcadores": [
+                {
+                    "Marcador": "1-1",
+                    "Probabilidad": 9.5
+                },
+                {
+                    "Marcador": "1-2",
+                    "Probabilidad": 8.59
+                },
+                {
+                    "Marcador": "2-1",
+                    "Probabilidad": 7.69
+                },
+                {
+                    "Marcador": "2-2",
+                    "Probabilidad": 6.96
+                },
+                {
+                    "Marcador": "0-1",
+                    "Probabilidad": 5.86
+                }
+            ]
+        }
+    },
+    {
+        "Fecha": "2026-06-03",
+        "Hora": "12:30",
+        "Pais": "austria",
+        "Liga": "Regionalliga East",
+        "Link": "https://www.flashscore.co/partido/futbol/neusiedl-632P4ana/wiener-viktoria-2oqB4Qrp/?mid=K2Q3x3Q0",
+        "Partido": "neusiedl vs wiener viktoria",
+        "Local": {
+            "Equipo": "neusiedl",
+            "Logo": "https://static.flashscore.com/res/image/data/Mw4TGsHG-I5gbmg9l.png",
+            "ELO": 1500,
+            "Ultimos 10": [
+                {
+                    "GF": 4,
+                    "GC": 2,
+                    "Resultado": "G",
+                    "Rival": "traiskirchen",
+                    "Marcador": "4-2"
+                },
+                {
+                    "GF": 0,
+                    "GC": 4,
+                    "Resultado": "P",
+                    "Rival": "wiener sport-club",
+                    "Marcador": "0-4"
+                },
+                {
+                    "GF": 0,
+                    "GC": 3,
+                    "Resultado": "P",
+                    "Rival": "favoritner",
+                    "Marcador": "0-3"
+                },
+                {
+                    "GF": 3,
+                    "GC": 2,
+                    "Resultado": "G",
+                    "Rival": "sportunion mauer",
+                    "Marcador": "3-2"
+                },
+                {
+                    "GF": 3,
+                    "GC": 1,
+                    "Resultado": "G",
+                    "Rival": "retz",
+                    "Marcador": "3-1"
+                },
+                {
+                    "GF": 1,
+                    "GC": 5,
+                    "Resultado": "P",
+                    "Rival": "gloggnitz",
+                    "Marcador": "1-5"
+                },
+                {
+                    "GF": 0,
+                    "GC": 1,
+                    "Resultado": "P",
+                    "Rival": "kremser",
+                    "Marcador": "0-1"
+                },
+                {
+                    "GF": 2,
+                    "GC": 1,
+                    "Resultado": "G",
+                    "Rival": "sv oberwart",
+                    "Marcador": "2-1"
+                },
+                {
+                    "GF": 2,
+                    "GC": 4,
+                    "Resultado": "P",
+                    "Rival": "sv donau",
+                    "Marcador": "2-4"
+                },
+                {
+                    "GF": 1,
+                    "GC": 2,
+                    "Resultado": "P",
+                    "Rival": "marchfeld",
+                    "Marcador": "1-2"
+                }
+            ]
+        },
+        "Visitante": {
+            "Equipo": "wiener viktoria",
+            "Logo": "https://static.flashscore.com/res/image/data/bRx6Ykhl-rBmrA7OI.png",
+            "ELO": 1500,
+            "Ultimos 10": [
+                {
+                    "GF": 2,
+                    "GC": 2,
+                    "Resultado": "E",
+                    "Rival": "sv oberwart",
+                    "Marcador": "2-2"
+                },
+                {
+                    "GF": 2,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "sv donau",
+                    "Marcador": "2-0"
+                },
+                {
+                    "GF": 0,
+                    "GC": 3,
+                    "Resultado": "P",
+                    "Rival": "marchfeld",
+                    "Marcador": "0-3"
+                },
+                {
+                    "GF": 4,
+                    "GC": 1,
+                    "Resultado": "G",
+                    "Rival": "twl elektra",
+                    "Marcador": "4-1"
+                },
+                {
+                    "GF": 3,
+                    "GC": 1,
+                    "Resultado": "G",
+                    "Rival": "horn",
+                    "Marcador": "3-1"
+                },
+                {
+                    "GF": 1,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "donaufeld wien",
+                    "Marcador": "1-0"
+                },
+                {
+                    "GF": 0,
+                    "GC": 3,
+                    "Resultado": "P",
+                    "Rival": "parndorf",
+                    "Marcador": "0-3"
+                },
+                {
+                    "GF": 0,
+                    "GC": 1,
+                    "Resultado": "P",
+                    "Rival": "kremser",
+                    "Marcador": "0-1"
+                },
+                {
+                    "GF": 2,
+                    "GC": 2,
+                    "Resultado": "E",
+                    "Rival": "traiskirchen",
+                    "Marcador": "2-2"
+                },
+                {
+                    "GF": 0,
+                    "GC": 1,
+                    "Resultado": "P",
+                    "Rival": "wiener sport-club",
+                    "Marcador": "0-1"
+                }
+            ]
+        },
+        "Cuotas": {
+            "Local": 2.8,
+            "Empate": 4.0,
+            "Visitante": 1.95
+        },
+        "IA": {
+            "Ganador IA": "wiener viktoria",
+            "Probabilidad Local": 36.86,
+            "Probabilidad Empate": 20.66,
+            "Probabilidad Visitante": 42.48,
+            "Expected Goals Local": 1.88,
+            "Expected Goals Visitante": 2.01,
+            "Expected Goals Total": 3.89,
+            "BTTS": 73.39,
+            "Over 2.5": 74.53,
+            "Forma Local": 40.0,
+            "Forma Visitante": 46.67,
+            "ELO Local": 1500,
+            "ELO Visitante": 1500,
+            "Ventaja ELO": 0.0,
+            "Confianza IA": 6.95,
+            "Partido Riesgoso": true,
+            "Hay Value": false,
+            "Value Local": 1.15,
+            "Value Empate": -4.34,
+            "Value Visitante": -8.8,
+            "Top Marcadores": [
+                {
+                    "Marcador": "1-2",
+                    "Probabilidad": 7.76
+                },
+                {
+                    "Marcador": "1-1",
+                    "Probabilidad": 7.73
+                },
+                {
+                    "Marcador": "2-2",
+                    "Probabilidad": 7.3
+                },
+                {
+                    "Marcador": "2-1",
+                    "Probabilidad": 7.26
+                },
+                {
+                    "Marcador": "1-3",
+                    "Probabilidad": 5.2
+                }
+            ]
+        }
+    },
+    {
+        "Fecha": "2026-06-03",
+        "Hora": "12:30",
+        "Pais": "austria",
+        "Liga": "Regionalliga East",
+        "Link": "https://www.flashscore.co/partido/futbol/parndorf-bN6XkdBC/sv-donau-ryDDCi7L/?mid=IyLEm6ug",
+        "Partido": "sv donau vs parndorf",
+        "Local": {
+            "Equipo": "sv donau",
+            "Logo": "https://static.flashscore.com/res/image/data/6q67wqDr-ddEfYi9g.png",
+            "ELO": 1500,
+            "Ultimos 10": [
+                {
+                    "GF": 1,
+                    "GC": 5,
+                    "Resultado": "P",
+                    "Rival": "kremser",
+                    "Marcador": "1-5"
+                },
+                {
+                    "GF": 0,
+                    "GC": 2,
+                    "Resultado": "P",
+                    "Rival": "wiener viktoria",
+                    "Marcador": "0-2"
+                },
+                {
+                    "GF": 2,
+                    "GC": 3,
+                    "Resultado": "P",
+                    "Rival": "traiskirchen",
+                    "Marcador": "2-3"
+                },
+                {
+                    "GF": 1,
+                    "GC": 3,
+                    "Resultado": "P",
+                    "Rival": "wiener sport-club",
+                    "Marcador": "1-3"
+                },
+                {
+                    "GF": 1,
+                    "GC": 5,
+                    "Resultado": "P",
+                    "Rival": "favoritner",
+                    "Marcador": "1-5"
+                },
+                {
+                    "GF": 2,
+                    "GC": 4,
+                    "Resultado": "P",
+                    "Rival": "sportunion mauer",
+                    "Marcador": "2-4"
+                },
+                {
+                    "GF": 4,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "retz",
+                    "Marcador": "4-0"
+                },
+                {
+                    "GF": 4,
+                    "GC": 7,
+                    "Resultado": "P",
+                    "Rival": "gloggnitz",
+                    "Marcador": "4-7"
+                },
+                {
+                    "GF": 0,
+                    "GC": 0,
+                    "Resultado": "E",
+                    "Rival": "leobendorf",
+                    "Marcador": "0-0"
+                },
+                {
+                    "GF": 4,
+                    "GC": 2,
+                    "Resultado": "G",
+                    "Rival": "neusiedl",
+                    "Marcador": "4-2"
+                }
+            ]
+        },
+        "Visitante": {
+            "Equipo": "parndorf",
+            "Logo": "https://static.flashscore.com/res/image/data/E3USwpZg-pvWT1yik.png",
+            "ELO": 1500,
+            "Ultimos 10": [
+                {
+                    "GF": 2,
+                    "GC": 1,
+                    "Resultado": "G",
+                    "Rival": "marchfeld",
+                    "Marcador": "2-1"
+                },
+                {
+                    "GF": 5,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "twl elektra",
+                    "Marcador": "5-0"
+                },
+                {
+                    "GF": 0,
+                    "GC": 2,
+                    "Resultado": "P",
+                    "Rival": "horn",
+                    "Marcador": "0-2"
+                },
+                {
+                    "GF": 4,
+                    "GC": 1,
+                    "Resultado": "G",
+                    "Rival": "donaufeld wien",
+                    "Marcador": "4-1"
+                },
+                {
+                    "GF": 2,
+                    "GC": 4,
+                    "Resultado": "P",
+                    "Rival": "wiener sport-club",
+                    "Marcador": "2-4"
+                },
+                {
+                    "GF": 0,
+                    "GC": 0,
+                    "Resultado": "E",
+                    "Rival": "kremser",
+                    "Marcador": "0-0"
+                },
+                {
+                    "GF": 3,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "wiener viktoria",
+                    "Marcador": "3-0"
+                },
+                {
+                    "GF": 0,
+                    "GC": 0,
+                    "Resultado": "E",
+                    "Rival": "sv oberwart",
+                    "Marcador": "0-0"
+                },
+                {
+                    "GF": 2,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "traiskirchen",
+                    "Marcador": "2-0"
+                },
+                {
+                    "GF": 3,
+                    "GC": 2,
+                    "Resultado": "G",
+                    "Rival": "favoritner",
+                    "Marcador": "3-2"
+                }
+            ]
+        },
+        "Cuotas": {
+            "Local": 4.0,
+            "Empate": 4.1,
+            "Visitante": 1.57
+        },
+        "IA": {
+            "Ganador IA": "parndorf",
+            "Probabilidad Local": 23.77,
+            "Probabilidad Empate": 18.04,
+            "Probabilidad Visitante": 58.19,
+            "Expected Goals Local": 1.74,
+            "Expected Goals Visitante": 2.67,
+            "Expected Goals Total": 4.41,
+            "BTTS": 76.74,
+            "Over 2.5": 81.6,
+            "Forma Local": 23.33,
+            "Forma Visitante": 66.67,
+            "ELO Local": 1500,
+            "ELO Visitante": 1500,
+            "Ventaja ELO": 0.0,
+            "Confianza IA": 43.09,
+            "Partido Riesgoso": true,
+            "Hay Value": false,
+            "Value Local": -1.23,
+            "Value Empate": -6.35,
+            "Value Visitante": -5.5,
+            "Top Marcadores": [
+                {
+                    "Marcador": "1-2",
+                    "Probabilidad": 7.54
+                },
+                {
+                    "Marcador": "1-3",
+                    "Probabilidad": 6.71
+                },
+                {
+                    "Marcador": "2-2",
+                    "Probabilidad": 6.56
+                },
+                {
+                    "Marcador": "2-3",
+                    "Probabilidad": 5.84
+                },
+                {
+                    "Marcador": "1-1",
+                    "Probabilidad": 5.65
+                }
+            ]
+        }
+    },
+    {
+        "Fecha": "2026-06-03",
         "Hora": "14:00",
         "Pais": "ecuador",
         "Liga": "Serie B",
@@ -167,9 +1011,9 @@
         },
         "IA": {
             "Ganador IA": "nueve de octubre",
-            "Probabilidad Local": 33.13,
-            "Probabilidad Empate": 27.18,
-            "Probabilidad Visitante": 39.69,
+            "Probabilidad Local": 33.3,
+            "Probabilidad Empate": 26.4,
+            "Probabilidad Visitante": 40.3,
             "Expected Goals Local": 1.22,
             "Expected Goals Visitante": 1.34,
             "Expected Goals Total": 2.56,
@@ -180,12 +1024,12 @@
             "ELO Local": 1500,
             "ELO Visitante": 1500,
             "Ventaja ELO": 0.0,
-            "Confianza IA": 11.89,
+            "Confianza IA": 12.33,
             "Partido Riesgoso": true,
             "Hay Value": true,
-            "Value Local": -11.31,
-            "Value Empate": -7.3,
-            "Value Visitante": 6.36,
+            "Value Local": -11.14,
+            "Value Empate": -8.08,
+            "Value Visitante": 6.97,
             "Top Marcadores": [
                 {
                     "Marcador": "1-1",
@@ -378,9 +1222,9 @@
         },
         "IA": {
             "Ganador IA": "vinotinto",
-            "Probabilidad Local": 57.93,
-            "Probabilidad Empate": 24.55,
-            "Probabilidad Visitante": 17.52,
+            "Probabilidad Local": 58.31,
+            "Probabilidad Empate": 23.83,
+            "Probabilidad Visitante": 17.86,
             "Expected Goals Local": 1.69,
             "Expected Goals Visitante": 0.8,
             "Expected Goals Total": 2.49,
@@ -391,12 +1235,12 @@
             "ELO Local": 1500,
             "ELO Visitante": 1500,
             "Ventaja ELO": 0.0,
-            "Confianza IA": 46.41,
+            "Confianza IA": 46.45,
             "Partido Riesgoso": true,
             "Hay Value": false,
-            "Value Local": 1.75,
-            "Value Empate": -6.7,
-            "Value Visitante": -5.74,
+            "Value Local": 2.13,
+            "Value Empate": -7.42,
+            "Value Visitante": -5.4,
             "Top Marcadores": [
                 {
                     "Marcador": "1-0",
@@ -589,9 +1433,9 @@
         },
         "IA": {
             "Ganador IA": "san antonio",
-            "Probabilidad Local": 42.13,
-            "Probabilidad Empate": 25.48,
-            "Probabilidad Visitante": 32.39,
+            "Probabilidad Local": 43.16,
+            "Probabilidad Empate": 24.88,
+            "Probabilidad Visitante": 31.96,
             "Expected Goals Local": 1.52,
             "Expected Goals Visitante": 1.27,
             "Expected Goals Total": 2.79,
@@ -602,12 +1446,12 @@
             "ELO Local": 1500,
             "ELO Visitante": 1500,
             "Ventaja ELO": 0.0,
-            "Confianza IA": 9.74,
+            "Confianza IA": 11.2,
             "Partido Riesgoso": true,
             "Hay Value": true,
-            "Value Local": 6.03,
-            "Value Empate": -7.31,
-            "Value Visitante": -9.8,
+            "Value Local": 7.06,
+            "Value Empate": -7.91,
+            "Value Visitante": -10.23,
             "Top Marcadores": [
                 {
                     "Marcador": "1-1",
@@ -628,6 +1472,1061 @@
                 {
                     "Marcador": "1-2",
                     "Probabilidad": 7.53
+                }
+            ]
+        }
+    },
+    {
+        "Fecha": "2026-06-04",
+        "Hora": "12:00",
+        "Pais": "senegal",
+        "Liga": "Ligue 1",
+        "Link": "https://www.flashscore.co/partido/futbol/ajel-tGsc6N6A/generation-foot-0Q2MY5fp/?mid=jcK5eRXG",
+        "Partido": "generation f. vs ajel",
+        "Local": {
+            "Equipo": "generation f.",
+            "Logo": "https://static.flashscore.com/res/image/data/4lC7vwFa-f36noDW2.png",
+            "ELO": 1500,
+            "Ultimos 10": [
+                {
+                    "GF": 3,
+                    "GC": 2,
+                    "Resultado": "G",
+                    "Rival": "ouakam",
+                    "Marcador": "3-2"
+                },
+                {
+                    "GF": 1,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "asc hlm",
+                    "Marcador": "1-0"
+                },
+                {
+                    "GF": 3,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "as camberene",
+                    "Marcador": "3-0"
+                },
+                {
+                    "GF": 2,
+                    "GC": 1,
+                    "Resultado": "G",
+                    "Rival": "casa",
+                    "Marcador": "2-1"
+                },
+                {
+                    "GF": 2,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "jaraaf",
+                    "Marcador": "2-0"
+                },
+                {
+                    "GF": 0,
+                    "GC": 1,
+                    "Resultado": "P",
+                    "Rival": "pikine",
+                    "Marcador": "0-1"
+                },
+                {
+                    "GF": 1,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "sonacos",
+                    "Marcador": "1-0"
+                },
+                {
+                    "GF": 5,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "dakar sc",
+                    "Marcador": "5-0"
+                },
+                {
+                    "GF": 1,
+                    "GC": 1,
+                    "Resultado": "E",
+                    "Rival": "linguere",
+                    "Marcador": "1-1"
+                },
+                {
+                    "GF": 0,
+                    "GC": 0,
+                    "Resultado": "E",
+                    "Rival": "us goree",
+                    "Marcador": "0-0"
+                }
+            ]
+        },
+        "Visitante": {
+            "Equipo": "ajel",
+            "Logo": "https://static.flashscore.com/res/image/data/2VYDD2wS-2XcwFCJt.png",
+            "ELO": 1500,
+            "Ultimos 10": [
+                {
+                    "GF": 2,
+                    "GC": 1,
+                    "Resultado": "G",
+                    "Rival": "linguere",
+                    "Marcador": "2-1"
+                },
+                {
+                    "GF": 1,
+                    "GC": 2,
+                    "Resultado": "P",
+                    "Rival": "us goree",
+                    "Marcador": "1-2"
+                },
+                {
+                    "GF": 1,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "guediawaye",
+                    "Marcador": "1-0"
+                },
+                {
+                    "GF": 0,
+                    "GC": 0,
+                    "Resultado": "E",
+                    "Rival": "teungueth",
+                    "Marcador": "0-0"
+                },
+                {
+                    "GF": 0,
+                    "GC": 1,
+                    "Resultado": "P",
+                    "Rival": "mbour",
+                    "Marcador": "0-1"
+                },
+                {
+                    "GF": 0,
+                    "GC": 0,
+                    "Resultado": "E",
+                    "Rival": "wally daan",
+                    "Marcador": "0-0"
+                },
+                {
+                    "GF": 0,
+                    "GC": 2,
+                    "Resultado": "P",
+                    "Rival": "dakar sc",
+                    "Marcador": "0-2"
+                },
+                {
+                    "GF": 1,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "ouakam",
+                    "Marcador": "1-0"
+                },
+                {
+                    "GF": 0,
+                    "GC": 3,
+                    "Resultado": "P",
+                    "Rival": "asc hlm",
+                    "Marcador": "0-3"
+                },
+                {
+                    "GF": 0,
+                    "GC": 0,
+                    "Resultado": "E",
+                    "Rival": "as camberene",
+                    "Marcador": "0-0"
+                }
+            ]
+        },
+        "Cuotas": {
+            "Local": 2.2,
+            "Empate": 3.0,
+            "Visitante": 3.4
+        },
+        "IA": {
+            "Ganador IA": "generation f.",
+            "Probabilidad Local": 65.32,
+            "Probabilidad Empate": 23.25,
+            "Probabilidad Visitante": 11.43,
+            "Expected Goals Local": 1.73,
+            "Expected Goals Visitante": 0.56,
+            "Expected Goals Total": 2.29,
+            "BTTS": 35.28,
+            "Over 2.5": 40.13,
+            "Forma Local": 76.67,
+            "Forma Visitante": 40.0,
+            "ELO Local": 1500,
+            "ELO Visitante": 1500,
+            "Ventaja ELO": 0.0,
+            "Confianza IA": 61.22,
+            "Partido Riesgoso": false,
+            "Hay Value": true,
+            "Value Local": 19.87,
+            "Value Empate": -10.08,
+            "Value Visitante": -17.98,
+            "Top Marcadores": [
+                {
+                    "Marcador": "1-0",
+                    "Probabilidad": 17.52
+                },
+                {
+                    "Marcador": "2-0",
+                    "Probabilidad": 15.15
+                },
+                {
+                    "Marcador": "0-0",
+                    "Probabilidad": 10.13
+                },
+                {
+                    "Marcador": "1-1",
+                    "Probabilidad": 9.81
+                },
+                {
+                    "Marcador": "3-0",
+                    "Probabilidad": 8.74
+                }
+            ]
+        }
+    },
+    {
+        "Fecha": "2026-06-04",
+        "Hora": "04:00",
+        "Pais": "vietnam",
+        "Liga": "V.League 2",
+        "Link": "https://www.flashscore.co/partido/futbol/khanh-hoa-Myp07Vu0/van-hien-p0vhYMWA/?mid=2V66UeEr",
+        "Partido": "van hien vs khanh hoa",
+        "Local": {
+            "Equipo": "van hien",
+            "Logo": "https://static.flashscore.com/res/image/data/YLHymzyS-OWHYxP4J.png",
+            "ELO": 1500,
+            "Ultimos 10": [
+                {
+                    "GF": 0,
+                    "GC": 1,
+                    "Resultado": "P",
+                    "Rival": "dong thap",
+                    "Marcador": "0-1"
+                },
+                {
+                    "GF": 1,
+                    "GC": 1,
+                    "Resultado": "E",
+                    "Rival": "quy nhon united",
+                    "Marcador": "1-1"
+                },
+                {
+                    "GF": 0,
+                    "GC": 3,
+                    "Resultado": "P",
+                    "Rival": "truong tuoi dong nai",
+                    "Marcador": "0-3"
+                },
+                {
+                    "GF": 0,
+                    "GC": 2,
+                    "Resultado": "P",
+                    "Rival": "xuan thien phu tho",
+                    "Marcador": "0-2"
+                },
+                {
+                    "GF": 1,
+                    "GC": 2,
+                    "Resultado": "P",
+                    "Rival": "bac ninh",
+                    "Marcador": "1-2"
+                },
+                {
+                    "GF": 1,
+                    "GC": 2,
+                    "Resultado": "P",
+                    "Rival": "pvf-cand b",
+                    "Marcador": "1-2"
+                },
+                {
+                    "GF": 1,
+                    "GC": 1,
+                    "Resultado": "E",
+                    "Rival": "ho chi minh city",
+                    "Marcador": "1-1"
+                },
+                {
+                    "GF": 1,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "long an",
+                    "Marcador": "1-0"
+                },
+                {
+                    "GF": 1,
+                    "GC": 1,
+                    "Resultado": "E",
+                    "Rival": "quang ninh",
+                    "Marcador": "1-1"
+                },
+                {
+                    "GF": 1,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "ho chi minh 2",
+                    "Marcador": "1-0"
+                }
+            ]
+        },
+        "Visitante": {
+            "Equipo": "khanh hoa",
+            "Logo": "https://static.flashscore.com/res/image/data/2B6Rhqf5-Mm7dwV2n.png",
+            "ELO": 1500,
+            "Ultimos 10": [
+                {
+                    "GF": 1,
+                    "GC": 1,
+                    "Resultado": "E",
+                    "Rival": "quang ninh",
+                    "Marcador": "1-1"
+                },
+                {
+                    "GF": 0,
+                    "GC": 0,
+                    "Resultado": "E",
+                    "Rival": "long an",
+                    "Marcador": "0-0"
+                },
+                {
+                    "GF": 2,
+                    "GC": 2,
+                    "Resultado": "E",
+                    "Rival": "bac ninh",
+                    "Marcador": "2-2"
+                },
+                {
+                    "GF": 0,
+                    "GC": 1,
+                    "Resultado": "P",
+                    "Rival": "pvf-cand b",
+                    "Marcador": "0-1"
+                },
+                {
+                    "GF": 1,
+                    "GC": 1,
+                    "Resultado": "E",
+                    "Rival": "xuan thien phu tho",
+                    "Marcador": "1-1"
+                },
+                {
+                    "GF": 0,
+                    "GC": 2,
+                    "Resultado": "P",
+                    "Rival": "dong thap",
+                    "Marcador": "0-2"
+                },
+                {
+                    "GF": 2,
+                    "GC": 1,
+                    "Resultado": "G",
+                    "Rival": "ho chi minh 2",
+                    "Marcador": "2-1"
+                },
+                {
+                    "GF": 0,
+                    "GC": 1,
+                    "Resultado": "P",
+                    "Rival": "quy nhon united",
+                    "Marcador": "0-1"
+                },
+                {
+                    "GF": 0,
+                    "GC": 1,
+                    "Resultado": "P",
+                    "Rival": "ho chi minh city",
+                    "Marcador": "0-1"
+                },
+                {
+                    "GF": 0,
+                    "GC": 2,
+                    "Resultado": "P",
+                    "Rival": "truong tuoi dong nai",
+                    "Marcador": "0-2"
+                }
+            ]
+        },
+        "Cuotas": {
+            "Local": 1.75,
+            "Empate": 3.05,
+            "Visitante": 4.7
+        },
+        "IA": {
+            "Ganador IA": "van hien",
+            "Probabilidad Local": 40.65,
+            "Probabilidad Empate": 29.03,
+            "Probabilidad Visitante": 30.32,
+            "Expected Goals Local": 1.25,
+            "Expected Goals Visitante": 1.02,
+            "Expected Goals Total": 2.27,
+            "BTTS": 45.62,
+            "Over 2.5": 39.6,
+            "Forma Local": 30.0,
+            "Forma Visitante": 23.33,
+            "ELO Local": 1500,
+            "ELO Visitante": 1500,
+            "Ventaja ELO": 0.0,
+            "Confianza IA": 11.66,
+            "Partido Riesgoso": true,
+            "Hay Value": true,
+            "Value Local": -16.49,
+            "Value Empate": -3.76,
+            "Value Visitante": 9.04,
+            "Top Marcadores": [
+                {
+                    "Marcador": "1-1",
+                    "Probabilidad": 13.17
+                },
+                {
+                    "Marcador": "1-0",
+                    "Probabilidad": 12.91
+                },
+                {
+                    "Marcador": "0-1",
+                    "Probabilidad": 10.54
+                },
+                {
+                    "Marcador": "0-0",
+                    "Probabilidad": 10.33
+                },
+                {
+                    "Marcador": "2-1",
+                    "Probabilidad": 8.23
+                }
+            ]
+        }
+    },
+    {
+        "Fecha": "2026-06-05",
+        "Hora": "05:00",
+        "Pais": "australia",
+        "Liga": "NPL Northern NSW",
+        "Link": "https://www.flashscore.co/partido/futbol/belmont-swansea-united-rLE2M1p4/cooks-hill-united-SnLe9aef/?mid=vawdPh6s",
+        "Partido": "cooks hill united vs belmont swansea utd.",
+        "Local": {
+            "Equipo": "cooks hill united",
+            "Logo": "https://static.flashscore.com/res/image/data/d2XTvVcM-jeq8x3J6.png",
+            "ELO": 1500,
+            "Ultimos 10": [
+                {
+                    "GF": 3,
+                    "GC": 1,
+                    "Resultado": "G",
+                    "Rival": "maitland",
+                    "Marcador": "3-1"
+                },
+                {
+                    "GF": 3,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "kahibah",
+                    "Marcador": "3-0"
+                },
+                {
+                    "GF": 3,
+                    "GC": 1,
+                    "Resultado": "G",
+                    "Rival": "adamstown rosebud",
+                    "Marcador": "3-1"
+                },
+                {
+                    "GF": 1,
+                    "GC": 4,
+                    "Resultado": "P",
+                    "Rival": "lambton j.",
+                    "Marcador": "1-4"
+                },
+                {
+                    "GF": 0,
+                    "GC": 6,
+                    "Resultado": "P",
+                    "Rival": "broadmeadow",
+                    "Marcador": "0-6"
+                },
+                {
+                    "GF": 1,
+                    "GC": 1,
+                    "Resultado": "E",
+                    "Rival": "newcastle olympic",
+                    "Marcador": "1-1"
+                },
+                {
+                    "GF": 0,
+                    "GC": 2,
+                    "Resultado": "P",
+                    "Rival": "weston bears",
+                    "Marcador": "0-2"
+                },
+                {
+                    "GF": 2,
+                    "GC": 3,
+                    "Resultado": "P",
+                    "Rival": "edgeworth e.",
+                    "Marcador": "2-3"
+                },
+                {
+                    "GF": 6,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "valentine",
+                    "Marcador": "6-0"
+                },
+                {
+                    "GF": 1,
+                    "GC": 2,
+                    "Resultado": "P",
+                    "Rival": "belmont swansea utd.",
+                    "Marcador": "1-2"
+                }
+            ]
+        },
+        "Visitante": {
+            "Equipo": "belmont swansea utd.",
+            "Logo": "https://static.flashscore.com/res/image/data/xfhIJPEa-OGu4c6Vt.png",
+            "ELO": 1500,
+            "Ultimos 10": [
+                {
+                    "GF": 1,
+                    "GC": 2,
+                    "Resultado": "P",
+                    "Rival": "maitland",
+                    "Marcador": "1-2"
+                },
+                {
+                    "GF": 1,
+                    "GC": 1,
+                    "Resultado": "E",
+                    "Rival": "valentine",
+                    "Marcador": "1-1"
+                },
+                {
+                    "GF": 2,
+                    "GC": 2,
+                    "Resultado": "E",
+                    "Rival": "adamstown rosebud",
+                    "Marcador": "2-2"
+                },
+                {
+                    "GF": 2,
+                    "GC": 1,
+                    "Resultado": "G",
+                    "Rival": "lambton j.",
+                    "Marcador": "2-1"
+                },
+                {
+                    "GF": 6,
+                    "GC": 3,
+                    "Resultado": "G",
+                    "Rival": "kahibah",
+                    "Marcador": "6-3"
+                },
+                {
+                    "GF": 2,
+                    "GC": 2,
+                    "Resultado": "E",
+                    "Rival": "newcastle olympic",
+                    "Marcador": "2-2"
+                },
+                {
+                    "GF": 4,
+                    "GC": 3,
+                    "Resultado": "G",
+                    "Rival": "edgeworth e.",
+                    "Marcador": "4-3"
+                },
+                {
+                    "GF": 2,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "charlestown azzurri",
+                    "Marcador": "2-0"
+                },
+                {
+                    "GF": 2,
+                    "GC": 2,
+                    "Resultado": "E",
+                    "Rival": "broadmeadow",
+                    "Marcador": "2-2"
+                },
+                {
+                    "GF": 2,
+                    "GC": 4,
+                    "Resultado": "P",
+                    "Rival": "weston bears",
+                    "Marcador": "2-4"
+                }
+            ]
+        },
+        "Cuotas": {
+            "Local": 2.42,
+            "Empate": 4.1,
+            "Visitante": 2.3
+        },
+        "IA": {
+            "Ganador IA": "cooks hill united",
+            "Probabilidad Local": 43.52,
+            "Probabilidad Empate": 19.34,
+            "Probabilidad Visitante": 37.14,
+            "Expected Goals Local": 2.32,
+            "Expected Goals Visitante": 2.15,
+            "Expected Goals Total": 4.47,
+            "BTTS": 79.67,
+            "Over 2.5": 82.3,
+            "Forma Local": 43.33,
+            "Forma Visitante": 53.33,
+            "ELO Local": 1500,
+            "ELO Visitante": 1500,
+            "Ventaja ELO": 0.0,
+            "Confianza IA": 8.38,
+            "Partido Riesgoso": true,
+            "Hay Value": false,
+            "Value Local": 2.2,
+            "Value Empate": -5.05,
+            "Value Visitante": -6.34,
+            "Top Marcadores": [
+                {
+                    "Marcador": "2-2",
+                    "Probabilidad": 7.12
+                },
+                {
+                    "Marcador": "2-1",
+                    "Probabilidad": 6.62
+                },
+                {
+                    "Marcador": "1-2",
+                    "Probabilidad": 6.14
+                },
+                {
+                    "Marcador": "1-1",
+                    "Probabilidad": 5.71
+                },
+                {
+                    "Marcador": "3-2",
+                    "Probabilidad": 5.51
+                }
+            ]
+        }
+    },
+    {
+        "Fecha": "2026-06-05",
+        "Hora": "05:00",
+        "Pais": "australia",
+        "Liga": "NSW League One",
+        "Link": "https://www.flashscore.co/partido/futbol/bulls-academy-KlSzvPd2/hills-united-675GFd6g/?mid=rBt09hXq",
+        "Partido": "hills united vs bulls academy",
+        "Local": {
+            "Equipo": "hills united",
+            "Logo": "https://static.flashscore.com/res/image/data/bLUR6QDa-rPMznd4r.png",
+            "ELO": 1500,
+            "Ultimos 10": [
+                {
+                    "GF": 6,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "dulwich hill",
+                    "Marcador": "6-0"
+                },
+                {
+                    "GF": 1,
+                    "GC": 1,
+                    "Resultado": "E",
+                    "Rival": "blacktown spartans",
+                    "Marcador": "1-1"
+                },
+                {
+                    "GF": 3,
+                    "GC": 5,
+                    "Resultado": "P",
+                    "Rival": "central coast mariners u23",
+                    "Marcador": "3-5"
+                },
+                {
+                    "GF": 2,
+                    "GC": 1,
+                    "Resultado": "G",
+                    "Rival": "rydalmere lions",
+                    "Marcador": "2-1"
+                },
+                {
+                    "GF": 2,
+                    "GC": 1,
+                    "Resultado": "G",
+                    "Rival": "western city rangers",
+                    "Marcador": "2-1"
+                },
+                {
+                    "GF": 2,
+                    "GC": 1,
+                    "Resultado": "G",
+                    "Rival": "canterbury bankstown",
+                    "Marcador": "2-1"
+                },
+                {
+                    "GF": 0,
+                    "GC": 2,
+                    "Resultado": "P",
+                    "Rival": "bankstown city lions",
+                    "Marcador": "0-2"
+                },
+                {
+                    "GF": 1,
+                    "GC": 2,
+                    "Resultado": "P",
+                    "Rival": "newcastle jets u23",
+                    "Marcador": "1-2"
+                },
+                {
+                    "GF": 0,
+                    "GC": 2,
+                    "Resultado": "P",
+                    "Rival": "hakoah sydney",
+                    "Marcador": "0-2"
+                },
+                {
+                    "GF": 0,
+                    "GC": 0,
+                    "Resultado": "E",
+                    "Rival": "inter lions",
+                    "Marcador": "0-0"
+                }
+            ]
+        },
+        "Visitante": {
+            "Equipo": "bulls academy",
+            "Logo": "https://static.flashscore.com/res/image/data/p8FW5SAr-ro6NP2eG.png",
+            "ELO": 1500,
+            "Ultimos 10": [
+                {
+                    "GF": 1,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "newcastle jets u23",
+                    "Marcador": "1-0"
+                },
+                {
+                    "GF": 1,
+                    "GC": 2,
+                    "Resultado": "P",
+                    "Rival": "inter lions",
+                    "Marcador": "1-2"
+                },
+                {
+                    "GF": 2,
+                    "GC": 3,
+                    "Resultado": "P",
+                    "Rival": "blacktown spartans",
+                    "Marcador": "2-3"
+                },
+                {
+                    "GF": 3,
+                    "GC": 1,
+                    "Resultado": "G",
+                    "Rival": "canterbury bankstown",
+                    "Marcador": "3-1"
+                },
+                {
+                    "GF": 0,
+                    "GC": 1,
+                    "Resultado": "P",
+                    "Rival": "northern tigers",
+                    "Marcador": "0-1"
+                },
+                {
+                    "GF": 3,
+                    "GC": 2,
+                    "Resultado": "G",
+                    "Rival": "hakoah sydney",
+                    "Marcador": "3-2"
+                },
+                {
+                    "GF": 0,
+                    "GC": 1,
+                    "Resultado": "P",
+                    "Rival": "macarthur rams",
+                    "Marcador": "0-1"
+                },
+                {
+                    "GF": 2,
+                    "GC": 2,
+                    "Resultado": "E",
+                    "Rival": "central coast mariners u23",
+                    "Marcador": "2-2"
+                },
+                {
+                    "GF": 1,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "western city rangers",
+                    "Marcador": "1-0"
+                },
+                {
+                    "GF": 1,
+                    "GC": 2,
+                    "Resultado": "P",
+                    "Rival": "bankstown city lions",
+                    "Marcador": "1-2"
+                }
+            ]
+        },
+        "Cuotas": {
+            "Local": 2.3,
+            "Empate": 3.8,
+            "Visitante": 2.65
+        },
+        "IA": {
+            "Ganador IA": "hills united",
+            "Probabilidad Local": 50.17,
+            "Probabilidad Empate": 21.86,
+            "Probabilidad Visitante": 27.97,
+            "Expected Goals Local": 2.02,
+            "Expected Goals Visitante": 1.47,
+            "Expected Goals Total": 3.49,
+            "BTTS": 66.79,
+            "Over 2.5": 67.73,
+            "Forma Local": 46.67,
+            "Forma Visitante": 43.33,
+            "ELO Local": 1500,
+            "ELO Visitante": 1500,
+            "Ventaja ELO": 0.0,
+            "Confianza IA": 22.87,
+            "Partido Riesgoso": true,
+            "Hay Value": true,
+            "Value Local": 6.69,
+            "Value Empate": -4.46,
+            "Value Visitante": -9.77,
+            "Top Marcadores": [
+                {
+                    "Marcador": "2-1",
+                    "Probabilidad": 9.15
+                },
+                {
+                    "Marcador": "1-1",
+                    "Probabilidad": 9.06
+                },
+                {
+                    "Marcador": "2-2",
+                    "Probabilidad": 6.72
+                },
+                {
+                    "Marcador": "1-2",
+                    "Probabilidad": 6.66
+                },
+                {
+                    "Marcador": "2-0",
+                    "Probabilidad": 6.22
+                }
+            ]
+        }
+    },
+    {
+        "Fecha": "2026-06-05",
+        "Hora": "06:30",
+        "Pais": "china",
+        "Liga": "League Two",
+        "Link": "https://www.flashscore.co/partido/futbol/dalian-kewei-4A6R5qSr/lanzhou-longyuan-athletic-vq7b83U1/?mid=xY0sFWYh",
+        "Partido": "lanzhou longyuan vs dalian kewei",
+        "Local": {
+            "Equipo": "lanzhou longyuan",
+            "Logo": "https://static.flashscore.com/res/image/data/jXvA2cZg-hxTCteCn.png",
+            "ELO": 1500,
+            "Ultimos 10": [
+                {
+                    "GF": 0,
+                    "GC": 1,
+                    "Resultado": "P",
+                    "Rival": "shanghai port b",
+                    "Marcador": "0-1"
+                },
+                {
+                    "GF": 2,
+                    "GC": 1,
+                    "Resultado": "G",
+                    "Rival": "meizhou hakka",
+                    "Marcador": "2-1"
+                },
+                {
+                    "GF": 1,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "qingdao red lions",
+                    "Marcador": "1-0"
+                },
+                {
+                    "GF": 1,
+                    "GC": 2,
+                    "Resultado": "P",
+                    "Rival": "shanghai second",
+                    "Marcador": "1-2"
+                },
+                {
+                    "GF": 0,
+                    "GC": 0,
+                    "Resultado": "E",
+                    "Rival": "nantong haimen",
+                    "Marcador": "0-0"
+                },
+                {
+                    "GF": 0,
+                    "GC": 0,
+                    "Resultado": "E",
+                    "Rival": "taian tiankuang",
+                    "Marcador": "0-0"
+                },
+                {
+                    "GF": 4,
+                    "GC": 1,
+                    "Resultado": "G",
+                    "Rival": "guangdong shudihong",
+                    "Marcador": "4-1"
+                },
+                {
+                    "GF": 0,
+                    "GC": 3,
+                    "Resultado": "P",
+                    "Rival": "shandong taishan b",
+                    "Marcador": "0-3"
+                },
+                {
+                    "GF": 1,
+                    "GC": 1,
+                    "Resultado": "E",
+                    "Rival": "dalian yingbo b",
+                    "Marcador": "1-1"
+                },
+                {
+                    "GF": 0,
+                    "GC": 0,
+                    "Resultado": "E",
+                    "Rival": "changchun xidu",
+                    "Marcador": "0-0"
+                }
+            ]
+        },
+        "Visitante": {
+            "Equipo": "dalian kewei",
+            "Logo": "https://static.flashscore.com/res/image/data/Io74YhWg-2Vp5lvC0.png",
+            "ELO": 1500,
+            "Ultimos 10": [
+                {
+                    "GF": 1,
+                    "GC": 2,
+                    "Resultado": "P",
+                    "Rival": "taian tiankuang",
+                    "Marcador": "1-2"
+                },
+                {
+                    "GF": 2,
+                    "GC": 1,
+                    "Resultado": "G",
+                    "Rival": "nantong zhiyun",
+                    "Marcador": "2-1"
+                },
+                {
+                    "GF": 2,
+                    "GC": 1,
+                    "Resultado": "G",
+                    "Rival": "shandong taishan b",
+                    "Marcador": "2-1"
+                },
+                {
+                    "GF": 0,
+                    "GC": 0,
+                    "Resultado": "E",
+                    "Rival": "dalian yingbo b",
+                    "Marcador": "0-0"
+                },
+                {
+                    "GF": 0,
+                    "GC": 0,
+                    "Resultado": "E",
+                    "Rival": "beijing technology",
+                    "Marcador": "0-0"
+                },
+                {
+                    "GF": 1,
+                    "GC": 1,
+                    "Resultado": "E",
+                    "Rival": "shanghai second",
+                    "Marcador": "1-1"
+                },
+                {
+                    "GF": 2,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "wenzhou professional",
+                    "Marcador": "2-0"
+                },
+                {
+                    "GF": 1,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "nantong haimen",
+                    "Marcador": "1-0"
+                },
+                {
+                    "GF": 0,
+                    "GC": 0,
+                    "Resultado": "E",
+                    "Rival": "shanghai port b",
+                    "Marcador": "0-0"
+                },
+                {
+                    "GF": 1,
+                    "GC": 0,
+                    "Resultado": "G",
+                    "Rival": "qingdao red lions",
+                    "Marcador": "1-0"
+                }
+            ]
+        },
+        "Cuotas": {
+            "Local": 3.0,
+            "Empate": 2.65,
+            "Visitante": 2.5
+        },
+        "IA": {
+            "Ganador IA": "lanzhou longyuan",
+            "Probabilidad Local": 38.02,
+            "Probabilidad Empate": 30.31,
+            "Probabilidad Visitante": 31.67,
+            "Expected Goals Local": 1.1,
+            "Expected Goals Visitante": 0.97,
+            "Expected Goals Total": 2.07,
+            "BTTS": 41.42,
+            "Over 2.5": 34.23,
+            "Forma Local": 43.33,
+            "Forma Visitante": 63.33,
+            "ELO Local": 1500,
+            "ELO Visitante": 1500,
+            "Ventaja ELO": 0.0,
+            "Confianza IA": 10.35,
+            "Partido Riesgoso": true,
+            "Hay Value": false,
+            "Value Local": 4.69,
+            "Value Empate": -7.43,
+            "Value Visitante": -8.33,
+            "Top Marcadores": [
+                {
+                    "Marcador": "1-0",
+                    "Probabilidad": 13.88
+                },
+                {
+                    "Marcador": "1-1",
+                    "Probabilidad": 13.46
+                },
+                {
+                    "Marcador": "0-0",
+                    "Probabilidad": 12.62
+                },
+                {
+                    "Marcador": "0-1",
+                    "Probabilidad": 12.24
+                },
+                {
+                    "Marcador": "2-0",
+                    "Probabilidad": 7.63
                 }
             ]
         }
