@@ -260,11 +260,11 @@
             "DefensaLocal": 0.36,
             "AtaqueVisitante": 1.36,
             "DefensaVisitante": 1.05,
-            "ProbabilidadLocal": 57.91,
-            "ProbabilidadEmpate": 25.0,
-            "ProbabilidadVisitante": 17.09,
+            "ProbabilidadLocal": 67.07,
+            "ProbabilidadEmpate": 26.83,
+            "ProbabilidadVisitante": 6.1,
             "Favorito": "Local",
-            "MarcadorProbable": "2-0",
+            "MarcadorProbable": "2-1",
             "Confianza": "MEDIA"
         }
     },
@@ -529,10 +529,10 @@
             "DefensaLocal": 1.15,
             "AtaqueVisitante": 1.44,
             "DefensaVisitante": 0.79,
-            "ProbabilidadLocal": 46.46,
-            "ProbabilidadEmpate": 25.0,
-            "ProbabilidadVisitante": 28.54,
-            "Favorito": "Local",
+            "ProbabilidadLocal": 31.45,
+            "ProbabilidadEmpate": 28.58,
+            "ProbabilidadVisitante": 39.96,
+            "Favorito": "Visitante",
             "MarcadorProbable": "1-2",
             "Confianza": "BAJA"
         }
@@ -798,11 +798,11 @@
             "DefensaLocal": 0.31,
             "AtaqueVisitante": 1.6,
             "DefensaVisitante": 0.81,
-            "ProbabilidadLocal": 50.42,
-            "ProbabilidadEmpate": 25.0,
-            "ProbabilidadVisitante": 24.58,
+            "ProbabilidadLocal": 46.45,
+            "ProbabilidadEmpate": 29.83,
+            "ProbabilidadVisitante": 23.71,
             "Favorito": "Local",
-            "MarcadorProbable": "1-1",
+            "MarcadorProbable": "2-1",
             "Confianza": "BAJA"
         }
     },
@@ -1067,9 +1067,9 @@
             "DefensaLocal": 1.76,
             "AtaqueVisitante": 1.03,
             "DefensaVisitante": 1.06,
-            "ProbabilidadLocal": 54.59,
-            "ProbabilidadEmpate": 25.0,
-            "ProbabilidadVisitante": 20.41,
+            "ProbabilidadLocal": 60.08,
+            "ProbabilidadEmpate": 28.17,
+            "ProbabilidadVisitante": 11.76,
             "Favorito": "Local",
             "MarcadorProbable": "2-1",
             "Confianza": "BAJA"
@@ -1336,12 +1336,12 @@
             "DefensaLocal": 1.6,
             "AtaqueVisitante": 2.39,
             "DefensaVisitante": 0.79,
-            "ProbabilidadLocal": 26.46,
-            "ProbabilidadEmpate": 25.0,
-            "ProbabilidadVisitante": 48.54,
+            "ProbabilidadLocal": 0.62,
+            "ProbabilidadEmpate": 20.58,
+            "ProbabilidadVisitante": 78.8,
             "Favorito": "Visitante",
-            "MarcadorProbable": "0-4",
-            "Confianza": "ALTA"
+            "MarcadorProbable": "1-2",
+            "Confianza": "MUY ALTA"
         }
     },
     {
@@ -1605,11 +1605,11 @@
             "DefensaLocal": 1.1,
             "AtaqueVisitante": 2.33,
             "DefensaVisitante": 0.3,
-            "ProbabilidadLocal": 37.5,
+            "ProbabilidadLocal": 6.82,
             "ProbabilidadEmpate": 25.0,
-            "ProbabilidadVisitante": 37.5,
-            "Favorito": "Local",
-            "MarcadorProbable": "0-3",
+            "ProbabilidadVisitante": 68.18,
+            "Favorito": "Visitante",
+            "MarcadorProbable": "1-2",
             "Confianza": "ALTA"
         }
     },
@@ -1874,10 +1874,10 @@
             "DefensaLocal": 0.95,
             "AtaqueVisitante": 2.09,
             "DefensaVisitante": 1.08,
-            "ProbabilidadLocal": 45.41,
-            "ProbabilidadEmpate": 25.0,
-            "ProbabilidadVisitante": 29.59,
-            "Favorito": "Local",
+            "ProbabilidadLocal": 27.46,
+            "ProbabilidadEmpate": 28.17,
+            "ProbabilidadVisitante": 44.38,
+            "Favorito": "Visitante",
             "MarcadorProbable": "1-2",
             "Confianza": "BAJA"
         }
@@ -2143,12 +2143,12 @@
             "DefensaLocal": 1.05,
             "AtaqueVisitante": 2.31,
             "DefensaVisitante": 1.16,
-            "ProbabilidadLocal": 40.0,
-            "ProbabilidadEmpate": 25.0,
-            "ProbabilidadVisitante": 35.0,
-            "Favorito": "Local",
-            "MarcadorProbable": "0-3",
-            "Confianza": "MEDIA"
+            "ProbabilidadLocal": 11.17,
+            "ProbabilidadEmpate": 26.0,
+            "ProbabilidadVisitante": 62.83,
+            "Favorito": "Visitante",
+            "MarcadorProbable": "1-2",
+            "Confianza": "ALTA"
         }
     },
     {
@@ -2412,12 +2412,12 @@
             "DefensaLocal": 0.85,
             "AtaqueVisitante": 1.56,
             "DefensaVisitante": 1.78,
-            "ProbabilidadLocal": 71.14,
-            "ProbabilidadEmpate": 24.05,
-            "ProbabilidadVisitante": 4.81,
+            "ProbabilidadLocal": 79.4,
+            "ProbabilidadEmpate": 20.42,
+            "ProbabilidadVisitante": 0.18,
             "Favorito": "Local",
-            "MarcadorProbable": "5-0",
-            "Confianza": "ALTA"
+            "MarcadorProbable": "3-1",
+            "Confianza": "MUY ALTA"
         }
     },
     {
@@ -2681,10 +2681,10 @@
             "DefensaLocal": 0.71,
             "AtaqueVisitante": 1.45,
             "DefensaVisitante": 0.55,
-            "ProbabilidadLocal": 43.54,
-            "ProbabilidadEmpate": 25.0,
-            "ProbabilidadVisitante": 31.46,
-            "Favorito": "Local",
+            "ProbabilidadLocal": 20.8,
+            "ProbabilidadEmpate": 27.42,
+            "ProbabilidadVisitante": 51.78,
+            "Favorito": "Visitante",
             "MarcadorProbable": "1-2",
             "Confianza": "MEDIA"
         }
@@ -2950,11 +2950,11 @@
             "DefensaLocal": 0.71,
             "AtaqueVisitante": 0.99,
             "DefensaVisitante": 0.55,
-            "ProbabilidadLocal": 59.79,
-            "ProbabilidadEmpate": 25.0,
-            "ProbabilidadVisitante": 15.21,
+            "ProbabilidadLocal": 69.8,
+            "ProbabilidadEmpate": 26.08,
+            "ProbabilidadVisitante": 4.12,
             "Favorito": "Local",
-            "MarcadorProbable": "2-0",
+            "MarcadorProbable": "2-1",
             "Confianza": "MEDIA"
         }
     },
@@ -2967,6 +2967,18 @@
         "LogoLocal": "https://static.flashscore.com/res/image/data/b7TlfQBr-Uywods6T.png",
         "LogoVisitante": "https://static.flashscore.com/res/image/data/SjHXYWzS-SGdPrEJa.png",
         "Ultimos10Local": [
+            {
+                "Fecha": "04.06.26",
+                "Local": "Suecia",
+                "Visitante": "Grecia",
+                "GolLocal": 2,
+                "GolVisitante": 2,
+                "LogoLocal": "https://static.flashscore.com/res/image/data/b7TlfQBr-Uywods6T.png",
+                "LogoVisitante": "https://static.flashscore.com/res/image/data/Y7rmskwS-IPNevN3m.png",
+                "Resultado": "E",
+                "LinkHistorico": "https://www.flashscore.co/partido/futbol/grecia-COuk57Ci/suecia-OQyqbHWB/?mid=nVbellBj",
+                "EquipoAnalizado": "Suecia"
+            },
             {
                 "Fecha": "01.06.26",
                 "Local": "Noruega",
@@ -3073,18 +3085,6 @@
                 "LogoVisitante": "https://static.flashscore.com/res/image/data/b7TlfQBr-Uywods6T.png",
                 "Resultado": "E",
                 "LinkHistorico": "https://www.flashscore.co/partido/futbol/eslovenia-tfMf3PoO/suecia-OQyqbHWB/?mid=AFcLjQPF",
-                "EquipoAnalizado": "Suecia"
-            },
-            {
-                "Fecha": "10.06.25",
-                "Local": "Suecia",
-                "Visitante": "Argelia",
-                "GolLocal": 4,
-                "GolVisitante": 3,
-                "LogoLocal": "https://static.flashscore.com/res/image/data/b7TlfQBr-Uywods6T.png",
-                "LogoVisitante": "https://static.flashscore.com/res/image/data/OGRs7nwS-YFbDUeTh.png",
-                "Resultado": "G",
-                "LinkHistorico": "https://www.flashscore.co/partido/futbol/argelia-nc87N1BR/suecia-OQyqbHWB/?mid=C0LGr7t1",
                 "EquipoAnalizado": "Suecia"
             }
         ],
@@ -3213,18 +3213,18 @@
         "Pronostico": {
             "EquipoLocal": "Suecia",
             "EquipoVisitante": "Túnez",
-            "RatingLocal": 37.5,
+            "RatingLocal": 32.5,
             "RatingVisitante": 46.25,
-            "AtaqueLocal": 1.5,
-            "DefensaLocal": 2.08,
+            "AtaqueLocal": 1.4,
+            "DefensaLocal": 2.03,
             "AtaqueVisitante": 1.23,
             "DefensaVisitante": 0.85,
-            "ProbabilidadLocal": 45.62,
-            "ProbabilidadEmpate": 25.0,
-            "ProbabilidadVisitante": 29.38,
-            "Favorito": "Local",
+            "ProbabilidadLocal": 19.46,
+            "ProbabilidadEmpate": 27.25,
+            "ProbabilidadVisitante": 53.29,
+            "Favorito": "Visitante",
             "MarcadorProbable": "1-2",
-            "Confianza": "BAJA"
+            "Confianza": "MEDIA"
         }
     },
     {
@@ -3488,12 +3488,12 @@
             "DefensaLocal": 0.53,
             "AtaqueVisitante": 1.48,
             "DefensaVisitante": 0.79,
-            "ProbabilidadLocal": 60.0,
-            "ProbabilidadEmpate": 25.0,
-            "ProbabilidadVisitante": 15.0,
+            "ProbabilidadLocal": 70.06,
+            "ProbabilidadEmpate": 26.0,
+            "ProbabilidadVisitante": 3.94,
             "Favorito": "Local",
-            "MarcadorProbable": "3-0",
-            "Confianza": "MEDIA"
+            "MarcadorProbable": "2-1",
+            "Confianza": "ALTA"
         }
     },
     {
@@ -3757,11 +3757,11 @@
             "DefensaLocal": 0.88,
             "AtaqueVisitante": 1.36,
             "DefensaVisitante": 0.46,
-            "ProbabilidadLocal": 57.3,
-            "ProbabilidadEmpate": 25.0,
-            "ProbabilidadVisitante": 17.7,
+            "ProbabilidadLocal": 66.0,
+            "ProbabilidadEmpate": 27.08,
+            "ProbabilidadVisitante": 6.92,
             "Favorito": "Local",
-            "MarcadorProbable": "3-0",
+            "MarcadorProbable": "2-1",
             "Confianza": "MEDIA"
         }
     },
@@ -4026,11 +4026,11 @@
             "DefensaLocal": 1.59,
             "AtaqueVisitante": 0.95,
             "DefensaVisitante": 0.94,
-            "ProbabilidadLocal": 41.88,
-            "ProbabilidadEmpate": 25.0,
-            "ProbabilidadVisitante": 33.12,
-            "Favorito": "Local",
-            "MarcadorProbable": "0-2",
+            "ProbabilidadLocal": 15.75,
+            "ProbabilidadEmpate": 26.75,
+            "ProbabilidadVisitante": 57.5,
+            "Favorito": "Visitante",
+            "MarcadorProbable": "1-2",
             "Confianza": "MEDIA"
         }
     },
@@ -4043,6 +4043,18 @@
         "LogoLocal": "https://static.flashscore.com/res/image/data/E71I3ig5-h2ICxBRT.png",
         "LogoVisitante": "https://static.flashscore.com/res/image/data/Q1WkZDyS-zmDbXBOa.png",
         "Ultimos10Local": [
+            {
+                "Fecha": "04.06.26",
+                "Local": "Irán",
+                "Visitante": "Mali",
+                "GolLocal": 2,
+                "GolVisitante": 0,
+                "LogoLocal": "https://static.flashscore.com/res/image/data/E71I3ig5-h2ICxBRT.png",
+                "LogoVisitante": "https://static.flashscore.com/res/image/data/ILZCLygl-MBizNLYC.png",
+                "Resultado": "G",
+                "LinkHistorico": "https://www.flashscore.co/partido/futbol/iran-xrRx85iA/mali-jVn5lThB/?mid=AaIa7Ya5",
+                "EquipoAnalizado": "Irán"
+            },
             {
                 "Fecha": "29.05.26",
                 "Local": "Irán",
@@ -4149,18 +4161,6 @@
                 "LogoVisitante": "https://static.flashscore.com/res/image/data/E71I3ig5-h2ICxBRT.png",
                 "Resultado": "E",
                 "LinkHistorico": "https://www.flashscore.co/partido/futbol/iran-xrRx85iA/tayikistan-WlExKTT4/?mid=UwDK0gLE",
-                "EquipoAnalizado": "Irán"
-            },
-            {
-                "Fecha": "01.09.25",
-                "Local": "India",
-                "Visitante": "Irán",
-                "GolLocal": 0,
-                "GolVisitante": 3,
-                "LogoLocal": "https://static.flashscore.com/res/image/data/nqz3kJDa-YB0DoGZt.png",
-                "LogoVisitante": "https://static.flashscore.com/res/image/data/E71I3ig5-h2ICxBRT.png",
-                "Resultado": "G",
-                "LinkHistorico": "https://www.flashscore.co/partido/futbol/india-A1UUGpep/iran-xrRx85iA/?mid=0tKXTQ9a",
                 "EquipoAnalizado": "Irán"
             }
         ],
@@ -4289,18 +4289,18 @@
         "Pronostico": {
             "EquipoLocal": "Irán",
             "EquipoVisitante": "Nueva Zelanda",
-            "RatingLocal": 55.0,
+            "RatingLocal": 57.5,
             "RatingVisitante": 15.83,
-            "AtaqueLocal": 1.78,
-            "DefensaLocal": 0.76,
+            "AtaqueLocal": 1.71,
+            "DefensaLocal": 0.75,
             "AtaqueVisitante": 0.86,
             "DefensaVisitante": 1.95,
-            "ProbabilidadLocal": 69.59,
-            "ProbabilidadEmpate": 25.0,
-            "ProbabilidadVisitante": 5.41,
+            "ProbabilidadLocal": 77.97,
+            "ProbabilidadEmpate": 21.67,
+            "ProbabilidadVisitante": 0.36,
             "Favorito": "Local",
-            "MarcadorProbable": "4-0",
-            "Confianza": "ALTA"
+            "MarcadorProbable": "2-1",
+            "Confianza": "MUY ALTA"
         }
     },
     {
@@ -4564,11 +4564,11 @@
             "DefensaLocal": 1.03,
             "AtaqueVisitante": 1.88,
             "DefensaVisitante": 1.0,
-            "ProbabilidadLocal": 57.29,
-            "ProbabilidadEmpate": 25.0,
-            "ProbabilidadVisitante": 17.71,
+            "ProbabilidadLocal": 65.99,
+            "ProbabilidadEmpate": 27.08,
+            "ProbabilidadVisitante": 6.93,
             "Favorito": "Local",
-            "MarcadorProbable": "3-1",
+            "MarcadorProbable": "2-1",
             "Confianza": "MEDIA"
         }
     },
@@ -4833,10 +4833,10 @@
             "DefensaLocal": 0.74,
             "AtaqueVisitante": 2.99,
             "DefensaVisitante": 0.75,
-            "ProbabilidadLocal": 46.46,
-            "ProbabilidadEmpate": 25.0,
-            "ProbabilidadVisitante": 28.54,
-            "Favorito": "Local",
+            "ProbabilidadLocal": 31.45,
+            "ProbabilidadEmpate": 28.58,
+            "ProbabilidadVisitante": 39.96,
+            "Favorito": "Visitante",
             "MarcadorProbable": "1-2",
             "Confianza": "BAJA"
         }
@@ -5102,12 +5102,12 @@
             "DefensaLocal": 0.39,
             "AtaqueVisitante": 1.81,
             "DefensaVisitante": 0.33,
-            "ProbabilidadLocal": 55.62,
-            "ProbabilidadEmpate": 25.0,
-            "ProbabilidadVisitante": 19.38,
+            "ProbabilidadLocal": 62.61,
+            "ProbabilidadEmpate": 27.75,
+            "ProbabilidadVisitante": 9.64,
             "Favorito": "Local",
             "MarcadorProbable": "2-1",
-            "Confianza": "BAJA"
+            "Confianza": "MEDIA"
         }
     },
     {
@@ -5371,11 +5371,11 @@
             "DefensaLocal": 0.41,
             "AtaqueVisitante": 1.7,
             "DefensaVisitante": 1.48,
-            "ProbabilidadLocal": 63.54,
-            "ProbabilidadEmpate": 25.0,
-            "ProbabilidadVisitante": 11.46,
+            "ProbabilidadLocal": 73.58,
+            "ProbabilidadEmpate": 24.58,
+            "ProbabilidadVisitante": 1.83,
             "Favorito": "Local",
-            "MarcadorProbable": "3-0",
+            "MarcadorProbable": "2-1",
             "Confianza": "ALTA"
         }
     },
@@ -5640,11 +5640,11 @@
             "DefensaLocal": 0.79,
             "AtaqueVisitante": 1.09,
             "DefensaVisitante": 0.21,
-            "ProbabilidadLocal": 50.0,
-            "ProbabilidadEmpate": 25.0,
-            "ProbabilidadVisitante": 25.0,
+            "ProbabilidadLocal": 44.8,
+            "ProbabilidadEmpate": 30.0,
+            "ProbabilidadVisitante": 25.2,
             "Favorito": "Local",
-            "MarcadorProbable": "1-1",
+            "MarcadorProbable": "2-1",
             "Confianza": "BAJA"
         }
     },
@@ -5909,9 +5909,9 @@
             "DefensaLocal": 0.48,
             "AtaqueVisitante": 2.09,
             "DefensaVisitante": 1.14,
-            "ProbabilidadLocal": 51.25,
-            "ProbabilidadEmpate": 25.0,
-            "ProbabilidadVisitante": 23.75,
+            "ProbabilidadLocal": 49.59,
+            "ProbabilidadEmpate": 29.5,
+            "ProbabilidadVisitante": 20.91,
             "Favorito": "Local",
             "MarcadorProbable": "2-1",
             "Confianza": "BAJA"
@@ -6178,11 +6178,11 @@
             "DefensaLocal": 1.54,
             "AtaqueVisitante": 1.86,
             "DefensaVisitante": 1.68,
-            "ProbabilidadLocal": 36.67,
-            "ProbabilidadEmpate": 25.0,
-            "ProbabilidadVisitante": 38.33,
+            "ProbabilidadLocal": 5.75,
+            "ProbabilidadEmpate": 24.67,
+            "ProbabilidadVisitante": 69.58,
             "Favorito": "Visitante",
-            "MarcadorProbable": "0-3",
+            "MarcadorProbable": "1-2",
             "Confianza": "ALTA"
         }
     },
@@ -6447,11 +6447,11 @@
             "DefensaLocal": 0.96,
             "AtaqueVisitante": 2.33,
             "DefensaVisitante": 1.16,
-            "ProbabilidadLocal": 53.75,
-            "ProbabilidadEmpate": 25.0,
-            "ProbabilidadVisitante": 21.25,
+            "ProbabilidadLocal": 57.79,
+            "ProbabilidadEmpate": 28.5,
+            "ProbabilidadVisitante": 13.71,
             "Favorito": "Local",
-            "MarcadorProbable": "2-1",
+            "MarcadorProbable": "3-2",
             "Confianza": "BAJA"
         }
     },
@@ -6716,12 +6716,12 @@
             "DefensaLocal": 0.79,
             "AtaqueVisitante": 1.36,
             "DefensaVisitante": 1.05,
-            "ProbabilidadLocal": 60.2,
-            "ProbabilidadEmpate": 25.0,
-            "ProbabilidadVisitante": 14.8,
+            "ProbabilidadLocal": 70.31,
+            "ProbabilidadEmpate": 25.92,
+            "ProbabilidadVisitante": 3.77,
             "Favorito": "Local",
-            "MarcadorProbable": "2-0",
-            "Confianza": "MEDIA"
+            "MarcadorProbable": "2-1",
+            "Confianza": "ALTA"
         }
     },
     {
@@ -6985,9 +6985,9 @@
             "DefensaLocal": 0.79,
             "AtaqueVisitante": 1.6,
             "DefensaVisitante": 0.81,
-            "ProbabilidadLocal": 52.09,
-            "ProbabilidadEmpate": 25.0,
-            "ProbabilidadVisitante": 22.91,
+            "ProbabilidadLocal": 52.55,
+            "ProbabilidadEmpate": 29.17,
+            "ProbabilidadVisitante": 18.28,
             "Favorito": "Local",
             "MarcadorProbable": "2-1",
             "Confianza": "BAJA"
@@ -7254,12 +7254,12 @@
             "DefensaLocal": 0.31,
             "AtaqueVisitante": 0.65,
             "DefensaVisitante": 1.6,
-            "ProbabilidadLocal": 70.55,
-            "ProbabilidadEmpate": 24.54,
-            "ProbabilidadVisitante": 4.91,
+            "ProbabilidadLocal": 78.46,
+            "ProbabilidadEmpate": 21.25,
+            "ProbabilidadVisitante": 0.29,
             "Favorito": "Local",
-            "MarcadorProbable": "4-0",
-            "Confianza": "ALTA"
+            "MarcadorProbable": "2-0",
+            "Confianza": "MUY ALTA"
         }
     },
     {
@@ -7523,11 +7523,11 @@
             "DefensaLocal": 0.36,
             "AtaqueVisitante": 1.53,
             "DefensaVisitante": 1.15,
-            "ProbabilidadLocal": 51.25,
-            "ProbabilidadEmpate": 25.0,
-            "ProbabilidadVisitante": 23.75,
+            "ProbabilidadLocal": 49.59,
+            "ProbabilidadEmpate": 29.5,
+            "ProbabilidadVisitante": 20.91,
             "Favorito": "Local",
-            "MarcadorProbable": "1-1",
+            "MarcadorProbable": "2-1",
             "Confianza": "BAJA"
         }
     },
@@ -7792,11 +7792,11 @@
             "DefensaLocal": 1.76,
             "AtaqueVisitante": 1.41,
             "DefensaVisitante": 1.05,
-            "ProbabilidadLocal": 49.59,
-            "ProbabilidadEmpate": 25.0,
-            "ProbabilidadVisitante": 25.41,
+            "ProbabilidadLocal": 43.35,
+            "ProbabilidadEmpate": 29.83,
+            "ProbabilidadVisitante": 26.82,
             "Favorito": "Local",
-            "MarcadorProbable": "1-2",
+            "MarcadorProbable": "3-2",
             "Confianza": "BAJA"
         }
     },
@@ -8061,11 +8061,11 @@
             "DefensaLocal": 1.08,
             "AtaqueVisitante": 2.33,
             "DefensaVisitante": 0.3,
-            "ProbabilidadLocal": 36.88,
-            "ProbabilidadEmpate": 25.0,
-            "ProbabilidadVisitante": 38.12,
+            "ProbabilidadLocal": 6.0,
+            "ProbabilidadEmpate": 24.75,
+            "ProbabilidadVisitante": 69.25,
             "Favorito": "Visitante",
-            "MarcadorProbable": "0-3",
+            "MarcadorProbable": "1-2",
             "Confianza": "ALTA"
         }
     },
@@ -8330,12 +8330,12 @@
             "DefensaLocal": 1.1,
             "AtaqueVisitante": 1.55,
             "DefensaVisitante": 0.95,
-            "ProbabilidadLocal": 55.21,
-            "ProbabilidadEmpate": 25.0,
-            "ProbabilidadVisitante": 19.79,
+            "ProbabilidadLocal": 61.64,
+            "ProbabilidadEmpate": 27.92,
+            "ProbabilidadVisitante": 10.44,
             "Favorito": "Local",
             "MarcadorProbable": "2-1",
-            "Confianza": "BAJA"
+            "Confianza": "MEDIA"
         }
     },
     {
@@ -8599,12 +8599,12 @@
             "DefensaLocal": 1.16,
             "AtaqueVisitante": 1.03,
             "DefensaVisitante": 1.06,
-            "ProbabilidadLocal": 65.0,
-            "ProbabilidadEmpate": 25.0,
-            "ProbabilidadVisitante": 10.0,
+            "ProbabilidadLocal": 74.67,
+            "ProbabilidadEmpate": 24.0,
+            "ProbabilidadVisitante": 1.33,
             "Favorito": "Local",
-            "MarcadorProbable": "3-0",
-            "Confianza": "ALTA"
+            "MarcadorProbable": "2-1",
+            "Confianza": "MUY ALTA"
         }
     },
     {
@@ -8739,6 +8739,18 @@
         ],
         "Ultimos10Visitante": [
             {
+                "Fecha": "04.06.26",
+                "Local": "Suecia",
+                "Visitante": "Grecia",
+                "GolLocal": 2,
+                "GolVisitante": 2,
+                "LogoLocal": "https://static.flashscore.com/res/image/data/b7TlfQBr-Uywods6T.png",
+                "LogoVisitante": "https://static.flashscore.com/res/image/data/Y7rmskwS-IPNevN3m.png",
+                "Resultado": "E",
+                "LinkHistorico": "https://www.flashscore.co/partido/futbol/grecia-COuk57Ci/suecia-OQyqbHWB/?mid=nVbellBj",
+                "EquipoAnalizado": "Suecia"
+            },
+            {
                 "Fecha": "01.06.26",
                 "Local": "Noruega",
                 "Visitante": "Suecia",
@@ -8845,35 +8857,23 @@
                 "Resultado": "E",
                 "LinkHistorico": "https://www.flashscore.co/partido/futbol/eslovenia-tfMf3PoO/suecia-OQyqbHWB/?mid=AFcLjQPF",
                 "EquipoAnalizado": "Suecia"
-            },
-            {
-                "Fecha": "10.06.25",
-                "Local": "Suecia",
-                "Visitante": "Argelia",
-                "GolLocal": 4,
-                "GolVisitante": 3,
-                "LogoLocal": "https://static.flashscore.com/res/image/data/b7TlfQBr-Uywods6T.png",
-                "LogoVisitante": "https://static.flashscore.com/res/image/data/OGRs7nwS-YFbDUeTh.png",
-                "Resultado": "G",
-                "LinkHistorico": "https://www.flashscore.co/partido/futbol/argelia-nc87N1BR/suecia-OQyqbHWB/?mid=C0LGr7t1",
-                "EquipoAnalizado": "Suecia"
             }
         ],
         "Pronostico": {
             "EquipoLocal": "Países Bajos",
             "EquipoVisitante": "Suecia",
             "RatingLocal": 67.5,
-            "RatingVisitante": 37.5,
+            "RatingVisitante": 32.5,
             "AtaqueLocal": 2.59,
             "DefensaLocal": 0.71,
-            "AtaqueVisitante": 1.5,
-            "DefensaVisitante": 2.08,
-            "ProbabilidadLocal": 65.0,
-            "ProbabilidadEmpate": 25.0,
-            "ProbabilidadVisitante": 10.0,
+            "AtaqueVisitante": 1.4,
+            "DefensaVisitante": 2.03,
+            "ProbabilidadLocal": 76.24,
+            "ProbabilidadEmpate": 23.0,
+            "ProbabilidadVisitante": 0.76,
             "Favorito": "Local",
-            "MarcadorProbable": "4-0",
-            "Confianza": "ALTA"
+            "MarcadorProbable": "3-1",
+            "Confianza": "MUY ALTA"
         }
     },
     {
@@ -9137,12 +9137,12 @@
             "DefensaLocal": 0.85,
             "AtaqueVisitante": 2.08,
             "DefensaVisitante": 0.71,
-            "ProbabilidadLocal": 55.21,
-            "ProbabilidadEmpate": 25.0,
-            "ProbabilidadVisitante": 19.79,
+            "ProbabilidadLocal": 61.64,
+            "ProbabilidadEmpate": 27.92,
+            "ProbabilidadVisitante": 10.44,
             "Favorito": "Local",
             "MarcadorProbable": "2-1",
-            "Confianza": "BAJA"
+            "Confianza": "MEDIA"
         }
     },
     {
@@ -9406,11 +9406,11 @@
             "DefensaLocal": 0.55,
             "AtaqueVisitante": 1.56,
             "DefensaVisitante": 1.78,
-            "ProbabilidadLocal": 58.96,
-            "ProbabilidadEmpate": 25.0,
-            "ProbabilidadVisitante": 16.04,
+            "ProbabilidadLocal": 68.68,
+            "ProbabilidadEmpate": 26.42,
+            "ProbabilidadVisitante": 4.91,
             "Favorito": "Local",
-            "MarcadorProbable": "2-0",
+            "MarcadorProbable": "2-1",
             "Confianza": "MEDIA"
         }
     },
@@ -9675,12 +9675,12 @@
             "DefensaLocal": 0.85,
             "AtaqueVisitante": 1.45,
             "DefensaVisitante": 0.55,
-            "ProbabilidadLocal": 32.91,
-            "ProbabilidadEmpate": 25.0,
-            "ProbabilidadVisitante": 42.09,
+            "ProbabilidadLocal": 2.58,
+            "ProbabilidadEmpate": 23.17,
+            "ProbabilidadVisitante": 74.25,
             "Favorito": "Visitante",
-            "MarcadorProbable": "0-3",
-            "Confianza": "ALTA"
+            "MarcadorProbable": "1-2",
+            "Confianza": "MUY ALTA"
         }
     },
     {
@@ -9944,12 +9944,12 @@
             "DefensaLocal": 0.53,
             "AtaqueVisitante": 0.96,
             "DefensaVisitante": 1.59,
-            "ProbabilidadLocal": 70.25,
-            "ProbabilidadEmpate": 24.79,
-            "ProbabilidadVisitante": 4.96,
+            "ProbabilidadLocal": 77.97,
+            "ProbabilidadEmpate": 21.67,
+            "ProbabilidadVisitante": 0.36,
             "Favorito": "Local",
-            "MarcadorProbable": "4-0",
-            "Confianza": "ALTA"
+            "MarcadorProbable": "3-1",
+            "Confianza": "MUY ALTA"
         }
     },
     {
@@ -10084,6 +10084,18 @@
         ],
         "Ultimos10Visitante": [
             {
+                "Fecha": "04.06.26",
+                "Local": "Irán",
+                "Visitante": "Mali",
+                "GolLocal": 2,
+                "GolVisitante": 0,
+                "LogoLocal": "https://static.flashscore.com/res/image/data/E71I3ig5-h2ICxBRT.png",
+                "LogoVisitante": "https://static.flashscore.com/res/image/data/ILZCLygl-MBizNLYC.png",
+                "Resultado": "G",
+                "LinkHistorico": "https://www.flashscore.co/partido/futbol/iran-xrRx85iA/mali-jVn5lThB/?mid=AaIa7Ya5",
+                "EquipoAnalizado": "Irán"
+            },
+            {
                 "Fecha": "29.05.26",
                 "Local": "Irán",
                 "Visitante": "Gambia",
@@ -10190,35 +10202,23 @@
                 "Resultado": "E",
                 "LinkHistorico": "https://www.flashscore.co/partido/futbol/iran-xrRx85iA/tayikistan-WlExKTT4/?mid=UwDK0gLE",
                 "EquipoAnalizado": "Irán"
-            },
-            {
-                "Fecha": "01.09.25",
-                "Local": "India",
-                "Visitante": "Irán",
-                "GolLocal": 0,
-                "GolVisitante": 3,
-                "LogoLocal": "https://static.flashscore.com/res/image/data/nqz3kJDa-YB0DoGZt.png",
-                "LogoVisitante": "https://static.flashscore.com/res/image/data/E71I3ig5-h2ICxBRT.png",
-                "Resultado": "G",
-                "LinkHistorico": "https://www.flashscore.co/partido/futbol/india-A1UUGpep/iran-xrRx85iA/?mid=0tKXTQ9a",
-                "EquipoAnalizado": "Irán"
             }
         ],
         "Pronostico": {
             "EquipoLocal": "Bélgica",
             "EquipoVisitante": "Irán",
             "RatingLocal": 79.17,
-            "RatingVisitante": 55.0,
+            "RatingVisitante": 57.5,
             "AtaqueLocal": 3.5,
             "DefensaLocal": 0.88,
-            "AtaqueVisitante": 1.78,
-            "DefensaVisitante": 0.76,
-            "ProbabilidadLocal": 62.09,
-            "ProbabilidadEmpate": 25.0,
-            "ProbabilidadVisitante": 12.91,
+            "AtaqueVisitante": 1.71,
+            "DefensaVisitante": 0.75,
+            "ProbabilidadLocal": 71.04,
+            "ProbabilidadEmpate": 25.67,
+            "ProbabilidadVisitante": 3.3,
             "Favorito": "Local",
-            "MarcadorProbable": "3-0",
-            "Confianza": "MEDIA"
+            "MarcadorProbable": "2-1",
+            "Confianza": "ALTA"
         }
     },
     {
@@ -10482,11 +10482,11 @@
             "DefensaLocal": 0.94,
             "AtaqueVisitante": 1.48,
             "DefensaVisitante": 0.79,
-            "ProbabilidadLocal": 47.29,
-            "ProbabilidadEmpate": 25.0,
-            "ProbabilidadVisitante": 27.71,
-            "Favorito": "Local",
-            "MarcadorProbable": "1-1",
+            "ProbabilidadLocal": 34.68,
+            "ProbabilidadEmpate": 28.92,
+            "ProbabilidadVisitante": 36.4,
+            "Favorito": "Visitante",
+            "MarcadorProbable": "1-2",
             "Confianza": "BAJA"
         }
     },
@@ -10751,12 +10751,12 @@
             "DefensaLocal": 1.95,
             "AtaqueVisitante": 1.36,
             "DefensaVisitante": 0.46,
-            "ProbabilidadLocal": 25.62,
-            "ProbabilidadEmpate": 25.0,
-            "ProbabilidadVisitante": 49.38,
+            "ProbabilidadLocal": 0.51,
+            "ProbabilidadEmpate": 20.25,
+            "ProbabilidadVisitante": 79.24,
             "Favorito": "Visitante",
-            "MarcadorProbable": "0-4",
-            "Confianza": "ALTA"
+            "MarcadorProbable": "0-2",
+            "Confianza": "MUY ALTA"
         }
     },
     {
@@ -11020,9 +11020,9 @@
             "DefensaLocal": 0.39,
             "AtaqueVisitante": 2.55,
             "DefensaVisitante": 0.41,
-            "ProbabilidadLocal": 50.83,
-            "ProbabilidadEmpate": 25.0,
-            "ProbabilidadVisitante": 24.16,
+            "ProbabilidadLocal": 48.04,
+            "ProbabilidadEmpate": 29.67,
+            "ProbabilidadVisitante": 22.29,
             "Favorito": "Local",
             "MarcadorProbable": "2-1",
             "Confianza": "BAJA"
@@ -11160,6 +11160,18 @@
         ],
         "Ultimos10Visitante": [
             {
+                "Fecha": "04.06.26",
+                "Local": "España",
+                "Visitante": "Irak",
+                "GolLocal": 1,
+                "GolVisitante": 1,
+                "LogoLocal": "https://static.flashscore.com/res/image/data/Od7JGXZA-0E8Iihe1.png",
+                "LogoVisitante": "https://static.flashscore.com/res/image/data/CbiRFhYA-4EsvakLH.png",
+                "Resultado": "E",
+                "LinkHistorico": "https://www.flashscore.co/partido/futbol/espana-bLyo6mco/irak-K8aAGt6r/?mid=4E3Spdio",
+                "EquipoAnalizado": "Irak"
+            },
+            {
                 "Fecha": "29.05.26",
                 "Local": "Irak",
                 "Visitante": "Andorra",
@@ -11266,35 +11278,23 @@
                 "Resultado": "E",
                 "LinkHistorico": "https://www.flashscore.co/partido/futbol/arabia-saudi-biSY8ox4/irak-K8aAGt6r/?mid=Q16yUWl5",
                 "EquipoAnalizado": "Irak"
-            },
-            {
-                "Fecha": "11.10.25",
-                "Local": "Irak",
-                "Visitante": "Indonesia",
-                "GolLocal": 1,
-                "GolVisitante": 0,
-                "LogoLocal": "https://static.flashscore.com/res/image/data/CbiRFhYA-4EsvakLH.png",
-                "LogoVisitante": "https://static.flashscore.com/res/image/data/WvrcHkXg-QBz8eAFI.png",
-                "Resultado": "G",
-                "LinkHistorico": "https://www.flashscore.co/partido/futbol/indonesia-88ErHiT9/irak-K8aAGt6r/?mid=4nISVhKh",
-                "EquipoAnalizado": "Irak"
             }
         ],
         "Pronostico": {
             "EquipoLocal": "Francia",
             "EquipoVisitante": "Irak",
             "RatingLocal": 85.83,
-            "RatingVisitante": 66.67,
+            "RatingVisitante": 60.42,
             "AtaqueLocal": 2.71,
             "DefensaLocal": 1.03,
-            "AtaqueVisitante": 1.11,
-            "DefensaVisitante": 0.74,
-            "ProbabilidadLocal": 59.58,
-            "ProbabilidadEmpate": 25.0,
-            "ProbabilidadVisitante": 15.42,
+            "AtaqueVisitante": 1.1,
+            "DefensaVisitante": 0.8,
+            "ProbabilidadLocal": 72.88,
+            "ProbabilidadEmpate": 24.92,
+            "ProbabilidadVisitante": 2.2,
             "Favorito": "Local",
-            "MarcadorProbable": "3-0",
-            "Confianza": "MEDIA"
+            "MarcadorProbable": "2-1",
+            "Confianza": "ALTA"
         }
     },
     {
@@ -11558,9 +11558,9 @@
             "DefensaLocal": 0.75,
             "AtaqueVisitante": 1.88,
             "DefensaVisitante": 1.0,
-            "ProbabilidadLocal": 51.25,
-            "ProbabilidadEmpate": 25.0,
-            "ProbabilidadVisitante": 23.75,
+            "ProbabilidadLocal": 49.59,
+            "ProbabilidadEmpate": 29.5,
+            "ProbabilidadVisitante": 20.91,
             "Favorito": "Local",
             "MarcadorProbable": "2-1",
             "Confianza": "BAJA"
@@ -11827,11 +11827,11 @@
             "DefensaLocal": 1.48,
             "AtaqueVisitante": 1.81,
             "DefensaVisitante": 0.33,
-            "ProbabilidadLocal": 41.25,
-            "ProbabilidadEmpate": 25.0,
-            "ProbabilidadVisitante": 33.75,
-            "Favorito": "Local",
-            "MarcadorProbable": "0-3",
+            "ProbabilidadLocal": 14.09,
+            "ProbabilidadEmpate": 26.5,
+            "ProbabilidadVisitante": 59.41,
+            "Favorito": "Visitante",
+            "MarcadorProbable": "1-2",
             "Confianza": "MEDIA"
         }
     },
@@ -12096,9 +12096,9 @@
             "DefensaLocal": 0.79,
             "AtaqueVisitante": 1.48,
             "DefensaVisitante": 0.96,
-            "ProbabilidadLocal": 50.83,
-            "ProbabilidadEmpate": 25.0,
-            "ProbabilidadVisitante": 24.16,
+            "ProbabilidadLocal": 48.04,
+            "ProbabilidadEmpate": 29.67,
+            "ProbabilidadVisitante": 22.29,
             "Favorito": "Local",
             "MarcadorProbable": "2-1",
             "Confianza": "BAJA"
@@ -12365,12 +12365,12 @@
             "DefensaLocal": 0.48,
             "AtaqueVisitante": 1.03,
             "DefensaVisitante": 1.54,
-            "ProbabilidadLocal": 70.0,
-            "ProbabilidadEmpate": 25.0,
-            "ProbabilidadVisitante": 5.0,
+            "ProbabilidadLocal": 77.56,
+            "ProbabilidadEmpate": 22.0,
+            "ProbabilidadVisitante": 0.44,
             "Favorito": "Local",
-            "MarcadorProbable": "4-0",
-            "Confianza": "ALTA"
+            "MarcadorProbable": "2-1",
+            "Confianza": "MUY ALTA"
         }
     },
     {
@@ -12634,12 +12634,12 @@
             "DefensaLocal": 1.68,
             "AtaqueVisitante": 2.09,
             "DefensaVisitante": 1.14,
-            "ProbabilidadLocal": 44.58,
-            "ProbabilidadEmpate": 25.0,
-            "ProbabilidadVisitante": 30.42,
-            "Favorito": "Local",
+            "ProbabilidadLocal": 24.39,
+            "ProbabilidadEmpate": 27.83,
+            "ProbabilidadVisitante": 47.78,
+            "Favorito": "Visitante",
             "MarcadorProbable": "1-2",
-            "Confianza": "BAJA"
+            "Confianza": "MEDIA"
         }
     },
     {
@@ -12903,10 +12903,10 @@
             "DefensaLocal": 1.16,
             "AtaqueVisitante": 1.09,
             "DefensaVisitante": 0.21,
-            "ProbabilidadLocal": 45.41,
-            "ProbabilidadEmpate": 25.0,
-            "ProbabilidadVisitante": 29.59,
-            "Favorito": "Local",
+            "ProbabilidadLocal": 27.46,
+            "ProbabilidadEmpate": 28.17,
+            "ProbabilidadVisitante": 44.38,
+            "Favorito": "Visitante",
             "MarcadorProbable": "1-2",
             "Confianza": "BAJA"
         }
@@ -13172,12 +13172,12 @@
             "DefensaLocal": 0.81,
             "AtaqueVisitante": 0.65,
             "DefensaVisitante": 1.6,
-            "ProbabilidadLocal": 70.43,
-            "ProbabilidadEmpate": 24.64,
-            "ProbabilidadVisitante": 4.93,
+            "ProbabilidadLocal": 78.27,
+            "ProbabilidadEmpate": 21.42,
+            "ProbabilidadVisitante": 0.31,
             "Favorito": "Local",
-            "MarcadorProbable": "4-0",
-            "Confianza": "ALTA"
+            "MarcadorProbable": "2-1",
+            "Confianza": "MUY ALTA"
         }
     },
     {
@@ -13441,9 +13441,9 @@
             "DefensaLocal": 0.79,
             "AtaqueVisitante": 1.09,
             "DefensaVisitante": 0.31,
-            "ProbabilidadLocal": 51.66,
-            "ProbabilidadEmpate": 25.0,
-            "ProbabilidadVisitante": 23.34,
+            "ProbabilidadLocal": 51.09,
+            "ProbabilidadEmpate": 29.33,
+            "ProbabilidadVisitante": 19.58,
             "Favorito": "Local",
             "MarcadorProbable": "2-1",
             "Confianza": "BAJA"
@@ -13710,11 +13710,11 @@
             "DefensaLocal": 1.08,
             "AtaqueVisitante": 2.49,
             "DefensaVisitante": 1.1,
-            "ProbabilidadLocal": 49.38,
-            "ProbabilidadEmpate": 25.0,
-            "ProbabilidadVisitante": 25.62,
+            "ProbabilidadLocal": 42.59,
+            "ProbabilidadEmpate": 29.75,
+            "ProbabilidadVisitante": 27.66,
             "Favorito": "Local",
-            "MarcadorProbable": "2-2",
+            "MarcadorProbable": "3-2",
             "Confianza": "BAJA"
         }
     },
@@ -13979,12 +13979,12 @@
             "DefensaLocal": 0.3,
             "AtaqueVisitante": 1.55,
             "DefensaVisitante": 0.95,
-            "ProbabilidadLocal": 67.71,
-            "ProbabilidadEmpate": 25.0,
-            "ProbabilidadVisitante": 7.29,
+            "ProbabilidadLocal": 76.36,
+            "ProbabilidadEmpate": 22.92,
+            "ProbabilidadVisitante": 0.73,
             "Favorito": "Local",
-            "MarcadorProbable": "3-0",
-            "Confianza": "ALTA"
+            "MarcadorProbable": "2-1",
+            "Confianza": "MUY ALTA"
         }
     },
     {
@@ -14248,11 +14248,11 @@
             "DefensaLocal": 0.79,
             "AtaqueVisitante": 1.24,
             "DefensaVisitante": 0.36,
-            "ProbabilidadLocal": 52.29,
-            "ProbabilidadEmpate": 25.0,
-            "ProbabilidadVisitante": 22.71,
+            "ProbabilidadLocal": 53.24,
+            "ProbabilidadEmpate": 29.08,
+            "ProbabilidadVisitante": 17.67,
             "Favorito": "Local",
-            "MarcadorProbable": "1-1",
+            "MarcadorProbable": "2-1",
             "Confianza": "BAJA"
         }
     },
@@ -14517,10 +14517,10 @@
             "DefensaLocal": 1.05,
             "AtaqueVisitante": 1.53,
             "DefensaVisitante": 1.15,
-            "ProbabilidadLocal": 43.34,
-            "ProbabilidadEmpate": 25.0,
-            "ProbabilidadVisitante": 31.66,
-            "Favorito": "Local",
+            "ProbabilidadLocal": 20.13,
+            "ProbabilidadEmpate": 27.33,
+            "ProbabilidadVisitante": 52.53,
+            "Favorito": "Visitante",
             "MarcadorProbable": "1-2",
             "Confianza": "MEDIA"
         }
@@ -14657,6 +14657,18 @@
         ],
         "Ultimos10Visitante": [
             {
+                "Fecha": "04.06.26",
+                "Local": "Francia",
+                "Visitante": "Costa de Marfil",
+                "GolLocal": 1,
+                "GolVisitante": 2,
+                "LogoLocal": "https://static.flashscore.com/res/image/data/I5PqTkcM-U3HPIwDq.png",
+                "LogoVisitante": "https://static.flashscore.com/res/image/data/SQgULDCr-zTSy144G.png",
+                "Resultado": "G",
+                "LinkHistorico": "https://www.flashscore.co/partido/futbol/costa-de-marfil-G2FRjBgn/francia-QkGeVG1n/?mid=Aat1lJu0",
+                "EquipoAnalizado": "Costa de Marfil"
+            },
+            {
                 "Fecha": "31.03.26",
                 "Local": "Escocia",
                 "Visitante": "Costa de Marfil",
@@ -14763,35 +14775,23 @@
                 "Resultado": "P",
                 "LinkHistorico": "https://www.flashscore.co/partido/futbol/arabia-saudi-biSY8ox4/costa-de-marfil-G2FRjBgn/?mid=UDNPnbtB",
                 "EquipoAnalizado": "Costa de Marfil"
-            },
-            {
-                "Fecha": "14.10.25",
-                "Local": "Costa de Marfil",
-                "Visitante": "Kenia",
-                "GolLocal": 3,
-                "GolVisitante": 0,
-                "LogoLocal": "https://static.flashscore.com/res/image/data/SQgULDCr-zTSy144G.png",
-                "LogoVisitante": "https://static.flashscore.com/res/image/data/bJ7piXCa-8vfTQDSH.png",
-                "Resultado": "G",
-                "LinkHistorico": "https://www.flashscore.co/partido/futbol/costa-de-marfil-G2FRjBgn/kenia-CIAJw1QK/?mid=OSQx1TF4",
-                "EquipoAnalizado": "Costa de Marfil"
             }
         ],
         "Pronostico": {
             "EquipoLocal": "Curazao",
             "EquipoVisitante": "Costa de Marfil",
             "RatingLocal": 37.08,
-            "RatingVisitante": 74.58,
+            "RatingVisitante": 75.42,
             "AtaqueLocal": 1.56,
             "DefensaLocal": 1.78,
-            "AtaqueVisitante": 2.08,
-            "DefensaVisitante": 0.71,
-            "ProbabilidadLocal": 31.25,
-            "ProbabilidadEmpate": 25.0,
-            "ProbabilidadVisitante": 43.75,
+            "AtaqueVisitante": 1.98,
+            "DefensaVisitante": 0.83,
+            "ProbabilidadLocal": 1.64,
+            "ProbabilidadEmpate": 22.33,
+            "ProbabilidadVisitante": 76.03,
             "Favorito": "Visitante",
-            "MarcadorProbable": "0-4",
-            "Confianza": "ALTA"
+            "MarcadorProbable": "1-2",
+            "Confianza": "MUY ALTA"
         }
     },
     {
@@ -15055,12 +15055,12 @@
             "DefensaLocal": 0.55,
             "AtaqueVisitante": 2.79,
             "DefensaVisitante": 0.85,
-            "ProbabilidadLocal": 35.0,
-            "ProbabilidadEmpate": 25.0,
-            "ProbabilidadVisitante": 40.0,
+            "ProbabilidadLocal": 4.05,
+            "ProbabilidadEmpate": 24.0,
+            "ProbabilidadVisitante": 71.95,
             "Favorito": "Visitante",
-            "MarcadorProbable": "0-3",
-            "Confianza": "ALTA"
+            "MarcadorProbable": "1-2",
+            "Confianza": "MUY ALTA"
         }
     },
     {
@@ -15195,6 +15195,18 @@
         ],
         "Ultimos10Visitante": [
             {
+                "Fecha": "04.06.26",
+                "Local": "Suecia",
+                "Visitante": "Grecia",
+                "GolLocal": 2,
+                "GolVisitante": 2,
+                "LogoLocal": "https://static.flashscore.com/res/image/data/b7TlfQBr-Uywods6T.png",
+                "LogoVisitante": "https://static.flashscore.com/res/image/data/Y7rmskwS-IPNevN3m.png",
+                "Resultado": "E",
+                "LinkHistorico": "https://www.flashscore.co/partido/futbol/grecia-COuk57Ci/suecia-OQyqbHWB/?mid=nVbellBj",
+                "EquipoAnalizado": "Suecia"
+            },
+            {
                 "Fecha": "01.06.26",
                 "Local": "Noruega",
                 "Visitante": "Suecia",
@@ -15301,35 +15313,23 @@
                 "Resultado": "E",
                 "LinkHistorico": "https://www.flashscore.co/partido/futbol/eslovenia-tfMf3PoO/suecia-OQyqbHWB/?mid=AFcLjQPF",
                 "EquipoAnalizado": "Suecia"
-            },
-            {
-                "Fecha": "10.06.25",
-                "Local": "Suecia",
-                "Visitante": "Argelia",
-                "GolLocal": 4,
-                "GolVisitante": 3,
-                "LogoLocal": "https://static.flashscore.com/res/image/data/b7TlfQBr-Uywods6T.png",
-                "LogoVisitante": "https://static.flashscore.com/res/image/data/OGRs7nwS-YFbDUeTh.png",
-                "Resultado": "G",
-                "LinkHistorico": "https://www.flashscore.co/partido/futbol/argelia-nc87N1BR/suecia-OQyqbHWB/?mid=C0LGr7t1",
-                "EquipoAnalizado": "Suecia"
             }
         ],
         "Pronostico": {
             "EquipoLocal": "Japón",
             "EquipoVisitante": "Suecia",
             "RatingLocal": 80.42,
-            "RatingVisitante": 37.5,
+            "RatingVisitante": 32.5,
             "AtaqueLocal": 1.45,
             "DefensaLocal": 0.55,
-            "AtaqueVisitante": 1.5,
-            "DefensaVisitante": 2.08,
-            "ProbabilidadLocal": 70.43,
-            "ProbabilidadEmpate": 24.64,
-            "ProbabilidadVisitante": 4.93,
+            "AtaqueVisitante": 1.4,
+            "DefensaVisitante": 2.03,
+            "ProbabilidadLocal": 79.4,
+            "ProbabilidadEmpate": 20.42,
+            "ProbabilidadVisitante": 0.18,
             "Favorito": "Local",
-            "MarcadorProbable": "4-0",
-            "Confianza": "ALTA"
+            "MarcadorProbable": "2-1",
+            "Confianza": "MUY ALTA"
         }
     },
     {
@@ -15593,12 +15593,12 @@
             "DefensaLocal": 0.85,
             "AtaqueVisitante": 2.59,
             "DefensaVisitante": 0.71,
-            "ProbabilidadLocal": 39.38,
-            "ProbabilidadEmpate": 25.0,
-            "ProbabilidadVisitante": 35.62,
-            "Favorito": "Local",
-            "MarcadorProbable": "0-3",
-            "Confianza": "MEDIA"
+            "ProbabilidadLocal": 9.91,
+            "ProbabilidadEmpate": 25.75,
+            "ProbabilidadVisitante": 64.34,
+            "Favorito": "Visitante",
+            "MarcadorProbable": "1-2",
+            "Confianza": "ALTA"
         }
     },
     {
@@ -15862,12 +15862,12 @@
             "DefensaLocal": 1.06,
             "AtaqueVisitante": 1.41,
             "DefensaVisitante": 1.05,
-            "ProbabilidadLocal": 45.0,
-            "ProbabilidadEmpate": 25.0,
-            "ProbabilidadVisitante": 30.0,
-            "Favorito": "Local",
+            "ProbabilidadLocal": 25.92,
+            "ProbabilidadEmpate": 28.0,
+            "ProbabilidadVisitante": 46.08,
+            "Favorito": "Visitante",
             "MarcadorProbable": "1-2",
-            "Confianza": "BAJA"
+            "Confianza": "MEDIA"
         }
     },
     {
@@ -16131,12 +16131,12 @@
             "DefensaLocal": 1.16,
             "AtaqueVisitante": 1.9,
             "DefensaVisitante": 1.76,
-            "ProbabilidadLocal": 60.41,
-            "ProbabilidadEmpate": 25.0,
-            "ProbabilidadVisitante": 14.59,
+            "ProbabilidadLocal": 70.56,
+            "ProbabilidadEmpate": 25.83,
+            "ProbabilidadVisitante": 3.61,
             "Favorito": "Local",
-            "MarcadorProbable": "3-0",
-            "Confianza": "MEDIA"
+            "MarcadorProbable": "2-1",
+            "Confianza": "ALTA"
         }
     },
     {
@@ -16271,6 +16271,18 @@
         ],
         "Ultimos10Visitante": [
             {
+                "Fecha": "04.06.26",
+                "Local": "Francia",
+                "Visitante": "Costa de Marfil",
+                "GolLocal": 1,
+                "GolVisitante": 2,
+                "LogoLocal": "https://static.flashscore.com/res/image/data/I5PqTkcM-U3HPIwDq.png",
+                "LogoVisitante": "https://static.flashscore.com/res/image/data/SQgULDCr-zTSy144G.png",
+                "Resultado": "P",
+                "LinkHistorico": "https://www.flashscore.co/partido/futbol/costa-de-marfil-G2FRjBgn/francia-QkGeVG1n/?mid=Aat1lJu0",
+                "EquipoAnalizado": "Francia"
+            },
+            {
                 "Fecha": "29.03.26",
                 "Local": "Colombia",
                 "Visitante": "Francia",
@@ -16377,35 +16389,23 @@
                 "Resultado": "G",
                 "LinkHistorico": "https://www.flashscore.co/partido/futbol/alemania-ptQide1O/francia-QkGeVG1n/?mid=21tqxx3e",
                 "EquipoAnalizado": "Francia"
-            },
-            {
-                "Fecha": "05.06.25",
-                "Local": "España",
-                "Visitante": "Francia",
-                "GolLocal": 5,
-                "GolVisitante": 4,
-                "LogoLocal": "https://static.flashscore.com/res/image/data/Od7JGXZA-0E8Iihe1.png",
-                "LogoVisitante": "https://static.flashscore.com/res/image/data/I5PqTkcM-U3HPIwDq.png",
-                "Resultado": "P",
-                "LinkHistorico": "https://www.flashscore.co/partido/futbol/espana-bLyo6mco/francia-QkGeVG1n/?mid=dKFWcs0E",
-                "EquipoAnalizado": "Francia"
             }
         ],
         "Pronostico": {
             "EquipoLocal": "Noruega",
             "EquipoVisitante": "Francia",
             "RatingLocal": 73.75,
-            "RatingVisitante": 85.83,
+            "RatingVisitante": 80.83,
             "AtaqueLocal": 2.99,
             "DefensaLocal": 0.75,
-            "AtaqueVisitante": 2.71,
-            "DefensaVisitante": 1.03,
-            "ProbabilidadLocal": 43.96,
-            "ProbabilidadEmpate": 25.0,
-            "ProbabilidadVisitante": 31.04,
-            "Favorito": "Local",
-            "MarcadorProbable": "1-2",
-            "Confianza": "MEDIA"
+            "AtaqueVisitante": 2.4,
+            "DefensaVisitante": 0.89,
+            "ProbabilidadLocal": 31.45,
+            "ProbabilidadEmpate": 28.58,
+            "ProbabilidadVisitante": 39.96,
+            "Favorito": "Visitante",
+            "MarcadorProbable": "2-3",
+            "Confianza": "BAJA"
         }
     },
     {
@@ -16540,6 +16540,18 @@
         ],
         "Ultimos10Visitante": [
             {
+                "Fecha": "04.06.26",
+                "Local": "España",
+                "Visitante": "Irak",
+                "GolLocal": 1,
+                "GolVisitante": 1,
+                "LogoLocal": "https://static.flashscore.com/res/image/data/Od7JGXZA-0E8Iihe1.png",
+                "LogoVisitante": "https://static.flashscore.com/res/image/data/CbiRFhYA-4EsvakLH.png",
+                "Resultado": "E",
+                "LinkHistorico": "https://www.flashscore.co/partido/futbol/espana-bLyo6mco/irak-K8aAGt6r/?mid=4E3Spdio",
+                "EquipoAnalizado": "Irak"
+            },
+            {
                 "Fecha": "29.05.26",
                 "Local": "Irak",
                 "Visitante": "Andorra",
@@ -16646,35 +16658,23 @@
                 "Resultado": "E",
                 "LinkHistorico": "https://www.flashscore.co/partido/futbol/arabia-saudi-biSY8ox4/irak-K8aAGt6r/?mid=Q16yUWl5",
                 "EquipoAnalizado": "Irak"
-            },
-            {
-                "Fecha": "11.10.25",
-                "Local": "Irak",
-                "Visitante": "Indonesia",
-                "GolLocal": 1,
-                "GolVisitante": 0,
-                "LogoLocal": "https://static.flashscore.com/res/image/data/CbiRFhYA-4EsvakLH.png",
-                "LogoVisitante": "https://static.flashscore.com/res/image/data/WvrcHkXg-QBz8eAFI.png",
-                "Resultado": "G",
-                "LinkHistorico": "https://www.flashscore.co/partido/futbol/indonesia-88ErHiT9/irak-K8aAGt6r/?mid=4nISVhKh",
-                "EquipoAnalizado": "Irak"
             }
         ],
         "Pronostico": {
             "EquipoLocal": "Senegal",
             "EquipoVisitante": "Irak",
             "RatingLocal": 71.25,
-            "RatingVisitante": 66.67,
+            "RatingVisitante": 60.42,
             "AtaqueLocal": 1.88,
             "DefensaLocal": 1.0,
-            "AtaqueVisitante": 1.11,
-            "DefensaVisitante": 0.74,
-            "ProbabilidadLocal": 52.29,
-            "ProbabilidadEmpate": 25.0,
-            "ProbabilidadVisitante": 22.71,
+            "AtaqueVisitante": 1.1,
+            "DefensaVisitante": 0.8,
+            "ProbabilidadLocal": 62.13,
+            "ProbabilidadEmpate": 27.83,
+            "ProbabilidadVisitante": 10.04,
             "Favorito": "Local",
             "MarcadorProbable": "2-1",
-            "Confianza": "BAJA"
+            "Confianza": "MEDIA"
         }
     },
     {
@@ -16938,12 +16938,12 @@
             "DefensaLocal": 0.79,
             "AtaqueVisitante": 0.96,
             "DefensaVisitante": 1.59,
-            "ProbabilidadLocal": 60.84,
-            "ProbabilidadEmpate": 25.0,
-            "ProbabilidadVisitante": 14.16,
+            "ProbabilidadLocal": 71.04,
+            "ProbabilidadEmpate": 25.67,
+            "ProbabilidadVisitante": 3.3,
             "Favorito": "Local",
-            "MarcadorProbable": "3-0",
-            "Confianza": "MEDIA"
+            "MarcadorProbable": "2-1",
+            "Confianza": "ALTA"
         }
     },
     {
@@ -17078,6 +17078,18 @@
         ],
         "Ultimos10Visitante": [
             {
+                "Fecha": "04.06.26",
+                "Local": "España",
+                "Visitante": "Irak",
+                "GolLocal": 1,
+                "GolVisitante": 1,
+                "LogoLocal": "https://static.flashscore.com/res/image/data/Od7JGXZA-0E8Iihe1.png",
+                "LogoVisitante": "https://static.flashscore.com/res/image/data/CbiRFhYA-4EsvakLH.png",
+                "Resultado": "E",
+                "LinkHistorico": "https://www.flashscore.co/partido/futbol/espana-bLyo6mco/irak-K8aAGt6r/?mid=4E3Spdio",
+                "EquipoAnalizado": "España"
+            },
+            {
                 "Fecha": "31.03.26",
                 "Local": "España",
                 "Visitante": "Egipto",
@@ -17184,35 +17196,23 @@
                 "Resultado": "P",
                 "LinkHistorico": "https://www.flashscore.co/partido/futbol/espana-bLyo6mco/portugal-WvJrjFVN/?mid=d4wyvbYr",
                 "EquipoAnalizado": "España"
-            },
-            {
-                "Fecha": "05.06.25",
-                "Local": "España",
-                "Visitante": "Francia",
-                "GolLocal": 5,
-                "GolVisitante": 4,
-                "LogoLocal": "https://static.flashscore.com/res/image/data/Od7JGXZA-0E8Iihe1.png",
-                "LogoVisitante": "https://static.flashscore.com/res/image/data/I5PqTkcM-U3HPIwDq.png",
-                "Resultado": "G",
-                "LinkHistorico": "https://www.flashscore.co/partido/futbol/espana-bLyo6mco/francia-QkGeVG1n/?mid=dKFWcs0E",
-                "EquipoAnalizado": "España"
             }
         ],
         "Pronostico": {
             "EquipoLocal": "Uruguay",
             "EquipoVisitante": "España",
             "RatingLocal": 51.25,
-            "RatingVisitante": 76.67,
+            "RatingVisitante": 68.33,
             "AtaqueLocal": 0.95,
             "DefensaLocal": 0.94,
-            "AtaqueVisitante": 2.81,
-            "DefensaVisitante": 0.53,
-            "ProbabilidadLocal": 37.29,
-            "ProbabilidadEmpate": 25.0,
-            "ProbabilidadVisitante": 37.71,
+            "AtaqueVisitante": 2.41,
+            "DefensaVisitante": 0.35,
+            "ProbabilidadLocal": 14.63,
+            "ProbabilidadEmpate": 26.58,
+            "ProbabilidadVisitante": 58.79,
             "Favorito": "Visitante",
-            "MarcadorProbable": "0-3",
-            "Confianza": "ALTA"
+            "MarcadorProbable": "1-2",
+            "Confianza": "MEDIA"
         }
     },
     {
@@ -17476,11 +17476,11 @@
             "DefensaLocal": 0.46,
             "AtaqueVisitante": 1.71,
             "DefensaVisitante": 0.75,
-            "ProbabilidadLocal": 53.54,
-            "ProbabilidadEmpate": 25.0,
-            "ProbabilidadVisitante": 21.46,
+            "ProbabilidadLocal": 57.18,
+            "ProbabilidadEmpate": 28.58,
+            "ProbabilidadVisitante": 14.23,
             "Favorito": "Local",
-            "MarcadorProbable": "1-1",
+            "MarcadorProbable": "2-1",
             "Confianza": "BAJA"
         }
     },
@@ -17745,12 +17745,12 @@
             "DefensaLocal": 1.95,
             "AtaqueVisitante": 3.5,
             "DefensaVisitante": 0.88,
-            "ProbabilidadLocal": 18.33,
-            "ProbabilidadEmpate": 25.0,
-            "ProbabilidadVisitante": 56.67,
+            "ProbabilidadLocal": 0.1,
+            "ProbabilidadEmpate": 18,
+            "ProbabilidadVisitante": 81.9,
             "Favorito": "Visitante",
-            "MarcadorProbable": "0-6",
-            "Confianza": "ALTA"
+            "MarcadorProbable": "1-4",
+            "Confianza": "MUY ALTA"
         }
     },
     {
@@ -18014,12 +18014,12 @@
             "DefensaLocal": 1.14,
             "AtaqueVisitante": 1.03,
             "DefensaVisitante": 1.54,
-            "ProbabilidadLocal": 68.75,
-            "ProbabilidadEmpate": 25.0,
-            "ProbabilidadVisitante": 6.25,
+            "ProbabilidadLocal": 76.92,
+            "ProbabilidadEmpate": 22.5,
+            "ProbabilidadVisitante": 0.58,
             "Favorito": "Local",
-            "MarcadorProbable": "4-0",
-            "Confianza": "ALTA"
+            "MarcadorProbable": "2-1",
+            "Confianza": "MUY ALTA"
         }
     },
     {
@@ -18283,11 +18283,11 @@
             "DefensaLocal": 1.68,
             "AtaqueVisitante": 2.14,
             "DefensaVisitante": 0.48,
-            "ProbabilidadLocal": 43.33,
-            "ProbabilidadEmpate": 25.0,
-            "ProbabilidadVisitante": 31.67,
-            "Favorito": "Local",
-            "MarcadorProbable": "1-3",
+            "ProbabilidadLocal": 20.12,
+            "ProbabilidadEmpate": 27.33,
+            "ProbabilidadVisitante": 52.55,
+            "Favorito": "Visitante",
+            "MarcadorProbable": "1-2",
             "Confianza": "MEDIA"
         }
     },
@@ -18552,10 +18552,10 @@
             "DefensaLocal": 1.16,
             "AtaqueVisitante": 2.41,
             "DefensaVisitante": 0.79,
-            "ProbabilidadLocal": 45.41,
-            "ProbabilidadEmpate": 25.0,
-            "ProbabilidadVisitante": 29.59,
-            "Favorito": "Local",
+            "ProbabilidadLocal": 27.46,
+            "ProbabilidadEmpate": 28.17,
+            "ProbabilidadVisitante": 44.38,
+            "Favorito": "Visitante",
             "MarcadorProbable": "1-2",
             "Confianza": "BAJA"
         }
@@ -18821,11 +18821,11 @@
             "DefensaLocal": 0.21,
             "AtaqueVisitante": 1.48,
             "DefensaVisitante": 0.96,
-            "ProbabilidadLocal": 50.83,
-            "ProbabilidadEmpate": 25.0,
-            "ProbabilidadVisitante": 24.16,
+            "ProbabilidadLocal": 48.04,
+            "ProbabilidadEmpate": 29.67,
+            "ProbabilidadVisitante": 22.29,
             "Favorito": "Local",
-            "MarcadorProbable": "1-1",
+            "MarcadorProbable": "2-1",
             "Confianza": "BAJA"
         }
     },
@@ -19090,10 +19090,10 @@
             "DefensaLocal": 0.33,
             "AtaqueVisitante": 2.55,
             "DefensaVisitante": 0.41,
-            "ProbabilidadLocal": 45.21,
-            "ProbabilidadEmpate": 25.0,
-            "ProbabilidadVisitante": 29.79,
-            "Favorito": "Local",
+            "ProbabilidadLocal": 26.69,
+            "ProbabilidadEmpate": 28.08,
+            "ProbabilidadVisitante": 45.22,
+            "Favorito": "Visitante",
             "MarcadorProbable": "1-2",
             "Confianza": "BAJA"
         }
@@ -19359,11 +19359,11 @@
             "DefensaLocal": 1.48,
             "AtaqueVisitante": 2.6,
             "DefensaVisitante": 0.39,
-            "ProbabilidadLocal": 35.62,
-            "ProbabilidadEmpate": 25.0,
-            "ProbabilidadVisitante": 39.38,
+            "ProbabilidadLocal": 4.62,
+            "ProbabilidadEmpate": 24.25,
+            "ProbabilidadVisitante": 71.13,
             "Favorito": "Visitante",
-            "MarcadorProbable": "0-3",
+            "MarcadorProbable": "1-2",
             "Confianza": "ALTA"
         }
     }
