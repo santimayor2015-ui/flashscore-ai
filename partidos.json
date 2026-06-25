@@ -1,16 +1,19 @@
 [
     {
-        "Fecha": "2026-06-25",
-        "Hora": "15:00",
-        "Pais": "MUNDIAL",
-        "Liga": "CAMPEONATO DEL MUNDO - JORNADA 3",
-        "Link": "https://www.flashscore.co/partido/futbol/alemania-ptQide1O/ecuador-8tbm8Tri/?mid=zmvgtcCa",
-        "Partido": "ecuador vs alemania",
-        "Local": {
-            "Equipo": "ecuador",
-            "Logo": "https://static.flashscore.com/res/image/data/Qkovv0wS-IPF97VQ3.png",
-            "ELO": 1515.0,
-            "Ultimos 10": [
+        "fecha": "2026-06-25",
+        "hora": "15:00",
+        "local": "Ecuador",
+        "visitante": "Alemania",
+        "cuota_local": 4.6,
+        "cuota_empate": 4.65,
+        "cuota_visitante": 1.65,
+        "link": "https://www.flashscore.co/partido/futbol/alemania-ptQide1O/ecuador-8tbm8Tri/?mid=zmvgtcCa",
+        "logo_local": "https://static.flashscore.com/res/image/data/Qkovv0wS-IPF97VQ3.png",
+        "logo_visitante": "https://static.flashscore.com/res/image/data/zP226aXg-fB4vYUZp.png",
+        "pais": "MUNDIAL",
+        "liga": "CAMPEONATO DEL MUNDO - JORNADA 3",
+        "h2h": {
+            "LOCAL10": [
                 {
                     "fecha": "20.06.26",
                     "local": "Ecuador",
@@ -81,13 +84,8 @@
                     "goles_local": "1",
                     "goles_visitante": "1"
                 }
-            ]
-        },
-        "Visitante": {
-            "Equipo": "alemania",
-            "Logo": "https://static.flashscore.com/res/image/data/zP226aXg-fB4vYUZp.png",
-            "ELO": 1577.5,
-            "Ultimos 10": [
+            ],
+            "VISITANTE10": [
                 {
                     "fecha": "20.06.26",
                     "local": "Alemania",
@@ -158,73 +156,251 @@
                     "goles_local": "4",
                     "goles_visitante": "0"
                 }
-            ]
-        },
-        "Cuotas": {
-            "Local": 4.6,
-            "Empate": 4.6,
-            "Visitante": 1.65
-        },
-        "IA": {
-            "Ganador IA": "Visitante",
-            "Probabilidad Local": 13.85,
-            "Probabilidad Empate": 20.04,
-            "Probabilidad Visitante": 66.11,
-            "Expected Goals Local": 0.82,
-            "Expected Goals Visitante": 2.05,
-            "Expected Goals Total": 2.87,
-            "BTTS": 48.62,
-            "Over 2.5": 54.63,
-            "Forma Local": "DLWWD",
-            "Forma Visitante": "WWWWW",
-            "ELO Local": 1515.0,
-            "ELO Visitante": 1577.5,
-            "Ventaja ELO": -62.5,
-            "Confianza IA": 92.14,
-            "Partido Riesgoso": false,
-            "Hay Value": true,
-            "Value Local": -7.04,
-            "Value Empate": -0.85,
-            "Value Visitante": 7.88,
-            "Top Marcadores": [
+            ],
+            "H2H": [
                 {
-                    "Marcador": "0-2",
-                    "Probabilidad": 11.91
+                    "fecha": "29.05.13",
+                    "local": "Alemania",
+                    "visitante": "Ecuador",
+                    "goles_local": "4",
+                    "goles_visitante": "2"
                 },
                 {
-                    "Marcador": "0-1",
-                    "Probabilidad": 11.62
-                },
-                {
-                    "Marcador": "1-2",
-                    "Probabilidad": 9.77
-                },
-                {
-                    "Marcador": "1-1",
-                    "Probabilidad": 9.53
-                },
-                {
-                    "Marcador": "0-3",
-                    "Probabilidad": 8.14
+                    "fecha": "20.06.06",
+                    "local": "Ecuador",
+                    "visitante": "Alemania",
+                    "goles_local": "0",
+                    "goles_visitante": "3"
                 }
             ]
         },
         "analisis": {
-            "error": "'local'"
+            "Fecha": "2026-06-25",
+            "Hora": "15:00",
+            "Pais": "MUNDIAL",
+            "Liga": "CAMPEONATO DEL MUNDO - JORNADA 3",
+            "Link": "https://www.flashscore.co/partido/futbol/alemania-ptQide1O/ecuador-8tbm8Tri/?mid=zmvgtcCa",
+            "Partido": "ecuador vs alemania",
+            "Local": {
+                "Equipo": "ecuador",
+                "Logo": "https://static.flashscore.com/res/image/data/Qkovv0wS-IPF97VQ3.png",
+                "ELO": 1515.0,
+                "Ultimos 10": [
+                    {
+                        "fecha": "20.06.26",
+                        "local": "Ecuador",
+                        "visitante": "Curazao",
+                        "goles_local": "0",
+                        "goles_visitante": "0"
+                    },
+                    {
+                        "fecha": "14.06.26",
+                        "local": "Costa de Marfil",
+                        "visitante": "Ecuador",
+                        "goles_local": "1",
+                        "goles_visitante": "0"
+                    },
+                    {
+                        "fecha": "07.06.26",
+                        "local": "Ecuador",
+                        "visitante": "Guatemala",
+                        "goles_local": "3",
+                        "goles_visitante": "0"
+                    },
+                    {
+                        "fecha": "30.05.26",
+                        "local": "Ecuador",
+                        "visitante": "Arabia Saudí",
+                        "goles_local": "2",
+                        "goles_visitante": "1"
+                    },
+                    {
+                        "fecha": "31.03.26",
+                        "local": "Países Bajos",
+                        "visitante": "Ecuador",
+                        "goles_local": "1",
+                        "goles_visitante": "1"
+                    },
+                    {
+                        "fecha": "27.03.26",
+                        "local": "Marruecos",
+                        "visitante": "Ecuador",
+                        "goles_local": "1",
+                        "goles_visitante": "1"
+                    },
+                    {
+                        "fecha": "18.11.25",
+                        "local": "Ecuador",
+                        "visitante": "Nueva Zelanda",
+                        "goles_local": "2",
+                        "goles_visitante": "0"
+                    },
+                    {
+                        "fecha": "13.11.25",
+                        "local": "Canadá",
+                        "visitante": "Ecuador",
+                        "goles_local": "0",
+                        "goles_visitante": "0"
+                    },
+                    {
+                        "fecha": "14.10.25",
+                        "local": "México",
+                        "visitante": "Ecuador",
+                        "goles_local": "1",
+                        "goles_visitante": "1"
+                    },
+                    {
+                        "fecha": "10.10.25",
+                        "local": "EE. UU.",
+                        "visitante": "Ecuador",
+                        "goles_local": "1",
+                        "goles_visitante": "1"
+                    }
+                ]
+            },
+            "Visitante": {
+                "Equipo": "alemania",
+                "Logo": "https://static.flashscore.com/res/image/data/zP226aXg-fB4vYUZp.png",
+                "ELO": 1577.5,
+                "Ultimos 10": [
+                    {
+                        "fecha": "20.06.26",
+                        "local": "Alemania",
+                        "visitante": "Costa de Marfil",
+                        "goles_local": "2",
+                        "goles_visitante": "1"
+                    },
+                    {
+                        "fecha": "14.06.26",
+                        "local": "Alemania",
+                        "visitante": "Curazao",
+                        "goles_local": "7",
+                        "goles_visitante": "1"
+                    },
+                    {
+                        "fecha": "06.06.26",
+                        "local": "EE. UU.",
+                        "visitante": "Alemania",
+                        "goles_local": "1",
+                        "goles_visitante": "2"
+                    },
+                    {
+                        "fecha": "31.05.26",
+                        "local": "Alemania",
+                        "visitante": "Finlandia",
+                        "goles_local": "4",
+                        "goles_visitante": "0"
+                    },
+                    {
+                        "fecha": "30.03.26",
+                        "local": "Alemania",
+                        "visitante": "Ghana",
+                        "goles_local": "2",
+                        "goles_visitante": "1"
+                    },
+                    {
+                        "fecha": "27.03.26",
+                        "local": "Suiza",
+                        "visitante": "Alemania",
+                        "goles_local": "3",
+                        "goles_visitante": "4"
+                    },
+                    {
+                        "fecha": "17.11.25",
+                        "local": "Alemania",
+                        "visitante": "Eslovaquia",
+                        "goles_local": "6",
+                        "goles_visitante": "0"
+                    },
+                    {
+                        "fecha": "14.11.25",
+                        "local": "Luxemburgo",
+                        "visitante": "Alemania",
+                        "goles_local": "0",
+                        "goles_visitante": "2"
+                    },
+                    {
+                        "fecha": "13.10.25",
+                        "local": "Irlanda del Norte",
+                        "visitante": "Alemania",
+                        "goles_local": "0",
+                        "goles_visitante": "1"
+                    },
+                    {
+                        "fecha": "10.10.25",
+                        "local": "Alemania",
+                        "visitante": "Luxemburgo",
+                        "goles_local": "4",
+                        "goles_visitante": "0"
+                    }
+                ]
+            },
+            "Cuotas": {
+                "Local": 4.6,
+                "Empate": 4.65,
+                "Visitante": 1.65
+            },
+            "IA": {
+                "Ganador IA": "Visitante",
+                "Probabilidad Local": 13.78,
+                "Probabilidad Empate": 20.26,
+                "Probabilidad Visitante": 65.95,
+                "Expected Goals Local": 0.82,
+                "Expected Goals Visitante": 2.05,
+                "Expected Goals Total": 2.87,
+                "BTTS": 48.9,
+                "Over 2.5": 54.65,
+                "Forma Local": "DLWWD",
+                "Forma Visitante": "WWWWW",
+                "ELO Local": 1515.0,
+                "ELO Visitante": 1577.5,
+                "Ventaja ELO": -62.5,
+                "Confianza IA": 91.38,
+                "Partido Riesgoso": false,
+                "Hay Value": true,
+                "Value Local": -7.15,
+                "Value Empate": -0.45,
+                "Value Visitante": 7.59,
+                "Top Marcadores": [
+                    {
+                        "Marcador": "0-2",
+                        "Probabilidad": 11.91
+                    },
+                    {
+                        "Marcador": "0-1",
+                        "Probabilidad": 11.62
+                    },
+                    {
+                        "Marcador": "1-2",
+                        "Probabilidad": 9.77
+                    },
+                    {
+                        "Marcador": "1-1",
+                        "Probabilidad": 9.53
+                    },
+                    {
+                        "Marcador": "0-3",
+                        "Probabilidad": 8.14
+                    }
+                ]
+            }
         }
     },
     {
-        "Fecha": "2026-06-25",
-        "Hora": "18:00",
-        "Pais": "MUNDIAL",
-        "Liga": "CAMPEONATO DEL MUNDO - JORNADA 3",
-        "Link": "https://www.flashscore.co/partido/futbol/japon-ULXPdOUj/suecia-OQyqbHWB/?mid=Sl2xgtXi",
-        "Partido": "japón vs suecia",
-        "Local": {
-            "Equipo": "japón",
-            "Logo": "https://static.flashscore.com/res/image/data/Crg4NaGG-ALs6yNah.png",
-            "ELO": 1551.0,
-            "Ultimos 10": [
+        "fecha": "2026-06-25",
+        "hora": "18:00",
+        "local": "Japón",
+        "visitante": "Suecia",
+        "cuota_local": 1.94,
+        "cuota_empate": 3.5,
+        "cuota_visitante": 4.2,
+        "link": "https://www.flashscore.co/partido/futbol/japon-ULXPdOUj/suecia-OQyqbHWB/?mid=Sl2xgtXi",
+        "logo_local": "https://static.flashscore.com/res/image/data/Crg4NaGG-ALs6yNah.png",
+        "logo_visitante": "https://static.flashscore.com/res/image/data/b7TlfQBr-Uywods6T.png",
+        "pais": "MUNDIAL",
+        "liga": "CAMPEONATO DEL MUNDO - JORNADA 3",
+        "h2h": {
+            "LOCAL10": [
                 {
                     "fecha": "20.06.26",
                     "local": "Túnez",
@@ -295,13 +471,8 @@
                     "goles_local": "2",
                     "goles_visitante": "0"
                 }
-            ]
-        },
-        "Visitante": {
-            "Equipo": "suecia",
-            "Logo": "https://static.flashscore.com/res/image/data/b7TlfQBr-Uywods6T.png",
-            "ELO": 1488.5,
-            "Ultimos 10": [
+            ],
+            "VISITANTE10": [
                 {
                     "fecha": "20.06.26",
                     "local": "Países Bajos",
@@ -372,73 +543,265 @@
                     "goles_local": "0",
                     "goles_visitante": "2"
                 }
-            ]
-        },
-        "Cuotas": {
-            "Local": 1.94,
-            "Empate": 3.4,
-            "Visitante": 4.33
-        },
-        "IA": {
-            "Ganador IA": "Local",
-            "Probabilidad Local": 87.87,
-            "Probabilidad Empate": 7.01,
-            "Probabilidad Visitante": 5.12,
-            "Expected Goals Local": 4.5,
-            "Expected Goals Visitante": 1.29,
-            "Expected Goals Total": 5.79,
-            "BTTS": 71.62,
-            "Over 2.5": 92.98,
-            "Forma Local": "WDWWW",
-            "Forma Visitante": "LWDLW",
-            "ELO Local": 1551.0,
-            "ELO Visitante": 1488.5,
-            "Ventaja ELO": 62.5,
-            "Confianza IA": 100,
-            "Partido Riesgoso": false,
-            "Hay Value": true,
-            "Value Local": 38.33,
-            "Value Empate": -21.26,
-            "Value Visitante": -17.08,
-            "Top Marcadores": [
+            ],
+            "H2H": [
                 {
-                    "Marcador": "4-1",
-                    "Probabilidad": 6.74
+                    "fecha": "25.05.02",
+                    "local": "Japón",
+                    "visitante": "Suecia",
+                    "goles_local": "1",
+                    "goles_visitante": "1"
                 },
                 {
-                    "Marcador": "5-1",
-                    "Probabilidad": 6.07
+                    "fecha": "13.02.97",
+                    "local": "Japón",
+                    "visitante": "Suecia",
+                    "goles_local": "0",
+                    "goles_visitante": "1"
                 },
                 {
-                    "Marcador": "3-1",
-                    "Probabilidad": 5.99
+                    "fecha": "22.02.96",
+                    "local": "Japón",
+                    "visitante": "Suecia",
+                    "goles_local": "1",
+                    "goles_visitante": "1"
                 },
                 {
-                    "Marcador": "4-0",
-                    "Probabilidad": 5.22
-                },
-                {
-                    "Marcador": "5-0",
-                    "Probabilidad": 4.7
+                    "fecha": "10.06.95",
+                    "local": "Japón",
+                    "visitante": "Suecia",
+                    "goles_local": "2",
+                    "goles_visitante": "2"
                 }
             ]
         },
         "analisis": {
-            "error": "'local'"
+            "Fecha": "2026-06-25",
+            "Hora": "18:00",
+            "Pais": "MUNDIAL",
+            "Liga": "CAMPEONATO DEL MUNDO - JORNADA 3",
+            "Link": "https://www.flashscore.co/partido/futbol/japon-ULXPdOUj/suecia-OQyqbHWB/?mid=Sl2xgtXi",
+            "Partido": "japón vs suecia",
+            "Local": {
+                "Equipo": "japón",
+                "Logo": "https://static.flashscore.com/res/image/data/Crg4NaGG-ALs6yNah.png",
+                "ELO": 1551.0,
+                "Ultimos 10": [
+                    {
+                        "fecha": "20.06.26",
+                        "local": "Túnez",
+                        "visitante": "Japón",
+                        "goles_local": "0",
+                        "goles_visitante": "4"
+                    },
+                    {
+                        "fecha": "14.06.26",
+                        "local": "Países Bajos",
+                        "visitante": "Japón",
+                        "goles_local": "2",
+                        "goles_visitante": "2"
+                    },
+                    {
+                        "fecha": "31.05.26",
+                        "local": "Japón",
+                        "visitante": "Islandia",
+                        "goles_local": "1",
+                        "goles_visitante": "0"
+                    },
+                    {
+                        "fecha": "31.03.26",
+                        "local": "Inglaterra",
+                        "visitante": "Japón",
+                        "goles_local": "0",
+                        "goles_visitante": "1"
+                    },
+                    {
+                        "fecha": "28.03.26",
+                        "local": "Escocia",
+                        "visitante": "Japón",
+                        "goles_local": "0",
+                        "goles_visitante": "1"
+                    },
+                    {
+                        "fecha": "18.11.25",
+                        "local": "Japón",
+                        "visitante": "Bolivia",
+                        "goles_local": "3",
+                        "goles_visitante": "0"
+                    },
+                    {
+                        "fecha": "14.11.25",
+                        "local": "Japón",
+                        "visitante": "Ghana",
+                        "goles_local": "2",
+                        "goles_visitante": "0"
+                    },
+                    {
+                        "fecha": "14.10.25",
+                        "local": "Japón",
+                        "visitante": "Brasil",
+                        "goles_local": "3",
+                        "goles_visitante": "2"
+                    },
+                    {
+                        "fecha": "10.10.25",
+                        "local": "Japón",
+                        "visitante": "Paraguay",
+                        "goles_local": "2",
+                        "goles_visitante": "2"
+                    },
+                    {
+                        "fecha": "09.09.25",
+                        "local": "EE. UU.",
+                        "visitante": "Japón",
+                        "goles_local": "2",
+                        "goles_visitante": "0"
+                    }
+                ]
+            },
+            "Visitante": {
+                "Equipo": "suecia",
+                "Logo": "https://static.flashscore.com/res/image/data/b7TlfQBr-Uywods6T.png",
+                "ELO": 1488.5,
+                "Ultimos 10": [
+                    {
+                        "fecha": "20.06.26",
+                        "local": "Países Bajos",
+                        "visitante": "Suecia",
+                        "goles_local": "5",
+                        "goles_visitante": "1"
+                    },
+                    {
+                        "fecha": "14.06.26",
+                        "local": "Suecia",
+                        "visitante": "Túnez",
+                        "goles_local": "5",
+                        "goles_visitante": "1"
+                    },
+                    {
+                        "fecha": "04.06.26",
+                        "local": "Suecia",
+                        "visitante": "Grecia",
+                        "goles_local": "2",
+                        "goles_visitante": "2"
+                    },
+                    {
+                        "fecha": "01.06.26",
+                        "local": "Noruega",
+                        "visitante": "Suecia",
+                        "goles_local": "3",
+                        "goles_visitante": "1"
+                    },
+                    {
+                        "fecha": "31.03.26",
+                        "local": "Suecia",
+                        "visitante": "Polonia",
+                        "goles_local": "3",
+                        "goles_visitante": "2"
+                    },
+                    {
+                        "fecha": "26.03.26",
+                        "local": "Ucrania",
+                        "visitante": "Suecia",
+                        "goles_local": "1",
+                        "goles_visitante": "3"
+                    },
+                    {
+                        "fecha": "18.11.25",
+                        "local": "Suecia",
+                        "visitante": "Eslovenia",
+                        "goles_local": "1",
+                        "goles_visitante": "1"
+                    },
+                    {
+                        "fecha": "15.11.25",
+                        "local": "Suiza",
+                        "visitante": "Suecia",
+                        "goles_local": "4",
+                        "goles_visitante": "1"
+                    },
+                    {
+                        "fecha": "13.10.25",
+                        "local": "Suecia",
+                        "visitante": "Kosovo",
+                        "goles_local": "0",
+                        "goles_visitante": "1"
+                    },
+                    {
+                        "fecha": "10.10.25",
+                        "local": "Suecia",
+                        "visitante": "Suiza",
+                        "goles_local": "0",
+                        "goles_visitante": "2"
+                    }
+                ]
+            },
+            "Cuotas": {
+                "Local": 1.94,
+                "Empate": 3.5,
+                "Visitante": 4.2
+            },
+            "IA": {
+                "Ganador IA": "Local",
+                "Probabilidad Local": 87.61,
+                "Probabilidad Empate": 7.17,
+                "Probabilidad Visitante": 5.23,
+                "Expected Goals Local": 4.5,
+                "Expected Goals Visitante": 1.29,
+                "Expected Goals Total": 5.79,
+                "BTTS": 71.69,
+                "Over 2.5": 92.99,
+                "Forma Local": "WDWWW",
+                "Forma Visitante": "LWDLW",
+                "ELO Local": 1551.0,
+                "ELO Visitante": 1488.5,
+                "Ventaja ELO": 62.5,
+                "Confianza IA": 100,
+                "Partido Riesgoso": false,
+                "Hay Value": true,
+                "Value Local": 38.01,
+                "Value Empate": -20.32,
+                "Value Visitante": -17.68,
+                "Top Marcadores": [
+                    {
+                        "Marcador": "4-1",
+                        "Probabilidad": 6.74
+                    },
+                    {
+                        "Marcador": "5-1",
+                        "Probabilidad": 6.07
+                    },
+                    {
+                        "Marcador": "3-1",
+                        "Probabilidad": 5.99
+                    },
+                    {
+                        "Marcador": "4-0",
+                        "Probabilidad": 5.22
+                    },
+                    {
+                        "Marcador": "5-0",
+                        "Probabilidad": 4.7
+                    }
+                ]
+            }
         }
     },
     {
-        "Fecha": "2026-06-25",
-        "Hora": "21:00",
-        "Pais": "MUNDIAL",
-        "Liga": "CAMPEONATO DEL MUNDO - JORNADA 3",
-        "Link": "https://www.flashscore.co/partido/futbol/australia-xSrf6qMM/paraguay-YaNlqp6j/?mid=lGmJTJSg",
-        "Partido": "paraguay vs australia",
-        "Local": {
-            "Equipo": "paraguay",
-            "Logo": "https://static.flashscore.com/res/image/data/xlHCGmwS-fXkePq9D.png",
-            "ELO": 1508.5,
-            "Ultimos 10": [
+        "fecha": "2026-06-25",
+        "hora": "21:00",
+        "local": "Paraguay",
+        "visitante": "Australia",
+        "cuota_local": 2.78,
+        "cuota_empate": 2.32,
+        "cuota_visitante": 4.0,
+        "link": "https://www.flashscore.co/partido/futbol/australia-xSrf6qMM/paraguay-YaNlqp6j/?mid=lGmJTJSg",
+        "logo_local": "https://static.flashscore.com/res/image/data/xlHCGmwS-fXkePq9D.png",
+        "logo_visitante": "https://static.flashscore.com/res/image/data/Ygu7zgHG-YNb3oHYR.png",
+        "pais": "MUNDIAL",
+        "liga": "CAMPEONATO DEL MUNDO - JORNADA 3",
+        "h2h": {
+            "LOCAL10": [
                 {
                     "fecha": "19.06.26",
                     "local": "Turquía",
@@ -509,13 +872,8 @@
                     "goles_local": "0",
                     "goles_visitante": "1"
                 }
-            ]
-        },
-        "Visitante": {
-            "Equipo": "australia",
-            "Logo": "https://static.flashscore.com/res/image/data/Ygu7zgHG-YNb3oHYR.png",
-            "ELO": 1492.5,
-            "Ultimos 10": [
+            ],
+            "VISITANTE10": [
                 {
                     "fecha": "19.06.26",
                     "local": "EE. UU.",
@@ -586,73 +944,258 @@
                     "goles_local": "0",
                     "goles_visitante": "1"
                 }
-            ]
-        },
-        "Cuotas": {
-            "Local": 2.76,
-            "Empate": 2.36,
-            "Visitante": 3.9
-        },
-        "IA": {
-            "Ganador IA": "Local",
-            "Probabilidad Local": 40.97,
-            "Probabilidad Empate": 23.95,
-            "Probabilidad Visitante": 35.08,
-            "Expected Goals Local": 1.59,
-            "Expected Goals Visitante": 1.46,
-            "Expected Goals Total": 3.05,
-            "BTTS": 61.24,
-            "Over 2.5": 58.98,
-            "Forma Local": "WLWLW",
-            "Forma Visitante": "LWDLW",
-            "ELO Local": 1508.5,
-            "ELO Visitante": 1492.5,
-            "Ventaja ELO": 16.0,
-            "Confianza IA": 11.78,
-            "Partido Riesgoso": true,
-            "Hay Value": true,
-            "Value Local": 6.21,
-            "Value Empate": -16.7,
-            "Value Visitante": 10.48,
-            "Top Marcadores": [
+            ],
+            "H2H": [
                 {
-                    "Marcador": "1-1",
-                    "Probabilidad": 10.99
+                    "fecha": "09.10.10",
+                    "local": "Australia",
+                    "visitante": "Paraguay",
+                    "goles_local": "1",
+                    "goles_visitante": "0"
                 },
                 {
-                    "Marcador": "2-1",
-                    "Probabilidad": 8.74
+                    "fecha": "07.10.06",
+                    "local": "Australia",
+                    "visitante": "Paraguay",
+                    "goles_local": "1",
+                    "goles_visitante": "1"
                 },
                 {
-                    "Marcador": "1-2",
-                    "Probabilidad": 8.03
-                },
-                {
-                    "Marcador": "1-0",
-                    "Probabilidad": 7.53
-                },
-                {
-                    "Marcador": "0-1",
-                    "Probabilidad": 6.91
+                    "fecha": "13.06.00",
+                    "local": "Australia",
+                    "visitante": "Paraguay",
+                    "goles_local": "2",
+                    "goles_visitante": "1"
                 }
             ]
         },
         "analisis": {
-            "error": "'local'"
+            "Fecha": "2026-06-25",
+            "Hora": "21:00",
+            "Pais": "MUNDIAL",
+            "Liga": "CAMPEONATO DEL MUNDO - JORNADA 3",
+            "Link": "https://www.flashscore.co/partido/futbol/australia-xSrf6qMM/paraguay-YaNlqp6j/?mid=lGmJTJSg",
+            "Partido": "paraguay vs australia",
+            "Local": {
+                "Equipo": "paraguay",
+                "Logo": "https://static.flashscore.com/res/image/data/xlHCGmwS-fXkePq9D.png",
+                "ELO": 1508.5,
+                "Ultimos 10": [
+                    {
+                        "fecha": "19.06.26",
+                        "local": "Turquía",
+                        "visitante": "Paraguay",
+                        "goles_local": "0",
+                        "goles_visitante": "1"
+                    },
+                    {
+                        "fecha": "12.06.26",
+                        "local": "EE. UU.",
+                        "visitante": "Paraguay",
+                        "goles_local": "4",
+                        "goles_visitante": "1"
+                    },
+                    {
+                        "fecha": "05.06.26",
+                        "local": "Paraguay",
+                        "visitante": "Nicaragua",
+                        "goles_local": "4",
+                        "goles_visitante": "0"
+                    },
+                    {
+                        "fecha": "31.03.26",
+                        "local": "Marruecos",
+                        "visitante": "Paraguay",
+                        "goles_local": "2",
+                        "goles_visitante": "1"
+                    },
+                    {
+                        "fecha": "27.03.26",
+                        "local": "Grecia",
+                        "visitante": "Paraguay",
+                        "goles_local": "0",
+                        "goles_visitante": "1"
+                    },
+                    {
+                        "fecha": "18.11.25",
+                        "local": "México",
+                        "visitante": "Paraguay",
+                        "goles_local": "1",
+                        "goles_visitante": "2"
+                    },
+                    {
+                        "fecha": "15.11.25",
+                        "local": "EE. UU.",
+                        "visitante": "Paraguay",
+                        "goles_local": "2",
+                        "goles_visitante": "1"
+                    },
+                    {
+                        "fecha": "14.10.25",
+                        "local": "Corea del Sur",
+                        "visitante": "Paraguay",
+                        "goles_local": "2",
+                        "goles_visitante": "0"
+                    },
+                    {
+                        "fecha": "10.10.25",
+                        "local": "Japón",
+                        "visitante": "Paraguay",
+                        "goles_local": "2",
+                        "goles_visitante": "2"
+                    },
+                    {
+                        "fecha": "09.09.25",
+                        "local": "Perú",
+                        "visitante": "Paraguay",
+                        "goles_local": "0",
+                        "goles_visitante": "1"
+                    }
+                ]
+            },
+            "Visitante": {
+                "Equipo": "australia",
+                "Logo": "https://static.flashscore.com/res/image/data/Ygu7zgHG-YNb3oHYR.png",
+                "ELO": 1492.5,
+                "Ultimos 10": [
+                    {
+                        "fecha": "19.06.26",
+                        "local": "EE. UU.",
+                        "visitante": "Australia",
+                        "goles_local": "2",
+                        "goles_visitante": "0"
+                    },
+                    {
+                        "fecha": "13.06.26",
+                        "local": "Australia",
+                        "visitante": "Turquía",
+                        "goles_local": "2",
+                        "goles_visitante": "0"
+                    },
+                    {
+                        "fecha": "06.06.26",
+                        "local": "Suiza",
+                        "visitante": "Australia",
+                        "goles_local": "1",
+                        "goles_visitante": "1"
+                    },
+                    {
+                        "fecha": "30.05.26",
+                        "local": "México",
+                        "visitante": "Australia",
+                        "goles_local": "1",
+                        "goles_visitante": "0"
+                    },
+                    {
+                        "fecha": "31.03.26",
+                        "local": "Australia",
+                        "visitante": "Curazao",
+                        "goles_local": "5",
+                        "goles_visitante": "1"
+                    },
+                    {
+                        "fecha": "27.03.26",
+                        "local": "Australia",
+                        "visitante": "Camerún",
+                        "goles_local": "1",
+                        "goles_visitante": "0"
+                    },
+                    {
+                        "fecha": "18.11.25",
+                        "local": "Colombia",
+                        "visitante": "Australia",
+                        "goles_local": "3",
+                        "goles_visitante": "0"
+                    },
+                    {
+                        "fecha": "14.11.25",
+                        "local": "Venezuela",
+                        "visitante": "Australia",
+                        "goles_local": "1",
+                        "goles_visitante": "0"
+                    },
+                    {
+                        "fecha": "14.10.25",
+                        "local": "EE. UU.",
+                        "visitante": "Australia",
+                        "goles_local": "2",
+                        "goles_visitante": "1"
+                    },
+                    {
+                        "fecha": "10.10.25",
+                        "local": "Canadá",
+                        "visitante": "Australia",
+                        "goles_local": "0",
+                        "goles_visitante": "1"
+                    }
+                ]
+            },
+            "Cuotas": {
+                "Local": 2.78,
+                "Empate": 2.32,
+                "Visitante": 4.0
+            },
+            "IA": {
+                "Ganador IA": "Local",
+                "Probabilidad Local": 41.28,
+                "Probabilidad Empate": 23.8,
+                "Probabilidad Visitante": 34.92,
+                "Expected Goals Local": 1.59,
+                "Expected Goals Visitante": 1.46,
+                "Expected Goals Total": 3.05,
+                "BTTS": 60.93,
+                "Over 2.5": 59.0,
+                "Forma Local": "WLWLW",
+                "Forma Visitante": "LWDLW",
+                "ELO Local": 1508.5,
+                "ELO Visitante": 1492.5,
+                "Ventaja ELO": 16.0,
+                "Confianza IA": 12.72,
+                "Partido Riesgoso": true,
+                "Hay Value": true,
+                "Value Local": 6.72,
+                "Value Empate": -17.62,
+                "Value Visitante": 10.9,
+                "Top Marcadores": [
+                    {
+                        "Marcador": "1-1",
+                        "Probabilidad": 10.99
+                    },
+                    {
+                        "Marcador": "2-1",
+                        "Probabilidad": 8.74
+                    },
+                    {
+                        "Marcador": "1-2",
+                        "Probabilidad": 8.03
+                    },
+                    {
+                        "Marcador": "1-0",
+                        "Probabilidad": 7.53
+                    },
+                    {
+                        "Marcador": "0-1",
+                        "Probabilidad": 6.91
+                    }
+                ]
+            }
         }
     },
     {
-        "Fecha": "2026-06-25",
-        "Hora": "21:00",
-        "Pais": "MUNDIAL",
-        "Liga": "CAMPEONATO DEL MUNDO - JORNADA 3",
-        "Link": "https://www.flashscore.co/partido/futbol/turquia-QeijuHo5/usa-fuitL4CF/?mid=SCvmMa2U",
-        "Partido": "turquía vs ee. uu.",
-        "Local": {
-            "Equipo": "turquía",
-            "Logo": "https://static.flashscore.com/res/image/data/Q7zzy7HG-Cfuwb3yH.png",
-            "ELO": 1531.5,
-            "Ultimos 10": [
+        "fecha": "2026-06-25",
+        "hora": "21:00",
+        "local": "Turquía",
+        "visitante": "EE. UU.",
+        "cuota_local": 3.65,
+        "cuota_empate": 4.1,
+        "cuota_visitante": 1.91,
+        "link": "https://www.flashscore.co/partido/futbol/turquia-QeijuHo5/usa-fuitL4CF/?mid=SCvmMa2U",
+        "logo_local": "https://static.flashscore.com/res/image/data/Q7zzy7HG-Cfuwb3yH.png",
+        "logo_visitante": "https://static.flashscore.com/res/image/data/GpV4Cle5-MPdHoKT3.png",
+        "pais": "MUNDIAL",
+        "liga": "CAMPEONATO DEL MUNDO - JORNADA 3",
+        "h2h": {
+            "LOCAL10": [
                 {
                     "fecha": "19.06.26",
                     "local": "Turquía",
@@ -723,13 +1266,8 @@
                     "goles_local": "1",
                     "goles_visitante": "6"
                 }
-            ]
-        },
-        "Visitante": {
-            "Equipo": "ee. uu.",
-            "Logo": "https://static.flashscore.com/res/image/data/GpV4Cle5-MPdHoKT3.png",
-            "ELO": 1523.0,
-            "Ultimos 10": [
+            ],
+            "VISITANTE10": [
                 {
                     "fecha": "19.06.26",
                     "local": "EE. UU.",
@@ -800,73 +1338,272 @@
                     "goles_local": "1",
                     "goles_visitante": "1"
                 }
-            ]
-        },
-        "Cuotas": {
-            "Local": 3.7,
-            "Empate": 4.1,
-            "Visitante": 1.91
-        },
-        "IA": {
-            "Ganador IA": "Local",
-            "Probabilidad Local": 63.56,
-            "Probabilidad Empate": 15.86,
-            "Probabilidad Visitante": 20.58,
-            "Expected Goals Local": 3.11,
-            "Expected Goals Visitante": 1.82,
-            "Expected Goals Total": 4.93,
-            "BTTS": 79.9,
-            "Over 2.5": 87.08,
-            "Forma Local": "LLWWW",
-            "Forma Visitante": "WWLWL",
-            "ELO Local": 1531.5,
-            "ELO Visitante": 1523.0,
-            "Ventaja ELO": 8.5,
-            "Confianza IA": 85.96,
-            "Partido Riesgoso": false,
-            "Hay Value": true,
-            "Value Local": 37.52,
-            "Value Empate": -7.64,
-            "Value Visitante": -29.87,
-            "Top Marcadores": [
+            ],
+            "H2H": [
                 {
-                    "Marcador": "3-1",
-                    "Probabilidad": 6.59
+                    "fecha": "07.06.25",
+                    "local": "EE. UU.",
+                    "visitante": "Turquía",
+                    "goles_local": "1",
+                    "goles_visitante": "2"
                 },
                 {
-                    "Marcador": "2-1",
-                    "Probabilidad": 6.36
+                    "fecha": "01.06.14",
+                    "local": "EE. UU.",
+                    "visitante": "Turquía",
+                    "goles_local": "2",
+                    "goles_visitante": "1"
                 },
                 {
-                    "Marcador": "3-2",
-                    "Probabilidad": 6.0
+                    "fecha": "29.05.10",
+                    "local": "EE. UU.",
+                    "visitante": "Turquía",
+                    "goles_local": "2",
+                    "goles_visitante": "1"
                 },
                 {
-                    "Marcador": "2-2",
-                    "Probabilidad": 5.79
+                    "fecha": "19.06.03",
+                    "local": "Turquía",
+                    "visitante": "EE. UU.",
+                    "goles_local": "2",
+                    "goles_visitante": "1"
                 },
                 {
-                    "Marcador": "4-1",
-                    "Probabilidad": 5.13
+                    "fecha": "04.09.91",
+                    "local": "Turquía",
+                    "visitante": "EE. UU.",
+                    "goles_local": "1",
+                    "goles_visitante": "1"
                 }
             ]
         },
         "analisis": {
-            "error": "'local'"
+            "Fecha": "2026-06-25",
+            "Hora": "21:00",
+            "Pais": "MUNDIAL",
+            "Liga": "CAMPEONATO DEL MUNDO - JORNADA 3",
+            "Link": "https://www.flashscore.co/partido/futbol/turquia-QeijuHo5/usa-fuitL4CF/?mid=SCvmMa2U",
+            "Partido": "turquía vs ee. uu.",
+            "Local": {
+                "Equipo": "turquía",
+                "Logo": "https://static.flashscore.com/res/image/data/Q7zzy7HG-Cfuwb3yH.png",
+                "ELO": 1531.5,
+                "Ultimos 10": [
+                    {
+                        "fecha": "19.06.26",
+                        "local": "Turquía",
+                        "visitante": "Paraguay",
+                        "goles_local": "0",
+                        "goles_visitante": "1"
+                    },
+                    {
+                        "fecha": "13.06.26",
+                        "local": "Australia",
+                        "visitante": "Turquía",
+                        "goles_local": "2",
+                        "goles_visitante": "0"
+                    },
+                    {
+                        "fecha": "06.06.26",
+                        "local": "Venezuela",
+                        "visitante": "Turquía",
+                        "goles_local": "1",
+                        "goles_visitante": "2"
+                    },
+                    {
+                        "fecha": "01.06.26",
+                        "local": "Turquía",
+                        "visitante": "Macedonia del Norte",
+                        "goles_local": "4",
+                        "goles_visitante": "0"
+                    },
+                    {
+                        "fecha": "31.03.26",
+                        "local": "Kosovo",
+                        "visitante": "Turquía",
+                        "goles_local": "0",
+                        "goles_visitante": "1"
+                    },
+                    {
+                        "fecha": "26.03.26",
+                        "local": "Turquía",
+                        "visitante": "Rumanía",
+                        "goles_local": "1",
+                        "goles_visitante": "0"
+                    },
+                    {
+                        "fecha": "18.11.25",
+                        "local": "España",
+                        "visitante": "Turquía",
+                        "goles_local": "2",
+                        "goles_visitante": "2"
+                    },
+                    {
+                        "fecha": "15.11.25",
+                        "local": "Turquía",
+                        "visitante": "Bulgaria",
+                        "goles_local": "2",
+                        "goles_visitante": "0"
+                    },
+                    {
+                        "fecha": "14.10.25",
+                        "local": "Turquía",
+                        "visitante": "Georgia",
+                        "goles_local": "4",
+                        "goles_visitante": "1"
+                    },
+                    {
+                        "fecha": "11.10.25",
+                        "local": "Bulgaria",
+                        "visitante": "Turquía",
+                        "goles_local": "1",
+                        "goles_visitante": "6"
+                    }
+                ]
+            },
+            "Visitante": {
+                "Equipo": "ee. uu.",
+                "Logo": "https://static.flashscore.com/res/image/data/GpV4Cle5-MPdHoKT3.png",
+                "ELO": 1523.0,
+                "Ultimos 10": [
+                    {
+                        "fecha": "19.06.26",
+                        "local": "EE. UU.",
+                        "visitante": "Australia",
+                        "goles_local": "2",
+                        "goles_visitante": "0"
+                    },
+                    {
+                        "fecha": "12.06.26",
+                        "local": "EE. UU.",
+                        "visitante": "Paraguay",
+                        "goles_local": "4",
+                        "goles_visitante": "1"
+                    },
+                    {
+                        "fecha": "06.06.26",
+                        "local": "EE. UU.",
+                        "visitante": "Alemania",
+                        "goles_local": "1",
+                        "goles_visitante": "2"
+                    },
+                    {
+                        "fecha": "31.05.26",
+                        "local": "EE. UU.",
+                        "visitante": "Senegal",
+                        "goles_local": "3",
+                        "goles_visitante": "2"
+                    },
+                    {
+                        "fecha": "31.03.26",
+                        "local": "EE. UU.",
+                        "visitante": "Portugal",
+                        "goles_local": "0",
+                        "goles_visitante": "2"
+                    },
+                    {
+                        "fecha": "28.03.26",
+                        "local": "EE. UU.",
+                        "visitante": "Bélgica",
+                        "goles_local": "2",
+                        "goles_visitante": "5"
+                    },
+                    {
+                        "fecha": "18.11.25",
+                        "local": "EE. UU.",
+                        "visitante": "Uruguay",
+                        "goles_local": "5",
+                        "goles_visitante": "1"
+                    },
+                    {
+                        "fecha": "15.11.25",
+                        "local": "EE. UU.",
+                        "visitante": "Paraguay",
+                        "goles_local": "2",
+                        "goles_visitante": "1"
+                    },
+                    {
+                        "fecha": "14.10.25",
+                        "local": "EE. UU.",
+                        "visitante": "Australia",
+                        "goles_local": "2",
+                        "goles_visitante": "1"
+                    },
+                    {
+                        "fecha": "10.10.25",
+                        "local": "EE. UU.",
+                        "visitante": "Ecuador",
+                        "goles_local": "1",
+                        "goles_visitante": "1"
+                    }
+                ]
+            },
+            "Cuotas": {
+                "Local": 3.65,
+                "Empate": 4.1,
+                "Visitante": 1.91
+            },
+            "IA": {
+                "Ganador IA": "Local",
+                "Probabilidad Local": 63.73,
+                "Probabilidad Empate": 16.11,
+                "Probabilidad Visitante": 20.16,
+                "Expected Goals Local": 3.11,
+                "Expected Goals Visitante": 1.82,
+                "Expected Goals Total": 4.93,
+                "BTTS": 80.2,
+                "Over 2.5": 86.93,
+                "Forma Local": "LLWWW",
+                "Forma Visitante": "WWLWL",
+                "ELO Local": 1531.5,
+                "ELO Visitante": 1523.0,
+                "Ventaja ELO": 8.5,
+                "Confianza IA": 87.14,
+                "Partido Riesgoso": false,
+                "Hay Value": true,
+                "Value Local": 37.42,
+                "Value Empate": -7.31,
+                "Value Visitante": -30.11,
+                "Top Marcadores": [
+                    {
+                        "Marcador": "3-1",
+                        "Probabilidad": 6.59
+                    },
+                    {
+                        "Marcador": "2-1",
+                        "Probabilidad": 6.36
+                    },
+                    {
+                        "Marcador": "3-2",
+                        "Probabilidad": 6.0
+                    },
+                    {
+                        "Marcador": "2-2",
+                        "Probabilidad": 5.79
+                    },
+                    {
+                        "Marcador": "4-1",
+                        "Probabilidad": 5.13
+                    }
+                ]
+            }
         }
     },
     {
-        "Fecha": "2026-06-25",
-        "Hora": "18:30",
-        "Pais": "BRASIL",
-        "Liga": "BRASILEIRAO SERIE B - JORNADA 15",
-        "Link": "https://www.flashscore.co/partido/futbol/cuiaba-zVvjqDOo/londrina-xdhbBEVA/?mid=U73jvhUj",
-        "Partido": "cuiabá vs londrina",
-        "Local": {
-            "Equipo": "cuiabá",
-            "Logo": "https://static.flashscore.com/res/image/data/COoi5ag5-CWl52SGk.png",
-            "ELO": 1503.0,
-            "Ultimos 10": [
+        "fecha": "2026-06-25",
+        "hora": "18:30",
+        "local": "Cuiabá",
+        "visitante": "Londrina",
+        "cuota_local": 1.8,
+        "cuota_empate": 3.15,
+        "cuota_visitante": 5.0,
+        "link": "https://www.flashscore.co/partido/futbol/cuiaba-zVvjqDOo/londrina-xdhbBEVA/?mid=U73jvhUj",
+        "logo_local": "https://static.flashscore.com/res/image/data/COoi5ag5-CWl52SGk.png",
+        "logo_visitante": "https://static.flashscore.com/res/image/data/ADUlTugl-hlPnAf3r.png",
+        "pais": "BRASIL",
+        "liga": "BRASILEIRAO SERIE B - JORNADA 15",
+        "h2h": {
+            "LOCAL10": [
                 {
                     "fecha": "21.06.26",
                     "local": "Avaí",
@@ -937,13 +1674,8 @@
                     "goles_local": "1",
                     "goles_visitante": "1"
                 }
-            ]
-        },
-        "Visitante": {
-            "Equipo": "londrina",
-            "Logo": "https://static.flashscore.com/res/image/data/ADUlTugl-hlPnAf3r.png",
-            "ELO": 1482.0,
-            "Ultimos 10": [
+            ],
+            "VISITANTE10": [
                 {
                     "fecha": "20.06.26",
                     "local": "Londrina",
@@ -1014,715 +1746,251 @@
                     "goles_local": "0",
                     "goles_visitante": "0"
                 }
-            ]
-        },
-        "Cuotas": {
-            "Local": 1.76,
-            "Empate": 3.2,
-            "Visitante": 5.25
-        },
-        "IA": {
-            "Ganador IA": "Local",
-            "Probabilidad Local": 40.16,
-            "Probabilidad Empate": 30.52,
-            "Probabilidad Visitante": 29.33,
-            "Expected Goals Local": 1.09,
-            "Expected Goals Visitante": 0.88,
-            "Expected Goals Total": 1.97,
-            "BTTS": 38.88,
-            "Over 2.5": 31.82,
-            "Forma Local": "LWWWL",
-            "Forma Visitante": "WWLLL",
-            "ELO Local": 1503.0,
-            "ELO Visitante": 1482.0,
-            "Ventaja ELO": 21.0,
-            "Confianza IA": 19.28,
-            "Partido Riesgoso": false,
-            "Hay Value": true,
-            "Value Local": -12.88,
-            "Value Empate": 1.35,
-            "Value Visitante": 11.55,
-            "Top Marcadores": [
+            ],
+            "H2H": [
                 {
-                    "Marcador": "1-0",
-                    "Probabilidad": 15.2
+                    "fecha": "05.10.19",
+                    "local": "Cuiabá",
+                    "visitante": "Londrina",
+                    "goles_local": "0",
+                    "goles_visitante": "1"
                 },
                 {
-                    "Marcador": "0-0",
-                    "Probabilidad": 13.95
-                },
-                {
-                    "Marcador": "1-1",
-                    "Probabilidad": 13.38
-                },
-                {
-                    "Marcador": "0-1",
-                    "Probabilidad": 12.27
-                },
-                {
-                    "Marcador": "2-0",
-                    "Probabilidad": 8.28
+                    "fecha": "07.06.19",
+                    "local": "Londrina",
+                    "visitante": "Cuiabá",
+                    "goles_local": "1",
+                    "goles_visitante": "0"
                 }
             ]
         },
         "analisis": {
-            "error": "'local'"
+            "Fecha": "2026-06-25",
+            "Hora": "18:30",
+            "Pais": "BRASIL",
+            "Liga": "BRASILEIRAO SERIE B - JORNADA 15",
+            "Link": "https://www.flashscore.co/partido/futbol/cuiaba-zVvjqDOo/londrina-xdhbBEVA/?mid=U73jvhUj",
+            "Partido": "cuiabá vs londrina",
+            "Local": {
+                "Equipo": "cuiabá",
+                "Logo": "https://static.flashscore.com/res/image/data/COoi5ag5-CWl52SGk.png",
+                "ELO": 1503.0,
+                "Ultimos 10": [
+                    {
+                        "fecha": "21.06.26",
+                        "local": "Avaí",
+                        "visitante": "Cuiabá",
+                        "goles_local": "1",
+                        "goles_visitante": "0"
+                    },
+                    {
+                        "fecha": "14.06.26",
+                        "local": "Cuiabá",
+                        "visitante": "Vila Nova",
+                        "goles_local": "1",
+                        "goles_visitante": "0"
+                    },
+                    {
+                        "fecha": "09.06.26",
+                        "local": "Ponte Preta",
+                        "visitante": "Cuiabá",
+                        "goles_local": "1",
+                        "goles_visitante": "2"
+                    },
+                    {
+                        "fecha": "31.05.26",
+                        "local": "Cuiabá",
+                        "visitante": "CRB",
+                        "goles_local": "2",
+                        "goles_visitante": "0"
+                    },
+                    {
+                        "fecha": "22.05.26",
+                        "local": "Náutico",
+                        "visitante": "Cuiabá",
+                        "goles_local": "1",
+                        "goles_visitante": "0"
+                    },
+                    {
+                        "fecha": "16.05.26",
+                        "local": "Cuiabá",
+                        "visitante": "Novorizontino",
+                        "goles_local": "0",
+                        "goles_visitante": "0"
+                    },
+                    {
+                        "fecha": "09.05.26",
+                        "local": "Athletic Club",
+                        "visitante": "Cuiabá",
+                        "goles_local": "0",
+                        "goles_visitante": "0"
+                    },
+                    {
+                        "fecha": "02.05.26",
+                        "local": "Cuiabá",
+                        "visitante": "Criciúma",
+                        "goles_local": "1",
+                        "goles_visitante": "1"
+                    },
+                    {
+                        "fecha": "29.04.26",
+                        "local": "Anapolis",
+                        "visitante": "Cuiabá",
+                        "goles_local": "4",
+                        "goles_visitante": "0"
+                    },
+                    {
+                        "fecha": "22.04.26",
+                        "local": "Cuiabá",
+                        "visitante": "Botafogo SP",
+                        "goles_local": "1",
+                        "goles_visitante": "1"
+                    }
+                ]
+            },
+            "Visitante": {
+                "Equipo": "londrina",
+                "Logo": "https://static.flashscore.com/res/image/data/ADUlTugl-hlPnAf3r.png",
+                "ELO": 1482.0,
+                "Ultimos 10": [
+                    {
+                        "fecha": "20.06.26",
+                        "local": "Londrina",
+                        "visitante": "Athletic Club",
+                        "goles_local": "2",
+                        "goles_visitante": "0"
+                    },
+                    {
+                        "fecha": "15.06.26",
+                        "local": "Londrina",
+                        "visitante": "Avaí",
+                        "goles_local": "3",
+                        "goles_visitante": "2"
+                    },
+                    {
+                        "fecha": "06.06.26",
+                        "local": "Criciúma",
+                        "visitante": "Londrina",
+                        "goles_local": "1",
+                        "goles_visitante": "0"
+                    },
+                    {
+                        "fecha": "31.05.26",
+                        "local": "Londrina",
+                        "visitante": "Vila Nova",
+                        "goles_local": "0",
+                        "goles_visitante": "1"
+                    },
+                    {
+                        "fecha": "23.05.26",
+                        "local": "Fortaleza",
+                        "visitante": "Londrina",
+                        "goles_local": "3",
+                        "goles_visitante": "0"
+                    },
+                    {
+                        "fecha": "18.05.26",
+                        "local": "Ponte Preta",
+                        "visitante": "Londrina",
+                        "goles_local": "1",
+                        "goles_visitante": "4"
+                    },
+                    {
+                        "fecha": "12.05.26",
+                        "local": "Londrina",
+                        "visitante": "Sao Bernardo",
+                        "goles_local": "1",
+                        "goles_visitante": "3"
+                    },
+                    {
+                        "fecha": "03.05.26",
+                        "local": "Operario",
+                        "visitante": "Londrina",
+                        "goles_local": "3",
+                        "goles_visitante": "0"
+                    },
+                    {
+                        "fecha": "25.04.26",
+                        "local": "Juventude",
+                        "visitante": "Londrina",
+                        "goles_local": "1",
+                        "goles_visitante": "0"
+                    },
+                    {
+                        "fecha": "19.04.26",
+                        "local": "Londrina",
+                        "visitante": "Ceará",
+                        "goles_local": "0",
+                        "goles_visitante": "0"
+                    }
+                ]
+            },
+            "Cuotas": {
+                "Local": 1.8,
+                "Empate": 3.15,
+                "Visitante": 5.0
+            },
+            "IA": {
+                "Ganador IA": "Local",
+                "Probabilidad Local": 40.6,
+                "Probabilidad Empate": 30.68,
+                "Probabilidad Visitante": 28.72,
+                "Expected Goals Local": 1.09,
+                "Expected Goals Visitante": 0.88,
+                "Expected Goals Total": 1.97,
+                "BTTS": 38.6,
+                "Over 2.5": 31.6,
+                "Forma Local": "LWWWL",
+                "Forma Visitante": "WWLLL",
+                "ELO Local": 1503.0,
+                "ELO Visitante": 1482.0,
+                "Ventaja ELO": 21.0,
+                "Confianza IA": 19.84,
+                "Partido Riesgoso": false,
+                "Hay Value": true,
+                "Value Local": -11.18,
+                "Value Empate": 1.09,
+                "Value Visitante": 10.08,
+                "Top Marcadores": [
+                    {
+                        "Marcador": "1-0",
+                        "Probabilidad": 15.2
+                    },
+                    {
+                        "Marcador": "0-0",
+                        "Probabilidad": 13.95
+                    },
+                    {
+                        "Marcador": "1-1",
+                        "Probabilidad": 13.38
+                    },
+                    {
+                        "Marcador": "0-1",
+                        "Probabilidad": 12.27
+                    },
+                    {
+                        "Marcador": "2-0",
+                        "Probabilidad": 8.28
+                    }
+                ]
+            }
         }
     },
     {
-        "Fecha": "2026-06-25",
-        "Hora": "13:00",
-        "Pais": "BRASIL",
-        "Liga": "BRASILEIRAO SUB-20 - JORNADA 18",
-        "Link": "https://www.flashscore.co/partido/futbol/corinthians-vZKd15Gk/flamengo-ddNdggeC/?mid=GIdDbo9b",
-        "Partido": "corinthians sub-20 vs flamengo sub-20",
-        "Local": {
-            "Equipo": "corinthians sub-20",
-            "Logo": "https://static.flashscore.com/res/image/data/4ENfYhcM-8Q62aX7N.png",
-            "ELO": 1532.0,
-            "Ultimos 10": [
-                {
-                    "fecha": "20.06.26",
-                    "local": "Cruzeiro Sub-20",
-                    "visitante": "Corinthians Sub-20",
-                    "goles_local": "1",
-                    "goles_visitante": "2"
-                },
-                {
-                    "fecha": "17.06.26",
-                    "local": "Corinthians Sub-20",
-                    "visitante": "Vitória Sub-20",
-                    "goles_local": "2",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "13.06.26",
-                    "local": "Corinthians Sub-20",
-                    "visitante": "Portuguesa Santista Sub-20",
-                    "goles_local": "2",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "10.06.26",
-                    "local": "Corinthians Sub-20",
-                    "visitante": "Avaí Sub-20",
-                    "goles_local": "6",
-                    "goles_visitante": "2"
-                },
-                {
-                    "fecha": "05.06.26",
-                    "local": "Mirassol Sub-20",
-                    "visitante": "Corinthians Sub-20",
-                    "goles_local": "0",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "28.05.26",
-                    "local": "RB Bragantino Sub-20",
-                    "visitante": "Corinthians Sub-20",
-                    "goles_local": "3",
-                    "goles_visitante": "3"
-                },
-                {
-                    "fecha": "19.05.26",
-                    "local": "Corinthians Sub-20",
-                    "visitante": "Palmeiras Sub-20",
-                    "goles_local": "0",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "16.05.26",
-                    "local": "Corinthians Sub-20",
-                    "visitante": "Vasco Sub-20",
-                    "goles_local": "0",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "13.05.26",
-                    "local": "Cuiabá Sub-20",
-                    "visitante": "Corinthians Sub-20",
-                    "goles_local": "0",
-                    "goles_visitante": "2"
-                },
-                {
-                    "fecha": "06.05.26",
-                    "local": "Corinthians Sub-20",
-                    "visitante": "Fluminense Sub-20",
-                    "goles_local": "0",
-                    "goles_visitante": "3"
-                }
-            ]
-        },
-        "Visitante": {
-            "Equipo": "flamengo sub-20",
-            "Logo": "https://static.flashscore.com/res/image/data/SnKQbWh5-COUy4N0T.png",
-            "ELO": 1505.0,
-            "Ultimos 10": [
-                {
-                    "fecha": "20.06.26",
-                    "local": "Sao Paulo Sub-20",
-                    "visitante": "Flamengo Sub-20",
-                    "goles_local": "1",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "17.06.26",
-                    "local": "Flamengo Sub-20",
-                    "visitante": "Cuiabá Sub-20",
-                    "goles_local": "1",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "09.06.26",
-                    "local": "Flamengo Sub-20",
-                    "visitante": "Athletico-PR Sub-20",
-                    "goles_local": "1",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "27.05.26",
-                    "local": "América-MG Sub-20",
-                    "visitante": "Flamengo Sub-20",
-                    "goles_local": "1",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "21.05.26",
-                    "local": "Flamengo Sub-20",
-                    "visitante": "Santos Sub-20",
-                    "goles_local": "2",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "16.05.26",
-                    "local": "Juventude Sub-20",
-                    "visitante": "Flamengo Sub-20",
-                    "goles_local": "2",
-                    "goles_visitante": "3"
-                },
-                {
-                    "fecha": "13.05.26",
-                    "local": "Botafogo Sub-20",
-                    "visitante": "Flamengo Sub-20",
-                    "goles_local": "3",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "07.05.26",
-                    "local": "Flamengo Sub-20",
-                    "visitante": "Palmeiras Sub-20",
-                    "goles_local": "1",
-                    "goles_visitante": "3"
-                },
-                {
-                    "fecha": "30.04.26",
-                    "local": "Bahia Sub-20",
-                    "visitante": "Flamengo Sub-20",
-                    "goles_local": "1",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "25.04.26",
-                    "local": "Flamengo Sub-20",
-                    "visitante": "Cruzeiro Sub-20",
-                    "goles_local": "0",
-                    "goles_visitante": "0"
-                }
-            ]
-        },
-        "Cuotas": {
-            "Local": 2.2,
-            "Empate": 3.35,
-            "Visitante": 2.7
-        },
-        "IA": {
-            "Ganador IA": "Local",
-            "Probabilidad Local": 62.86,
-            "Probabilidad Empate": 18.07,
-            "Probabilidad Visitante": 19.07,
-            "Expected Goals Local": 2.47,
-            "Expected Goals Visitante": 1.31,
-            "Expected Goals Total": 3.78,
-            "BTTS": 66.9,
-            "Over 2.5": 72.88,
-            "Forma Local": "WWWWW",
-            "Forma Visitante": "DDWDW",
-            "ELO Local": 1532.0,
-            "ELO Visitante": 1505.0,
-            "Ventaja ELO": 27.0,
-            "Confianza IA": 87.58,
-            "Partido Riesgoso": false,
-            "Hay Value": true,
-            "Value Local": 22.4,
-            "Value Empate": -8.5,
-            "Value Visitante": -13.9,
-            "Top Marcadores": [
-                {
-                    "Marcador": "2-1",
-                    "Probabilidad": 9.12
-                },
-                {
-                    "Marcador": "3-1",
-                    "Probabilidad": 7.51
-                },
-                {
-                    "Marcador": "1-1",
-                    "Probabilidad": 7.38
-                },
-                {
-                    "Marcador": "2-0",
-                    "Probabilidad": 6.96
-                },
-                {
-                    "Marcador": "2-2",
-                    "Probabilidad": 5.97
-                }
-            ]
-        },
-        "analisis": {
-            "error": "'local'"
-        }
-    },
-    {
-        "Fecha": "2026-06-25",
-        "Hora": "13:00",
-        "Pais": "BRASIL",
-        "Liga": "BRASILEIRAO SUB-20 - JORNADA 18",
-        "Link": "https://www.flashscore.co/partido/futbol/fluminense-OO3bpgZ5/palmeiras-zeHzAVPu/?mid=vy4Yo8Ph",
-        "Partido": "fluminense sub-20 vs palmeiras sub-20",
-        "Local": {
-            "Equipo": "fluminense sub-20",
-            "Logo": "https://static.flashscore.com/res/image/data/MV8lQsCa-vwZxbhWf.png",
-            "ELO": 1490.5,
-            "Ultimos 10": [
-                {
-                    "fecha": "20.06.26",
-                    "local": "Fluminense Sub-20",
-                    "visitante": "Athletico-PR Sub-20",
-                    "goles_local": "0",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "17.06.26",
-                    "local": "RB Bragantino Sub-20",
-                    "visitante": "Fluminense Sub-20",
-                    "goles_local": "3",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "10.06.26",
-                    "local": "Grêmio Sub-20",
-                    "visitante": "Fluminense Sub-20",
-                    "goles_local": "0",
-                    "goles_visitante": "3"
-                },
-                {
-                    "fecha": "26.05.26",
-                    "local": "Fluminense Sub-20",
-                    "visitante": "Cruzeiro Sub-20",
-                    "goles_local": "0",
-                    "goles_visitante": "2"
-                },
-                {
-                    "fecha": "20.05.26",
-                    "local": "Fluminense Sub-20",
-                    "visitante": "Juventude Sub-20",
-                    "goles_local": "4",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "16.05.26",
-                    "local": "Criciúma Sub-20",
-                    "visitante": "Fluminense Sub-20",
-                    "goles_local": "2",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "13.05.26",
-                    "local": "Fluminense Sub-20",
-                    "visitante": "Vasco Sub-20",
-                    "goles_local": "0",
-                    "goles_visitante": "2"
-                },
-                {
-                    "fecha": "06.05.26",
-                    "local": "Corinthians Sub-20",
-                    "visitante": "Fluminense Sub-20",
-                    "goles_local": "0",
-                    "goles_visitante": "3"
-                },
-                {
-                    "fecha": "29.04.26",
-                    "local": "Fluminense Sub-20",
-                    "visitante": "Santos Sub-20",
-                    "goles_local": "0",
-                    "goles_visitante": "2"
-                },
-                {
-                    "fecha": "25.04.26",
-                    "local": "Fluminense Sub-20",
-                    "visitante": "Cuiabá Sub-20",
-                    "goles_local": "2",
-                    "goles_visitante": "0"
-                }
-            ]
-        },
-        "Visitante": {
-            "Equipo": "palmeiras sub-20",
-            "Logo": "https://static.flashscore.com/res/image/data/tp1nxryB-6FV54WZb.png",
-            "ELO": 1562.5,
-            "Ultimos 10": [
-                {
-                    "fecha": "20.06.26",
-                    "local": "Palmeiras Sub-20",
-                    "visitante": "América-MG Sub-20",
-                    "goles_local": "7",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "16.06.26",
-                    "local": "Criciúma Sub-20",
-                    "visitante": "Palmeiras Sub-20",
-                    "goles_local": "0",
-                    "goles_visitante": "6"
-                },
-                {
-                    "fecha": "13.06.26",
-                    "local": "Palmeiras Sub-20",
-                    "visitante": "Osasco Audax Sub-20",
-                    "goles_local": "2",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "11.06.26",
-                    "local": "Palmeiras Sub-20",
-                    "visitante": "Santos Sub-20",
-                    "goles_local": "2",
-                    "goles_visitante": "2"
-                },
-                {
-                    "fecha": "04.06.26",
-                    "local": "Gremio Prudente Sub-20",
-                    "visitante": "Palmeiras Sub-20",
-                    "goles_local": "0",
-                    "goles_visitante": "2"
-                },
-                {
-                    "fecha": "27.05.26",
-                    "local": "Fortaleza Sub-20",
-                    "visitante": "Palmeiras Sub-20",
-                    "goles_local": "1",
-                    "goles_visitante": "2"
-                },
-                {
-                    "fecha": "19.05.26",
-                    "local": "Corinthians Sub-20",
-                    "visitante": "Palmeiras Sub-20",
-                    "goles_local": "0",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "15.05.26",
-                    "local": "Palmeiras Sub-20",
-                    "visitante": "Vitória Sub-20",
-                    "goles_local": "2",
-                    "goles_visitante": "2"
-                },
-                {
-                    "fecha": "12.05.26",
-                    "local": "Palmeiras Sub-20",
-                    "visitante": "Avaí Sub-20",
-                    "goles_local": "3",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "07.05.26",
-                    "local": "Flamengo Sub-20",
-                    "visitante": "Palmeiras Sub-20",
-                    "goles_local": "1",
-                    "goles_visitante": "3"
-                }
-            ]
-        },
-        "Cuotas": {
-            "Local": 3.45,
-            "Empate": 3.5,
-            "Visitante": 1.85
-        },
-        "IA": {
-            "Ganador IA": "Visitante",
-            "Probabilidad Local": 3.13,
-            "Probabilidad Empate": 6.29,
-            "Probabilidad Visitante": 90.58,
-            "Expected Goals Local": 0.76,
-            "Expected Goals Visitante": 4.0,
-            "Expected Goals Total": 4.76,
-            "BTTS": 51.83,
-            "Over 2.5": 85.05,
-            "Forma Local": "DLWLW",
-            "Forma Visitante": "WWWDW",
-            "ELO Local": 1490.5,
-            "ELO Visitante": 1562.5,
-            "Ventaja ELO": -72.0,
-            "Confianza IA": 100,
-            "Partido Riesgoso": false,
-            "Hay Value": true,
-            "Value Local": -22.84,
-            "Value Empate": -19.31,
-            "Value Visitante": 42.15,
-            "Top Marcadores": [
-                {
-                    "Marcador": "0-3",
-                    "Probabilidad": 9.14
-                },
-                {
-                    "Marcador": "0-4",
-                    "Probabilidad": 9.14
-                },
-                {
-                    "Marcador": "0-5",
-                    "Probabilidad": 7.31
-                },
-                {
-                    "Marcador": "1-3",
-                    "Probabilidad": 6.94
-                },
-                {
-                    "Marcador": "1-4",
-                    "Probabilidad": 6.94
-                }
-            ]
-        },
-        "analisis": {
-            "error": "'local'"
-        }
-    },
-    {
-        "Fecha": "2026-06-25",
-        "Hora": "13:00",
-        "Pais": "BRASIL",
-        "Liga": "BRASILEIRAO SUB-20 - JORNADA 18",
-        "Link": "https://www.flashscore.co/partido/futbol/botafogo-fiMQubcQ/bragantino-K0CAXRlm/?mid=MFaLdPwB",
-        "Partido": "rb bragantino sub-20 vs botafogo sub-20",
-        "Local": {
-            "Equipo": "rb bragantino sub-20",
-            "Logo": "https://static.flashscore.com/res/image/data/xxm5TNfM-zV7mJUhj.png",
-            "ELO": 1558.0,
-            "Ultimos 10": [
-                {
-                    "fecha": "20.06.26",
-                    "local": "Vasco Sub-20",
-                    "visitante": "RB Bragantino Sub-20",
-                    "goles_local": "0",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "17.06.26",
-                    "local": "RB Bragantino Sub-20",
-                    "visitante": "Fluminense Sub-20",
-                    "goles_local": "3",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "11.06.26",
-                    "local": "Sao Paulo Sub-20",
-                    "visitante": "RB Bragantino Sub-20",
-                    "goles_local": "0",
-                    "goles_visitante": "2"
-                },
-                {
-                    "fecha": "05.06.26",
-                    "local": "RB Bragantino Sub-20",
-                    "visitante": "Flamengo SP Sub-20",
-                    "goles_local": "3",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "31.05.26",
-                    "local": "Sfera Sub-20",
-                    "visitante": "RB Bragantino Sub-20",
-                    "goles_local": "1",
-                    "goles_visitante": "2"
-                },
-                {
-                    "fecha": "28.05.26",
-                    "local": "RB Bragantino Sub-20",
-                    "visitante": "Corinthians Sub-20",
-                    "goles_local": "3",
-                    "goles_visitante": "3"
-                },
-                {
-                    "fecha": "21.05.26",
-                    "local": "RB Bragantino Sub-20",
-                    "visitante": "Grêmio Sub-20",
-                    "goles_local": "5",
-                    "goles_visitante": "4"
-                },
-                {
-                    "fecha": "16.05.26",
-                    "local": "Cuiabá Sub-20",
-                    "visitante": "RB Bragantino Sub-20",
-                    "goles_local": "0",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "13.05.26",
-                    "local": "Athletico-PR Sub-20",
-                    "visitante": "RB Bragantino Sub-20",
-                    "goles_local": "3",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "05.05.26",
-                    "local": "RB Bragantino Sub-20",
-                    "visitante": "Fortaleza Sub-20",
-                    "goles_local": "2",
-                    "goles_visitante": "0"
-                }
-            ]
-        },
-        "Visitante": {
-            "Equipo": "botafogo sub-20",
-            "Logo": "https://static.flashscore.com/res/image/data/jBDSUABr-ldMpXQG1.png",
-            "ELO": 1537.0,
-            "Ultimos 10": [
-                {
-                    "fecha": "20.06.26",
-                    "local": "Vitória Sub-20",
-                    "visitante": "Botafogo Sub-20",
-                    "goles_local": "2",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "17.06.26",
-                    "local": "Botafogo Sub-20",
-                    "visitante": "Grêmio Sub-20",
-                    "goles_local": "1",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "10.06.26",
-                    "local": "Botafogo Sub-20",
-                    "visitante": "Criciúma Sub-20",
-                    "goles_local": "2",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "27.05.26",
-                    "local": "Santos Sub-20",
-                    "visitante": "Botafogo Sub-20",
-                    "goles_local": "1",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "21.05.26",
-                    "local": "Athletico-PR Sub-20",
-                    "visitante": "Botafogo Sub-20",
-                    "goles_local": "0",
-                    "goles_visitante": "3"
-                },
-                {
-                    "fecha": "16.05.26",
-                    "local": "Botafogo Sub-20",
-                    "visitante": "Cruzeiro Sub-20",
-                    "goles_local": "3",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "13.05.26",
-                    "local": "Botafogo Sub-20",
-                    "visitante": "Flamengo Sub-20",
-                    "goles_local": "3",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "06.05.26",
-                    "local": "Juventude Sub-20",
-                    "visitante": "Botafogo Sub-20",
-                    "goles_local": "0",
-                    "goles_visitante": "3"
-                },
-                {
-                    "fecha": "29.04.26",
-                    "local": "Vasco Sub-20",
-                    "visitante": "Botafogo Sub-20",
-                    "goles_local": "1",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "26.04.26",
-                    "local": "Botafogo Sub-20",
-                    "visitante": "Fortaleza Sub-20",
-                    "goles_local": "2",
-                    "goles_visitante": "1"
-                }
-            ]
-        },
-        "Cuotas": {
-            "Local": 1.7,
-            "Empate": 3.7,
-            "Visitante": 3.8
-        },
-        "IA": {
-            "Ganador IA": "Visitante",
-            "Probabilidad Local": 33.52,
-            "Probabilidad Empate": 22.32,
-            "Probabilidad Visitante": 44.16,
-            "Expected Goals Local": 1.63,
-            "Expected Goals Visitante": 1.89,
-            "Expected Goals Total": 3.52,
-            "BTTS": 68.42,
-            "Over 2.5": 68.35,
-            "Forma Local": "WWWWW",
-            "Forma Visitante": "LWWDW",
-            "ELO Local": 1558.0,
-            "ELO Visitante": 1537.0,
-            "Ventaja ELO": 21.0,
-            "Confianza IA": 21.28,
-            "Partido Riesgoso": false,
-            "Hay Value": true,
-            "Value Local": -18.92,
-            "Value Empate": -1.78,
-            "Value Visitante": 20.7,
-            "Top Marcadores": [
-                {
-                    "Marcador": "1-1",
-                    "Probabilidad": 9.12
-                },
-                {
-                    "Marcador": "1-2",
-                    "Probabilidad": 8.62
-                },
-                {
-                    "Marcador": "2-1",
-                    "Probabilidad": 7.43
-                },
-                {
-                    "Marcador": "2-2",
-                    "Probabilidad": 7.02
-                },
-                {
-                    "Marcador": "0-1",
-                    "Probabilidad": 5.59
-                }
-            ]
-        },
-        "analisis": {
-            "error": "'local'"
-        }
-    },
-    {
-        "Fecha": "2026-06-25",
-        "Hora": "18:30",
-        "Pais": "CHILE",
-        "Liga": "COPA CHILE - JORNADA 1",
-        "Link": "https://www.flashscore.co/partido/futbol/colo-colo-th4HPIws/o-higgins-hYrshGxg/?mid=x6E46aff",
-        "Partido": "colo colo vs o'higgins",
-        "Local": {
-            "Equipo": "colo colo",
-            "Logo": "https://static.flashscore.com/res/image/data/CMCTeMxS-tnwDCzLD.png",
-            "ELO": 1545.5,
-            "Ultimos 10": [
+        "fecha": "2026-06-25",
+        "hora": "18:30",
+        "local": "Colo Colo",
+        "visitante": "O'Higgins",
+        "cuota_local": 1.6,
+        "cuota_empate": 3.8,
+        "cuota_visitante": 4.75,
+        "link": "https://www.flashscore.co/partido/futbol/colo-colo-th4HPIws/o-higgins-hYrshGxg/?mid=x6E46aff",
+        "logo_local": "https://static.flashscore.com/res/image/data/CMCTeMxS-tnwDCzLD.png",
+        "logo_visitante": "https://static.flashscore.com/res/image/data/f1MK7GzS-zPh2QHcM.png",
+        "pais": "CHILE",
+        "liga": "COPA CHILE - JORNADA 1",
+        "h2h": {
+            "LOCAL10": [
                 {
                     "fecha": "20.06.26",
                     "local": "Recoleta",
@@ -1793,13 +2061,8 @@
                     "goles_local": "1",
                     "goles_visitante": "2"
                 }
-            ]
-        },
-        "Visitante": {
-            "Equipo": "o'higgins",
-            "Logo": "https://static.flashscore.com/res/image/data/f1MK7GzS-zPh2QHcM.png",
-            "ELO": 1491.0,
-            "Ultimos 10": [
+            ],
+            "VISITANTE10": [
                 {
                     "fecha": "21.06.26",
                     "local": "O'Higgins",
@@ -1870,73 +2133,307 @@
                     "goles_local": "0",
                     "goles_visitante": "0"
                 }
-            ]
-        },
-        "Cuotas": {
-            "Local": 1.64,
-            "Empate": 3.7,
-            "Visitante": 4.6
-        },
-        "IA": {
-            "Ganador IA": "Local",
-            "Probabilidad Local": 83.47,
-            "Probabilidad Empate": 9.82,
-            "Probabilidad Visitante": 6.7,
-            "Expected Goals Local": 3.52,
-            "Expected Goals Visitante": 1.01,
-            "Expected Goals Total": 4.53,
-            "BTTS": 61.88,
-            "Over 2.5": 83.25,
-            "Forma Local": "WWLWW",
-            "Forma Visitante": "DLDWL",
-            "ELO Local": 1545.5,
-            "ELO Visitante": 1491.0,
-            "Ventaja ELO": 54.5,
-            "Confianza IA": 100,
-            "Partido Riesgoso": false,
-            "Hay Value": true,
-            "Value Local": 27.91,
-            "Value Empate": -14.81,
-            "Value Visitante": -13.11,
-            "Top Marcadores": [
+            ],
+            "H2H": [
                 {
-                    "Marcador": "3-1",
-                    "Probabilidad": 7.91
+                    "fecha": "21.02.26",
+                    "local": "O'Higgins",
+                    "visitante": "Colo Colo",
+                    "goles_local": "0",
+                    "goles_visitante": "1"
                 },
                 {
-                    "Marcador": "3-0",
-                    "Probabilidad": 7.84
+                    "fecha": "27.07.25",
+                    "local": "O'Higgins",
+                    "visitante": "Colo Colo",
+                    "goles_local": "1",
+                    "goles_visitante": "1"
                 },
                 {
-                    "Marcador": "4-1",
-                    "Probabilidad": 6.97
+                    "fecha": "24.02.25",
+                    "local": "Colo Colo",
+                    "visitante": "O'Higgins",
+                    "goles_local": "0",
+                    "goles_visitante": "1"
                 },
                 {
-                    "Marcador": "4-0",
-                    "Probabilidad": 6.9
+                    "fecha": "27.07.24",
+                    "local": "Colo Colo",
+                    "visitante": "O'Higgins",
+                    "goles_local": "2",
+                    "goles_visitante": "1"
                 },
                 {
-                    "Marcador": "2-1",
-                    "Probabilidad": 6.75
+                    "fecha": "30.06.24",
+                    "local": "Colo Colo",
+                    "visitante": "O'Higgins",
+                    "goles_local": "3",
+                    "goles_visitante": "1"
+                },
+                {
+                    "fecha": "23.06.24",
+                    "local": "O'Higgins",
+                    "visitante": "Colo Colo",
+                    "goles_local": "2",
+                    "goles_visitante": "2"
+                },
+                {
+                    "fecha": "25.02.24",
+                    "local": "O'Higgins",
+                    "visitante": "Colo Colo",
+                    "goles_local": "1",
+                    "goles_visitante": "0"
+                },
+                {
+                    "fecha": "15.07.23",
+                    "local": "Colo Colo",
+                    "visitante": "O'Higgins",
+                    "goles_local": "2",
+                    "goles_visitante": "0"
+                },
+                {
+                    "fecha": "29.01.23",
+                    "local": "O'Higgins",
+                    "visitante": "Colo Colo",
+                    "goles_local": "5",
+                    "goles_visitante": "1"
+                },
+                {
+                    "fecha": "30.10.22",
+                    "local": "Colo Colo",
+                    "visitante": "O'Higgins",
+                    "goles_local": "2",
+                    "goles_visitante": "0"
                 }
             ]
         },
         "analisis": {
-            "error": "'local'"
+            "Fecha": "2026-06-25",
+            "Hora": "18:30",
+            "Pais": "CHILE",
+            "Liga": "COPA CHILE - JORNADA 1",
+            "Link": "https://www.flashscore.co/partido/futbol/colo-colo-th4HPIws/o-higgins-hYrshGxg/?mid=x6E46aff",
+            "Partido": "colo colo vs o'higgins",
+            "Local": {
+                "Equipo": "colo colo",
+                "Logo": "https://static.flashscore.com/res/image/data/CMCTeMxS-tnwDCzLD.png",
+                "ELO": 1545.5,
+                "Ultimos 10": [
+                    {
+                        "fecha": "20.06.26",
+                        "local": "Recoleta",
+                        "visitante": "Colo Colo",
+                        "goles_local": "0",
+                        "goles_visitante": "3"
+                    },
+                    {
+                        "fecha": "13.06.26",
+                        "local": "Colo Colo",
+                        "visitante": "Cobresal",
+                        "goles_local": "3",
+                        "goles_visitante": "0"
+                    },
+                    {
+                        "fecha": "07.06.26",
+                        "local": "Huachipato",
+                        "visitante": "Colo Colo",
+                        "goles_local": "1",
+                        "goles_visitante": "0"
+                    },
+                    {
+                        "fecha": "30.05.26",
+                        "local": "La Serena",
+                        "visitante": "Colo Colo",
+                        "goles_local": "2",
+                        "goles_visitante": "4"
+                    },
+                    {
+                        "fecha": "24.05.26",
+                        "local": "U. Católica",
+                        "visitante": "Colo Colo",
+                        "goles_local": "1",
+                        "goles_visitante": "2"
+                    },
+                    {
+                        "fecha": "17.05.26",
+                        "local": "Colo Colo",
+                        "visitante": "Ñublense",
+                        "goles_local": "6",
+                        "goles_visitante": "2"
+                    },
+                    {
+                        "fecha": "13.05.26",
+                        "local": "Coquimbo",
+                        "visitante": "Colo Colo",
+                        "goles_local": "1",
+                        "goles_visitante": "0"
+                    },
+                    {
+                        "fecha": "09.05.26",
+                        "local": "Colo Colo",
+                        "visitante": "Dep. Concepción",
+                        "goles_local": "3",
+                        "goles_visitante": "1"
+                    },
+                    {
+                        "fecha": "03.05.26",
+                        "local": "Colo Colo",
+                        "visitante": "Coquimbo",
+                        "goles_local": "3",
+                        "goles_visitante": "1"
+                    },
+                    {
+                        "fecha": "26.04.26",
+                        "local": "U. De Concepción",
+                        "visitante": "Colo Colo",
+                        "goles_local": "1",
+                        "goles_visitante": "2"
+                    }
+                ]
+            },
+            "Visitante": {
+                "Equipo": "o'higgins",
+                "Logo": "https://static.flashscore.com/res/image/data/f1MK7GzS-zPh2QHcM.png",
+                "ELO": 1491.0,
+                "Ultimos 10": [
+                    {
+                        "fecha": "21.06.26",
+                        "local": "O'Higgins",
+                        "visitante": "U. Española",
+                        "goles_local": "1",
+                        "goles_visitante": "1"
+                    },
+                    {
+                        "fecha": "18.06.26",
+                        "local": "U. De Chile",
+                        "visitante": "O'Higgins",
+                        "goles_local": "2",
+                        "goles_visitante": "0"
+                    },
+                    {
+                        "fecha": "13.06.26",
+                        "local": "Coquimbo",
+                        "visitante": "O'Higgins",
+                        "goles_local": "0",
+                        "goles_visitante": "0"
+                    },
+                    {
+                        "fecha": "07.06.26",
+                        "local": "O'Higgins",
+                        "visitante": "Palestino",
+                        "goles_local": "2",
+                        "goles_visitante": "1"
+                    },
+                    {
+                        "fecha": "31.05.26",
+                        "local": "O'Higgins",
+                        "visitante": "Everton",
+                        "goles_local": "2",
+                        "goles_visitante": "3"
+                    },
+                    {
+                        "fecha": "26.05.26",
+                        "local": "Millonarios",
+                        "visitante": "O'Higgins",
+                        "goles_local": "1",
+                        "goles_visitante": "2"
+                    },
+                    {
+                        "fecha": "20.05.26",
+                        "local": "Boston River",
+                        "visitante": "O'Higgins",
+                        "goles_local": "3",
+                        "goles_visitante": "2"
+                    },
+                    {
+                        "fecha": "16.05.26",
+                        "local": "O'Higgins",
+                        "visitante": "U. De Concepción",
+                        "goles_local": "0",
+                        "goles_visitante": "1"
+                    },
+                    {
+                        "fecha": "10.05.26",
+                        "local": "O'Higgins",
+                        "visitante": "Everton",
+                        "goles_local": "2",
+                        "goles_visitante": "1"
+                    },
+                    {
+                        "fecha": "07.05.26",
+                        "local": "O'Higgins",
+                        "visitante": "Sao Paulo",
+                        "goles_local": "0",
+                        "goles_visitante": "0"
+                    }
+                ]
+            },
+            "Cuotas": {
+                "Local": 1.6,
+                "Empate": 3.8,
+                "Visitante": 4.75
+            },
+            "IA": {
+                "Ganador IA": "Local",
+                "Probabilidad Local": 83.05,
+                "Probabilidad Empate": 10.17,
+                "Probabilidad Visitante": 6.78,
+                "Expected Goals Local": 3.52,
+                "Expected Goals Visitante": 1.01,
+                "Expected Goals Total": 4.53,
+                "BTTS": 61.9,
+                "Over 2.5": 82.91,
+                "Forma Local": "WWLWW",
+                "Forma Visitante": "DLDWL",
+                "ELO Local": 1545.5,
+                "ELO Visitante": 1491.0,
+                "Ventaja ELO": 54.5,
+                "Confianza IA": 100,
+                "Partido Riesgoso": false,
+                "Hay Value": true,
+                "Value Local": 26.16,
+                "Value Empate": -13.78,
+                "Value Visitante": -12.38,
+                "Top Marcadores": [
+                    {
+                        "Marcador": "3-1",
+                        "Probabilidad": 7.91
+                    },
+                    {
+                        "Marcador": "3-0",
+                        "Probabilidad": 7.84
+                    },
+                    {
+                        "Marcador": "4-1",
+                        "Probabilidad": 6.97
+                    },
+                    {
+                        "Marcador": "4-0",
+                        "Probabilidad": 6.9
+                    },
+                    {
+                        "Marcador": "2-1",
+                        "Probabilidad": 6.75
+                    }
+                ]
+            }
         }
     },
     {
-        "Fecha": "2026-06-25",
-        "Hora": "18:30",
-        "Pais": "CHILE",
-        "Liga": "COPA CHILE - JORNADA 1",
-        "Link": "https://www.flashscore.co/partido/futbol/nublense-vVvwgdNn/u-de-concepcion-6BcMMext/?mid=UuBd8LPs",
-        "Partido": "ñublense vs u. de concepción",
-        "Local": {
-            "Equipo": "ñublense",
-            "Logo": "https://static.flashscore.com/res/image/data/MVoXktAr-KM9757Oh.png",
-            "ELO": 1500.5,
-            "Ultimos 10": [
+        "fecha": "2026-06-25",
+        "hora": "18:30",
+        "local": "Ñublense",
+        "visitante": "U. De Concepción",
+        "cuota_local": 1.95,
+        "cuota_empate": 3.2,
+        "cuota_visitante": 3.55,
+        "link": "https://www.flashscore.co/partido/futbol/nublense-vVvwgdNn/u-de-concepcion-6BcMMext/?mid=UuBd8LPs",
+        "logo_local": "https://static.flashscore.com/res/image/data/MVoXktAr-KM9757Oh.png",
+        "logo_visitante": "https://static.flashscore.com/res/image/data/nmpUa0FG-Eq74Jcjl.png",
+        "pais": "CHILE",
+        "liga": "COPA CHILE - JORNADA 1",
+        "h2h": {
+            "LOCAL10": [
                 {
                     "fecha": "21.06.26",
                     "local": "Curicó Unido",
@@ -2007,13 +2504,8 @@
                     "goles_local": "1",
                     "goles_visitante": "1"
                 }
-            ]
-        },
-        "Visitante": {
-            "Equipo": "u. de concepción",
-            "Logo": "https://static.flashscore.com/res/image/data/nmpUa0FG-Eq74Jcjl.png",
-            "ELO": 1460.5,
-            "Ultimos 10": [
+            ],
+            "VISITANTE10": [
                 {
                     "fecha": "20.06.26",
                     "local": "Rangers",
@@ -2084,73 +2576,307 @@
                     "goles_local": "3",
                     "goles_visitante": "0"
                 }
-            ]
-        },
-        "Cuotas": {
-            "Local": 1.95,
-            "Empate": 3.2,
-            "Visitante": 3.55
-        },
-        "IA": {
-            "Ganador IA": "Local",
-            "Probabilidad Local": 61.63,
-            "Probabilidad Empate": 17.45,
-            "Probabilidad Visitante": 20.92,
-            "Expected Goals Local": 2.72,
-            "Expected Goals Visitante": 1.58,
-            "Expected Goals Total": 4.3,
-            "BTTS": 74.26,
-            "Over 2.5": 80.26,
-            "Forma Local": "LDWWD",
-            "Forma Visitante": "LLLDD",
-            "ELO Local": 1500.5,
-            "ELO Visitante": 1460.5,
-            "Ventaja ELO": 40.0,
-            "Confianza IA": 81.42,
-            "Partido Riesgoso": false,
-            "Hay Value": true,
-            "Value Local": 15.31,
-            "Value Empate": -10.78,
-            "Value Visitante": -4.53,
-            "Top Marcadores": [
+            ],
+            "H2H": [
                 {
-                    "Marcador": "2-1",
-                    "Probabilidad": 7.93
+                    "fecha": "06.06.26",
+                    "local": "Ñublense",
+                    "visitante": "U. De Concepción",
+                    "goles_local": "2",
+                    "goles_visitante": "1"
                 },
                 {
-                    "Marcador": "3-1",
-                    "Probabilidad": 7.19
+                    "fecha": "23.05.26",
+                    "local": "Ñublense",
+                    "visitante": "U. De Concepción",
+                    "goles_local": "2",
+                    "goles_visitante": "2"
                 },
                 {
-                    "Marcador": "2-2",
-                    "Probabilidad": 6.27
+                    "fecha": "30.03.26",
+                    "local": "U. De Concepción",
+                    "visitante": "Ñublense",
+                    "goles_local": "0",
+                    "goles_visitante": "2"
                 },
                 {
-                    "Marcador": "1-1",
-                    "Probabilidad": 5.83
+                    "fecha": "05.04.25",
+                    "local": "Ñublense",
+                    "visitante": "U. De Concepción",
+                    "goles_local": "2",
+                    "goles_visitante": "0"
                 },
                 {
-                    "Marcador": "3-2",
-                    "Probabilidad": 5.68
+                    "fecha": "31.01.25",
+                    "local": "U. De Concepción",
+                    "visitante": "Ñublense",
+                    "goles_local": "2",
+                    "goles_visitante": "3"
+                },
+                {
+                    "fecha": "13.03.15",
+                    "local": "U. De Concepción",
+                    "visitante": "Ñublense",
+                    "goles_local": "2",
+                    "goles_visitante": "2"
+                },
+                {
+                    "fecha": "18.10.14",
+                    "local": "Ñublense",
+                    "visitante": "U. De Concepción",
+                    "goles_local": "2",
+                    "goles_visitante": "1"
+                },
+                {
+                    "fecha": "09.02.14",
+                    "local": "Ñublense",
+                    "visitante": "U. De Concepción",
+                    "goles_local": "3",
+                    "goles_visitante": "1"
+                },
+                {
+                    "fecha": "31.08.13",
+                    "local": "U. De Concepción",
+                    "visitante": "Ñublense",
+                    "goles_local": "2",
+                    "goles_visitante": "2"
+                },
+                {
+                    "fecha": "15.10.11",
+                    "local": "Ñublense",
+                    "visitante": "U. De Concepción",
+                    "goles_local": "2",
+                    "goles_visitante": "1"
                 }
             ]
         },
         "analisis": {
-            "error": "'local'"
+            "Fecha": "2026-06-25",
+            "Hora": "18:30",
+            "Pais": "CHILE",
+            "Liga": "COPA CHILE - JORNADA 1",
+            "Link": "https://www.flashscore.co/partido/futbol/nublense-vVvwgdNn/u-de-concepcion-6BcMMext/?mid=UuBd8LPs",
+            "Partido": "ñublense vs u. de concepción",
+            "Local": {
+                "Equipo": "ñublense",
+                "Logo": "https://static.flashscore.com/res/image/data/MVoXktAr-KM9757Oh.png",
+                "ELO": 1500.5,
+                "Ultimos 10": [
+                    {
+                        "fecha": "21.06.26",
+                        "local": "Curicó Unido",
+                        "visitante": "Ñublense",
+                        "goles_local": "1",
+                        "goles_visitante": "0"
+                    },
+                    {
+                        "fecha": "13.06.26",
+                        "local": "Ñublense",
+                        "visitante": "Huachipato",
+                        "goles_local": "2",
+                        "goles_visitante": "2"
+                    },
+                    {
+                        "fecha": "06.06.26",
+                        "local": "Ñublense",
+                        "visitante": "U. De Concepción",
+                        "goles_local": "2",
+                        "goles_visitante": "1"
+                    },
+                    {
+                        "fecha": "29.05.26",
+                        "local": "Cobresal",
+                        "visitante": "Ñublense",
+                        "goles_local": "0",
+                        "goles_visitante": "1"
+                    },
+                    {
+                        "fecha": "23.05.26",
+                        "local": "Ñublense",
+                        "visitante": "U. De Concepción",
+                        "goles_local": "2",
+                        "goles_visitante": "2"
+                    },
+                    {
+                        "fecha": "17.05.26",
+                        "local": "Colo Colo",
+                        "visitante": "Ñublense",
+                        "goles_local": "6",
+                        "goles_visitante": "2"
+                    },
+                    {
+                        "fecha": "10.05.26",
+                        "local": "U. Católica",
+                        "visitante": "Ñublense",
+                        "goles_local": "1",
+                        "goles_visitante": "1"
+                    },
+                    {
+                        "fecha": "02.05.26",
+                        "local": "Ñublense",
+                        "visitante": "Cobresal",
+                        "goles_local": "2",
+                        "goles_visitante": "0"
+                    },
+                    {
+                        "fecha": "25.04.26",
+                        "local": "Ñublense",
+                        "visitante": "O'Higgins",
+                        "goles_local": "0",
+                        "goles_visitante": "2"
+                    },
+                    {
+                        "fecha": "19.04.26",
+                        "local": "Coquimbo",
+                        "visitante": "Ñublense",
+                        "goles_local": "1",
+                        "goles_visitante": "1"
+                    }
+                ]
+            },
+            "Visitante": {
+                "Equipo": "u. de concepción",
+                "Logo": "https://static.flashscore.com/res/image/data/nmpUa0FG-Eq74Jcjl.png",
+                "ELO": 1460.5,
+                "Ultimos 10": [
+                    {
+                        "fecha": "20.06.26",
+                        "local": "Rangers",
+                        "visitante": "U. De Concepción",
+                        "goles_local": "2",
+                        "goles_visitante": "1"
+                    },
+                    {
+                        "fecha": "14.06.26",
+                        "local": "U. Católica",
+                        "visitante": "U. De Concepción",
+                        "goles_local": "5",
+                        "goles_visitante": "1"
+                    },
+                    {
+                        "fecha": "06.06.26",
+                        "local": "Ñublense",
+                        "visitante": "U. De Concepción",
+                        "goles_local": "2",
+                        "goles_visitante": "1"
+                    },
+                    {
+                        "fecha": "29.05.26",
+                        "local": "U. De Concepción",
+                        "visitante": "U. La Calera",
+                        "goles_local": "0",
+                        "goles_visitante": "0"
+                    },
+                    {
+                        "fecha": "23.05.26",
+                        "local": "Ñublense",
+                        "visitante": "U. De Concepción",
+                        "goles_local": "2",
+                        "goles_visitante": "2"
+                    },
+                    {
+                        "fecha": "16.05.26",
+                        "local": "O'Higgins",
+                        "visitante": "U. De Concepción",
+                        "goles_local": "0",
+                        "goles_visitante": "1"
+                    },
+                    {
+                        "fecha": "09.05.26",
+                        "local": "Cobresal",
+                        "visitante": "U. De Concepción",
+                        "goles_local": "2",
+                        "goles_visitante": "1"
+                    },
+                    {
+                        "fecha": "03.05.26",
+                        "local": "U. De Concepción",
+                        "visitante": "U. Católica",
+                        "goles_local": "2",
+                        "goles_visitante": "2"
+                    },
+                    {
+                        "fecha": "26.04.26",
+                        "local": "U. De Concepción",
+                        "visitante": "Colo Colo",
+                        "goles_local": "1",
+                        "goles_visitante": "2"
+                    },
+                    {
+                        "fecha": "17.04.26",
+                        "local": "Limache",
+                        "visitante": "U. De Concepción",
+                        "goles_local": "3",
+                        "goles_visitante": "0"
+                    }
+                ]
+            },
+            "Cuotas": {
+                "Local": 1.95,
+                "Empate": 3.2,
+                "Visitante": 3.55
+            },
+            "IA": {
+                "Ganador IA": "Local",
+                "Probabilidad Local": 61.8,
+                "Probabilidad Empate": 17.37,
+                "Probabilidad Visitante": 20.82,
+                "Expected Goals Local": 2.72,
+                "Expected Goals Visitante": 1.58,
+                "Expected Goals Total": 4.3,
+                "BTTS": 74.16,
+                "Over 2.5": 80.05,
+                "Forma Local": "LDWWD",
+                "Forma Visitante": "LLLDD",
+                "ELO Local": 1500.5,
+                "ELO Visitante": 1460.5,
+                "Ventaja ELO": 40.0,
+                "Confianza IA": 81.96,
+                "Partido Riesgoso": false,
+                "Hay Value": true,
+                "Value Local": 15.48,
+                "Value Empate": -10.86,
+                "Value Visitante": -4.63,
+                "Top Marcadores": [
+                    {
+                        "Marcador": "2-1",
+                        "Probabilidad": 7.93
+                    },
+                    {
+                        "Marcador": "3-1",
+                        "Probabilidad": 7.19
+                    },
+                    {
+                        "Marcador": "2-2",
+                        "Probabilidad": 6.27
+                    },
+                    {
+                        "Marcador": "1-1",
+                        "Probabilidad": 5.83
+                    },
+                    {
+                        "Marcador": "3-2",
+                        "Probabilidad": 5.68
+                    }
+                ]
+            }
         }
     },
     {
-        "Fecha": "2026-06-25",
-        "Hora": "18:00",
-        "Pais": "ESTADOS UNIDOS",
-        "Liga": "USL LEAGUE TWO",
-        "Link": "https://www.flashscore.co/partido/futbol/boston-bolts-CAo767CJ/seacoast-united-phantoms-UeNaOqOi/?mid=ljL8ar4L",
-        "Partido": "seacoast utd phantoms vs boston bolts",
-        "Local": {
-            "Equipo": "seacoast utd phantoms",
-            "Logo": "https://static.flashscore.com/res/image/data/hffCb0FG-Qa6GeEBq.png",
-            "ELO": 1479.5,
-            "Ultimos 10": [
+        "fecha": "2026-06-25",
+        "hora": "18:00",
+        "local": "Seacoast Utd Phantoms",
+        "visitante": "Boston Bolts",
+        "cuota_local": 2.1,
+        "cuota_empate": 3.6,
+        "cuota_visitante": 2.7,
+        "link": "https://www.flashscore.co/partido/futbol/boston-bolts-CAo767CJ/seacoast-united-phantoms-UeNaOqOi/?mid=ljL8ar4L",
+        "logo_local": "https://static.flashscore.com/res/image/data/hffCb0FG-Qa6GeEBq.png",
+        "logo_visitante": "https://static.flashscore.com/res/image/data/EVJxwbCa-IJIedWhc.png",
+        "pais": "ESTADOS UNIDOS",
+        "liga": "USL LEAGUE TWO",
+        "h2h": {
+            "LOCAL10": [
                 {
                     "fecha": "16.06.26",
                     "local": "Vermont Green",
@@ -2221,13 +2947,8 @@
                     "goles_local": "4",
                     "goles_visitante": "0"
                 }
-            ]
-        },
-        "Visitante": {
-            "Equipo": "boston bolts",
-            "Logo": "https://static.flashscore.com/res/image/data/EVJxwbCa-IJIedWhc.png",
-            "ELO": 1489.0,
-            "Ultimos 10": [
+            ],
+            "VISITANTE10": [
                 {
                     "fecha": "19.06.26",
                     "local": "Western Mass Pioneers",
@@ -2298,73 +3019,307 @@
                     "goles_local": "3",
                     "goles_visitante": "1"
                 }
-            ]
-        },
-        "Cuotas": {
-            "Local": 2.1,
-            "Empate": 3.6,
-            "Visitante": 2.7
-        },
-        "IA": {
-            "Ganador IA": "Local",
-            "Probabilidad Local": 52.32,
-            "Probabilidad Empate": 13.8,
-            "Probabilidad Visitante": 33.88,
-            "Expected Goals Local": 4.36,
-            "Expected Goals Visitante": 3.68,
-            "Expected Goals Total": 8.04,
-            "BTTS": 96.33,
-            "Over 2.5": 98.7,
-            "Forma Local": "DWLWL",
-            "Forma Visitante": "DWLWL",
-            "ELO Local": 1479.5,
-            "ELO Visitante": 1489.0,
-            "Ventaja ELO": -9.5,
-            "Confianza IA": 36.88,
-            "Partido Riesgoso": false,
-            "Hay Value": true,
-            "Value Local": 9.97,
-            "Value Empate": -10.91,
-            "Value Visitante": 0.94,
-            "Top Marcadores": [
+            ],
+            "H2H": [
                 {
-                    "Marcador": "4-3",
-                    "Probabilidad": 4.03
+                    "fecha": "18.06.25",
+                    "local": "Seacoast Utd Phantoms",
+                    "visitante": "Boston Bolts",
+                    "goles_local": "1",
+                    "goles_visitante": "2"
                 },
                 {
-                    "Marcador": "4-4",
-                    "Probabilidad": 3.71
+                    "fecha": "28.05.25",
+                    "local": "Boston Bolts",
+                    "visitante": "Seacoast Utd Phantoms",
+                    "goles_local": "1",
+                    "goles_visitante": "2"
                 },
                 {
-                    "Marcador": "3-3",
-                    "Probabilidad": 3.7
+                    "fecha": "18.06.24",
+                    "local": "Seacoast Utd Phantoms",
+                    "visitante": "Boston Bolts",
+                    "goles_local": "1",
+                    "goles_visitante": "0"
                 },
                 {
-                    "Marcador": "5-3",
-                    "Probabilidad": 3.51
+                    "fecha": "29.05.24",
+                    "local": "Boston Bolts",
+                    "visitante": "Seacoast Utd Phantoms",
+                    "goles_local": "0",
+                    "goles_visitante": "1"
                 },
                 {
-                    "Marcador": "3-4",
-                    "Probabilidad": 3.4
+                    "fecha": "15.07.23",
+                    "local": "Boston Bolts",
+                    "visitante": "Seacoast Utd Phantoms",
+                    "goles_local": "0",
+                    "goles_visitante": "1"
+                },
+                {
+                    "fecha": "31.05.23",
+                    "local": "Seacoast Utd Phantoms",
+                    "visitante": "Boston Bolts",
+                    "goles_local": "2",
+                    "goles_visitante": "1"
+                },
+                {
+                    "fecha": "06.07.22",
+                    "local": "Boston Bolts",
+                    "visitante": "Seacoast Utd Phantoms",
+                    "goles_local": "2",
+                    "goles_visitante": "3"
+                },
+                {
+                    "fecha": "01.06.22",
+                    "local": "Seacoast Utd Phantoms",
+                    "visitante": "Boston Bolts",
+                    "goles_local": "3",
+                    "goles_visitante": "1"
+                },
+                {
+                    "fecha": "30.06.21",
+                    "local": "Seacoast Utd Phantoms",
+                    "visitante": "Boston Bolts",
+                    "goles_local": "5",
+                    "goles_visitante": "0"
+                },
+                {
+                    "fecha": "09.06.21",
+                    "local": "Boston Bolts",
+                    "visitante": "Seacoast Utd Phantoms",
+                    "goles_local": "2",
+                    "goles_visitante": "0"
                 }
             ]
         },
         "analisis": {
-            "error": "'local'"
+            "Fecha": "2026-06-25",
+            "Hora": "18:00",
+            "Pais": "ESTADOS UNIDOS",
+            "Liga": "USL LEAGUE TWO",
+            "Link": "https://www.flashscore.co/partido/futbol/boston-bolts-CAo767CJ/seacoast-united-phantoms-UeNaOqOi/?mid=ljL8ar4L",
+            "Partido": "seacoast utd phantoms vs boston bolts",
+            "Local": {
+                "Equipo": "seacoast utd phantoms",
+                "Logo": "https://static.flashscore.com/res/image/data/hffCb0FG-Qa6GeEBq.png",
+                "ELO": 1479.5,
+                "Ultimos 10": [
+                    {
+                        "fecha": "16.06.26",
+                        "local": "Vermont Green",
+                        "visitante": "Seacoast Utd Phantoms",
+                        "goles_local": "2",
+                        "goles_visitante": "2"
+                    },
+                    {
+                        "fecha": "13.06.26",
+                        "local": "AC Connecticut",
+                        "visitante": "Seacoast Utd Phantoms",
+                        "goles_local": "3",
+                        "goles_visitante": "4"
+                    },
+                    {
+                        "fecha": "10.06.26",
+                        "local": "NEFC",
+                        "visitante": "Seacoast Utd Phantoms",
+                        "goles_local": "2",
+                        "goles_visitante": "1"
+                    },
+                    {
+                        "fecha": "06.06.26",
+                        "local": "Connecticut Rush",
+                        "visitante": "Seacoast Utd Phantoms",
+                        "goles_local": "2",
+                        "goles_visitante": "3"
+                    },
+                    {
+                        "fecha": "30.05.26",
+                        "local": "Albany Rush",
+                        "visitante": "Seacoast Utd Phantoms",
+                        "goles_local": "2",
+                        "goles_visitante": "1"
+                    },
+                    {
+                        "fecha": "26.05.26",
+                        "local": "Seacoast Utd Phantoms",
+                        "visitante": "Connecticut Rush",
+                        "goles_local": "1",
+                        "goles_visitante": "3"
+                    },
+                    {
+                        "fecha": "20.05.26",
+                        "local": "Seacoast Utd Phantoms",
+                        "visitante": "Western Mass Pioneers",
+                        "goles_local": "0",
+                        "goles_visitante": "1"
+                    },
+                    {
+                        "fecha": "16.05.26",
+                        "local": "Seacoast Utd Phantoms",
+                        "visitante": "Vermont Green",
+                        "goles_local": "0",
+                        "goles_visitante": "2"
+                    },
+                    {
+                        "fecha": "13.05.26",
+                        "local": "Seacoast Utd Phantoms",
+                        "visitante": "NEFC",
+                        "goles_local": "2",
+                        "goles_visitante": "3"
+                    },
+                    {
+                        "fecha": "12.07.25",
+                        "local": "Seacoast Utd Phantoms",
+                        "visitante": "Albany Rush",
+                        "goles_local": "4",
+                        "goles_visitante": "0"
+                    }
+                ]
+            },
+            "Visitante": {
+                "Equipo": "boston bolts",
+                "Logo": "https://static.flashscore.com/res/image/data/EVJxwbCa-IJIedWhc.png",
+                "ELO": 1489.0,
+                "Ultimos 10": [
+                    {
+                        "fecha": "19.06.26",
+                        "local": "Western Mass Pioneers",
+                        "visitante": "Boston Bolts",
+                        "goles_local": "2",
+                        "goles_visitante": "2"
+                    },
+                    {
+                        "fecha": "16.06.26",
+                        "local": "Boston Bolts",
+                        "visitante": "Boston City",
+                        "goles_local": "4",
+                        "goles_visitante": "2"
+                    },
+                    {
+                        "fecha": "10.06.26",
+                        "local": "Connecticut Rush",
+                        "visitante": "Boston Bolts",
+                        "goles_local": "3",
+                        "goles_visitante": "1"
+                    },
+                    {
+                        "fecha": "06.06.26",
+                        "local": "Boston Bolts",
+                        "visitante": "AC Connecticut",
+                        "goles_local": "3",
+                        "goles_visitante": "2"
+                    },
+                    {
+                        "fecha": "02.06.26",
+                        "local": "Vermont Green",
+                        "visitante": "Boston Bolts",
+                        "goles_local": "5",
+                        "goles_visitante": "0"
+                    },
+                    {
+                        "fecha": "30.05.26",
+                        "local": "Boston Bolts",
+                        "visitante": "Black Rock",
+                        "goles_local": "1",
+                        "goles_visitante": "1"
+                    },
+                    {
+                        "fecha": "27.05.26",
+                        "local": "Boston Bolts",
+                        "visitante": "NEFC",
+                        "goles_local": "1",
+                        "goles_visitante": "2"
+                    },
+                    {
+                        "fecha": "23.05.26",
+                        "local": "Boston City",
+                        "visitante": "Boston Bolts",
+                        "goles_local": "0",
+                        "goles_visitante": "3"
+                    },
+                    {
+                        "fecha": "19.05.26",
+                        "local": "Boston Bolts",
+                        "visitante": "Vermont Green",
+                        "goles_local": "1",
+                        "goles_visitante": "4"
+                    },
+                    {
+                        "fecha": "12.07.25",
+                        "local": "Black Rock",
+                        "visitante": "Boston Bolts",
+                        "goles_local": "3",
+                        "goles_visitante": "1"
+                    }
+                ]
+            },
+            "Cuotas": {
+                "Local": 2.1,
+                "Empate": 3.6,
+                "Visitante": 2.7
+            },
+            "IA": {
+                "Ganador IA": "Local",
+                "Probabilidad Local": 52.58,
+                "Probabilidad Empate": 13.94,
+                "Probabilidad Visitante": 33.48,
+                "Expected Goals Local": 4.36,
+                "Expected Goals Visitante": 3.68,
+                "Expected Goals Total": 8.04,
+                "BTTS": 96.1,
+                "Over 2.5": 98.69,
+                "Forma Local": "DWLWL",
+                "Forma Visitante": "DWLWL",
+                "ELO Local": 1479.5,
+                "ELO Visitante": 1489.0,
+                "Ventaja ELO": -9.5,
+                "Confianza IA": 38.2,
+                "Partido Riesgoso": false,
+                "Hay Value": true,
+                "Value Local": 10.23,
+                "Value Empate": -10.77,
+                "Value Visitante": 0.54,
+                "Top Marcadores": [
+                    {
+                        "Marcador": "4-3",
+                        "Probabilidad": 4.03
+                    },
+                    {
+                        "Marcador": "4-4",
+                        "Probabilidad": 3.71
+                    },
+                    {
+                        "Marcador": "3-3",
+                        "Probabilidad": 3.7
+                    },
+                    {
+                        "Marcador": "5-3",
+                        "Probabilidad": 3.51
+                    },
+                    {
+                        "Marcador": "3-4",
+                        "Probabilidad": 3.4
+                    }
+                ]
+            }
         }
     },
     {
-        "Fecha": "2026-06-25",
-        "Hora": "13:45",
-        "Pais": "KUWAIT",
-        "Liga": "PREMIER LEAGUE - GRUPO DE CAMPEONATO - JORNADA 4",
-        "Link": "https://www.flashscore.co/partido/futbol/al-arabi-kuwait-YPvkSNzo/al-salmiya-GfRkNP95/?mid=6HSmkfiS",
-        "Partido": "al salmiya vs al arabi",
-        "Local": {
-            "Equipo": "al salmiya",
-            "Logo": "https://static.flashscore.com/res/image/data/06Lvf0cM-rkhxQsyG.png",
-            "ELO": 1527.5,
-            "Ultimos 10": [
+        "fecha": "2026-06-25",
+        "hora": "13:45",
+        "local": "Al Salmiya",
+        "visitante": "Al Arabi",
+        "cuota_local": 2.78,
+        "cuota_empate": 3.15,
+        "cuota_visitante": 2.42,
+        "link": "https://www.flashscore.co/partido/futbol/al-arabi-kuwait-YPvkSNzo/al-salmiya-GfRkNP95/?mid=6HSmkfiS",
+        "logo_local": "https://static.flashscore.com/res/image/data/06Lvf0cM-rkhxQsyG.png",
+        "logo_visitante": "https://static.flashscore.com/res/image/data/MqkdfAhl-lQgfGwS2.png",
+        "pais": "KUWAIT",
+        "liga": "PREMIER LEAGUE - GRUPO DE CAMPEONATO - JORNADA 4",
+        "h2h": {
+            "LOCAL10": [
                 {
                     "fecha": "22.06.26",
                     "local": "Al Salmiya",
@@ -2435,13 +3390,8 @@
                     "goles_local": "0",
                     "goles_visitante": "1"
                 }
-            ]
-        },
-        "Visitante": {
-            "Equipo": "al arabi",
-            "Logo": "https://static.flashscore.com/res/image/data/MqkdfAhl-lQgfGwS2.png",
-            "ELO": 1522.5,
-            "Ultimos 10": [
+            ],
+            "VISITANTE10": [
                 {
                     "fecha": "22.06.26",
                     "local": "Al Kuwait",
@@ -2512,73 +3462,307 @@
                     "goles_local": "2",
                     "goles_visitante": "0"
                 }
-            ]
-        },
-        "Cuotas": {
-            "Local": 3.05,
-            "Empate": 3.1,
-            "Visitante": 2.28
-        },
-        "IA": {
-            "Ganador IA": "Visitante",
-            "Probabilidad Local": 30.16,
-            "Probabilidad Empate": 24.26,
-            "Probabilidad Visitante": 45.58,
-            "Expected Goals Local": 1.31,
-            "Expected Goals Visitante": 1.67,
-            "Expected Goals Total": 2.98,
-            "BTTS": 59.26,
-            "Over 2.5": 56.9,
-            "Forma Local": "WDLDW",
-            "Forma Visitante": "LWWDW",
-            "ELO Local": 1527.5,
-            "ELO Visitante": 1522.5,
-            "Ventaja ELO": 5.0,
-            "Confianza IA": 30.84,
-            "Partido Riesgoso": false,
-            "Hay Value": true,
-            "Value Local": 0.05,
-            "Value Empate": -5.36,
-            "Value Visitante": 5.31,
-            "Top Marcadores": [
+            ],
+            "H2H": [
                 {
-                    "Marcador": "1-1",
-                    "Probabilidad": 11.11
+                    "fecha": "23.02.26",
+                    "local": "Al Salmiya",
+                    "visitante": "Al Arabi",
+                    "goles_local": "1",
+                    "goles_visitante": "0"
                 },
                 {
-                    "Marcador": "1-2",
-                    "Probabilidad": 9.28
+                    "fecha": "19.10.25",
+                    "local": "Al Arabi",
+                    "visitante": "Al Salmiya",
+                    "goles_local": "3",
+                    "goles_visitante": "1"
                 },
                 {
-                    "Marcador": "0-1",
-                    "Probabilidad": 8.48
+                    "fecha": "30.05.25",
+                    "local": "Al Arabi",
+                    "visitante": "Al Salmiya",
+                    "goles_local": "1",
+                    "goles_visitante": "0"
                 },
                 {
-                    "Marcador": "2-1",
-                    "Probabilidad": 7.28
+                    "fecha": "20.04.25",
+                    "local": "Al Salmiya",
+                    "visitante": "Al Arabi",
+                    "goles_local": "2",
+                    "goles_visitante": "3"
                 },
                 {
-                    "Marcador": "0-2",
-                    "Probabilidad": 7.08
+                    "fecha": "29.03.25",
+                    "local": "Al Arabi",
+                    "visitante": "Al Salmiya",
+                    "goles_local": "1",
+                    "goles_visitante": "1"
+                },
+                {
+                    "fecha": "23.12.24",
+                    "local": "Al Arabi",
+                    "visitante": "Al Salmiya",
+                    "goles_local": "3",
+                    "goles_visitante": "2"
+                },
+                {
+                    "fecha": "06.11.24",
+                    "local": "Al Salmiya",
+                    "visitante": "Al Arabi",
+                    "goles_local": "1",
+                    "goles_visitante": "3"
+                },
+                {
+                    "fecha": "11.05.24",
+                    "local": "Al Arabi",
+                    "visitante": "Al Salmiya",
+                    "goles_local": "1",
+                    "goles_visitante": "0"
+                },
+                {
+                    "fecha": "30.03.24",
+                    "local": "Al Salmiya",
+                    "visitante": "Al Arabi",
+                    "goles_local": "1",
+                    "goles_visitante": "1"
+                },
+                {
+                    "fecha": "21.12.23",
+                    "local": "Al Salmiya",
+                    "visitante": "Al Arabi",
+                    "goles_local": "0",
+                    "goles_visitante": "2"
                 }
             ]
         },
         "analisis": {
-            "error": "'local'"
+            "Fecha": "2026-06-25",
+            "Hora": "13:45",
+            "Pais": "KUWAIT",
+            "Liga": "PREMIER LEAGUE - GRUPO DE CAMPEONATO - JORNADA 4",
+            "Link": "https://www.flashscore.co/partido/futbol/al-arabi-kuwait-YPvkSNzo/al-salmiya-GfRkNP95/?mid=6HSmkfiS",
+            "Partido": "al salmiya vs al arabi",
+            "Local": {
+                "Equipo": "al salmiya",
+                "Logo": "https://static.flashscore.com/res/image/data/06Lvf0cM-rkhxQsyG.png",
+                "ELO": 1527.5,
+                "Ultimos 10": [
+                    {
+                        "fecha": "22.06.26",
+                        "local": "Al Salmiya",
+                        "visitante": "Al-Fahaheel",
+                        "goles_local": "2",
+                        "goles_visitante": "1"
+                    },
+                    {
+                        "fecha": "19.06.26",
+                        "local": "Al Salmiya",
+                        "visitante": "Al Kuwait",
+                        "goles_local": "3",
+                        "goles_visitante": "3"
+                    },
+                    {
+                        "fecha": "16.06.26",
+                        "local": "Al Qadisiya",
+                        "visitante": "Al Salmiya",
+                        "goles_local": "3",
+                        "goles_visitante": "2"
+                    },
+                    {
+                        "fecha": "12.06.26",
+                        "local": "Al Salmiya",
+                        "visitante": "Al Kuwait",
+                        "goles_local": "0",
+                        "goles_visitante": "0"
+                    },
+                    {
+                        "fecha": "28.05.26",
+                        "local": "Al-Fahaheel",
+                        "visitante": "Al Salmiya",
+                        "goles_local": "0",
+                        "goles_visitante": "2"
+                    },
+                    {
+                        "fecha": "23.05.26",
+                        "local": "Al Salmiya",
+                        "visitante": "Al Shabab",
+                        "goles_local": "3",
+                        "goles_visitante": "0"
+                    },
+                    {
+                        "fecha": "15.05.26",
+                        "local": "Al Qadisiya",
+                        "visitante": "Al Salmiya",
+                        "goles_local": "2",
+                        "goles_visitante": "1"
+                    },
+                    {
+                        "fecha": "23.02.26",
+                        "local": "Al Salmiya",
+                        "visitante": "Al Arabi",
+                        "goles_local": "1",
+                        "goles_visitante": "0"
+                    },
+                    {
+                        "fecha": "14.02.26",
+                        "local": "Al Salmiya",
+                        "visitante": "Al Sulaibikhat",
+                        "goles_local": "2",
+                        "goles_visitante": "1"
+                    },
+                    {
+                        "fecha": "07.02.26",
+                        "local": "Al Jahra",
+                        "visitante": "Al Salmiya",
+                        "goles_local": "0",
+                        "goles_visitante": "1"
+                    }
+                ]
+            },
+            "Visitante": {
+                "Equipo": "al arabi",
+                "Logo": "https://static.flashscore.com/res/image/data/MqkdfAhl-lQgfGwS2.png",
+                "ELO": 1522.5,
+                "Ultimos 10": [
+                    {
+                        "fecha": "22.06.26",
+                        "local": "Al Kuwait",
+                        "visitante": "Al Arabi",
+                        "goles_local": "3",
+                        "goles_visitante": "2"
+                    },
+                    {
+                        "fecha": "19.06.26",
+                        "local": "Al Arabi",
+                        "visitante": "Al Qadisiya",
+                        "goles_local": "2",
+                        "goles_visitante": "0"
+                    },
+                    {
+                        "fecha": "16.06.26",
+                        "local": "Kazma SC",
+                        "visitante": "Al Arabi",
+                        "goles_local": "0",
+                        "goles_visitante": "2"
+                    },
+                    {
+                        "fecha": "13.06.26",
+                        "local": "Al Arabi",
+                        "visitante": "Al Qadisiya",
+                        "goles_local": "0",
+                        "goles_visitante": "0"
+                    },
+                    {
+                        "fecha": "30.05.26",
+                        "local": "Al Arabi",
+                        "visitante": "Al Naser",
+                        "goles_local": "2",
+                        "goles_visitante": "1"
+                    },
+                    {
+                        "fecha": "25.05.26",
+                        "local": "Al Jahra",
+                        "visitante": "Al Arabi",
+                        "goles_local": "1",
+                        "goles_visitante": "1"
+                    },
+                    {
+                        "fecha": "21.05.26",
+                        "local": "Al Arabi",
+                        "visitante": "Al Tadamon",
+                        "goles_local": "1",
+                        "goles_visitante": "1"
+                    },
+                    {
+                        "fecha": "18.05.26",
+                        "local": "Al Arabi",
+                        "visitante": "Al Kuwait",
+                        "goles_local": "3",
+                        "goles_visitante": "0"
+                    },
+                    {
+                        "fecha": "23.02.26",
+                        "local": "Al Salmiya",
+                        "visitante": "Al Arabi",
+                        "goles_local": "1",
+                        "goles_visitante": "0"
+                    },
+                    {
+                        "fecha": "15.02.26",
+                        "local": "Al Arabi",
+                        "visitante": "Al Sahel",
+                        "goles_local": "2",
+                        "goles_visitante": "0"
+                    }
+                ]
+            },
+            "Cuotas": {
+                "Local": 2.78,
+                "Empate": 3.15,
+                "Visitante": 2.42
+            },
+            "IA": {
+                "Ganador IA": "Visitante",
+                "Probabilidad Local": 30.14,
+                "Probabilidad Empate": 23.75,
+                "Probabilidad Visitante": 46.11,
+                "Expected Goals Local": 1.31,
+                "Expected Goals Visitante": 1.67,
+                "Expected Goals Total": 2.98,
+                "BTTS": 59.06,
+                "Over 2.5": 57.12,
+                "Forma Local": "WDLDW",
+                "Forma Visitante": "LWWDW",
+                "ELO Local": 1527.5,
+                "ELO Visitante": 1522.5,
+                "Ventaja ELO": 5.0,
+                "Confianza IA": 31.94,
+                "Partido Riesgoso": false,
+                "Hay Value": true,
+                "Value Local": -2.85,
+                "Value Empate": -5.36,
+                "Value Visitante": 8.21,
+                "Top Marcadores": [
+                    {
+                        "Marcador": "1-1",
+                        "Probabilidad": 11.11
+                    },
+                    {
+                        "Marcador": "1-2",
+                        "Probabilidad": 9.28
+                    },
+                    {
+                        "Marcador": "0-1",
+                        "Probabilidad": 8.48
+                    },
+                    {
+                        "Marcador": "2-1",
+                        "Probabilidad": 7.28
+                    },
+                    {
+                        "Marcador": "0-2",
+                        "Probabilidad": 7.08
+                    }
+                ]
+            }
         }
     },
     {
-        "Fecha": "2026-06-25",
-        "Hora": "13:30",
-        "Pais": "LÍBANO",
-        "Liga": "PREMIER LEAGUE - JORNADA 20",
-        "Link": "https://www.flashscore.co/partido/futbol/al-hikma-Qyeqi55k/al-mabarrah-Gh0WeCPG/?mid=vHfFjQp9",
-        "Partido": "al hikma vs al-mabarrah",
-        "Local": {
-            "Equipo": "al hikma",
-            "Logo": "https://static.flashscore.com/res/image/data/rZak1gAr-nuxPmTXp.png",
-            "ELO": 1483.5,
-            "Ultimos 10": [
+        "fecha": "2026-06-25",
+        "hora": "13:30",
+        "local": "Al Hikma",
+        "visitante": "Al-Mabarrah",
+        "cuota_local": 1.62,
+        "cuota_empate": 3.45,
+        "cuota_visitante": 5.2,
+        "link": "https://www.flashscore.co/partido/futbol/al-hikma-Qyeqi55k/al-mabarrah-Gh0WeCPG/?mid=vHfFjQp9",
+        "logo_local": "https://static.flashscore.com/res/image/data/rZak1gAr-nuxPmTXp.png",
+        "logo_visitante": "https://static.flashscore.com/res/image/data/UTYyKVfM-tIH2sTwF.png",
+        "pais": "LÍBANO",
+        "liga": "PREMIER LEAGUE - JORNADA 20",
+        "h2h": {
+            "LOCAL10": [
                 {
                     "fecha": "20.06.26",
                     "local": "Al Hikma",
@@ -2649,13 +3833,8 @@
                     "goles_local": "0",
                     "goles_visitante": "2"
                 }
-            ]
-        },
-        "Visitante": {
-            "Equipo": "al-mabarrah",
-            "Logo": "https://static.flashscore.com/res/image/data/UTYyKVfM-tIH2sTwF.png",
-            "ELO": 1506.0,
-            "Ultimos 10": [
+            ],
+            "VISITANTE10": [
                 {
                     "fecha": "21.06.26",
                     "local": "Nejmeh SC",
@@ -2726,59 +3905,290 @@
                     "goles_local": "2",
                     "goles_visitante": "0"
                 }
-            ]
-        },
-        "Cuotas": {
-            "Local": 1.62,
-            "Empate": 3.45,
-            "Visitante": 5.2
-        },
-        "IA": {
-            "Ganador IA": "Local",
-            "Probabilidad Local": 51.24,
-            "Probabilidad Empate": 27.84,
-            "Probabilidad Visitante": 20.92,
-            "Expected Goals Local": 1.38,
-            "Expected Goals Visitante": 0.77,
-            "Expected Goals Total": 2.15,
-            "BTTS": 40.04,
-            "Over 2.5": 36.08,
-            "Forma Local": "DLWLL",
-            "Forma Visitante": "LDWLW",
-            "ELO Local": 1483.5,
-            "ELO Visitante": 1506.0,
-            "Ventaja ELO": -22.5,
-            "Confianza IA": 46.8,
-            "Partido Riesgoso": false,
-            "Hay Value": false,
-            "Value Local": -4.9,
-            "Value Empate": 1.48,
-            "Value Visitante": 3.43,
-            "Top Marcadores": [
+            ],
+            "H2H": [
                 {
-                    "Marcador": "1-0",
-                    "Probabilidad": 16.07
+                    "fecha": "17.01.26\nTras pen.",
+                    "local": "Al Hikma",
+                    "visitante": "Al-Mabarrah",
+                    "goles_local": "1\n(5)",
+                    "goles_visitante": "1\n(4)"
                 },
                 {
-                    "Marcador": "1-1",
-                    "Probabilidad": 12.38
+                    "fecha": "14.12.25",
+                    "local": "Al-Mabarrah",
+                    "visitante": "Al Hikma",
+                    "goles_local": "2",
+                    "goles_visitante": "1"
                 },
                 {
-                    "Marcador": "0-0",
-                    "Probabilidad": 11.65
+                    "fecha": "25.04.10",
+                    "local": "Al-Mabarrah",
+                    "visitante": "Al Hikma",
+                    "goles_local": "3",
+                    "goles_visitante": "1"
                 },
                 {
-                    "Marcador": "2-0",
-                    "Probabilidad": 11.09
+                    "fecha": "26.12.09",
+                    "local": "Al Hikma",
+                    "visitante": "Al-Mabarrah",
+                    "goles_local": "1",
+                    "goles_visitante": "3"
                 },
                 {
-                    "Marcador": "0-1",
-                    "Probabilidad": 8.97
+                    "fecha": "22.03.09",
+                    "local": "Al Hikma",
+                    "visitante": "Al-Mabarrah",
+                    "goles_local": "0",
+                    "goles_visitante": "0"
+                },
+                {
+                    "fecha": "06.12.08",
+                    "local": "Al-Mabarrah",
+                    "visitante": "Al Hikma",
+                    "goles_local": "2",
+                    "goles_visitante": "0"
+                },
+                {
+                    "fecha": "13.04.08",
+                    "local": "Al-Mabarrah",
+                    "visitante": "Al Hikma",
+                    "goles_local": "0",
+                    "goles_visitante": "0"
+                },
+                {
+                    "fecha": "06.01.08",
+                    "local": "Al Hikma",
+                    "visitante": "Al-Mabarrah",
+                    "goles_local": "0",
+                    "goles_visitante": "0"
+                },
+                {
+                    "fecha": "14.04.07",
+                    "local": "Al-Mabarrah",
+                    "visitante": "Al Hikma",
+                    "goles_local": "1",
+                    "goles_visitante": "0"
+                },
+                {
+                    "fecha": "23.02.07",
+                    "local": "Al-Mabarrah",
+                    "visitante": "Al Hikma",
+                    "goles_local": "1",
+                    "goles_visitante": "2"
                 }
             ]
         },
         "analisis": {
-            "error": "'local'"
+            "Fecha": "2026-06-25",
+            "Hora": "13:30",
+            "Pais": "LÍBANO",
+            "Liga": "PREMIER LEAGUE - JORNADA 20",
+            "Link": "https://www.flashscore.co/partido/futbol/al-hikma-Qyeqi55k/al-mabarrah-Gh0WeCPG/?mid=vHfFjQp9",
+            "Partido": "al hikma vs al-mabarrah",
+            "Local": {
+                "Equipo": "al hikma",
+                "Logo": "https://static.flashscore.com/res/image/data/rZak1gAr-nuxPmTXp.png",
+                "ELO": 1483.5,
+                "Ultimos 10": [
+                    {
+                        "fecha": "20.06.26",
+                        "local": "Al Hikma",
+                        "visitante": "Jwayya",
+                        "goles_local": "3",
+                        "goles_visitante": "3"
+                    },
+                    {
+                        "fecha": "16.06.26",
+                        "local": "Al Ahed",
+                        "visitante": "Al Hikma",
+                        "goles_local": "1",
+                        "goles_visitante": "0"
+                    },
+                    {
+                        "fecha": "12.06.26",
+                        "local": "Al Riyadi Abbasiyah",
+                        "visitante": "Al Hikma",
+                        "goles_local": "0",
+                        "goles_visitante": "1"
+                    },
+                    {
+                        "fecha": "18.05.26",
+                        "local": "Jwayya",
+                        "visitante": "Al Hikma",
+                        "goles_local": "1",
+                        "goles_visitante": "0"
+                    },
+                    {
+                        "fecha": "15.05.26",
+                        "local": "Nejmeh SC",
+                        "visitante": "Al Hikma",
+                        "goles_local": "2",
+                        "goles_visitante": "1"
+                    },
+                    {
+                        "fecha": "16.02.26",
+                        "local": "Al Hikma",
+                        "visitante": "Al Sahel",
+                        "goles_local": "2",
+                        "goles_visitante": "1"
+                    },
+                    {
+                        "fecha": "11.02.26\nTras pen.",
+                        "local": "Al Ahed",
+                        "visitante": "Al Hikma",
+                        "goles_local": "0\n(2)",
+                        "goles_visitante": "0\n(4)"
+                    },
+                    {
+                        "fecha": "06.02.26",
+                        "local": "Al Hikma",
+                        "visitante": "Safa",
+                        "goles_local": "1",
+                        "goles_visitante": "2"
+                    },
+                    {
+                        "fecha": "30.01.26",
+                        "local": "Al Ansar",
+                        "visitante": "Al Hikma",
+                        "goles_local": "2",
+                        "goles_visitante": "0"
+                    },
+                    {
+                        "fecha": "23.01.26",
+                        "local": "Racing",
+                        "visitante": "Al Hikma",
+                        "goles_local": "0",
+                        "goles_visitante": "2"
+                    }
+                ]
+            },
+            "Visitante": {
+                "Equipo": "al-mabarrah",
+                "Logo": "https://static.flashscore.com/res/image/data/UTYyKVfM-tIH2sTwF.png",
+                "ELO": 1506.0,
+                "Ultimos 10": [
+                    {
+                        "fecha": "21.06.26",
+                        "local": "Nejmeh SC",
+                        "visitante": "Al-Mabarrah",
+                        "goles_local": "5",
+                        "goles_visitante": "0"
+                    },
+                    {
+                        "fecha": "16.06.26",
+                        "local": "Tadamon",
+                        "visitante": "Al-Mabarrah",
+                        "goles_local": "1",
+                        "goles_visitante": "1"
+                    },
+                    {
+                        "fecha": "11.06.26",
+                        "local": "Racing",
+                        "visitante": "Al-Mabarrah",
+                        "goles_local": "0",
+                        "goles_visitante": "1"
+                    },
+                    {
+                        "fecha": "21.02.26",
+                        "local": "Al-Mabarrah",
+                        "visitante": "Jwayya",
+                        "goles_local": "0",
+                        "goles_visitante": "2"
+                    },
+                    {
+                        "fecha": "15.02.26",
+                        "local": "Al-Mabarrah",
+                        "visitante": "Al Ahed",
+                        "goles_local": "1",
+                        "goles_visitante": "0"
+                    },
+                    {
+                        "fecha": "07.02.26",
+                        "local": "Al Riyadi Abbasiyah",
+                        "visitante": "Al-Mabarrah",
+                        "goles_local": "0",
+                        "goles_visitante": "0"
+                    },
+                    {
+                        "fecha": "23.01.26",
+                        "local": "Al-Mabarrah",
+                        "visitante": "Al Sahel",
+                        "goles_local": "1",
+                        "goles_visitante": "0"
+                    },
+                    {
+                        "fecha": "17.01.26\nTras pen.",
+                        "local": "Al Hikma",
+                        "visitante": "Al-Mabarrah",
+                        "goles_local": "1\n(5)",
+                        "goles_visitante": "1\n(4)"
+                    },
+                    {
+                        "fecha": "25.12.25",
+                        "local": "Al-Mabarrah",
+                        "visitante": "Safa",
+                        "goles_local": "1",
+                        "goles_visitante": "0"
+                    },
+                    {
+                        "fecha": "21.12.25",
+                        "local": "Al Ansar",
+                        "visitante": "Al-Mabarrah",
+                        "goles_local": "2",
+                        "goles_visitante": "0"
+                    }
+                ]
+            },
+            "Cuotas": {
+                "Local": 1.62,
+                "Empate": 3.45,
+                "Visitante": 5.2
+            },
+            "IA": {
+                "Ganador IA": "Local",
+                "Probabilidad Local": 51.32,
+                "Probabilidad Empate": 27.97,
+                "Probabilidad Visitante": 20.71,
+                "Expected Goals Local": 1.38,
+                "Expected Goals Visitante": 0.77,
+                "Expected Goals Total": 2.15,
+                "BTTS": 40.38,
+                "Over 2.5": 36.4,
+                "Forma Local": "DLWLL",
+                "Forma Visitante": "LDWLW",
+                "ELO Local": 1483.5,
+                "ELO Visitante": 1506.0,
+                "Ventaja ELO": -22.5,
+                "Confianza IA": 46.7,
+                "Partido Riesgoso": false,
+                "Hay Value": false,
+                "Value Local": -4.82,
+                "Value Empate": 1.61,
+                "Value Visitante": 3.22,
+                "Top Marcadores": [
+                    {
+                        "Marcador": "1-0",
+                        "Probabilidad": 16.07
+                    },
+                    {
+                        "Marcador": "1-1",
+                        "Probabilidad": 12.38
+                    },
+                    {
+                        "Marcador": "0-0",
+                        "Probabilidad": 11.65
+                    },
+                    {
+                        "Marcador": "2-0",
+                        "Probabilidad": 11.09
+                    },
+                    {
+                        "Marcador": "0-1",
+                        "Probabilidad": 8.97
+                    }
+                ]
+            }
         }
     }
 ]
