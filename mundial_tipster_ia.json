@@ -199,914 +199,78 @@
             "xGLocal": 2.58,
             "xGVisitante": 0.89,
             "Favorito": "Local",
-            "ProbabilidadLocal": 73.73,
-            "ProbabilidadEmpate": 15.55,
-            "ProbabilidadVisitante": 10.72,
-            "1X": 89.28,
-            "X2": 26.27,
-            "12": 84.45,
-            "BTTS": 54.52,
-            "Over05": 96.83,
-            "Over15": 86.1,
-            "Over25": 67.42,
-            "Over35": 45.86,
-            "PorteriaCeroLocal": 40.95,
-            "PorteriaCeroVisitante": 7.69,
+            "ProbabilidadLocal": 73.55,
+            "ProbabilidadEmpate": 15.85,
+            "ProbabilidadVisitante": 10.59,
+            "1X": 89.4,
+            "X2": 26.44,
+            "12": 84.14,
+            "BTTS": 54.53,
+            "Over05": 96.81,
+            "Over15": 86.02,
+            "Over25": 67.32,
+            "Over35": 45.62,
+            "PorteriaCeroLocal": 41.06,
+            "PorteriaCeroVisitante": 7.61,
             "MarcadorProbable": "2-0",
             "Top10Marcadores": [
                 {
                     "Marcador": "2-0",
-                    "Probabilidad": 10.33
+                    "Probabilidad": 10.29
                 },
                 {
                     "Marcador": "2-1",
-                    "Probabilidad": 9.19
+                    "Probabilidad": 9.28
                 },
                 {
                     "Marcador": "3-0",
-                    "Probabilidad": 8.88
-                },
-                {
-                    "Marcador": "3-1",
-                    "Probabilidad": 8.02
+                    "Probabilidad": 8.92
                 },
                 {
                     "Marcador": "1-0",
-                    "Probabilidad": 7.92
+                    "Probabilidad": 8.03
+                },
+                {
+                    "Marcador": "3-1",
+                    "Probabilidad": 8.01
                 },
                 {
                     "Marcador": "1-1",
-                    "Probabilidad": 7.11
+                    "Probabilidad": 7.22
                 },
                 {
                     "Marcador": "4-0",
-                    "Probabilidad": 5.77
+                    "Probabilidad": 5.72
                 },
                 {
                     "Marcador": "4-1",
-                    "Probabilidad": 5.1
+                    "Probabilidad": 5.03
                 },
                 {
                     "Marcador": "2-2",
-                    "Probabilidad": 4.07
+                    "Probabilidad": 4.19
                 },
                 {
                     "Marcador": "3-2",
-                    "Probabilidad": 3.57
+                    "Probabilidad": 3.48
                 }
             ],
-            "Confianza": 58.18,
-            "Volatilidad": 2.28,
+            "Confianza": 57.7,
+            "Volatilidad": 2.3,
             "Riesgo": "RIESGO MEDIO",
-            "ValueScore": 7.37,
+            "ValueScore": 7.35,
             "MercadosRecomendados": [
                 {
                     "Mercado": "1X",
-                    "Probabilidad": 89.28
+                    "Probabilidad": 89.4
                 },
                 {
                     "Mercado": "Over 1.5",
-                    "Probabilidad": 86.1
+                    "Probabilidad": 86.02
                 },
                 {
                     "Mercado": "Over 2.5",
-                    "Probabilidad": 67.42
-                }
-            ]
-        }
-    },
-    {
-        "Partido": "Paraguay vs Francia",
-        "Hora": "04.07. 16:00",
-        "Link": "https://www.flashscore.co/partido/futbol/francia-QkGeVG1n/paraguay-YaNlqp6j/?mid=M5YPKKbB",
-        "EquipoLocal": "Paraguay",
-        "EquipoVisitante": "Francia",
-        "LogoLocal": "https://static.flashscore.com/res/image/data/xlHCGmwS-fXkePq9D.png",
-        "LogoVisitante": "https://static.flashscore.com/res/image/data/I5PqTkcM-U3HPIwDq.png",
-        "Ultimos10Local": [
-            {
-                "Fecha": "29.06.26\nTras pen.",
-                "Local": "Alemania",
-                "Visitante": "Paraguay",
-                "GolLocal": 0,
-                "GolVisitante": 0,
-                "Resultado": "G",
-                "EquipoAnalizado": "Paraguay"
-            },
-            {
-                "Fecha": "25.06.26",
-                "Local": "Paraguay",
-                "Visitante": "Australia",
-                "GolLocal": 0,
-                "GolVisitante": 0,
-                "Resultado": "E",
-                "EquipoAnalizado": "Paraguay"
-            },
-            {
-                "Fecha": "19.06.26",
-                "Local": "Turquía",
-                "Visitante": "Paraguay",
-                "GolLocal": 0,
-                "GolVisitante": 1,
-                "Resultado": "G",
-                "EquipoAnalizado": "Paraguay"
-            },
-            {
-                "Fecha": "12.06.26",
-                "Local": "EE. UU.",
-                "Visitante": "Paraguay",
-                "GolLocal": 4,
-                "GolVisitante": 1,
-                "Resultado": "P",
-                "EquipoAnalizado": "Paraguay"
-            },
-            {
-                "Fecha": "05.06.26",
-                "Local": "Paraguay",
-                "Visitante": "Nicaragua",
-                "GolLocal": 4,
-                "GolVisitante": 0,
-                "Resultado": "G",
-                "EquipoAnalizado": "Paraguay"
-            },
-            {
-                "Fecha": "31.03.26",
-                "Local": "Marruecos",
-                "Visitante": "Paraguay",
-                "GolLocal": 2,
-                "GolVisitante": 1,
-                "Resultado": "P",
-                "EquipoAnalizado": "Paraguay"
-            },
-            {
-                "Fecha": "27.03.26",
-                "Local": "Grecia",
-                "Visitante": "Paraguay",
-                "GolLocal": 0,
-                "GolVisitante": 1,
-                "Resultado": "G",
-                "EquipoAnalizado": "Paraguay"
-            },
-            {
-                "Fecha": "18.11.25",
-                "Local": "México",
-                "Visitante": "Paraguay",
-                "GolLocal": 1,
-                "GolVisitante": 2,
-                "Resultado": "G",
-                "EquipoAnalizado": "Paraguay"
-            },
-            {
-                "Fecha": "15.11.25",
-                "Local": "EE. UU.",
-                "Visitante": "Paraguay",
-                "GolLocal": 2,
-                "GolVisitante": 1,
-                "Resultado": "P",
-                "EquipoAnalizado": "Paraguay"
-            },
-            {
-                "Fecha": "14.10.25",
-                "Local": "Corea del Sur",
-                "Visitante": "Paraguay",
-                "GolLocal": 2,
-                "GolVisitante": 0,
-                "Resultado": "P",
-                "EquipoAnalizado": "Paraguay"
-            }
-        ],
-        "Ultimos10Visitante": [
-            {
-                "Fecha": "30.06.26",
-                "Local": "Francia",
-                "Visitante": "Suecia",
-                "GolLocal": 3,
-                "GolVisitante": 0,
-                "Resultado": "G",
-                "EquipoAnalizado": "Francia"
-            },
-            {
-                "Fecha": "26.06.26",
-                "Local": "Noruega",
-                "Visitante": "Francia",
-                "GolLocal": 1,
-                "GolVisitante": 4,
-                "Resultado": "G",
-                "EquipoAnalizado": "Francia"
-            },
-            {
-                "Fecha": "22.06.26",
-                "Local": "Francia",
-                "Visitante": "Irak",
-                "GolLocal": 3,
-                "GolVisitante": 0,
-                "Resultado": "G",
-                "EquipoAnalizado": "Francia"
-            },
-            {
-                "Fecha": "16.06.26",
-                "Local": "Francia",
-                "Visitante": "Senegal",
-                "GolLocal": 3,
-                "GolVisitante": 1,
-                "Resultado": "G",
-                "EquipoAnalizado": "Francia"
-            },
-            {
-                "Fecha": "08.06.26",
-                "Local": "Francia",
-                "Visitante": "Irlanda del Norte",
-                "GolLocal": 3,
-                "GolVisitante": 1,
-                "Resultado": "G",
-                "EquipoAnalizado": "Francia"
-            },
-            {
-                "Fecha": "04.06.26",
-                "Local": "Francia",
-                "Visitante": "Costa de Marfil",
-                "GolLocal": 1,
-                "GolVisitante": 2,
-                "Resultado": "P",
-                "EquipoAnalizado": "Francia"
-            },
-            {
-                "Fecha": "29.03.26",
-                "Local": "Colombia",
-                "Visitante": "Francia",
-                "GolLocal": 1,
-                "GolVisitante": 3,
-                "Resultado": "G",
-                "EquipoAnalizado": "Francia"
-            },
-            {
-                "Fecha": "26.03.26",
-                "Local": "Brasil",
-                "Visitante": "Francia",
-                "GolLocal": 1,
-                "GolVisitante": 2,
-                "Resultado": "G",
-                "EquipoAnalizado": "Francia"
-            },
-            {
-                "Fecha": "16.11.25",
-                "Local": "Azerbaiyán",
-                "Visitante": "Francia",
-                "GolLocal": 1,
-                "GolVisitante": 3,
-                "Resultado": "G",
-                "EquipoAnalizado": "Francia"
-            },
-            {
-                "Fecha": "13.11.25",
-                "Local": "Francia",
-                "Visitante": "Ucrania",
-                "GolLocal": 4,
-                "GolVisitante": 0,
-                "Resultado": "G",
-                "EquipoAnalizado": "Francia"
-            }
-        ],
-        "Pronostico": {
-            "EquipoLocal": "Paraguay",
-            "EquipoVisitante": "Francia",
-            "RatingLocal": 45.51,
-            "RatingVisitante": 87.27,
-            "xGLocal": 1.07,
-            "xGVisitante": 2.66,
-            "Favorito": "Visitante",
-            "ProbabilidadLocal": 12.85,
-            "ProbabilidadEmpate": 15.96,
-            "ProbabilidadVisitante": 71.2,
-            "1X": 28.81,
-            "X2": 87.16,
-            "12": 84.05,
-            "BTTS": 61.14,
-            "Over05": 97.62,
-            "Over15": 88.65,
-            "Over25": 71.89,
-            "Over35": 51.27,
-            "PorteriaCeroLocal": 6.93,
-            "PorteriaCeroVisitante": 34.31,
-            "MarcadorProbable": "1-2",
-            "Top10Marcadores": [
-                {
-                    "Marcador": "1-2",
-                    "Probabilidad": 9.0
-                },
-                {
-                    "Marcador": "0-2",
-                    "Probabilidad": 8.52
-                },
-                {
-                    "Marcador": "1-3",
-                    "Probabilidad": 8.09
-                },
-                {
-                    "Marcador": "0-3",
-                    "Probabilidad": 7.5
-                },
-                {
-                    "Marcador": "1-1",
-                    "Probabilidad": 6.91
-                },
-                {
-                    "Marcador": "0-1",
-                    "Probabilidad": 6.41
-                },
-                {
-                    "Marcador": "1-4",
-                    "Probabilidad": 5.42
-                },
-                {
-                    "Marcador": "0-4",
-                    "Probabilidad": 5.0
-                },
-                {
-                    "Marcador": "2-2",
-                    "Probabilidad": 4.8
-                },
-                {
-                    "Marcador": "2-3",
-                    "Probabilidad": 4.27
-                }
-            ],
-            "Confianza": 55.24,
-            "Volatilidad": 1.67,
-            "Riesgo": "RIESGO BAJO",
-            "ValueScore": 7.12,
-            "MercadosRecomendados": [
-                {
-                    "Mercado": "Over 1.5",
-                    "Probabilidad": 88.65
-                },
-                {
-                    "Mercado": "X2",
-                    "Probabilidad": 87.16
-                },
-                {
-                    "Mercado": "Over 2.5",
-                    "Probabilidad": 71.89
-                },
-                {
-                    "Mercado": "BTTS",
-                    "Probabilidad": 61.14
-                },
-                {
-                    "Mercado": "Over 3.5",
-                    "Probabilidad": 51.27
-                }
-            ]
-        }
-    },
-    {
-        "Partido": "México vs Inglaterra",
-        "Hora": "05.07. 19:00",
-        "Link": "https://www.flashscore.co/partido/futbol/inglaterra-j9N9ZNFA/mexico-O6iHcNkd/?mid=bc27lzfo",
-        "EquipoLocal": "México",
-        "EquipoVisitante": "Inglaterra",
-        "LogoLocal": "https://static.flashscore.com/res/image/data/Au0DMMCa-h2jzesb5.png",
-        "LogoVisitante": "https://static.flashscore.com/res/image/data/tCG9KQYA-Iyld3bDd.png",
-        "Ultimos10Local": [
-            {
-                "Fecha": "30.06.26",
-                "Local": "México",
-                "Visitante": "Ecuador",
-                "GolLocal": 2,
-                "GolVisitante": 0,
-                "Resultado": "G",
-                "EquipoAnalizado": "México"
-            },
-            {
-                "Fecha": "24.06.26",
-                "Local": "República Checa",
-                "Visitante": "México",
-                "GolLocal": 0,
-                "GolVisitante": 3,
-                "Resultado": "G",
-                "EquipoAnalizado": "México"
-            },
-            {
-                "Fecha": "18.06.26",
-                "Local": "México",
-                "Visitante": "Corea del Sur",
-                "GolLocal": 1,
-                "GolVisitante": 0,
-                "Resultado": "G",
-                "EquipoAnalizado": "México"
-            },
-            {
-                "Fecha": "11.06.26",
-                "Local": "México",
-                "Visitante": "Sudáfrica",
-                "GolLocal": 2,
-                "GolVisitante": 0,
-                "Resultado": "G",
-                "EquipoAnalizado": "México"
-            },
-            {
-                "Fecha": "04.06.26",
-                "Local": "México",
-                "Visitante": "Serbia",
-                "GolLocal": 5,
-                "GolVisitante": 1,
-                "Resultado": "G",
-                "EquipoAnalizado": "México"
-            },
-            {
-                "Fecha": "30.05.26",
-                "Local": "México",
-                "Visitante": "Australia",
-                "GolLocal": 1,
-                "GolVisitante": 0,
-                "Resultado": "G",
-                "EquipoAnalizado": "México"
-            },
-            {
-                "Fecha": "22.05.26",
-                "Local": "México",
-                "Visitante": "Ghana",
-                "GolLocal": 2,
-                "GolVisitante": 0,
-                "Resultado": "G",
-                "EquipoAnalizado": "México"
-            },
-            {
-                "Fecha": "31.03.26",
-                "Local": "México",
-                "Visitante": "Bélgica",
-                "GolLocal": 1,
-                "GolVisitante": 1,
-                "Resultado": "E",
-                "EquipoAnalizado": "México"
-            },
-            {
-                "Fecha": "28.03.26",
-                "Local": "México",
-                "Visitante": "Portugal",
-                "GolLocal": 0,
-                "GolVisitante": 0,
-                "Resultado": "E",
-                "EquipoAnalizado": "México"
-            },
-            {
-                "Fecha": "25.02.26",
-                "Local": "México",
-                "Visitante": "Islandia",
-                "GolLocal": 4,
-                "GolVisitante": 0,
-                "Resultado": "G",
-                "EquipoAnalizado": "México"
-            }
-        ],
-        "Ultimos10Visitante": [
-            {
-                "Fecha": "01.07.26",
-                "Local": "Inglaterra",
-                "Visitante": "RD Congo",
-                "GolLocal": 2,
-                "GolVisitante": 1,
-                "Resultado": "G",
-                "EquipoAnalizado": "Inglaterra"
-            },
-            {
-                "Fecha": "27.06.26",
-                "Local": "Panamá",
-                "Visitante": "Inglaterra",
-                "GolLocal": 0,
-                "GolVisitante": 2,
-                "Resultado": "G",
-                "EquipoAnalizado": "Inglaterra"
-            },
-            {
-                "Fecha": "23.06.26",
-                "Local": "Inglaterra",
-                "Visitante": "Ghana",
-                "GolLocal": 0,
-                "GolVisitante": 0,
-                "Resultado": "E",
-                "EquipoAnalizado": "Inglaterra"
-            },
-            {
-                "Fecha": "17.06.26",
-                "Local": "Inglaterra",
-                "Visitante": "Croacia",
-                "GolLocal": 4,
-                "GolVisitante": 2,
-                "Resultado": "G",
-                "EquipoAnalizado": "Inglaterra"
-            },
-            {
-                "Fecha": "10.06.26",
-                "Local": "Inglaterra",
-                "Visitante": "Costa Rica",
-                "GolLocal": 3,
-                "GolVisitante": 0,
-                "Resultado": "G",
-                "EquipoAnalizado": "Inglaterra"
-            },
-            {
-                "Fecha": "06.06.26",
-                "Local": "Inglaterra",
-                "Visitante": "Nueva Zelanda",
-                "GolLocal": 1,
-                "GolVisitante": 0,
-                "Resultado": "G",
-                "EquipoAnalizado": "Inglaterra"
-            },
-            {
-                "Fecha": "31.03.26",
-                "Local": "Inglaterra",
-                "Visitante": "Japón",
-                "GolLocal": 0,
-                "GolVisitante": 1,
-                "Resultado": "P",
-                "EquipoAnalizado": "Inglaterra"
-            },
-            {
-                "Fecha": "27.03.26",
-                "Local": "Inglaterra",
-                "Visitante": "Uruguay",
-                "GolLocal": 1,
-                "GolVisitante": 1,
-                "Resultado": "E",
-                "EquipoAnalizado": "Inglaterra"
-            },
-            {
-                "Fecha": "16.11.25",
-                "Local": "Albania",
-                "Visitante": "Inglaterra",
-                "GolLocal": 0,
-                "GolVisitante": 2,
-                "Resultado": "G",
-                "EquipoAnalizado": "Inglaterra"
-            },
-            {
-                "Fecha": "13.11.25",
-                "Local": "Inglaterra",
-                "Visitante": "Serbia",
-                "GolLocal": 2,
-                "GolVisitante": 0,
-                "Resultado": "G",
-                "EquipoAnalizado": "Inglaterra"
-            }
-        ],
-        "Pronostico": {
-            "EquipoLocal": "México",
-            "EquipoVisitante": "Inglaterra",
-            "RatingLocal": 87.02,
-            "RatingVisitante": 76.76,
-            "xGLocal": 1.87,
-            "xGVisitante": 1.26,
-            "Favorito": "Local",
-            "ProbabilidadLocal": 51.68,
-            "ProbabilidadEmpate": 22.6,
-            "ProbabilidadVisitante": 25.72,
-            "1X": 74.28,
-            "X2": 48.32,
-            "12": 77.4,
-            "BTTS": 60.56,
-            "Over05": 95.61,
-            "Over15": 81.95,
-            "Over25": 60.56,
-            "Over35": 38.32,
-            "PorteriaCeroLocal": 28.41,
-            "PorteriaCeroVisitante": 15.43,
-            "MarcadorProbable": "1-1",
-            "Top10Marcadores": [
-                {
-                    "Marcador": "1-1",
-                    "Probabilidad": 10.26
-                },
-                {
-                    "Marcador": "2-1",
-                    "Probabilidad": 9.63
-                },
-                {
-                    "Marcador": "1-0",
-                    "Probabilidad": 8.19
-                },
-                {
-                    "Marcador": "2-0",
-                    "Probabilidad": 7.66
-                },
-                {
-                    "Marcador": "1-2",
-                    "Probabilidad": 6.39
-                },
-                {
-                    "Marcador": "2-2",
-                    "Probabilidad": 6.1
-                },
-                {
-                    "Marcador": "3-1",
-                    "Probabilidad": 5.95
-                },
-                {
-                    "Marcador": "0-1",
-                    "Probabilidad": 5.46
-                },
-                {
-                    "Marcador": "3-0",
-                    "Probabilidad": 4.74
-                },
-                {
-                    "Marcador": "0-0",
-                    "Probabilidad": 4.39
-                }
-            ],
-            "Confianza": 25.96,
-            "Volatilidad": 2.0,
-            "Riesgo": "RIESGO MEDIO",
-            "ValueScore": 5.17,
-            "MercadosRecomendados": [
-                {
-                    "Mercado": "Over 1.5",
-                    "Probabilidad": 81.95
-                },
-                {
-                    "Mercado": "BTTS",
-                    "Probabilidad": 60.56
-                }
-            ]
-        }
-    },
-    {
-        "Partido": "Brasil vs Noruega",
-        "Hora": "05.07. 15:00",
-        "Link": "https://www.flashscore.co/partido/futbol/brasil-I9l9aqLq/noruega-8rP6JO0H/?mid=tpOhKWcC",
-        "EquipoLocal": "Brasil",
-        "EquipoVisitante": "Noruega",
-        "LogoLocal": "https://static.flashscore.com/res/image/data/hCaVxehl-88LAtdNt.png",
-        "LogoVisitante": "https://static.flashscore.com/res/image/data/MZeV1VdM-8doAmYTm.png",
-        "Ultimos10Local": [
-            {
-                "Fecha": "29.06.26",
-                "Local": "Brasil",
-                "Visitante": "Japón",
-                "GolLocal": 2,
-                "GolVisitante": 1,
-                "Resultado": "G",
-                "EquipoAnalizado": "Brasil"
-            },
-            {
-                "Fecha": "24.06.26",
-                "Local": "Escocia",
-                "Visitante": "Brasil",
-                "GolLocal": 0,
-                "GolVisitante": 3,
-                "Resultado": "G",
-                "EquipoAnalizado": "Brasil"
-            },
-            {
-                "Fecha": "19.06.26",
-                "Local": "Brasil",
-                "Visitante": "Haití",
-                "GolLocal": 3,
-                "GolVisitante": 0,
-                "Resultado": "G",
-                "EquipoAnalizado": "Brasil"
-            },
-            {
-                "Fecha": "13.06.26",
-                "Local": "Brasil",
-                "Visitante": "Marruecos",
-                "GolLocal": 1,
-                "GolVisitante": 1,
-                "Resultado": "E",
-                "EquipoAnalizado": "Brasil"
-            },
-            {
-                "Fecha": "06.06.26",
-                "Local": "Brasil",
-                "Visitante": "Egipto",
-                "GolLocal": 2,
-                "GolVisitante": 1,
-                "Resultado": "G",
-                "EquipoAnalizado": "Brasil"
-            },
-            {
-                "Fecha": "31.05.26",
-                "Local": "Brasil",
-                "Visitante": "Panamá",
-                "GolLocal": 6,
-                "GolVisitante": 2,
-                "Resultado": "G",
-                "EquipoAnalizado": "Brasil"
-            },
-            {
-                "Fecha": "31.03.26",
-                "Local": "Brasil",
-                "Visitante": "Croacia",
-                "GolLocal": 3,
-                "GolVisitante": 1,
-                "Resultado": "G",
-                "EquipoAnalizado": "Brasil"
-            },
-            {
-                "Fecha": "26.03.26",
-                "Local": "Brasil",
-                "Visitante": "Francia",
-                "GolLocal": 1,
-                "GolVisitante": 2,
-                "Resultado": "P",
-                "EquipoAnalizado": "Brasil"
-            },
-            {
-                "Fecha": "18.11.25",
-                "Local": "Brasil",
-                "Visitante": "Túnez",
-                "GolLocal": 1,
-                "GolVisitante": 1,
-                "Resultado": "E",
-                "EquipoAnalizado": "Brasil"
-            },
-            {
-                "Fecha": "15.11.25",
-                "Local": "Brasil",
-                "Visitante": "Senegal",
-                "GolLocal": 2,
-                "GolVisitante": 0,
-                "Resultado": "G",
-                "EquipoAnalizado": "Brasil"
-            }
-        ],
-        "Ultimos10Visitante": [
-            {
-                "Fecha": "30.06.26",
-                "Local": "Costa de Marfil",
-                "Visitante": "Noruega",
-                "GolLocal": 1,
-                "GolVisitante": 2,
-                "Resultado": "G",
-                "EquipoAnalizado": "Noruega"
-            },
-            {
-                "Fecha": "26.06.26",
-                "Local": "Noruega",
-                "Visitante": "Francia",
-                "GolLocal": 1,
-                "GolVisitante": 4,
-                "Resultado": "P",
-                "EquipoAnalizado": "Noruega"
-            },
-            {
-                "Fecha": "22.06.26",
-                "Local": "Noruega",
-                "Visitante": "Senegal",
-                "GolLocal": 3,
-                "GolVisitante": 2,
-                "Resultado": "G",
-                "EquipoAnalizado": "Noruega"
-            },
-            {
-                "Fecha": "16.06.26",
-                "Local": "Irak",
-                "Visitante": "Noruega",
-                "GolLocal": 1,
-                "GolVisitante": 4,
-                "Resultado": "G",
-                "EquipoAnalizado": "Noruega"
-            },
-            {
-                "Fecha": "07.06.26",
-                "Local": "Marruecos",
-                "Visitante": "Noruega",
-                "GolLocal": 1,
-                "GolVisitante": 1,
-                "Resultado": "E",
-                "EquipoAnalizado": "Noruega"
-            },
-            {
-                "Fecha": "01.06.26",
-                "Local": "Noruega",
-                "Visitante": "Suecia",
-                "GolLocal": 3,
-                "GolVisitante": 1,
-                "Resultado": "G",
-                "EquipoAnalizado": "Noruega"
-            },
-            {
-                "Fecha": "31.03.26",
-                "Local": "Noruega",
-                "Visitante": "Suiza",
-                "GolLocal": 0,
-                "GolVisitante": 0,
-                "Resultado": "E",
-                "EquipoAnalizado": "Noruega"
-            },
-            {
-                "Fecha": "27.03.26",
-                "Local": "Países Bajos",
-                "Visitante": "Noruega",
-                "GolLocal": 2,
-                "GolVisitante": 1,
-                "Resultado": "P",
-                "EquipoAnalizado": "Noruega"
-            },
-            {
-                "Fecha": "16.11.25",
-                "Local": "Italia",
-                "Visitante": "Noruega",
-                "GolLocal": 1,
-                "GolVisitante": 4,
-                "Resultado": "G",
-                "EquipoAnalizado": "Noruega"
-            },
-            {
-                "Fecha": "13.11.25",
-                "Local": "Noruega",
-                "Visitante": "Estonia",
-                "GolLocal": 4,
-                "GolVisitante": 1,
-                "Resultado": "G",
-                "EquipoAnalizado": "Noruega"
-            }
-        ],
-        "Pronostico": {
-            "EquipoLocal": "Brasil",
-            "EquipoVisitante": "Noruega",
-            "RatingLocal": 80.84,
-            "RatingVisitante": 69.01,
-            "xGLocal": 2.37,
-            "xGVisitante": 1.7,
-            "Favorito": "Local",
-            "ProbabilidadLocal": 52.74,
-            "ProbabilidadEmpate": 19.59,
-            "ProbabilidadVisitante": 27.67,
-            "1X": 72.33,
-            "X2": 47.26,
-            "12": 80.41,
-            "BTTS": 74.01,
-            "Over05": 98.27,
-            "Over15": 91.24,
-            "Over25": 77.17,
-            "Over35": 58.02,
-            "PorteriaCeroLocal": 18.3,
-            "PorteriaCeroVisitante": 9.43,
-            "MarcadorProbable": "2-1",
-            "Top10Marcadores": [
-                {
-                    "Marcador": "2-1",
-                    "Probabilidad": 8.16
-                },
-                {
-                    "Marcador": "2-2",
-                    "Probabilidad": 6.99
-                },
-                {
-                    "Marcador": "1-1",
-                    "Probabilidad": 6.85
-                },
-                {
-                    "Marcador": "3-1",
-                    "Probabilidad": 6.4
-                },
-                {
-                    "Marcador": "1-2",
-                    "Probabilidad": 5.83
-                },
-                {
-                    "Marcador": "3-2",
-                    "Probabilidad": 5.44
-                },
-                {
-                    "Marcador": "2-0",
-                    "Probabilidad": 4.75
-                },
-                {
-                    "Marcador": "1-0",
-                    "Probabilidad": 4.08
-                },
-                {
-                    "Marcador": "2-3",
-                    "Probabilidad": 3.94
-                },
-                {
-                    "Marcador": "3-0",
-                    "Probabilidad": 3.77
-                }
-            ],
-            "Confianza": 25.07,
-            "Volatilidad": 1.49,
-            "Riesgo": "RIESGO MEDIO",
-            "ValueScore": 5.27,
-            "MercadosRecomendados": [
-                {
-                    "Mercado": "Over 1.5",
-                    "Probabilidad": 91.24
-                },
-                {
-                    "Mercado": "Over 2.5",
-                    "Probabilidad": 77.17
-                },
-                {
-                    "Mercado": "BTTS",
-                    "Probabilidad": 74.01
-                },
-                {
-                    "Mercado": "Over 3.5",
-                    "Probabilidad": 58.02
+                    "Probabilidad": 67.32
                 }
             ]
         }
@@ -1311,36 +475,36 @@
             "xGLocal": 1.85,
             "xGVisitante": 2.45,
             "Favorito": "Visitante",
-            "ProbabilidadLocal": 29.36,
-            "ProbabilidadEmpate": 19.27,
-            "ProbabilidadVisitante": 51.38,
-            "1X": 48.63,
-            "X2": 70.65,
-            "12": 80.74,
-            "BTTS": 77.0,
-            "Over05": 98.62,
-            "Over15": 92.81,
-            "Over25": 80.26,
-            "Over35": 62.34,
-            "PorteriaCeroLocal": 8.69,
-            "PorteriaCeroVisitante": 15.69,
+            "ProbabilidadLocal": 29.39,
+            "ProbabilidadEmpate": 19.29,
+            "ProbabilidadVisitante": 51.32,
+            "1X": 48.68,
+            "X2": 70.61,
+            "12": 80.71,
+            "BTTS": 77.13,
+            "Over05": 98.69,
+            "Over15": 92.92,
+            "Over25": 80.3,
+            "Over35": 62.35,
+            "PorteriaCeroLocal": 8.58,
+            "PorteriaCeroVisitante": 15.6,
             "MarcadorProbable": "1-2",
             "Top10Marcadores": [
                 {
                     "Marcador": "1-2",
-                    "Probabilidad": 7.47
+                    "Probabilidad": 7.56
                 },
                 {
                     "Marcador": "2-2",
-                    "Probabilidad": 6.98
-                },
-                {
-                    "Marcador": "1-3",
-                    "Probabilidad": 6.17
+                    "Probabilidad": 7.04
                 },
                 {
                     "Marcador": "1-1",
-                    "Probabilidad": 6.15
+                    "Probabilidad": 6.16
+                },
+                {
+                    "Marcador": "1-3",
+                    "Probabilidad": 6.16
                 },
                 {
                     "Marcador": "2-3",
@@ -1348,45 +512,325 @@
                 },
                 {
                     "Marcador": "2-1",
-                    "Probabilidad": 5.7
+                    "Probabilidad": 5.68
                 },
                 {
                     "Marcador": "3-2",
-                    "Probabilidad": 4.32
+                    "Probabilidad": 4.27
                 },
                 {
                     "Marcador": "0-2",
-                    "Probabilidad": 4.05
+                    "Probabilidad": 4.13
                 },
                 {
                     "Marcador": "1-4",
-                    "Probabilidad": 3.75
+                    "Probabilidad": 3.77
                 },
                 {
                     "Marcador": "3-1",
-                    "Probabilidad": 3.53
+                    "Probabilidad": 3.56
                 }
             ],
-            "Confianza": 22.02,
-            "Volatilidad": 1.39,
+            "Confianza": 21.93,
+            "Volatilidad": 1.4,
             "Riesgo": "RIESGO MEDIO",
-            "ValueScore": 5.14,
+            "ValueScore": 5.13,
             "MercadosRecomendados": [
                 {
                     "Mercado": "Over 1.5",
-                    "Probabilidad": 92.81
+                    "Probabilidad": 92.92
                 },
                 {
                     "Mercado": "Over 2.5",
-                    "Probabilidad": 80.26
+                    "Probabilidad": 80.3
                 },
                 {
                     "Mercado": "BTTS",
-                    "Probabilidad": 77.0
+                    "Probabilidad": 77.13
                 },
                 {
                     "Mercado": "Over 3.5",
-                    "Probabilidad": 62.34
+                    "Probabilidad": 62.35
+                }
+            ]
+        }
+    },
+    {
+        "Partido": "Francia vs Marruecos",
+        "Hora": "09.07. 15:00",
+        "Link": "https://www.flashscore.co/partido/futbol/francia-QkGeVG1n/marruecos-IDKYO3R8/?mid=jJ5yWPhU",
+        "EquipoLocal": "Francia",
+        "EquipoVisitante": "Marruecos",
+        "LogoLocal": "https://static.flashscore.com/res/image/data/I5PqTkcM-U3HPIwDq.png",
+        "LogoVisitante": "https://static.flashscore.com/res/image/data/byRvSVil-hOurGDLS.png",
+        "Ultimos10Local": [
+            {
+                "Fecha": "04.07.26",
+                "Local": "Paraguay",
+                "Visitante": "Francia",
+                "GolLocal": 0,
+                "GolVisitante": 1,
+                "Resultado": "G",
+                "EquipoAnalizado": "Francia"
+            },
+            {
+                "Fecha": "30.06.26",
+                "Local": "Francia",
+                "Visitante": "Suecia",
+                "GolLocal": 3,
+                "GolVisitante": 0,
+                "Resultado": "G",
+                "EquipoAnalizado": "Francia"
+            },
+            {
+                "Fecha": "26.06.26",
+                "Local": "Noruega",
+                "Visitante": "Francia",
+                "GolLocal": 1,
+                "GolVisitante": 4,
+                "Resultado": "G",
+                "EquipoAnalizado": "Francia"
+            },
+            {
+                "Fecha": "22.06.26",
+                "Local": "Francia",
+                "Visitante": "Irak",
+                "GolLocal": 3,
+                "GolVisitante": 0,
+                "Resultado": "G",
+                "EquipoAnalizado": "Francia"
+            },
+            {
+                "Fecha": "16.06.26",
+                "Local": "Francia",
+                "Visitante": "Senegal",
+                "GolLocal": 3,
+                "GolVisitante": 1,
+                "Resultado": "G",
+                "EquipoAnalizado": "Francia"
+            },
+            {
+                "Fecha": "08.06.26",
+                "Local": "Francia",
+                "Visitante": "Irlanda del Norte",
+                "GolLocal": 3,
+                "GolVisitante": 1,
+                "Resultado": "G",
+                "EquipoAnalizado": "Francia"
+            },
+            {
+                "Fecha": "04.06.26",
+                "Local": "Francia",
+                "Visitante": "Costa de Marfil",
+                "GolLocal": 1,
+                "GolVisitante": 2,
+                "Resultado": "P",
+                "EquipoAnalizado": "Francia"
+            },
+            {
+                "Fecha": "29.03.26",
+                "Local": "Colombia",
+                "Visitante": "Francia",
+                "GolLocal": 1,
+                "GolVisitante": 3,
+                "Resultado": "G",
+                "EquipoAnalizado": "Francia"
+            },
+            {
+                "Fecha": "26.03.26",
+                "Local": "Brasil",
+                "Visitante": "Francia",
+                "GolLocal": 1,
+                "GolVisitante": 2,
+                "Resultado": "G",
+                "EquipoAnalizado": "Francia"
+            },
+            {
+                "Fecha": "16.11.25",
+                "Local": "Azerbaiyán",
+                "Visitante": "Francia",
+                "GolLocal": 1,
+                "GolVisitante": 3,
+                "Resultado": "G",
+                "EquipoAnalizado": "Francia"
+            }
+        ],
+        "Ultimos10Visitante": [
+            {
+                "Fecha": "04.07.26",
+                "Local": "Canadá",
+                "Visitante": "Marruecos",
+                "GolLocal": 0,
+                "GolVisitante": 3,
+                "Resultado": "G",
+                "EquipoAnalizado": "Marruecos"
+            },
+            {
+                "Fecha": "29.06.26\nTras pen.",
+                "Local": "Países Bajos",
+                "Visitante": "Marruecos",
+                "GolLocal": 0,
+                "GolVisitante": 0,
+                "Resultado": "G",
+                "EquipoAnalizado": "Marruecos"
+            },
+            {
+                "Fecha": "24.06.26",
+                "Local": "Marruecos",
+                "Visitante": "Haití",
+                "GolLocal": 4,
+                "GolVisitante": 2,
+                "Resultado": "G",
+                "EquipoAnalizado": "Marruecos"
+            },
+            {
+                "Fecha": "19.06.26",
+                "Local": "Escocia",
+                "Visitante": "Marruecos",
+                "GolLocal": 0,
+                "GolVisitante": 1,
+                "Resultado": "G",
+                "EquipoAnalizado": "Marruecos"
+            },
+            {
+                "Fecha": "13.06.26",
+                "Local": "Brasil",
+                "Visitante": "Marruecos",
+                "GolLocal": 1,
+                "GolVisitante": 1,
+                "Resultado": "E",
+                "EquipoAnalizado": "Marruecos"
+            },
+            {
+                "Fecha": "07.06.26",
+                "Local": "Marruecos",
+                "Visitante": "Noruega",
+                "GolLocal": 1,
+                "GolVisitante": 1,
+                "Resultado": "E",
+                "EquipoAnalizado": "Marruecos"
+            },
+            {
+                "Fecha": "02.06.26",
+                "Local": "Marruecos",
+                "Visitante": "Madagascar",
+                "GolLocal": 4,
+                "GolVisitante": 0,
+                "Resultado": "G",
+                "EquipoAnalizado": "Marruecos"
+            },
+            {
+                "Fecha": "26.05.26",
+                "Local": "Marruecos",
+                "Visitante": "Burundi",
+                "GolLocal": 5,
+                "GolVisitante": 0,
+                "Resultado": "G",
+                "EquipoAnalizado": "Marruecos"
+            },
+            {
+                "Fecha": "31.03.26",
+                "Local": "Marruecos",
+                "Visitante": "Paraguay",
+                "GolLocal": 2,
+                "GolVisitante": 1,
+                "Resultado": "G",
+                "EquipoAnalizado": "Marruecos"
+            },
+            {
+                "Fecha": "27.03.26",
+                "Local": "Marruecos",
+                "Visitante": "Ecuador",
+                "GolLocal": 1,
+                "GolVisitante": 1,
+                "Resultado": "E",
+                "EquipoAnalizado": "Marruecos"
+            }
+        ],
+        "Pronostico": {
+            "EquipoLocal": "Francia",
+            "EquipoVisitante": "Marruecos",
+            "RatingLocal": 85.89,
+            "RatingVisitante": 80.31,
+            "xGLocal": 2.15,
+            "xGVisitante": 1.77,
+            "Favorito": "Local",
+            "ProbabilidadLocal": 47.02,
+            "ProbabilidadEmpate": 20.53,
+            "ProbabilidadVisitante": 32.46,
+            "1X": 67.55,
+            "X2": 52.99,
+            "12": 79.48,
+            "BTTS": 73.24,
+            "Over05": 98.03,
+            "Over15": 90.23,
+            "Over25": 75.01,
+            "Over35": 55.12,
+            "PorteriaCeroLocal": 17.01,
+            "PorteriaCeroVisitante": 11.72,
+            "MarcadorProbable": "2-1",
+            "Top10Marcadores": [
+                {
+                    "Marcador": "2-1",
+                    "Probabilidad": 8.11
+                },
+                {
+                    "Marcador": "1-1",
+                    "Probabilidad": 7.49
+                },
+                {
+                    "Marcador": "2-2",
+                    "Probabilidad": 7.2
+                },
+                {
+                    "Marcador": "1-2",
+                    "Probabilidad": 6.64
+                },
+                {
+                    "Marcador": "3-1",
+                    "Probabilidad": 5.8
+                },
+                {
+                    "Marcador": "3-2",
+                    "Probabilidad": 5.14
+                },
+                {
+                    "Marcador": "2-0",
+                    "Probabilidad": 4.56
+                },
+                {
+                    "Marcador": "1-0",
+                    "Probabilidad": 4.31
+                },
+                {
+                    "Marcador": "2-3",
+                    "Probabilidad": 4.17
+                },
+                {
+                    "Marcador": "1-3",
+                    "Probabilidad": 4.02
+                }
+            ],
+            "Confianza": 14.56,
+            "Volatilidad": 1.52,
+            "Riesgo": "RIESGO ALTO",
+            "ValueScore": 4.7,
+            "MercadosRecomendados": [
+                {
+                    "Mercado": "Over 1.5",
+                    "Probabilidad": 90.23
+                },
+                {
+                    "Mercado": "Over 2.5",
+                    "Probabilidad": 75.01
+                },
+                {
+                    "Mercado": "BTTS",
+                    "Probabilidad": 73.24
+                },
+                {
+                    "Mercado": "Over 3.5",
+                    "Probabilidad": 55.12
                 }
             ]
         }
@@ -1591,78 +1035,78 @@
             "xGLocal": 1.87,
             "xGVisitante": 1.64,
             "Favorito": "Local",
-            "ProbabilidadLocal": 43.78,
-            "ProbabilidadEmpate": 22.15,
-            "ProbabilidadVisitante": 34.07,
-            "1X": 65.93,
+            "ProbabilidadLocal": 43.77,
+            "ProbabilidadEmpate": 22.21,
+            "ProbabilidadVisitante": 34.01,
+            "1X": 65.98,
             "X2": 56.22,
-            "12": 77.85,
-            "BTTS": 68.09,
-            "Over05": 96.99,
-            "Over15": 86.52,
-            "Over25": 68.04,
-            "Over35": 46.49,
-            "PorteriaCeroLocal": 19.51,
-            "PorteriaCeroVisitante": 15.4,
+            "12": 77.78,
+            "BTTS": 68.15,
+            "Over05": 97.02,
+            "Over15": 86.48,
+            "Over25": 67.94,
+            "Over35": 46.46,
+            "PorteriaCeroLocal": 19.5,
+            "PorteriaCeroVisitante": 15.34,
             "MarcadorProbable": "1-1",
             "Top10Marcadores": [
                 {
                     "Marcador": "1-1",
-                    "Probabilidad": 9.18
+                    "Probabilidad": 9.26
                 },
                 {
                     "Marcador": "2-1",
-                    "Probabilidad": 8.61
+                    "Probabilidad": 8.64
                 },
                 {
                     "Marcador": "1-2",
-                    "Probabilidad": 7.45
+                    "Probabilidad": 7.43
                 },
                 {
                     "Marcador": "2-2",
-                    "Probabilidad": 7.0
+                    "Probabilidad": 7.04
                 },
                 {
                     "Marcador": "1-0",
-                    "Probabilidad": 5.6
-                },
-                {
-                    "Marcador": "3-1",
-                    "Probabilidad": 5.36
+                    "Probabilidad": 5.61
                 },
                 {
                     "Marcador": "2-0",
-                    "Probabilidad": 5.26
+                    "Probabilidad": 5.28
+                },
+                {
+                    "Marcador": "3-1",
+                    "Probabilidad": 5.27
                 },
                 {
                     "Marcador": "0-1",
-                    "Probabilidad": 4.87
+                    "Probabilidad": 4.93
                 },
                 {
                     "Marcador": "3-2",
-                    "Probabilidad": 4.4
+                    "Probabilidad": 4.39
                 },
                 {
-                    "Marcador": "0-2",
-                    "Probabilidad": 4.05
+                    "Marcador": "1-3",
+                    "Probabilidad": 4.06
                 }
             ],
-            "Confianza": 9.71,
-            "Volatilidad": 1.78,
+            "Confianza": 9.76,
+            "Volatilidad": 1.8,
             "Riesgo": "RIESGO ALTO",
             "ValueScore": 4.38,
             "MercadosRecomendados": [
                 {
                     "Mercado": "Over 1.5",
-                    "Probabilidad": 86.52
+                    "Probabilidad": 86.48
                 },
                 {
                     "Mercado": "BTTS",
-                    "Probabilidad": 68.09
+                    "Probabilidad": 68.15
                 },
                 {
                     "Mercado": "Over 2.5",
-                    "Probabilidad": 68.04
+                    "Probabilidad": 67.94
                 }
             ]
         }
@@ -1867,78 +1311,354 @@
             "xGLocal": 1.65,
             "xGVisitante": 1.79,
             "Favorito": "Visitante",
-            "ProbabilidadLocal": 35.94,
-            "ProbabilidadEmpate": 22.38,
-            "ProbabilidadVisitante": 41.68,
-            "1X": 58.32,
-            "X2": 64.06,
-            "12": 77.62,
-            "BTTS": 67.21,
+            "ProbabilidadLocal": 35.83,
+            "ProbabilidadEmpate": 22.27,
+            "ProbabilidadVisitante": 41.9,
+            "1X": 58.1,
+            "X2": 64.17,
+            "12": 77.73,
+            "BTTS": 67.26,
             "Over05": 96.81,
-            "Over15": 85.72,
-            "Over25": 66.9,
-            "Over35": 45.04,
-            "PorteriaCeroLocal": 16.81,
-            "PorteriaCeroVisitante": 19.17,
+            "Over15": 85.78,
+            "Over25": 66.84,
+            "Over35": 45.01,
+            "PorteriaCeroLocal": 16.72,
+            "PorteriaCeroVisitante": 19.21,
             "MarcadorProbable": "1-1",
             "Top10Marcadores": [
                 {
                     "Marcador": "1-1",
-                    "Probabilidad": 9.36
+                    "Probabilidad": 9.37
                 },
                 {
                     "Marcador": "1-2",
-                    "Probabilidad": 8.55
+                    "Probabilidad": 8.59
                 },
                 {
                     "Marcador": "2-1",
-                    "Probabilidad": 7.8
+                    "Probabilidad": 7.76
                 },
                 {
                     "Marcador": "2-2",
-                    "Probabilidad": 7.05
+                    "Probabilidad": 6.98
                 },
                 {
                     "Marcador": "0-1",
-                    "Probabilidad": 5.72
+                    "Probabilidad": 5.81
                 },
                 {
                     "Marcador": "1-0",
-                    "Probabilidad": 5.37
-                },
-                {
-                    "Marcador": "0-2",
-                    "Probabilidad": 5.14
+                    "Probabilidad": 5.22
                 },
                 {
                     "Marcador": "1-3",
-                    "Probabilidad": 5.01
+                    "Probabilidad": 5.14
+                },
+                {
+                    "Marcador": "0-2",
+                    "Probabilidad": 5.1
                 },
                 {
                     "Marcador": "2-0",
-                    "Probabilidad": 4.33
+                    "Probabilidad": 4.48
                 },
                 {
                     "Marcador": "3-1",
-                    "Probabilidad": 4.26
+                    "Probabilidad": 4.24
                 }
             ],
-            "Confianza": 5.74,
-            "Volatilidad": 1.81,
+            "Confianza": 6.07,
+            "Volatilidad": 1.8,
             "Riesgo": "RIESGO ALTO",
-            "ValueScore": 4.17,
+            "ValueScore": 4.19,
             "MercadosRecomendados": [
                 {
                     "Mercado": "Over 1.5",
-                    "Probabilidad": 85.72
+                    "Probabilidad": 85.78
                 },
                 {
                     "Mercado": "BTTS",
-                    "Probabilidad": 67.21
+                    "Probabilidad": 67.26
                 },
                 {
                     "Mercado": "Over 2.5",
-                    "Probabilidad": 66.9
+                    "Probabilidad": 66.84
+                }
+            ]
+        }
+    },
+    {
+        "Partido": "Noruega vs Inglaterra",
+        "Hora": "11.07. 16:00",
+        "Link": "https://www.flashscore.co/partido/futbol/inglaterra-j9N9ZNFA/noruega-8rP6JO0H/?mid=UyLHmWuh",
+        "EquipoLocal": "Noruega",
+        "EquipoVisitante": "Inglaterra",
+        "LogoLocal": "https://static.flashscore.com/res/image/data/MZeV1VdM-8doAmYTm.png",
+        "LogoVisitante": "https://static.flashscore.com/res/image/data/tCG9KQYA-Iyld3bDd.png",
+        "Ultimos10Local": [
+            {
+                "Fecha": "05.07.26",
+                "Local": "Brasil",
+                "Visitante": "Noruega",
+                "GolLocal": 1,
+                "GolVisitante": 2,
+                "Resultado": "G",
+                "EquipoAnalizado": "Noruega"
+            },
+            {
+                "Fecha": "30.06.26",
+                "Local": "Costa de Marfil",
+                "Visitante": "Noruega",
+                "GolLocal": 1,
+                "GolVisitante": 2,
+                "Resultado": "G",
+                "EquipoAnalizado": "Noruega"
+            },
+            {
+                "Fecha": "26.06.26",
+                "Local": "Noruega",
+                "Visitante": "Francia",
+                "GolLocal": 1,
+                "GolVisitante": 4,
+                "Resultado": "P",
+                "EquipoAnalizado": "Noruega"
+            },
+            {
+                "Fecha": "22.06.26",
+                "Local": "Noruega",
+                "Visitante": "Senegal",
+                "GolLocal": 3,
+                "GolVisitante": 2,
+                "Resultado": "G",
+                "EquipoAnalizado": "Noruega"
+            },
+            {
+                "Fecha": "16.06.26",
+                "Local": "Irak",
+                "Visitante": "Noruega",
+                "GolLocal": 1,
+                "GolVisitante": 4,
+                "Resultado": "G",
+                "EquipoAnalizado": "Noruega"
+            },
+            {
+                "Fecha": "07.06.26",
+                "Local": "Marruecos",
+                "Visitante": "Noruega",
+                "GolLocal": 1,
+                "GolVisitante": 1,
+                "Resultado": "E",
+                "EquipoAnalizado": "Noruega"
+            },
+            {
+                "Fecha": "01.06.26",
+                "Local": "Noruega",
+                "Visitante": "Suecia",
+                "GolLocal": 3,
+                "GolVisitante": 1,
+                "Resultado": "G",
+                "EquipoAnalizado": "Noruega"
+            },
+            {
+                "Fecha": "31.03.26",
+                "Local": "Noruega",
+                "Visitante": "Suiza",
+                "GolLocal": 0,
+                "GolVisitante": 0,
+                "Resultado": "E",
+                "EquipoAnalizado": "Noruega"
+            },
+            {
+                "Fecha": "27.03.26",
+                "Local": "Países Bajos",
+                "Visitante": "Noruega",
+                "GolLocal": 2,
+                "GolVisitante": 1,
+                "Resultado": "P",
+                "EquipoAnalizado": "Noruega"
+            },
+            {
+                "Fecha": "16.11.25",
+                "Local": "Italia",
+                "Visitante": "Noruega",
+                "GolLocal": 1,
+                "GolVisitante": 4,
+                "Resultado": "G",
+                "EquipoAnalizado": "Noruega"
+            }
+        ],
+        "Ultimos10Visitante": [
+            {
+                "Fecha": "05.07.26",
+                "Local": "México",
+                "Visitante": "Inglaterra",
+                "GolLocal": 2,
+                "GolVisitante": 3,
+                "Resultado": "G",
+                "EquipoAnalizado": "Inglaterra"
+            },
+            {
+                "Fecha": "01.07.26",
+                "Local": "Inglaterra",
+                "Visitante": "RD Congo",
+                "GolLocal": 2,
+                "GolVisitante": 1,
+                "Resultado": "G",
+                "EquipoAnalizado": "Inglaterra"
+            },
+            {
+                "Fecha": "27.06.26",
+                "Local": "Panamá",
+                "Visitante": "Inglaterra",
+                "GolLocal": 0,
+                "GolVisitante": 2,
+                "Resultado": "G",
+                "EquipoAnalizado": "Inglaterra"
+            },
+            {
+                "Fecha": "23.06.26",
+                "Local": "Inglaterra",
+                "Visitante": "Ghana",
+                "GolLocal": 0,
+                "GolVisitante": 0,
+                "Resultado": "E",
+                "EquipoAnalizado": "Inglaterra"
+            },
+            {
+                "Fecha": "17.06.26",
+                "Local": "Inglaterra",
+                "Visitante": "Croacia",
+                "GolLocal": 4,
+                "GolVisitante": 2,
+                "Resultado": "G",
+                "EquipoAnalizado": "Inglaterra"
+            },
+            {
+                "Fecha": "10.06.26",
+                "Local": "Inglaterra",
+                "Visitante": "Costa Rica",
+                "GolLocal": 3,
+                "GolVisitante": 0,
+                "Resultado": "G",
+                "EquipoAnalizado": "Inglaterra"
+            },
+            {
+                "Fecha": "06.06.26",
+                "Local": "Inglaterra",
+                "Visitante": "Nueva Zelanda",
+                "GolLocal": 1,
+                "GolVisitante": 0,
+                "Resultado": "G",
+                "EquipoAnalizado": "Inglaterra"
+            },
+            {
+                "Fecha": "31.03.26",
+                "Local": "Inglaterra",
+                "Visitante": "Japón",
+                "GolLocal": 0,
+                "GolVisitante": 1,
+                "Resultado": "P",
+                "EquipoAnalizado": "Inglaterra"
+            },
+            {
+                "Fecha": "27.03.26",
+                "Local": "Inglaterra",
+                "Visitante": "Uruguay",
+                "GolLocal": 1,
+                "GolVisitante": 1,
+                "Resultado": "E",
+                "EquipoAnalizado": "Inglaterra"
+            },
+            {
+                "Fecha": "16.11.25",
+                "Local": "Albania",
+                "Visitante": "Inglaterra",
+                "GolLocal": 0,
+                "GolVisitante": 2,
+                "Resultado": "G",
+                "EquipoAnalizado": "Inglaterra"
+            }
+        ],
+        "Pronostico": {
+            "EquipoLocal": "Noruega",
+            "EquipoVisitante": "Inglaterra",
+            "RatingLocal": 73.83,
+            "RatingVisitante": 77.89,
+            "xGLocal": 1.76,
+            "xGVisitante": 1.85,
+            "Favorito": "Visitante",
+            "ProbabilidadLocal": 37.0,
+            "ProbabilidadEmpate": 21.95,
+            "ProbabilidadVisitante": 41.05,
+            "1X": 58.95,
+            "X2": 63.0,
+            "12": 78.05,
+            "BTTS": 69.74,
+            "Over05": 97.28,
+            "Over15": 87.44,
+            "Over25": 69.81,
+            "Over35": 48.8,
+            "PorteriaCeroLocal": 15.7,
+            "PorteriaCeroVisitante": 17.28,
+            "MarcadorProbable": "1-1",
+            "Top10Marcadores": [
+                {
+                    "Marcador": "1-1",
+                    "Probabilidad": 8.89
+                },
+                {
+                    "Marcador": "1-2",
+                    "Probabilidad": 8.1
+                },
+                {
+                    "Marcador": "2-1",
+                    "Probabilidad": 7.59
+                },
+                {
+                    "Marcador": "2-2",
+                    "Probabilidad": 7.18
+                },
+                {
+                    "Marcador": "1-3",
+                    "Probabilidad": 5.08
+                },
+                {
+                    "Marcador": "0-1",
+                    "Probabilidad": 5.05
+                },
+                {
+                    "Marcador": "1-0",
+                    "Probabilidad": 4.78
+                },
+                {
+                    "Marcador": "0-2",
+                    "Probabilidad": 4.58
+                },
+                {
+                    "Marcador": "3-1",
+                    "Probabilidad": 4.52
+                },
+                {
+                    "Marcador": "2-3",
+                    "Probabilidad": 4.51
+                }
+            ],
+            "Confianza": 4.05,
+            "Volatilidad": 1.71,
+            "Riesgo": "RIESGO ALTO",
+            "ValueScore": 4.1,
+            "MercadosRecomendados": [
+                {
+                    "Mercado": "Over 1.5",
+                    "Probabilidad": 87.44
+                },
+                {
+                    "Mercado": "Over 2.5",
+                    "Probabilidad": 69.81
+                },
+                {
+                    "Mercado": "BTTS",
+                    "Probabilidad": 69.74
                 }
             ]
         }
