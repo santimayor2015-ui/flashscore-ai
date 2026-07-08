@@ -2,6 +2,24 @@
     {
         "Pais": "Argentina",
         "Fecha": "",
+        "Local": "Argentina",
+        "Visitante": "Egipto",
+        "Gol Local": 3,
+        "Gol Visitante": 2,
+        "Resultado": "G"
+    },
+    {
+        "Pais": "Argentina",
+        "Fecha": "",
+        "Local": "Argentina",
+        "Visitante": "Cabo Verde",
+        "Gol Local": 3,
+        "Gol Visitante": 2,
+        "Resultado": "G"
+    },
+    {
+        "Pais": "Argentina",
+        "Fecha": "",
         "Local": "Jordania",
         "Visitante": "Argentina",
         "Gol Local": 1,
@@ -360,20 +378,20 @@
         "Resultado": "G"
     },
     {
-        "Pais": "Argentina",
+        "Pais": "España",
         "Fecha": "",
-        "Local": "Argentina",
-        "Visitante": "Curazao",
-        "Gol Local": 7,
-        "Gol Visitante": 0,
+        "Local": "Portugal",
+        "Visitante": "España",
+        "Gol Local": 0,
+        "Gol Visitante": 1,
         "Resultado": "G"
     },
     {
-        "Pais": "Argentina",
+        "Pais": "España",
         "Fecha": "",
-        "Local": "Argentina",
-        "Visitante": "Panamá",
-        "Gol Local": 2,
+        "Local": "España",
+        "Visitante": "Austria",
+        "Gol Local": 3,
         "Gol Visitante": 0,
         "Resultado": "G"
     },
@@ -720,22 +738,13 @@
         "Resultado": "G"
     },
     {
-        "Pais": "España",
+        "Pais": "Francia",
         "Fecha": "",
-        "Local": "España",
-        "Visitante": "Italia",
-        "Gol Local": 2,
+        "Local": "Paraguay",
+        "Visitante": "Francia",
+        "Gol Local": 0,
         "Gol Visitante": 1,
         "Resultado": "G"
-    },
-    {
-        "Pais": "España",
-        "Fecha": "",
-        "Local": "Escocia",
-        "Visitante": "España",
-        "Gol Local": 2,
-        "Gol Visitante": 0,
-        "Resultado": "P"
     },
     {
         "Pais": "Francia",
@@ -1098,11 +1107,20 @@
         "Resultado": "G"
     },
     {
-        "Pais": "Francia",
+        "Pais": "Inglaterra",
         "Fecha": "",
-        "Local": "Irlanda",
-        "Visitante": "Francia",
-        "Gol Local": 0,
+        "Local": "México",
+        "Visitante": "Inglaterra",
+        "Gol Local": 2,
+        "Gol Visitante": 3,
+        "Resultado": "G"
+    },
+    {
+        "Pais": "Inglaterra",
+        "Fecha": "",
+        "Local": "Inglaterra",
+        "Visitante": "RD Congo",
+        "Gol Local": 2,
         "Gol Visitante": 1,
         "Resultado": "G"
     },
@@ -1467,21 +1485,21 @@
         "Resultado": "G"
     },
     {
-        "Pais": "Inglaterra",
+        "Pais": "Portugal",
         "Fecha": "",
-        "Local": "Malta",
-        "Visitante": "Inglaterra",
+        "Local": "Portugal",
+        "Visitante": "España",
         "Gol Local": 0,
-        "Gol Visitante": 4,
-        "Resultado": "G"
+        "Gol Visitante": 1,
+        "Resultado": "P"
     },
     {
-        "Pais": "Inglaterra",
+        "Pais": "Portugal",
         "Fecha": "",
-        "Local": "Inglaterra",
-        "Visitante": "Ucrania",
+        "Local": "Portugal",
+        "Visitante": "Croacia",
         "Gol Local": 2,
-        "Gol Visitante": 0,
+        "Gol Visitante": 1,
         "Resultado": "G"
     },
     {
@@ -1827,22 +1845,13 @@
         "Resultado": "G"
     },
     {
-        "Pais": "Portugal",
+        "Pais": "Brasil",
         "Fecha": "",
-        "Local": "Luxemburgo",
-        "Visitante": "Portugal",
-        "Gol Local": 0,
-        "Gol Visitante": 6,
-        "Resultado": "G"
-    },
-    {
-        "Pais": "Portugal",
-        "Fecha": "",
-        "Local": "Portugal",
-        "Visitante": "Liechtenstein",
-        "Gol Local": 4,
-        "Gol Visitante": 0,
-        "Resultado": "G"
+        "Local": "Brasil",
+        "Visitante": "Noruega",
+        "Gol Local": 1,
+        "Gol Visitante": 2,
+        "Resultado": "P"
     },
     {
         "Pais": "Brasil",
@@ -2205,12 +2214,12 @@
         "Resultado": "P"
     },
     {
-        "Pais": "Brasil",
+        "Pais": "Marruecos",
         "Fecha": "",
-        "Local": "Brasil",
-        "Visitante": "Corea del Sur",
-        "Gol Local": 4,
-        "Gol Visitante": 1,
+        "Local": "Canadá",
+        "Visitante": "Marruecos",
+        "Gol Local": 0,
+        "Gol Visitante": 3,
         "Resultado": "G"
     },
     {
@@ -2562,15 +2571,6 @@
         "Visitante": "Lesoto",
         "Gol Local": 7,
         "Gol Visitante": 0,
-        "Resultado": "G"
-    },
-    {
-        "Pais": "Marruecos",
-        "Fecha": "",
-        "Local": "Gabón",
-        "Visitante": "Marruecos",
-        "Gol Local": 1,
-        "Gol Visitante": 5,
         "Resultado": "G"
     },
     {
@@ -2945,6 +2945,24 @@
     {
         "Pais": "Bélgica",
         "Fecha": "",
+        "Local": "EE. UU.",
+        "Visitante": "Bélgica",
+        "Gol Local": 1,
+        "Gol Visitante": 4,
+        "Resultado": "G"
+    },
+    {
+        "Pais": "Bélgica",
+        "Fecha": "",
+        "Local": "Bélgica",
+        "Visitante": "Senegal",
+        "Gol Local": 3,
+        "Gol Visitante": 2,
+        "Resultado": "G"
+    },
+    {
+        "Pais": "Bélgica",
+        "Fecha": "",
         "Local": "Nueva Zelanda",
         "Visitante": "Bélgica",
         "Gol Local": 1,
@@ -3310,24 +3328,6 @@
         "Gol Local": 0,
         "Gol Visitante": 3,
         "Resultado": "G"
-    },
-    {
-        "Pais": "Bélgica",
-        "Fecha": "",
-        "Local": "Croacia",
-        "Visitante": "Bélgica",
-        "Gol Local": 0,
-        "Gol Visitante": 0,
-        "Resultado": "E"
-    },
-    {
-        "Pais": "Bélgica",
-        "Fecha": "",
-        "Local": "Bélgica",
-        "Visitante": "Marruecos",
-        "Gol Local": 0,
-        "Gol Visitante": 2,
-        "Resultado": "P"
     },
     {
         "Pais": "Alemania",
@@ -3705,6 +3705,15 @@
         "Visitante": "Bélgica",
         "Gol Local": 2,
         "Gol Visitante": 3,
+        "Resultado": "P"
+    },
+    {
+        "Pais": "Croacia",
+        "Fecha": "",
+        "Local": "Portugal",
+        "Visitante": "Croacia",
+        "Gol Local": 2,
+        "Gol Visitante": 1,
         "Resultado": "P"
     },
     {
@@ -4440,6 +4449,15 @@
         "Pais": "Colombia",
         "Fecha": "",
         "Local": "Colombia",
+        "Visitante": "Ghana",
+        "Gol Local": 1,
+        "Gol Visitante": 0,
+        "Resultado": "G"
+    },
+    {
+        "Pais": "Colombia",
+        "Fecha": "",
+        "Local": "Colombia",
         "Visitante": "Portugal",
         "Gol Local": 0,
         "Gol Visitante": 0,
@@ -4806,22 +4824,13 @@
         "Resultado": "G"
     },
     {
-        "Pais": "Colombia",
+        "Pais": "México",
         "Fecha": "",
-        "Local": "Alemania",
-        "Visitante": "Colombia",
-        "Gol Local": 0,
-        "Gol Visitante": 2,
-        "Resultado": "G"
-    },
-    {
-        "Pais": "Colombia",
-        "Fecha": "",
-        "Local": "Colombia",
-        "Visitante": "Irak",
-        "Gol Local": 1,
-        "Gol Visitante": 0,
-        "Resultado": "G"
+        "Local": "México",
+        "Visitante": "Inglaterra",
+        "Gol Local": 2,
+        "Gol Visitante": 3,
+        "Resultado": "P"
     },
     {
         "Pais": "México",
@@ -5202,12 +5211,12 @@
         "Resultado": "G"
     },
     {
-        "Pais": "México",
+        "Pais": "Senegal",
         "Fecha": "",
-        "Local": "EE. UU.",
-        "Visitante": "México",
-        "Gol Local": 2,
-        "Gol Visitante": 0,
+        "Local": "Bélgica",
+        "Visitante": "Senegal",
+        "Gol Local": 3,
+        "Gol Visitante": 2,
         "Resultado": "P"
     },
     {
@@ -5569,15 +5578,6 @@
         "Gol Local": 1,
         "Gol Visitante": 1,
         "Resultado": "E"
-    },
-    {
-        "Pais": "Senegal",
-        "Fecha": "",
-        "Local": "Mauritania",
-        "Visitante": "Senegal",
-        "Gol Local": 0,
-        "Gol Visitante": 1,
-        "Resultado": "G"
     },
     {
         "Pais": "Uruguay",
@@ -5951,6 +5951,24 @@
     {
         "Pais": "Estados Unidos",
         "Fecha": "",
+        "Local": "EE. UU.",
+        "Visitante": "Bélgica",
+        "Gol Local": 1,
+        "Gol Visitante": 4,
+        "Resultado": ""
+    },
+    {
+        "Pais": "Estados Unidos",
+        "Fecha": "",
+        "Local": "EE. UU.",
+        "Visitante": "Bosnia-Herzegovina",
+        "Gol Local": 2,
+        "Gol Visitante": 0,
+        "Resultado": ""
+    },
+    {
+        "Pais": "Estados Unidos",
+        "Fecha": "",
         "Local": "Turquía",
         "Visitante": "EE. UU.",
         "Gol Local": 3,
@@ -6306,24 +6324,6 @@
         "Visitante": "Trinidad y Tobago",
         "Gol Local": 3,
         "Gol Visitante": 0,
-        "Resultado": ""
-    },
-    {
-        "Pais": "Estados Unidos",
-        "Fecha": "",
-        "Local": "EE. UU.",
-        "Visitante": "Ghana",
-        "Gol Local": 4,
-        "Gol Visitante": 0,
-        "Resultado": ""
-    },
-    {
-        "Pais": "Estados Unidos",
-        "Fecha": "",
-        "Local": "EE. UU.",
-        "Visitante": "Alemania",
-        "Gol Local": 1,
-        "Gol Visitante": 3,
         "Resultado": ""
     },
     {
@@ -6717,6 +6717,15 @@
         "Pais": "Suiza",
         "Fecha": "",
         "Local": "Suiza",
+        "Visitante": "Argelia",
+        "Gol Local": 2,
+        "Gol Visitante": 0,
+        "Resultado": "G"
+    },
+    {
+        "Pais": "Suiza",
+        "Fecha": "",
+        "Local": "Suiza",
         "Visitante": "Canadá",
         "Gol Local": 2,
         "Gol Visitante": 1,
@@ -7072,24 +7081,6 @@
         "Gol Local": 3,
         "Gol Visitante": 0,
         "Resultado": "G"
-    },
-    {
-        "Pais": "Suiza",
-        "Fecha": "",
-        "Local": "Bielorrusia",
-        "Visitante": "Suiza",
-        "Gol Local": 0,
-        "Gol Visitante": 5,
-        "Resultado": "G"
-    },
-    {
-        "Pais": "Suiza",
-        "Fecha": "",
-        "Local": "Portugal",
-        "Visitante": "Suiza",
-        "Gol Local": 6,
-        "Gol Visitante": 1,
-        "Resultado": "P"
     },
     {
         "Pais": "Irán",
@@ -8597,6 +8588,15 @@
     {
         "Pais": "Austria",
         "Fecha": "",
+        "Local": "España",
+        "Visitante": "Austria",
+        "Gol Local": 3,
+        "Gol Visitante": 0,
+        "Resultado": "P"
+    },
+    {
+        "Pais": "Austria",
+        "Fecha": "",
         "Local": "Argelia",
         "Visitante": "Austria",
         "Gol Local": 3,
@@ -8971,15 +8971,6 @@
         "Gol Local": 0,
         "Gol Visitante": 1,
         "Resultado": "G"
-    },
-    {
-        "Pais": "Austria",
-        "Fecha": "",
-        "Local": "Austria",
-        "Visitante": "Croacia",
-        "Gol Local": 1,
-        "Gol Visitante": 3,
-        "Resultado": "P"
     },
     {
         "Pais": "Corea del Sur",
@@ -10089,13 +10080,13 @@
         "Resultado": "P"
     },
     {
-        "Pais": "Australia",
+        "Pais": "Argelia",
         "Fecha": "",
-        "Local": "Australia",
-        "Visitante": "Dinamarca",
-        "Gol Local": 1,
+        "Local": "Suiza",
+        "Visitante": "Argelia",
+        "Gol Local": 2,
         "Gol Visitante": 0,
-        "Resultado": "G"
+        "Resultado": "P"
     },
     {
         "Pais": "Argelia",
@@ -10458,11 +10449,11 @@
         "Resultado": "G"
     },
     {
-        "Pais": "Argelia",
+        "Pais": "Egipto",
         "Fecha": "",
-        "Local": "Argelia",
-        "Visitante": "Guinea",
-        "Gol Local": 1,
+        "Local": "Argentina",
+        "Visitante": "Egipto",
+        "Gol Local": 3,
         "Gol Visitante": 2,
         "Resultado": "P"
     },
@@ -10809,22 +10800,13 @@
         "Resultado": "G"
     },
     {
-        "Pais": "Egipto",
+        "Pais": "Canadá",
         "Fecha": "",
-        "Local": "Cabo Verde",
-        "Visitante": "Egipto",
-        "Gol Local": 2,
-        "Gol Visitante": 2,
-        "Resultado": "E"
-    },
-    {
-        "Pais": "Egipto",
-        "Fecha": "",
-        "Local": "Egipto",
-        "Visitante": "Ghana",
-        "Gol Local": 2,
-        "Gol Visitante": 2,
-        "Resultado": "E"
+        "Local": "Canadá",
+        "Visitante": "Marruecos",
+        "Gol Local": 0,
+        "Gol Visitante": 3,
+        "Resultado": "P"
     },
     {
         "Pais": "Canadá",
@@ -11160,13 +11142,13 @@
         "Resultado": "G"
     },
     {
-        "Pais": "Canadá",
+        "Pais": "Noruega",
         "Fecha": "",
-        "Local": "Guatemala",
-        "Visitante": "Canadá",
-        "Gol Local": 0,
-        "Gol Visitante": 0,
-        "Resultado": "E"
+        "Local": "Brasil",
+        "Visitante": "Noruega",
+        "Gol Local": 1,
+        "Gol Visitante": 2,
+        "Resultado": "G"
     },
     {
         "Pais": "Noruega",
@@ -11545,15 +11527,6 @@
         "Gol Local": 2,
         "Gol Visitante": 1,
         "Resultado": "P"
-    },
-    {
-        "Pais": "Noruega",
-        "Fecha": "",
-        "Local": "Noruega",
-        "Visitante": "Suecia",
-        "Gol Local": 3,
-        "Gol Visitante": 2,
-        "Resultado": "G"
     },
     {
         "Pais": "Ucrania",
@@ -14952,6 +14925,15 @@
         "Pais": "Paraguay",
         "Fecha": "",
         "Local": "Paraguay",
+        "Visitante": "Francia",
+        "Gol Local": 0,
+        "Gol Visitante": 1,
+        "Resultado": "P"
+    },
+    {
+        "Pais": "Paraguay",
+        "Fecha": "",
+        "Local": "Paraguay",
         "Visitante": "Australia",
         "Gol Local": 0,
         "Gol Visitante": 0,
@@ -15316,15 +15298,6 @@
         "Gol Local": 0,
         "Gol Visitante": 1,
         "Resultado": "G"
-    },
-    {
-        "Pais": "Paraguay",
-        "Fecha": "",
-        "Local": "Corea del Sur",
-        "Visitante": "Paraguay",
-        "Gol Local": 2,
-        "Gol Visitante": 2,
-        "Resultado": "E"
     },
     {
         "Pais": "Escocia",
@@ -16850,6 +16823,15 @@
     {
         "Pais": "RD Congo",
         "Fecha": "",
+        "Local": "Inglaterra",
+        "Visitante": "RD Congo",
+        "Gol Local": 2,
+        "Gol Visitante": 1,
+        "Resultado": "P"
+    },
+    {
+        "Pais": "RD Congo",
+        "Fecha": "",
         "Local": "RD Congo",
         "Visitante": "Uzbekistán",
         "Gol Local": 3,
@@ -17194,15 +17176,6 @@
         "Fecha": "",
         "Local": "Marruecos",
         "Visitante": "RD Congo",
-        "Gol Local": 1,
-        "Gol Visitante": 1,
-        "Resultado": "E"
-    },
-    {
-        "Pais": "RD Congo",
-        "Fecha": "",
-        "Local": "RD Congo",
-        "Visitante": "Zambia",
         "Gol Local": 1,
         "Gol Visitante": 1,
         "Resultado": "E"
@@ -23645,6 +23618,15 @@
     {
         "Pais": "Bosnia-Herzegovina",
         "Fecha": "",
+        "Local": "EE. UU.",
+        "Visitante": "Bosnia-Herzegovina",
+        "Gol Local": 2,
+        "Gol Visitante": 0,
+        "Resultado": "P"
+    },
+    {
+        "Pais": "Bosnia-Herzegovina",
+        "Fecha": "",
         "Local": "Bosnia-Herzegovina",
         "Visitante": "Catar",
         "Gol Local": 3,
@@ -24001,15 +23983,6 @@
         "Gol Local": 1,
         "Gol Visitante": 1,
         "Resultado": "E"
-    },
-    {
-        "Pais": "Bosnia-Herzegovina",
-        "Fecha": "",
-        "Local": "Bosnia-Herzegovina",
-        "Visitante": "Luxemburgo",
-        "Gol Local": 1,
-        "Gol Visitante": 0,
-        "Resultado": "G"
     },
     {
         "Pais": "Honduras",
@@ -24770,6 +24743,15 @@
     {
         "Pais": "Cabo Verde",
         "Fecha": "",
+        "Local": "Argentina",
+        "Visitante": "Cabo Verde",
+        "Gol Local": 3,
+        "Gol Visitante": 2,
+        "Resultado": "P"
+    },
+    {
+        "Pais": "Cabo Verde",
+        "Fecha": "",
         "Local": "Cabo Verde",
         "Visitante": "Arabia Saudí",
         "Gol Local": 0,
@@ -25108,15 +25090,6 @@
         "Gol Local": 0,
         "Gol Visitante": 1,
         "Resultado": "G"
-    },
-    {
-        "Pais": "Cabo Verde",
-        "Fecha": "",
-        "Local": "Cabo Verde",
-        "Visitante": "Eswatini",
-        "Gol Local": 0,
-        "Gol Visitante": 0,
-        "Resultado": "E"
     },
     {
         "Pais": "Emiratos Árabes Unidos",
@@ -27020,6 +26993,15 @@
     {
         "Pais": "Ghana",
         "Fecha": "",
+        "Local": "Colombia",
+        "Visitante": "Ghana",
+        "Gol Local": 1,
+        "Gol Visitante": 0,
+        "Resultado": "P"
+    },
+    {
+        "Pais": "Ghana",
+        "Fecha": "",
         "Local": "Croacia",
         "Visitante": "Ghana",
         "Gol Local": 2,
@@ -27394,15 +27376,6 @@
         "Gol Local": 1,
         "Gol Visitante": 1,
         "Resultado": "E"
-    },
-    {
-        "Pais": "Ghana",
-        "Fecha": "",
-        "Local": "Ghana",
-        "Visitante": "Angola",
-        "Gol Local": 1,
-        "Gol Visitante": 0,
-        "Resultado": "G"
     },
     {
         "Pais": "Islandia",
@@ -36939,6 +36912,15 @@
         "Pais": "Vietnam",
         "Fecha": "",
         "Local": "Vietnam",
+        "Visitante": "Yongin",
+        "Gol Local": 2,
+        "Gol Visitante": 1,
+        "Resultado": "G"
+    },
+    {
+        "Pais": "Vietnam",
+        "Fecha": "",
+        "Local": "Vietnam",
         "Visitante": "Malasia",
         "Gol Local": 3,
         "Gol Visitante": 1,
@@ -37314,12 +37296,21 @@
         "Resultado": "E"
     },
     {
-        "Pais": "Vietnam",
+        "Pais": "El Salvador",
         "Fecha": "",
-        "Local": "Vietnam",
-        "Visitante": "Birmania",
+        "Local": "Los Angeles FC",
+        "Visitante": "El Salvador",
         "Gol Local": 3,
         "Gol Visitante": 0,
+        "Resultado": "P"
+    },
+    {
+        "Pais": "El Salvador",
+        "Fecha": "",
+        "Local": "Los Angeles Galaxy",
+        "Visitante": "El Salvador",
+        "Gol Local": 0,
+        "Gol Visitante": 3,
         "Resultado": "G"
     },
     {
@@ -37689,24 +37680,6 @@
         "Visitante": "Costa Rica",
         "Gol Local": 0,
         "Gol Visitante": 0,
-        "Resultado": "E"
-    },
-    {
-        "Pais": "El Salvador",
-        "Fecha": "",
-        "Local": "El Salvador",
-        "Visitante": "Martinica",
-        "Gol Local": 1,
-        "Gol Visitante": 2,
-        "Resultado": "P"
-    },
-    {
-        "Pais": "El Salvador",
-        "Fecha": "",
-        "Local": "Corea del Sur",
-        "Visitante": "El Salvador",
-        "Gol Local": 1,
-        "Gol Visitante": 1,
         "Resultado": "E"
     },
     {
