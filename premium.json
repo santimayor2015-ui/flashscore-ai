@@ -1,5 +1,29 @@
 {
     "fecha_generacion": "2026-08-19",
-    "cantidad": 0,
-    "partidos": []
+    "cantidad": 1,
+    "partidos": [
+        {
+            "fecha": "2026-08-20",
+            "hora": "15:00",
+            "local": "Juventud Italiana",
+            "visitante": "Delfín",
+            "logolocal": "https://static.flashscore.com/res/image/data/vBvFNmZg-8Qv8EEOn.png",
+            "logovisitante": "https://static.flashscore.com/res/image/data/viqa4vzB-AZbnrnmj.png",
+            "favorito": "Juventud Italiana",
+            "probabilidad_favorito": 61.89,
+            "nofavorito": "Delfín",
+            "probabilidad_nofavorito": 14.31,
+            "marcador_1": "1-0",
+            "marcador_2": "2-0",
+            "ultimo_resultado_favorito": "W",
+            "ultimo_resultado_nofavorito": "L",
+            "condiciones": {
+                "favorito_mayor_55": true,
+                "favorito_gano_ultimo": true,
+                "marcadores_confirman_favorito": true,
+                "nofavorito_perdio_ultimo": true
+            },
+            "premium": true
+        }
+    ]
 }
