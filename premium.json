@@ -1,6 +1,6 @@
 {
     "fecha_generacion": "2026-08-19",
-    "cantidad": 1,
+    "cantidad": 2,
     "partidos": [
         {
             "fecha": "2026-08-20",
@@ -10,9 +10,32 @@
             "logolocal": "https://static.flashscore.com/res/image/data/vBvFNmZg-8Qv8EEOn.png",
             "logovisitante": "https://static.flashscore.com/res/image/data/viqa4vzB-AZbnrnmj.png",
             "favorito": "Juventud Italiana",
-            "probabilidad_favorito": 61.89,
+            "probabilidad_favorito": 61.7,
             "nofavorito": "Delfín",
-            "probabilidad_nofavorito": 14.31,
+            "probabilidad_nofavorito": 14.55,
+            "marcador_1": "1-0",
+            "marcador_2": "2-0",
+            "ultimo_resultado_favorito": "W",
+            "ultimo_resultado_nofavorito": "L",
+            "condiciones": {
+                "favorito_mayor_55": true,
+                "favorito_gano_ultimo": true,
+                "marcadores_confirman_favorito": true,
+                "nofavorito_perdio_ultimo": true
+            },
+            "premium": true
+        },
+        {
+            "fecha": "2026-08-21",
+            "hora": "13:00",
+            "local": "Thor/KA F",
+            "visitante": "Valur F",
+            "logolocal": "https://static.flashscore.com/res/image/data/4QWeAGWg-KCpNsYeI.png",
+            "logovisitante": "https://static.flashscore.com/res/image/data/dESFzCyS-pn8OkBLp.png",
+            "favorito": "Thor/KA F",
+            "probabilidad_favorito": 56.14,
+            "nofavorito": "Valur F",
+            "probabilidad_nofavorito": 19.23,
             "marcador_1": "1-0",
             "marcador_2": "2-0",
             "ultimo_resultado_favorito": "W",
