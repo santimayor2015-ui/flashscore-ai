@@ -1,6 +1,6 @@
 {
     "fecha_generacion": "2026-08-24",
-    "cantidad": 20,
+    "cantidad": 19,
     "partidos": [
         {
             "fecha": "2026-08-24",
@@ -14,28 +14,6 @@
             "nofavorito": "All Boys",
             "probabilidad_nofavorito": 21.19,
             "probabilidad_empate": 27.26,
-            "marcador_probable": "1-0",
-            "ultimo_resultado_favorito": "W",
-            "condiciones": {
-                "favorito_mayor_45": true,
-                "empate_mayor_nofavorito": true,
-                "favorito_gano_ultimo": true,
-                "marcador_confirma_favorito": true
-            },
-            "select": true
-        },
-        {
-            "fecha": "2026-08-24",
-            "hora": "16:30",
-            "local": "12 de Junio",
-            "visitante": "Paraguari AC",
-            "logolocal": "https://static.flashscore.com/res/image/data/ENHhNEh5-G8DKctQf.png",
-            "logovisitante": "https://static.flashscore.com/res/image/data/QZxk09FG-UTxotyS6.png",
-            "favorito": "12 de Junio",
-            "probabilidad_favorito": 51.33,
-            "nofavorito": "Paraguari AC",
-            "probabilidad_nofavorito": 23.31,
-            "probabilidad_empate": 25.35,
             "marcador_probable": "1-0",
             "ultimo_resultado_favorito": "W",
             "condiciones": {
