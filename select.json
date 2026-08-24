@@ -1,6 +1,6 @@
 {
     "fecha_generacion": "2026-08-24",
-    "cantidad": 21,
+    "cantidad": 20,
     "partidos": [
         {
             "fecha": "2026-08-24",
@@ -37,28 +37,6 @@
             "probabilidad_nofavorito": 23.31,
             "probabilidad_empate": 25.35,
             "marcador_probable": "1-0",
-            "ultimo_resultado_favorito": "W",
-            "condiciones": {
-                "favorito_mayor_45": true,
-                "empate_mayor_nofavorito": true,
-                "favorito_gano_ultimo": true,
-                "marcador_confirma_favorito": true
-            },
-            "select": true
-        },
-        {
-            "fecha": "2026-08-25",
-            "hora": "13:00",
-            "local": "San Martín S.J. 2",
-            "visitante": "Huracán 2",
-            "logolocal": "https://static.flashscore.com/res/image/data/YV1uaXeM-4x4cCPZJ.png",
-            "logovisitante": "https://static.flashscore.com/res/image/data/2Ta8Lril-jLbMVaK6.png",
-            "favorito": "Huracán 2",
-            "probabilidad_favorito": 47.37,
-            "nofavorito": "San Martín S.J. 2",
-            "probabilidad_nofavorito": 25.59,
-            "probabilidad_empate": 27.03,
-            "marcador_probable": "0-1",
             "ultimo_resultado_favorito": "W",
             "condiciones": {
                 "favorito_mayor_45": true,
