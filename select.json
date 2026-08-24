@@ -1,6 +1,6 @@
 {
     "fecha_generacion": "2026-08-24",
-    "cantidad": 41,
+    "cantidad": 38,
     "partidos": [
         {
             "fecha": "2026-08-24",
@@ -15,72 +15,6 @@
             "probabilidad_nofavorito": 24.1,
             "probabilidad_empate": 27.82,
             "marcador_probable": "1-0",
-            "ultimo_resultado_favorito": "W",
-            "condiciones": {
-                "favorito_mayor_45": true,
-                "empate_mayor_nofavorito": true,
-                "favorito_gano_ultimo": true,
-                "marcador_confirma_favorito": true
-            },
-            "select": true
-        },
-        {
-            "fecha": "2026-08-24",
-            "hora": "11:00",
-            "local": "Tallinna Kalev",
-            "visitante": "Maardu",
-            "logolocal": "https://static.flashscore.com/res/image/data/nBRRyUXg-2yt6rfeJ.png",
-            "logovisitante": "https://static.flashscore.com/res/image/data/b9TMokWg-U9pjk6TC.png",
-            "favorito": "Tallinna Kalev",
-            "probabilidad_favorito": 72.02,
-            "nofavorito": "Maardu",
-            "probabilidad_nofavorito": 13.56,
-            "probabilidad_empate": 14.41,
-            "marcador_probable": "3-1",
-            "ultimo_resultado_favorito": "W",
-            "condiciones": {
-                "favorito_mayor_45": true,
-                "empate_mayor_nofavorito": true,
-                "favorito_gano_ultimo": true,
-                "marcador_confirma_favorito": true
-            },
-            "select": true
-        },
-        {
-            "fecha": "2026-08-24",
-            "hora": "11:00",
-            "local": "Kiryat Gat",
-            "visitante": "H. Ironi Rishon",
-            "logolocal": "https://static.flashscore.com/res/image/data/xrdL24YA-feOSbhg3.png",
-            "logovisitante": "https://static.flashscore.com/res/image/data/YFIrNJZA-80mFJoEm.png",
-            "favorito": "Kiryat Gat",
-            "probabilidad_favorito": 75.33,
-            "nofavorito": "H. Ironi Rishon",
-            "probabilidad_nofavorito": 9.49,
-            "probabilidad_empate": 15.18,
-            "marcador_probable": "2-0",
-            "ultimo_resultado_favorito": "W",
-            "condiciones": {
-                "favorito_mayor_45": true,
-                "empate_mayor_nofavorito": true,
-                "favorito_gano_ultimo": true,
-                "marcador_confirma_favorito": true
-            },
-            "select": true
-        },
-        {
-            "fecha": "2026-08-24",
-            "hora": "11:00",
-            "local": "Riga FC 2",
-            "visitante": "Riga Mariners",
-            "logolocal": "https://static.flashscore.com/res/image/data/Cl3KDFBr-S4O7pcV9.png",
-            "logovisitante": "https://static.flashscore.com/res/image/data/42gDRkzB-AaxQKHN2.png",
-            "favorito": "Riga Mariners",
-            "probabilidad_favorito": 66.72,
-            "nofavorito": "Riga FC 2",
-            "probabilidad_nofavorito": 15.35,
-            "probabilidad_empate": 17.93,
-            "marcador_probable": "1-2",
             "ultimo_resultado_favorito": "W",
             "condiciones": {
                 "favorito_mayor_45": true,
