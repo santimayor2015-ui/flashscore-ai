@@ -1,6 +1,6 @@
 {
     "fecha_generacion": "2026-08-24",
-    "cantidad": 23,
+    "cantidad": 21,
     "partidos": [
         {
             "fecha": "2026-08-24",
@@ -37,50 +37,6 @@
             "probabilidad_nofavorito": 23.31,
             "probabilidad_empate": 25.35,
             "marcador_probable": "1-0",
-            "ultimo_resultado_favorito": "W",
-            "condiciones": {
-                "favorito_mayor_45": true,
-                "empate_mayor_nofavorito": true,
-                "favorito_gano_ultimo": true,
-                "marcador_confirma_favorito": true
-            },
-            "select": true
-        },
-        {
-            "fecha": "2026-08-24",
-            "hora": "14:15",
-            "local": "Gil Vicente",
-            "visitante": "Casa Pia",
-            "logolocal": "https://static.flashscore.com/res/image/data/OlcT5cjl-2gs7fTQ1.png",
-            "logovisitante": "https://static.flashscore.com/res/image/data/CbZc62Da-SERhQixU.png",
-            "favorito": "Gil Vicente",
-            "probabilidad_favorito": 58.52,
-            "nofavorito": "Casa Pia",
-            "probabilidad_nofavorito": 17.98,
-            "probabilidad_empate": 23.5,
-            "marcador_probable": "1-0",
-            "ultimo_resultado_favorito": "W",
-            "condiciones": {
-                "favorito_mayor_45": true,
-                "empate_mayor_nofavorito": true,
-                "favorito_gano_ultimo": true,
-                "marcador_confirma_favorito": true
-            },
-            "select": true
-        },
-        {
-            "fecha": "2026-08-24",
-            "hora": "13:30",
-            "local": "Kocaelispor",
-            "visitante": "Amedspor",
-            "logolocal": "https://static.flashscore.com/res/image/data/GjjYdAcM-pfQVcl7E.png",
-            "logovisitante": "https://static.flashscore.com/res/image/data/GxSkejf5-MqifFzcp.png",
-            "favorito": "Amedspor",
-            "probabilidad_favorito": 63.44,
-            "nofavorito": "Kocaelispor",
-            "probabilidad_nofavorito": 14.09,
-            "probabilidad_empate": 22.47,
-            "marcador_probable": "0-1",
             "ultimo_resultado_favorito": "W",
             "condiciones": {
                 "favorito_mayor_45": true,
@@ -224,28 +180,6 @@
         },
         {
             "fecha": "2026-08-25",
-            "hora": "13:00",
-            "local": "Al-Fahaheel",
-            "visitante": "Al Qadisiya",
-            "logolocal": "https://static.flashscore.com/res/image/data/4lUacfHG-25qRGqb6.png",
-            "logovisitante": "https://static.flashscore.com/res/image/data/MsaIZVWg-GMtDBc7o.png",
-            "favorito": "Al Qadisiya",
-            "probabilidad_favorito": 59.77,
-            "nofavorito": "Al-Fahaheel",
-            "probabilidad_nofavorito": 17.46,
-            "probabilidad_empate": 22.77,
-            "marcador_probable": "0-1",
-            "ultimo_resultado_favorito": "W",
-            "condiciones": {
-                "favorito_mayor_45": true,
-                "empate_mayor_nofavorito": true,
-                "favorito_gano_ultimo": true,
-                "marcador_confirma_favorito": true
-            },
-            "select": true
-        },
-        {
-            "fecha": "2026-08-25",
             "hora": "12:00",
             "local": "Zalgiris 2",
             "visitante": "Transinvest 2",
@@ -278,6 +212,28 @@
             "nofavorito": "Vizela Sub-23",
             "probabilidad_nofavorito": 18.12,
             "probabilidad_empate": 21.6,
+            "marcador_probable": "1-0",
+            "ultimo_resultado_favorito": "W",
+            "condiciones": {
+                "favorito_mayor_45": true,
+                "empate_mayor_nofavorito": true,
+                "favorito_gano_ultimo": true,
+                "marcador_confirma_favorito": true
+            },
+            "select": true
+        },
+        {
+            "fecha": "2026-08-25",
+            "hora": "18:00",
+            "local": "Cibao",
+            "visitante": "Delfines Del Este",
+            "logolocal": "https://static.flashscore.com/res/image/data/hdxgvDfM-hvlWeuiI.png",
+            "logovisitante": "https://static.flashscore.com/res/image/data/4GQ8tig5-zoQ0N7Vn.png",
+            "favorito": "Cibao",
+            "probabilidad_favorito": 46.29,
+            "nofavorito": "Delfines Del Este",
+            "probabilidad_nofavorito": 22.31,
+            "probabilidad_empate": 31.4,
             "marcador_probable": "1-0",
             "ultimo_resultado_favorito": "W",
             "condiciones": {
@@ -378,7 +334,7 @@
         },
         {
             "fecha": "2026-08-26",
-            "hora": "15:00",
+            "hora": "17:00",
             "local": "LDU Quito",
             "visitante": "Aucas",
             "logolocal": "https://static.flashscore.com/res/image/data/QynioKCa-dldy8uVh.png",
