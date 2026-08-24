@@ -1,360 +1,6 @@
 [
     {
         "fecha": "2026-08-24",
-        "hora": "15:30",
-        "local": "Real Santander",
-        "visitante": "Ind. Valle del Cauca",
-        "cuota_local": 2.8,
-        "cuota_empate": 3.2,
-        "cuota_visitante": 2.33,
-        "link": "https://www.flashscore.co/partido/futbol/independiente-valle-del-cauca-25WDovil/real-santander-nPIUdlJE/?mid=ddhcPuw0",
-        "logo_local": "https://static.flashscore.com/res/image/data/p6ESPiYg-YLa74tUj.png",
-        "logo_visitante": "https://static.flashscore.com/res/image/data/YoyCsODa-vyvKzKwU.png",
-        "pais": "COLOMBIA",
-        "liga": "PRIMERA B - CLAUSURA - JORNADA 6",
-        "h2h": {
-            "LOCAL10": [
-                {
-                    "fecha": "20.08.26",
-                    "local": "Real Santander",
-                    "visitante": "Barranquilla",
-                    "goles_local": "2",
-                    "goles_visitante": "2"
-                },
-                {
-                    "fecha": "06.08.26",
-                    "local": "Atletico F.C.",
-                    "visitante": "Real Santander",
-                    "goles_local": "2",
-                    "goles_visitante": "2"
-                },
-                {
-                    "fecha": "31.07.26",
-                    "local": "Real Santander",
-                    "visitante": "Patriotas",
-                    "goles_local": "2",
-                    "goles_visitante": "2"
-                },
-                {
-                    "fecha": "25.07.26",
-                    "local": "Real Cartagena",
-                    "visitante": "Real Santander",
-                    "goles_local": "5",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "24.05.26",
-                    "local": "Real Santander",
-                    "visitante": "Deportivo Cali",
-                    "goles_local": "1",
-                    "goles_visitante": "2"
-                },
-                {
-                    "fecha": "16.05.26",
-                    "local": "Alianza",
-                    "visitante": "Real Santander",
-                    "goles_local": "3",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "12.05.26",
-                    "local": "Real Santander",
-                    "visitante": "Boca Juniors",
-                    "goles_local": "0",
-                    "goles_visitante": "3"
-                },
-                {
-                    "fecha": "07.05.26",
-                    "local": "Atl. Bucaramanga",
-                    "visitante": "Real Santander",
-                    "goles_local": "5",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "18.04.26",
-                    "local": "Real Santander",
-                    "visitante": "Bogotá",
-                    "goles_local": "1",
-                    "goles_visitante": "2"
-                },
-                {
-                    "fecha": "12.04.26",
-                    "local": "Leones",
-                    "visitante": "Real Santander",
-                    "goles_local": "1",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "07.04.26",
-                    "local": "Barranquilla",
-                    "visitante": "Real Santander",
-                    "goles_local": "2",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "31.03.26",
-                    "local": "Real Santander",
-                    "visitante": "Envigado",
-                    "goles_local": "1",
-                    "goles_visitante": "3"
-                },
-                {
-                    "fecha": "26.03.26",
-                    "local": "U. Magdalena",
-                    "visitante": "Real Santander",
-                    "goles_local": "2",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "21.03.26",
-                    "local": "Real Santander",
-                    "visitante": "Tigres",
-                    "goles_local": "1",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "15.03.26",
-                    "local": "Orsomarso",
-                    "visitante": "Real Santander",
-                    "goles_local": "2",
-                    "goles_visitante": "0"
-                }
-            ],
-            "VISITANTE10": [
-                {
-                    "fecha": "06.08.26",
-                    "local": "Real Cartagena",
-                    "visitante": "Ind. Valle del Cauca",
-                    "goles_local": "0",
-                    "goles_visitante": "2"
-                },
-                {
-                    "fecha": "03.08.26",
-                    "local": "Ind. Valle del Cauca",
-                    "visitante": "Envigado",
-                    "goles_local": "1",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "27.07.26",
-                    "local": "Atletico F.C.",
-                    "visitante": "Ind. Valle del Cauca",
-                    "goles_local": "0",
-                    "goles_visitante": "2"
-                },
-                {
-                    "fecha": "21.05.26",
-                    "local": "Jaguares de Córdoba",
-                    "visitante": "Ind. Valle del Cauca",
-                    "goles_local": "3",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "17.05.26",
-                    "local": "Ind. Valle del Cauca",
-                    "visitante": "Águilas Doradas",
-                    "goles_local": "1",
-                    "goles_visitante": "4"
-                },
-                {
-                    "fecha": "13.05.26",
-                    "local": "Real Cundinamarca",
-                    "visitante": "Ind. Valle del Cauca",
-                    "goles_local": "2",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "07.05.26",
-                    "local": "Ind. Valle del Cauca",
-                    "visitante": "Pereira",
-                    "goles_local": "1",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "18.04.26",
-                    "local": "Ind. Valle del Cauca",
-                    "visitante": "Real Cundinamarca",
-                    "goles_local": "1",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "07.04.26",
-                    "local": "Boca Juniors",
-                    "visitante": "Ind. Valle del Cauca",
-                    "goles_local": "0",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "30.03.26",
-                    "local": "Ind. Valle del Cauca",
-                    "visitante": "U. Magdalena",
-                    "goles_local": "0",
-                    "goles_visitante": "2"
-                },
-                {
-                    "fecha": "26.03.26",
-                    "local": "Ind. Valle del Cauca",
-                    "visitante": "Patriotas",
-                    "goles_local": "2",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "21.03.26",
-                    "local": "Orsomarso",
-                    "visitante": "Ind. Valle del Cauca",
-                    "goles_local": "2",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "16.03.26",
-                    "local": "Inter Palmira",
-                    "visitante": "Ind. Valle del Cauca",
-                    "goles_local": "1",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "11.03.26",
-                    "local": "Ind. Valle del Cauca",
-                    "visitante": "Barranquilla",
-                    "goles_local": "1",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "04.03.26",
-                    "local": "Ind. Valle del Cauca",
-                    "visitante": "Bogotá",
-                    "goles_local": "1",
-                    "goles_visitante": "1"
-                }
-            ],
-            "H2H": [
-                {
-                    "fecha": "23.02.26",
-                    "local": "Ind. Valle del Cauca",
-                    "visitante": "Real Santander",
-                    "goles_local": "1",
-                    "goles_visitante": "1"
-                }
-            ]
-        },
-        "analisis": {
-            "PronosticoFinal": {
-                "PickPrincipal": "Doble Oportunidad 12",
-                "1X2": {
-                    "Local": 27.14,
-                    "Empate": 24.55,
-                    "Visitante": 48.3
-                },
-                "BTTS": {
-                    "Pronostico": "SI",
-                    "SI": 54.01,
-                    "NO": 45.99,
-                    "LocalMarca": 67.18,
-                    "VisitanteMarca": 82.67,
-                    "Consenso": "MUY_ALTO",
-                    "Confianza": 95.82
-                },
-                "Over25": {
-                    "Pronostico": "OVER",
-                    "OVER": 52.27,
-                    "UNDER": 47.73
-                },
-                "DobleOportunidad": {
-                    "Mercado": "12",
-                    "Probabilidad": 75.44
-                },
-                "MarcadoresProbables": {
-                    "Primero": {
-                        "Marcador": "1-1",
-                        "Probabilidad": 11.44
-                    },
-                    "Segundo": {
-                        "Marcador": "0-1",
-                        "Probabilidad": 10.13
-                    }
-                },
-                "Favorito": "Visitante",
-                "ValueBet": {
-                    "Mercado": "Visitante",
-                    "Diferencia": 9.24
-                },
-                "Confianza": {
-                    "Valor": 74.28,
-                    "Nivel": "ALTA",
-                    "MargenVsSegundo": 16.78
-                },
-                "Riesgo": {
-                    "Indice": 53,
-                    "Nivel": "MEDIO"
-                },
-                "1X2Modelo": {
-                    "Local": 27.14,
-                    "Empate": 24.55,
-                    "Visitante": 48.3
-                },
-                "1X2Mercado": {
-                    "Local": 32.5,
-                    "Empate": 28.44,
-                    "Visitante": 39.06
-                },
-                "1X2Final": {
-                    "Local": 28.75,
-                    "Empate": 25.72,
-                    "Visitante": 45.53
-                },
-                "CalibracionV4": {
-                    "PesoModelo": 0.7,
-                    "PesoMercado": 0.3,
-                    "Nota": "Decision final = modelo + mercado; conservar 1X2Modelo para evaluar el motor puro."
-                }
-            },
-            "Select": {
-                "select": false,
-                "favorito": "Ind. Valle del Cauca",
-                "probabilidad_favorito": 48.3,
-                "nofavorito": "Real Santander",
-                "probabilidad_nofavorito": 27.14,
-                "probabilidad_empate": 24.55,
-                "marcador_probable": "1-1",
-                "ultimo_resultado_favorito": "W",
-                "condiciones": {
-                    "favorito_mayor_45": true,
-                    "empate_mayor_nofavorito": false,
-                    "favorito_gano_ultimo": true,
-                    "marcador_confirma_favorito": false
-                }
-            },
-            "Premium": {
-                "premium": false,
-                "favorito": "Ind. Valle del Cauca",
-                "probabilidad_favorito": 48.3,
-                "nofavorito": "Real Santander",
-                "probabilidad_nofavorito": 27.14,
-                "marcador_1": "1-1",
-                "marcador_2": "0-1",
-                "ultimo_resultado_favorito": "W",
-                "ultimo_resultado_nofavorito": "D",
-                "condiciones": {
-                    "favorito_mayor_55": true,
-                    "favorito_gano_ultimo": true,
-                    "marcadores_confirman_favorito": false,
-                    "nofavorito_perdio_ultimo": false
-                }
-            },
-            "MarcadorProbable": {
-                "Primero": {
-                    "Marcador": "1-1",
-                    "Probabilidad": 11.44
-                },
-                "Segundo": {
-                    "Marcador": "0-1",
-                    "Probabilidad": 10.13
-                }
-            }
-        }
-    },
-    {
-        "fecha": "2026-08-24",
         "hora": "17:00",
         "local": "Leones",
         "visitante": "Real Cartagena",
@@ -2583,9 +2229,9 @@
         "hora": "18:00",
         "local": "Ferro Carril Oeste",
         "visitante": "All Boys",
-        "cuota_local": 1.64,
+        "cuota_local": 1.67,
         "cuota_empate": 2.95,
-        "cuota_visitante": 6.75,
+        "cuota_visitante": 6.25,
         "link": "https://www.flashscore.co/partido/futbol/all-boys-M939rYCH/ferro-carril-oeste-z36c0gcb/?mid=f9vmr5Hi",
         "logo_local": "https://static.flashscore.com/res/image/data/lfTJaNDa-hUQs6NC1.png",
         "logo_visitante": "https://static.flashscore.com/res/image/data/Umu7h6h5-OzQboFJC.png",
@@ -2953,12 +2599,12 @@
                 "Favorito": "Local",
                 "ValueBet": {
                     "Mercado": "Visitante",
-                    "Diferencia": 7.68
+                    "Diferencia": 6.62
                 },
                 "Confianza": {
-                    "Valor": 81.11,
+                    "Valor": 80.8,
                     "Nivel": "ALTA",
-                    "MargenVsSegundo": 24.41
+                    "MargenVsSegundo": 24.1
                 },
                 "Riesgo": {
                     "Indice": 43,
@@ -2970,14 +2616,14 @@
                     "Visitante": 21.19
                 },
                 "1X2Mercado": {
-                    "Local": 55.59,
-                    "Empate": 30.9,
-                    "Visitante": 13.51
+                    "Local": 54.55,
+                    "Empate": 30.88,
+                    "Visitante": 14.57
                 },
                 "1X2Final": {
-                    "Local": 52.76,
+                    "Local": 52.45,
                     "Empate": 28.35,
-                    "Visitante": 18.89
+                    "Visitante": 19.2
                 },
                 "CalibracionV4": {
                     "PesoModelo": 0.7,
@@ -3036,7 +2682,7 @@
         "local": "Botafogo",
         "visitante": "Athletico-PR",
         "cuota_local": 2.42,
-        "cuota_empate": 3.35,
+        "cuota_empate": 3.3,
         "cuota_visitante": 2.9,
         "link": "https://www.flashscore.co/partido/futbol/athletico-pr-UoAxb1Tq/botafogo-jXzWoWa5/?mid=YaeGJH67",
         "logo_local": "https://static.flashscore.com/res/image/data/jBDSUABr-ldMpXQG1.png",
@@ -3405,12 +3051,12 @@
                 "Favorito": "Local",
                 "ValueBet": {
                     "Mercado": "Visitante",
-                    "Diferencia": 1.92
+                    "Diferencia": 2.06
                 },
                 "Confianza": {
-                    "Valor": 71.53,
+                    "Valor": 71.44,
                     "Nivel": "ALTA",
-                    "MargenVsSegundo": 3.57
+                    "MargenVsSegundo": 3.56
                 },
                 "Riesgo": {
                     "Indice": 95,
@@ -3422,14 +3068,14 @@
                     "Visitante": 34.56
                 },
                 "1X2Mercado": {
-                    "Local": 39.11,
-                    "Empate": 28.25,
-                    "Visitante": 32.64
+                    "Local": 38.94,
+                    "Empate": 28.56,
+                    "Visitante": 32.5
                 },
                 "1X2Final": {
-                    "Local": 37.55,
-                    "Empate": 28.47,
-                    "Visitante": 33.98
+                    "Local": 37.5,
+                    "Empate": 28.56,
+                    "Visitante": 33.94
                 },
                 "CalibracionV4": {
                     "PesoModelo": 0.7,
@@ -3487,9 +3133,9 @@
         "hora": "17:30",
         "local": "Athletic Club",
         "visitante": "Novorizontino",
-        "cuota_local": 3.25,
-        "cuota_empate": 3.0,
-        "cuota_visitante": 2.32,
+        "cuota_local": 3.35,
+        "cuota_empate": 3.05,
+        "cuota_visitante": 2.25,
         "link": "https://www.flashscore.co/partido/futbol/athletic-club-INXlw5Bp/novorizontino-4lOgZPQl/?mid=U1W9bjjn",
         "logo_local": "https://static.flashscore.com/res/image/data/z3ZOESYA-AmIcMWyl.png",
         "logo_visitante": "https://static.flashscore.com/res/image/data/nuFzysBr-vFrLaFel.png",
@@ -3773,12 +3419,12 @@
                 "Favorito": "Visitante",
                 "ValueBet": {
                     "Mercado": "Local",
-                    "Diferencia": 1.65
+                    "Diferencia": 2.47
                 },
                 "Confianza": {
-                    "Valor": 70.39,
+                    "Valor": 70.52,
                     "Nivel": "ALTA",
-                    "MargenVsSegundo": 10.67
+                    "MargenVsSegundo": 11.3
                 },
                 "Riesgo": {
                     "Indice": 85,
@@ -3790,14 +3436,14 @@
                     "Visitante": 40.66
                 },
                 "1X2Mercado": {
-                    "Local": 28.7,
-                    "Empate": 31.09,
-                    "Visitante": 40.21
+                    "Local": 27.88,
+                    "Empate": 30.62,
+                    "Visitante": 41.51
                 },
                 "1X2Final": {
-                    "Local": 29.86,
-                    "Empate": 29.62,
-                    "Visitante": 40.53
+                    "Local": 29.61,
+                    "Empate": 29.48,
+                    "Visitante": 40.91
                 },
                 "CalibracionV4": {
                     "PesoModelo": 0.7,
@@ -3855,9 +3501,9 @@
         "hora": "17:30",
         "local": "Sport Recife",
         "visitante": "América-MG",
-        "cuota_local": 1.66,
-        "cuota_empate": 3.6,
-        "cuota_visitante": 5.25,
+        "cuota_local": 1.64,
+        "cuota_empate": 3.65,
+        "cuota_visitante": 5.3,
         "link": "https://www.flashscore.co/partido/futbol/america-mineiro-xUT0Bp8o/sport-recife-KIBeGAFO/?mid=zgAjbsd3",
         "logo_local": "https://static.flashscore.com/res/image/data/O0aua6ZA-fezSJdFa.png",
         "logo_visitante": "https://static.flashscore.com/res/image/data/Eut0HLfM-nHqWQgSo.png",
@@ -4225,12 +3871,12 @@
                 "Favorito": "Local",
                 "ValueBet": {
                     "Mercado": "Visitante",
-                    "Diferencia": 4.64
+                    "Diferencia": 4.84
                 },
                 "Confianza": {
-                    "Valor": 78.96,
+                    "Valor": 79.03,
                     "Nivel": "ALTA",
-                    "MargenVsSegundo": 26.78
+                    "MargenVsSegundo": 27.07
                 },
                 "Riesgo": {
                     "Indice": 43,
@@ -4242,14 +3888,14 @@
                     "Visitante": 22.43
                 },
                 "1X2Mercado": {
-                    "Local": 56.27,
-                    "Empate": 25.94,
-                    "Visitante": 17.79
+                    "Local": 56.86,
+                    "Empate": 25.55,
+                    "Visitante": 17.59
                 },
                 "1X2Final": {
-                    "Local": 52.87,
-                    "Empate": 26.09,
-                    "Visitante": 21.04
+                    "Local": 53.05,
+                    "Empate": 25.98,
+                    "Visitante": 20.98
                 },
                 "CalibracionV4": {
                     "PesoModelo": 0.7,
@@ -5614,9 +5260,9 @@
         "hora": "19:00",
         "local": "Libertad",
         "visitante": "Macará",
-        "cuota_local": 3.25,
+        "cuota_local": 3.1,
         "cuota_empate": 3.25,
-        "cuota_visitante": 2.2,
+        "cuota_visitante": 2.28,
         "link": "https://www.flashscore.co/partido/futbol/libertad-vB5IpIzn/macara-QN9rPKwC/?mid=WnniCRqg",
         "logo_local": "https://static.flashscore.com/res/image/data/QN6O3vXg-ERBXCrln.png",
         "logo_visitante": "https://static.flashscore.com/res/image/data/4tKF7Wh5-0C12xtlP.png",
@@ -5914,12 +5560,12 @@
                 "Favorito": "Local",
                 "ValueBet": {
                     "Mercado": "Local",
-                    "Diferencia": 8.14
+                    "Diferencia": 6.72
                 },
                 "Confianza": {
-                    "Valor": 72.68,
+                    "Valor": 72.67,
                     "Nivel": "ALTA",
-                    "MargenVsSegundo": 3.76
+                    "MargenVsSegundo": 2.91
                 },
                 "Riesgo": {
                     "Indice": 95,
@@ -5931,14 +5577,14 @@
                     "Visitante": 36.4
                 },
                 "1X2Mercado": {
-                    "Local": 28.76,
-                    "Empate": 28.76,
-                    "Visitante": 42.48
+                    "Local": 30.18,
+                    "Empate": 28.79,
+                    "Visitante": 41.03
                 },
                 "1X2Final": {
-                    "Local": 34.46,
-                    "Empate": 27.32,
-                    "Visitante": 38.22
+                    "Local": 34.88,
+                    "Empate": 27.33,
+                    "Visitante": 37.79
                 },
                 "CalibracionV4": {
                     "PesoModelo": 0.7,
@@ -5996,9 +5642,9 @@
         "hora": "21:00",
         "local": "Tacoma Defiance",
         "visitante": "Sporting Kansas City II",
-        "cuota_local": 1.73,
-        "cuota_empate": 3.9,
-        "cuota_visitante": 3.55,
+        "cuota_local": 1.57,
+        "cuota_empate": 4.0,
+        "cuota_visitante": 4.33,
         "link": "https://www.flashscore.co/partido/futbol/sporting-kansas-city-AD5jLpbH/tacoma-defiance-dGKp6LW9/?mid=QVkxPTh5",
         "logo_local": "https://static.flashscore.com/res/image/data/zuJHnbwS-EBTQPdMk.png",
         "logo_visitante": "https://static.flashscore.com/res/image/data/23fNMrcM-pft1D8uk.png",
@@ -6351,13 +5997,13 @@
                 },
                 "Favorito": "Local",
                 "ValueBet": {
-                    "Mercado": "Local",
-                    "Diferencia": 4.74
+                    "Mercado": "Visitante",
+                    "Diferencia": 2.72
                 },
                 "Confianza": {
-                    "Valor": 55.11,
+                    "Valor": 56.67,
                     "Nivel": "MEDIA",
-                    "MargenVsSegundo": 31.17
+                    "MargenVsSegundo": 34.11
                 },
                 "Riesgo": {
                     "Indice": 33,
@@ -6369,14 +6015,14 @@
                     "Visitante": 23.38
                 },
                 "1X2Mercado": {
-                    "Local": 51.79,
-                    "Empate": 22.97,
-                    "Visitante": 25.24
+                    "Local": 56.98,
+                    "Empate": 22.36,
+                    "Visitante": 20.66
                 },
                 "1X2Final": {
-                    "Local": 55.11,
-                    "Empate": 20.95,
-                    "Visitante": 23.94
+                    "Local": 56.67,
+                    "Empate": 20.77,
+                    "Visitante": 22.56
                 },
                 "CalibracionV4": {
                     "PesoModelo": 0.7,
@@ -6434,9 +6080,9 @@
         "hora": "20:00",
         "local": "Atlas F",
         "visitante": "Tijuana F",
-        "cuota_local": 3.15,
-        "cuota_empate": 3.5,
-        "cuota_visitante": 2.16,
+        "cuota_local": 2.7,
+        "cuota_empate": 3.4,
+        "cuota_visitante": 2.46,
         "link": "https://www.flashscore.co/partido/futbol/atlas-WUnQsb8U/club-tijuana-zsGcWCUm/?mid=rF3j2qhn",
         "logo_local": "https://static.flashscore.com/res/image/data/QsyWq3Br-QFlMdJyS.png",
         "logo_visitante": "https://static.flashscore.com/res/image/data/nyQiQ3il-vTwfVAOb.png",
@@ -6797,12 +6443,12 @@
                 "Favorito": "Visitante",
                 "ValueBet": {
                     "Mercado": "Visitante",
-                    "Diferencia": 11.35
+                    "Diferencia": 16.81
                 },
                 "Confianza": {
-                    "Valor": 77.13,
+                    "Valor": 76.93,
                     "Nivel": "ALTA",
-                    "MargenVsSegundo": 25.59
+                    "MargenVsSegundo": 22.51
                 },
                 "Riesgo": {
                     "Indice": 33,
@@ -6814,14 +6460,14 @@
                     "Visitante": 54.77
                 },
                 "1X2Mercado": {
-                    "Local": 29.78,
-                    "Empate": 26.8,
-                    "Visitante": 43.42
+                    "Local": 34.58,
+                    "Empate": 27.46,
+                    "Visitante": 37.96
                 },
                 "1X2Final": {
-                    "Local": 25.77,
-                    "Empate": 22.87,
-                    "Visitante": 51.36
+                    "Local": 27.21,
+                    "Empate": 23.07,
+                    "Visitante": 49.72
                 },
                 "CalibracionV4": {
                     "PesoModelo": 0.7,
@@ -7331,8 +6977,8 @@
         "hora": "16:30",
         "local": "12 de Junio",
         "visitante": "Paraguari AC",
-        "cuota_local": 1.57,
-        "cuota_empate": 3.45,
+        "cuota_local": 1.6,
+        "cuota_empate": 3.35,
         "cuota_visitante": 5.1,
         "link": "https://www.flashscore.co/partido/futbol/12-de-junio-jqQfqYl1/paraguari-ac-Slcti31U/?mid=2F0AhNx8",
         "logo_local": "https://static.flashscore.com/res/image/data/ENHhNEh5-G8DKctQf.png",
@@ -7603,12 +7249,12 @@
                 "Favorito": "Local",
                 "ValueBet": {
                     "Mercado": "Visitante",
-                    "Diferencia": 5.85
+                    "Diferencia": 5.8
                 },
                 "Confianza": {
-                    "Valor": 78.44,
+                    "Valor": 78.43,
                     "Nivel": "ALTA",
-                    "MargenVsSegundo": 27.46
+                    "MargenVsSegundo": 26.93
                 },
                 "Riesgo": {
                     "Indice": 58,
@@ -7620,14 +7266,14 @@
                     "Visitante": 23.31
                 },
                 "1X2Mercado": {
-                    "Local": 56.72,
-                    "Empate": 25.81,
-                    "Visitante": 17.46
+                    "Local": 55.82,
+                    "Empate": 26.66,
+                    "Visitante": 17.51
                 },
                 "1X2Final": {
-                    "Local": 52.95,
-                    "Empate": 25.49,
-                    "Visitante": 21.56
+                    "Local": 52.68,
+                    "Empate": 25.75,
+                    "Visitante": 21.57
                 },
                 "CalibracionV4": {
                     "PesoModelo": 0.7,
@@ -8589,8 +8235,8 @@
         "hora": "15:30",
         "local": "Boca Juniors",
         "visitante": "Bogotá",
-        "cuota_local": 2.25,
-        "cuota_empate": 3.0,
+        "cuota_local": 2.3,
+        "cuota_empate": 2.95,
         "cuota_visitante": 3.1,
         "link": "https://www.flashscore.co/partido/futbol/boca-juniors-de-cali-6yoKBtoR/bogota-foERz7de/?mid=GQlDLcxP",
         "logo_local": "https://static.flashscore.com/res/image/data/KtChAhe5-YkXz5hTm.png",
@@ -8959,12 +8605,12 @@
                 "Favorito": "Local",
                 "ValueBet": {
                     "Mercado": "Local",
-                    "Diferencia": 5.75
+                    "Diferencia": 6.48
                 },
                 "Confianza": {
-                    "Valor": 73.13,
+                    "Valor": 73.11,
                     "Nivel": "ALTA",
-                    "MargenVsSegundo": 15.69
+                    "MargenVsSegundo": 15.29
                 },
                 "Riesgo": {
                     "Indice": 68,
@@ -8976,14 +8622,14 @@
                     "Visitante": 25.81
                 },
                 "1X2Mercado": {
-                    "Local": 40.39,
-                    "Empate": 30.29,
-                    "Visitante": 29.32
+                    "Local": 39.66,
+                    "Empate": 30.92,
+                    "Visitante": 29.42
                 },
                 "1X2Final": {
-                    "Local": 44.41,
-                    "Empate": 28.72,
-                    "Visitante": 26.86
+                    "Local": 44.2,
+                    "Empate": 28.91,
+                    "Visitante": 26.89
                 },
                 "CalibracionV4": {
                     "PesoModelo": 0.7,
@@ -10209,8 +9855,8 @@
         "local": "Ind. del Valle (Ecu)",
         "visitante": "Tolima (Col)",
         "cuota_local": 1.59,
-        "cuota_empate": 3.9,
-        "cuota_visitante": 6.6,
+        "cuota_empate": 3.95,
+        "cuota_visitante": 6.4,
         "link": "https://www.flashscore.co/partido/futbol/independiente-del-valle-YFwXD2sh/tolima-bLphhbYf/?mid=MJR289Ic",
         "logo_local": "https://static.flashscore.com/res/image/data/t8nwTpe5-OnCKiY2r.png",
         "logo_visitante": "https://static.flashscore.com/res/image/data/ngiuiwYg-IVYXEpED.png",
@@ -10494,12 +10140,12 @@
                 "Favorito": "Local",
                 "ValueBet": {
                     "Mercado": "Visitante",
-                    "Diferencia": 16.96
+                    "Diferencia": 16.52
                 },
                 "Confianza": {
-                    "Valor": 73.52,
+                    "Valor": 73.39,
                     "Nivel": "ALTA",
-                    "MargenVsSegundo": 15.96
+                    "MargenVsSegundo": 16.05
                 },
                 "Riesgo": {
                     "Indice": 80,
@@ -10511,14 +10157,14 @@
                     "Visitante": 31.57
                 },
                 "1X2Mercado": {
-                    "Local": 60.66,
-                    "Empate": 24.73,
-                    "Visitante": 14.61
+                    "Local": 60.57,
+                    "Empate": 24.38,
+                    "Visitante": 15.05
                 },
                 "1X2Final": {
-                    "Local": 44.74,
-                    "Empate": 28.78,
-                    "Visitante": 26.48
+                    "Local": 44.72,
+                    "Empate": 28.67,
+                    "Visitante": 26.61
                 },
                 "CalibracionV4": {
                     "PesoModelo": 0.7,
@@ -10576,9 +10222,9 @@
         "hora": "12:00",
         "local": "Lokomotive Leipzig",
         "visitante": "Chemnitzer",
-        "cuota_local": 1.9,
-        "cuota_empate": 3.65,
-        "cuota_visitante": 3.35,
+        "cuota_local": 1.95,
+        "cuota_empate": 3.6,
+        "cuota_visitante": 3.25,
         "link": "https://www.flashscore.co/partido/futbol/chemnitzer-YJkVv3xq/lokomotive-leipzig-WtfIuJd0/?mid=25qOAAbK",
         "logo_local": "https://static.flashscore.com/res/image/data/hQZV62Ar-YqrtLoTa.png",
         "logo_visitante": "https://static.flashscore.com/res/image/data/KY9gMKxS-ncNaLxYl.png",
@@ -10946,12 +10592,12 @@
                 "Favorito": "Visitante",
                 "ValueBet": {
                     "Mercado": "Visitante",
-                    "Diferencia": 20.32
+                    "Diferencia": 19.47
                 },
                 "Confianza": {
-                    "Valor": 77.42,
+                    "Valor": 77.3,
                     "Nivel": "ALTA",
-                    "MargenVsSegundo": 5.38
+                    "MargenVsSegundo": 6.0
                 },
                 "Riesgo": {
                     "Indice": 60,
@@ -10963,14 +10609,14 @@
                     "Visitante": 47.49
                 },
                 "1X2Mercado": {
-                    "Local": 47.9,
-                    "Empate": 24.93,
-                    "Visitante": 27.17
+                    "Local": 46.69,
+                    "Empate": 25.29,
+                    "Visitante": 28.02
                 },
                 "1X2Final": {
-                    "Local": 36.02,
-                    "Empate": 22.59,
-                    "Visitante": 41.4
+                    "Local": 35.65,
+                    "Empate": 22.69,
+                    "Visitante": 41.65
                 },
                 "CalibracionV4": {
                     "PesoModelo": 0.7,
@@ -11028,9 +10674,9 @@
         "hora": "12:00",
         "local": "Magdeburg II",
         "visitante": "Chemie Leipzig",
-        "cuota_local": 2.4,
+        "cuota_local": 2.3,
         "cuota_empate": 3.4,
-        "cuota_visitante": 2.55,
+        "cuota_visitante": 2.7,
         "link": "https://www.flashscore.co/partido/futbol/chemie-leipzig-CWKQ21qB/magdeburg-nuLW8Iz8/?mid=CIR3NmrQ",
         "logo_local": "https://static.flashscore.com/res/image/data/C6eCl6il-SWC54MaB.png",
         "logo_visitante": "https://static.flashscore.com/res/image/data/xpUx2Ef5-SS8iIa8o.png",
@@ -11314,12 +10960,12 @@
                 "Favorito": "Local",
                 "ValueBet": {
                     "Mercado": "Local",
-                    "Diferencia": 15.65
+                    "Diferencia": 13.88
                 },
                 "Confianza": {
-                    "Valor": 77.22,
+                    "Valor": 77.19,
                     "Nivel": "ALTA",
-                    "MargenVsSegundo": 20.26
+                    "MargenVsSegundo": 21.35
                 },
                 "Riesgo": {
                     "Indice": 43,
@@ -11331,14 +10977,14 @@
                     "Visitante": 25.44
                 },
                 "1X2Mercado": {
-                    "Local": 37.78,
-                    "Empate": 26.67,
-                    "Visitante": 35.56
+                    "Local": 39.55,
+                    "Empate": 26.76,
+                    "Visitante": 33.69
                 },
                 "1X2Final": {
-                    "Local": 48.74,
-                    "Empate": 22.79,
-                    "Visitante": 28.48
+                    "Local": 49.27,
+                    "Empate": 22.81,
+                    "Visitante": 27.92
                 },
                 "CalibracionV4": {
                     "PesoModelo": 0.7,
@@ -13474,9 +13120,9 @@
         "hora": "13:00",
         "local": "San Martín Burzaco",
         "visitante": "Argentino de Quilmes",
-        "cuota_local": 2.3,
-        "cuota_empate": 2.9,
-        "cuota_visitante": 3.1,
+        "cuota_local": 2.33,
+        "cuota_empate": 2.85,
+        "cuota_visitante": 3.2,
         "link": "https://www.flashscore.co/partido/futbol/argentino-de-quilmes-ITpYXmZp/san-martin-burzaco-lUMGvZZ2/?mid=4CBlG8S1",
         "logo_local": "https://static.flashscore.com/res/image/data/dhLtv4yB-S44bPeEj.png",
         "logo_visitante": "https://static.flashscore.com/res/image/data/dUGbJPYg-K8I9pcGP.png",
@@ -13844,12 +13490,12 @@
                 "Favorito": "Visitante",
                 "ValueBet": {
                     "Mercado": "Visitante",
-                    "Diferencia": 7.7
+                    "Diferencia": 8.37
                 },
                 "Confianza": {
-                    "Valor": 68.31,
+                    "Valor": 68.36,
                     "Nivel": "ALTA",
-                    "MargenVsSegundo": 1.01
+                    "MargenVsSegundo": 0.56
                 },
                 "Riesgo": {
                     "Indice": 93,
@@ -13861,14 +13507,14 @@
                     "Visitante": 36.97
                 },
                 "1X2Mercado": {
-                    "Local": 39.45,
-                    "Empate": 31.29,
-                    "Visitante": 29.27
+                    "Local": 39.28,
+                    "Empate": 32.12,
+                    "Visitante": 28.6
                 },
                 "1X2Final": {
-                    "Local": 31.69,
-                    "Empate": 33.65,
-                    "Visitante": 34.66
+                    "Local": 31.64,
+                    "Empate": 33.9,
+                    "Visitante": 34.46
                 },
                 "CalibracionV4": {
                     "PesoModelo": 0.7,
@@ -14767,8 +14413,8 @@
         "hora": "13:00",
         "local": "Villa Dálmine",
         "visitante": "Talleres (R.E)",
-        "cuota_local": 2.88,
-        "cuota_empate": 2.6,
+        "cuota_local": 2.85,
+        "cuota_empate": 2.65,
         "cuota_visitante": 2.7,
         "link": "https://www.flashscore.co/partido/futbol/talleres-remedios-escalada-ABogdBtb/villa-dalmine-AHxDsv5I/?mid=SQA8JMHd",
         "logo_local": "https://static.flashscore.com/res/image/data/v1Dtosjl-rgWldIyA.png",
@@ -15081,12 +14727,12 @@
                 "Favorito": "Local",
                 "ValueBet": {
                     "Mercado": "Local",
-                    "Diferencia": 3.34
+                    "Diferencia": 2.9
                 },
                 "Confianza": {
-                    "Valor": 67.23,
+                    "Valor": 67.19,
                     "Nivel": "ALTA",
-                    "MargenVsSegundo": 0.45
+                    "MargenVsSegundo": 0.75
                 },
                 "Riesgo": {
                     "Indice": 100,
@@ -15098,14 +14744,14 @@
                     "Visitante": 32.42
                 },
                 "1X2Mercado": {
-                    "Local": 31.5,
-                    "Empate": 34.89,
-                    "Visitante": 33.6
+                    "Local": 31.94,
+                    "Empate": 34.35,
+                    "Visitante": 33.71
                 },
                 "1X2Final": {
-                    "Local": 33.84,
-                    "Empate": 33.39,
-                    "Visitante": 32.78
+                    "Local": 33.97,
+                    "Empate": 33.22,
+                    "Visitante": 32.81
                 },
                 "CalibracionV4": {
                     "PesoModelo": 0.7,
@@ -17642,367 +17288,6 @@
     {
         "fecha": "2026-08-25",
         "hora": "13:00",
-        "local": "San Martín S.J. 2",
-        "visitante": "Huracán 2",
-        "cuota_local": 4.8,
-        "cuota_empate": 4.0,
-        "cuota_visitante": 1.53,
-        "link": "https://www.flashscore.co/partido/futbol/san-martin-s-j-IZhsWIke/tres-arroyos-OlmBfqnn/?mid=KETJ0jz2",
-        "logo_local": "https://static.flashscore.com/res/image/data/YV1uaXeM-4x4cCPZJ.png",
-        "logo_visitante": "https://static.flashscore.com/res/image/data/2Ta8Lril-jLbMVaK6.png",
-        "pais": "ARGENTINA",
-        "liga": "DIVISIÓN RESERVA - CLAUSURA - JORNADA 6",
-        "h2h": {
-            "LOCAL10": [
-                {
-                    "fecha": "19.08.26",
-                    "local": "Ferro Carril Oeste 2",
-                    "visitante": "San Martín S.J. 2",
-                    "goles_local": "0",
-                    "goles_visitante": "5"
-                },
-                {
-                    "fecha": "12.08.26",
-                    "local": "San Martín S.J. 2",
-                    "visitante": "Boca Jrs. 2",
-                    "goles_local": "0",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "05.08.26",
-                    "local": "Independiente 2",
-                    "visitante": "San Martín S.J. 2",
-                    "goles_local": "9",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "23.07.26",
-                    "local": "San Martín S.J. 2",
-                    "visitante": "Atl. Rafaela 2",
-                    "goles_local": "0",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "16.07.26",
-                    "local": "Platense 2",
-                    "visitante": "San Martín S.J. 2",
-                    "goles_local": "0",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "18.06.26",
-                    "local": "Quilmes 2",
-                    "visitante": "San Martín S.J. 2",
-                    "goles_local": "6",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "10.06.26",
-                    "local": "San Martín S.J. 2",
-                    "visitante": "Estudiantes L.P. 2",
-                    "goles_local": "0",
-                    "goles_visitante": "4"
-                },
-                {
-                    "fecha": "04.06.26",
-                    "local": "Central Córdoba 2",
-                    "visitante": "San Martín S.J. 2",
-                    "goles_local": "3",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "26.05.26",
-                    "local": "San Martín S.J. 2",
-                    "visitante": "Colon Santa Fe 2",
-                    "goles_local": "1",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "19.05.26",
-                    "local": "San Martín S.J. 2",
-                    "visitante": "Independiente Rivadavia 2",
-                    "goles_local": "0",
-                    "goles_visitante": "2"
-                },
-                {
-                    "fecha": "14.05.26",
-                    "local": "Deportivo Riestra 2",
-                    "visitante": "San Martín S.J. 2",
-                    "goles_local": "2",
-                    "goles_visitante": "2"
-                },
-                {
-                    "fecha": "07.05.26",
-                    "local": "San Martín S.J. 2",
-                    "visitante": "Belgrano 2",
-                    "goles_local": "1",
-                    "goles_visitante": "2"
-                },
-                {
-                    "fecha": "29.04.26",
-                    "local": "Lanús 2",
-                    "visitante": "San Martín S.J. 2",
-                    "goles_local": "6",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "22.04.26",
-                    "local": "Godoy Cruz 2",
-                    "visitante": "San Martín S.J. 2",
-                    "goles_local": "1",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "14.04.26",
-                    "local": "San Martín S.J. 2",
-                    "visitante": "Newell's 2",
-                    "goles_local": "2",
-                    "goles_visitante": "1"
-                }
-            ],
-            "VISITANTE10": [
-                {
-                    "fecha": "19.08.26",
-                    "local": "Huracán 2",
-                    "visitante": "Independiente Rivadavia 2",
-                    "goles_local": "2",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "11.08.26",
-                    "local": "Deportivo Riestra 2",
-                    "visitante": "Huracán 2",
-                    "goles_local": "1",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "04.08.26",
-                    "local": "Huracán 2",
-                    "visitante": "Belgrano 2",
-                    "goles_local": "0",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "23.07.26",
-                    "local": "Lanús 2",
-                    "visitante": "Huracán 2",
-                    "goles_local": "1",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "16.07.26",
-                    "local": "Huracán 2",
-                    "visitante": "Newell's 2",
-                    "goles_local": "1",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "18.06.26",
-                    "local": "Huracán 2",
-                    "visitante": "Defensa y Justicia 2",
-                    "goles_local": "1",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "10.06.26",
-                    "local": "Estudiantes Rio Cuarto 2",
-                    "visitante": "Huracán 2",
-                    "goles_local": "1",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "02.06.26",
-                    "local": "Colon Santa Fe 2",
-                    "visitante": "Huracán 2",
-                    "goles_local": "3",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "26.05.26",
-                    "local": "Huracán 2",
-                    "visitante": "Ferro Carril Oeste 2",
-                    "goles_local": "2",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "20.05.26",
-                    "local": "Boca Jrs. 2",
-                    "visitante": "Huracán 2",
-                    "goles_local": "1",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "14.05.26",
-                    "local": "Huracán 2",
-                    "visitante": "Independiente 2",
-                    "goles_local": "1",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "05.05.26",
-                    "local": "Atl. Rafaela 2",
-                    "visitante": "Huracán 2",
-                    "goles_local": "1",
-                    "goles_visitante": "2"
-                },
-                {
-                    "fecha": "30.04.26",
-                    "local": "Huracán 2",
-                    "visitante": "Platense 2",
-                    "goles_local": "0",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "23.04.26",
-                    "local": "Huracán 2",
-                    "visitante": "San Lorenzo 2",
-                    "goles_local": "0",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "15.04.26",
-                    "local": "Quilmes 2",
-                    "visitante": "Huracán 2",
-                    "goles_local": "0",
-                    "goles_visitante": "0"
-                }
-            ],
-            "H2H": [
-                {
-                    "fecha": "26.03.26",
-                    "local": "Huracán 2",
-                    "visitante": "San Martín S.J. 2",
-                    "goles_local": "6",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "11.06.25",
-                    "local": "San Martín S.J. 2",
-                    "visitante": "Huracán 2",
-                    "goles_local": "3",
-                    "goles_visitante": "1"
-                }
-            ]
-        },
-        "analisis": {
-            "PronosticoFinal": {
-                "PickPrincipal": "Doble Oportunidad X2",
-                "1X2": {
-                    "Local": 25.59,
-                    "Empate": 27.03,
-                    "Visitante": 47.37
-                },
-                "BTTS": {
-                    "Pronostico": "NO",
-                    "SI": 44.38,
-                    "NO": 55.62,
-                    "LocalMarca": 60.99,
-                    "VisitanteMarca": 76.99,
-                    "Consenso": "MUY_ALTO",
-                    "Confianza": 86.58
-                },
-                "Over25": {
-                    "Pronostico": "UNDER",
-                    "OVER": 43.7,
-                    "UNDER": 56.3
-                },
-                "DobleOportunidad": {
-                    "Mercado": "X2",
-                    "Probabilidad": 74.4
-                },
-                "MarcadoresProbables": {
-                    "Primero": {
-                        "Marcador": "0-1",
-                        "Probabilidad": 12.58
-                    },
-                    "Segundo": {
-                        "Marcador": "1-1",
-                        "Probabilidad": 12.52
-                    }
-                },
-                "Favorito": "Visitante",
-                "ValueBet": {
-                    "Mercado": "Local",
-                    "Diferencia": 6.85
-                },
-                "Confianza": {
-                    "Valor": 76.47,
-                    "Nivel": "ALTA",
-                    "MargenVsSegundo": 25.13
-                },
-                "Riesgo": {
-                    "Indice": 58,
-                    "Nivel": "MEDIO"
-                },
-                "1X2Modelo": {
-                    "Local": 25.59,
-                    "Empate": 27.03,
-                    "Visitante": 47.37
-                },
-                "1X2Mercado": {
-                    "Local": 18.74,
-                    "Empate": 22.48,
-                    "Visitante": 58.78
-                },
-                "1X2Final": {
-                    "Local": 23.54,
-                    "Empate": 25.67,
-                    "Visitante": 50.8
-                },
-                "CalibracionV4": {
-                    "PesoModelo": 0.7,
-                    "PesoMercado": 0.3,
-                    "Nota": "Decision final = modelo + mercado; conservar 1X2Modelo para evaluar el motor puro."
-                }
-            },
-            "Select": {
-                "select": true,
-                "favorito": "Huracán 2",
-                "probabilidad_favorito": 47.37,
-                "nofavorito": "San Martín S.J. 2",
-                "probabilidad_nofavorito": 25.59,
-                "probabilidad_empate": 27.03,
-                "marcador_probable": "0-1",
-                "ultimo_resultado_favorito": "W",
-                "condiciones": {
-                    "favorito_mayor_45": true,
-                    "empate_mayor_nofavorito": true,
-                    "favorito_gano_ultimo": true,
-                    "marcador_confirma_favorito": true
-                }
-            },
-            "Premium": {
-                "premium": false,
-                "favorito": "Huracán 2",
-                "probabilidad_favorito": 47.37,
-                "nofavorito": "San Martín S.J. 2",
-                "probabilidad_nofavorito": 25.59,
-                "marcador_1": "0-1",
-                "marcador_2": "1-1",
-                "ultimo_resultado_favorito": "W",
-                "ultimo_resultado_nofavorito": "W",
-                "condiciones": {
-                    "favorito_mayor_55": true,
-                    "favorito_gano_ultimo": true,
-                    "marcadores_confirman_favorito": false,
-                    "nofavorito_perdio_ultimo": false
-                }
-            },
-            "MarcadorProbable": {
-                "Primero": {
-                    "Marcador": "0-1",
-                    "Probabilidad": 12.58
-                },
-                "Segundo": {
-                    "Marcador": "1-1",
-                    "Probabilidad": 12.52
-                }
-            }
-        }
-    },
-    {
-        "fecha": "2026-08-25",
-        "hora": "13:00",
         "local": "Sarmiento 2",
         "visitante": "Aldosivi 2",
         "cuota_local": 2.27,
@@ -20353,9 +19638,9 @@
         "hora": "17:30",
         "local": "Juventude",
         "visitante": "CRB",
-        "cuota_local": 1.9,
+        "cuota_local": 1.96,
         "cuota_empate": 3.2,
-        "cuota_visitante": 4.35,
+        "cuota_visitante": 4.1,
         "link": "https://www.flashscore.co/partido/futbol/crb-QHa3bLrj/ec-juventude-GS36K259/?mid=fN66faeS",
         "logo_local": "https://static.flashscore.com/res/image/data/CA0V6qXg-v5wBaFPD.png",
         "logo_visitante": "https://static.flashscore.com/res/image/data/QuqDEgh5-6oItt2Br.png",
@@ -20709,12 +19994,12 @@
                 "Favorito": "Local",
                 "ValueBet": {
                     "Mercado": "Visitante",
-                    "Diferencia": 8.49
+                    "Diferencia": 7.13
                 },
                 "Confianza": {
-                    "Valor": 72.55,
+                    "Valor": 72.14,
                     "Nivel": "ALTA",
-                    "MargenVsSegundo": 12.91
+                    "MargenVsSegundo": 12.46
                 },
                 "Riesgo": {
                     "Indice": 100,
@@ -20726,14 +20011,14 @@
                     "Visitante": 30.0
                 },
                 "1X2Mercado": {
-                    "Local": 49.25,
-                    "Empate": 29.24,
-                    "Visitante": 21.51
+                    "Local": 47.83,
+                    "Empate": 29.3,
+                    "Visitante": 22.87
                 },
                 "1X2Final": {
-                    "Local": 42.73,
-                    "Empate": 29.82,
-                    "Visitante": 27.45
+                    "Local": 42.3,
+                    "Empate": 29.84,
+                    "Visitante": 27.86
                 },
                 "CalibracionV4": {
                     "PesoModelo": 0.7,
@@ -29993,9 +29278,9 @@
         "hora": "13:45",
         "local": "Ashton Utd",
         "visitante": "Ilkeston",
-        "cuota_local": 1.72,
-        "cuota_empate": 3.8,
-        "cuota_visitante": 4.1,
+        "cuota_local": 1.7,
+        "cuota_empate": 4.0,
+        "cuota_visitante": 4.0,
         "link": "https://www.flashscore.co/partido/futbol/ashton-united-IJk20hia/ilkeston-EVvhz9fm/?mid=EmZKMHas",
         "logo_local": "https://static.flashscore.com/res/image/data/jihQY6jl-W2ruJF4r.png",
         "logo_visitante": "https://static.flashscore.com/res/image/data/UgOtCiGG-hdRYHJkf.png",
@@ -30300,12 +29585,12 @@
                 "Favorito": "Local",
                 "ValueBet": {
                     "Mercado": "Visitante",
-                    "Diferencia": 3.53
+                    "Diferencia": 2.97
                 },
                 "Confianza": {
-                    "Valor": 75.49,
+                    "Valor": 75.85,
                     "Nivel": "ALTA",
-                    "MargenVsSegundo": 25.73
+                    "MargenVsSegundo": 25.75
                 },
                 "Riesgo": {
                     "Indice": 53,
@@ -30317,14 +29602,14 @@
                     "Visitante": 25.94
                 },
                 "1X2Mercado": {
-                    "Local": 53.41,
-                    "Empate": 24.18,
-                    "Visitante": 22.41
+                    "Local": 54.05,
+                    "Empate": 22.97,
+                    "Visitante": 22.97
                 },
                 "1X2Final": {
-                    "Local": 50.61,
-                    "Empate": 24.51,
-                    "Visitante": 24.88
+                    "Local": 50.8,
+                    "Empate": 24.15,
+                    "Visitante": 25.05
                 },
                 "CalibracionV4": {
                     "PesoModelo": 0.7,
@@ -32581,7 +31866,7 @@
         "local": "Warrington",
         "visitante": "Curzon Ashton",
         "cuota_local": 2.07,
-        "cuota_empate": 3.4,
+        "cuota_empate": 3.35,
         "cuota_visitante": 3.2,
         "link": "https://www.flashscore.co/partido/futbol/curzon-ashton-ptSq4fq3/warrington-town-dYpm9gCD/?mid=4hYFVCrC",
         "logo_local": "https://static.flashscore.com/res/image/data/844wLzvS-dUDxzbGu.png",
@@ -32880,12 +32165,12 @@
                 "Favorito": "Local",
                 "ValueBet": {
                     "Mercado": "Local",
-                    "Diferencia": 11.03
+                    "Diferencia": 11.21
                 },
                 "Confianza": {
-                    "Valor": 76.75,
+                    "Valor": 76.66,
                     "Nivel": "ALTA",
-                    "MargenVsSegundo": 27.35
+                    "MargenVsSegundo": 27.34
                 },
                 "Riesgo": {
                     "Indice": 33,
@@ -32897,14 +32182,14 @@
                     "Visitante": 22.99
                 },
                 "1X2Mercado": {
-                    "Local": 44.33,
-                    "Empate": 26.99,
-                    "Visitante": 28.68
+                    "Local": 44.15,
+                    "Empate": 27.28,
+                    "Visitante": 28.56
                 },
                 "1X2Final": {
-                    "Local": 52.05,
-                    "Empate": 23.25,
-                    "Visitante": 24.7
+                    "Local": 52.0,
+                    "Empate": 23.34,
+                    "Visitante": 24.66
                 },
                 "CalibracionV4": {
                     "PesoModelo": 0.7,
@@ -32962,9 +32247,9 @@
         "hora": "13:00",
         "local": "Cardiff",
         "visitante": "Norwich",
-        "cuota_local": 2.7,
+        "cuota_local": 2.72,
         "cuota_empate": 3.55,
-        "cuota_visitante": 2.45,
+        "cuota_visitante": 2.44,
         "link": "https://www.flashscore.co/partido/futbol/cardiff-hO8wh6aP/norwich-Qo6off6p/?mid=OduLTroe",
         "logo_local": "https://static.flashscore.com/res/image/data/4KcsH9xS-x4VfTaKj.png",
         "logo_visitante": "https://static.flashscore.com/res/image/data/CY8Xm4wS-tCGtX12c.png",
@@ -33332,12 +32617,12 @@
                 "Favorito": "Local",
                 "ValueBet": {
                     "Mercado": "Local",
-                    "Diferencia": 20.19
+                    "Diferencia": 20.41
                 },
                 "Confianza": {
-                    "Valor": 77.72,
+                    "Valor": 77.71,
                     "Nivel": "ALTA",
-                    "MargenVsSegundo": 20.4
+                    "MargenVsSegundo": 20.29
                 },
                 "Riesgo": {
                     "Indice": 33,
@@ -33349,14 +32634,14 @@
                     "Visitante": 24.44
                 },
                 "1X2Mercado": {
-                    "Local": 34.93,
-                    "Empate": 26.57,
-                    "Visitante": 38.5
+                    "Local": 34.71,
+                    "Empate": 26.6,
+                    "Visitante": 38.69
                 },
                 "1X2Final": {
-                    "Local": 49.06,
-                    "Empate": 22.28,
-                    "Visitante": 28.66
+                    "Local": 49.0,
+                    "Empate": 22.29,
+                    "Visitante": 28.71
                 },
                 "CalibracionV4": {
                     "PesoModelo": 0.7,
@@ -41709,7 +40994,7 @@
         "local": "Millwall Sub-21",
         "visitante": "Huddersfield Sub-21",
         "cuota_local": 2.1,
-        "cuota_empate": 4.0,
+        "cuota_empate": 3.95,
         "cuota_visitante": 2.7,
         "link": "https://www.flashscore.co/partido/futbol/huddersfield-SOSHkSvO/millwall-6FRLlnfU/?mid=KIBxTVIk",
         "logo_local": "https://static.flashscore.com/res/image/data/vReqJmCr-EVV6AV0E.png",
@@ -41980,12 +41265,12 @@
                 "Favorito": "Visitante",
                 "ValueBet": {
                     "Mercado": "Visitante",
-                    "Diferencia": 27.83
+                    "Diferencia": 27.93
                 },
                 "Confianza": {
-                    "Valor": 79.74,
+                    "Valor": 79.67,
                     "Nivel": "ALTA",
-                    "MargenVsSegundo": 26.78
+                    "MargenVsSegundo": 26.79
                 },
                 "Riesgo": {
                     "Indice": 25,
@@ -41997,14 +41282,14 @@
                     "Visitante": 61.61
                 },
                 "1X2Mercado": {
-                    "Local": 43.43,
-                    "Empate": 22.8,
-                    "Visitante": 33.78
+                    "Local": 43.3,
+                    "Empate": 23.02,
+                    "Visitante": 33.68
                 },
                 "1X2Final": {
-                    "Local": 26.48,
-                    "Empate": 20.26,
-                    "Visitante": 53.26
+                    "Local": 26.44,
+                    "Empate": 20.33,
+                    "Visitante": 53.23
                 },
                 "CalibracionV4": {
                     "PesoModelo": 0.7,
@@ -47229,9 +46514,9 @@
         "hora": "19:30",
         "local": "Monterrey",
         "visitante": "Chicago Fire",
-        "cuota_local": 2.94,
+        "cuota_local": 3.0,
         "cuota_empate": 3.75,
-        "cuota_visitante": 2.2,
+        "cuota_visitante": 2.18,
         "link": "https://www.flashscore.co/partido/futbol/chicago-fire-UwAwNo2E/monterrey-Ya23C2Zs/?mid=lQgSs0Fr",
         "logo_local": "https://static.flashscore.com/res/image/data/OhiFOJDa-MVPKYVvK.png",
         "logo_visitante": "https://static.flashscore.com/res/image/data/2k9tZ9EG-0lw00xPr.png",
@@ -47493,12 +46778,12 @@
                 "Favorito": "Local",
                 "ValueBet": {
                     "Mercado": "Local",
-                    "Diferencia": 8.74
+                    "Diferencia": 9.31
                 },
                 "Confianza": {
-                    "Valor": 76.25,
+                    "Valor": 76.23,
                     "Nivel": "ALTA",
-                    "MargenVsSegundo": 0.09
+                    "MargenVsSegundo": 0.23
                 },
                 "Riesgo": {
                     "Indice": 95,
@@ -47510,14 +46795,14 @@
                     "Visitante": 36.05
                 },
                 "1X2Mercado": {
-                    "Local": 32.05,
-                    "Empate": 25.13,
-                    "Visitante": 42.83
+                    "Local": 31.48,
+                    "Empate": 25.19,
+                    "Visitante": 43.33
                 },
                 "1X2Final": {
-                    "Local": 38.17,
-                    "Empate": 23.75,
-                    "Visitante": 38.08
+                    "Local": 38.0,
+                    "Empate": 23.77,
+                    "Visitante": 38.23
                 },
                 "CalibracionV4": {
                     "PesoModelo": 0.7,
@@ -48756,9 +48041,9 @@
         "hora": "16:30",
         "local": "Sol de América",
         "visitante": "Sportivo Trinidense",
-        "cuota_local": 3.8,
-        "cuota_empate": 3.1,
-        "cuota_visitante": 1.91,
+        "cuota_local": 4.0,
+        "cuota_empate": 3.2,
+        "cuota_visitante": 1.85,
         "link": "https://www.flashscore.co/partido/futbol/sol-de-america-WMg3uAeT/sportivo-trinidense-WdYZQrTO/?mid=zNNfulNp",
         "logo_local": "https://static.flashscore.com/res/image/data/nNN8rze5-UJLaZhBP.png",
         "logo_visitante": "https://static.flashscore.com/res/image/data/h0WsLVGG-hpyVjm6H.png",
@@ -49126,12 +48411,12 @@
                 "Favorito": "Visitante",
                 "ValueBet": {
                     "Mercado": "Local",
-                    "Diferencia": 12.44
+                    "Diferencia": 13.5
                 },
                 "Confianza": {
-                    "Valor": 72.81,
+                    "Valor": 73.03,
                     "Nivel": "ALTA",
-                    "MargenVsSegundo": 7.95
+                    "MargenVsSegundo": 8.81
                 },
                 "Riesgo": {
                     "Indice": 95,
@@ -49143,14 +48428,14 @@
                     "Visitante": 37.45
                 },
                 "1X2Mercado": {
-                    "Local": 23.72,
-                    "Empate": 29.08,
-                    "Visitante": 47.2
+                    "Local": 22.66,
+                    "Empate": 28.33,
+                    "Visitante": 49.0
                 },
                 "1X2Final": {
-                    "Local": 32.43,
-                    "Empate": 27.2,
-                    "Visitante": 40.38
+                    "Local": 32.11,
+                    "Empate": 26.97,
+                    "Visitante": 40.92
                 },
                 "CalibracionV4": {
                     "PesoModelo": 0.7,
@@ -52165,7 +51450,7 @@
         "visitante": "Atlántico",
         "cuota_local": 2.77,
         "cuota_empate": 3.2,
-        "cuota_visitante": 2.3,
+        "cuota_visitante": 2.27,
         "link": "https://www.flashscore.co/partido/futbol/atlantico-fc-MXjk86OJ/don-bosco-jarabacoa-8v8mfWDH/?mid=KnDa65Sb",
         "logo_local": "https://static.flashscore.com/res/image/data/pOaH61HG-dSdBiwoB.png",
         "logo_visitante": "https://static.flashscore.com/res/image/data/ClJmpshl-8xDm446G.png",
@@ -52519,12 +51804,12 @@
                 "Favorito": "Visitante",
                 "ValueBet": {
                     "Mercado": "Visitante",
-                    "Diferencia": 3.12
+                    "Diferencia": 2.81
                 },
                 "Confianza": {
-                    "Valor": 73.01,
+                    "Valor": 73.07,
                     "Nivel": "ALTA",
-                    "MargenVsSegundo": 9.81
+                    "MargenVsSegundo": 9.95
                 },
                 "Riesgo": {
                     "Indice": 78,
@@ -52536,14 +51821,14 @@
                     "Visitante": 42.35
                 },
                 "1X2Mercado": {
-                    "Local": 32.57,
-                    "Empate": 28.2,
-                    "Visitante": 39.23
+                    "Local": 32.41,
+                    "Empate": 28.05,
+                    "Visitante": 39.54
                 },
                 "1X2Final": {
-                    "Local": 31.6,
-                    "Empate": 26.98,
-                    "Visitante": 41.41
+                    "Local": 31.56,
+                    "Empate": 26.94,
+                    "Visitante": 41.51
                 },
                 "CalibracionV4": {
                     "PesoModelo": 0.7,
@@ -62623,7 +61908,7 @@
         "local": "Celje (Slo)",
         "visitante": "Slovan Bratislava (Svk)",
         "cuota_local": 2.34,
-        "cuota_empate": 3.25,
+        "cuota_empate": 3.2,
         "cuota_visitante": 3.0,
         "link": "https://www.flashscore.co/partido/futbol/celje-SpbURe4O/slovan-bratislava-QRaWdwQf/?mid=67VRHb7k",
         "logo_local": "https://static.flashscore.com/res/image/data/jiVoHjdM-juuH5vx4.png",
@@ -62908,12 +62193,12 @@
                 "Favorito": "Local",
                 "ValueBet": {
                     "Mercado": "Empate",
-                    "Diferencia": 1.71
+                    "Diferencia": 1.39
                 },
                 "Confianza": {
-                    "Valor": 70.0,
+                    "Valor": 69.91,
                     "Nivel": "ALTA",
-                    "MargenVsSegundo": 7.08
+                    "MargenVsSegundo": 7.07
                 },
                 "Riesgo": {
                     "Indice": 80,
@@ -62925,14 +62210,14 @@
                     "Visitante": 31.57
                 },
                 "1X2Mercado": {
-                    "Local": 40.0,
-                    "Empate": 28.8,
-                    "Visitante": 31.2
+                    "Local": 39.82,
+                    "Empate": 29.12,
+                    "Visitante": 31.06
                 },
                 "1X2Final": {
-                    "Local": 38.54,
-                    "Empate": 30.0,
-                    "Visitante": 31.46
+                    "Local": 38.49,
+                    "Empate": 30.09,
+                    "Visitante": 31.42
                 },
                 "CalibracionV4": {
                     "PesoModelo": 0.7,
@@ -63379,9 +62664,9 @@
         "hora": "14:00",
         "local": "Viking (Nor)",
         "visitante": "Dinamo Zagreb (Cro)",
-        "cuota_local": 2.4,
+        "cuota_local": 2.3,
         "cuota_empate": 3.6,
-        "cuota_visitante": 2.66,
+        "cuota_visitante": 2.82,
         "link": "https://www.flashscore.co/partido/futbol/dinamo-zagreb-8G5ufQTg/viking-bXAgOWwb/?mid=vHqZWB0t",
         "logo_local": "https://static.flashscore.com/res/image/data/bcQTJyeM-xvniPjZd.png",
         "logo_visitante": "https://static.flashscore.com/res/image/data/YktDsvYg-GU4hlIMk.png",
@@ -63651,12 +62936,12 @@
                 "Favorito": "Local",
                 "ValueBet": {
                     "Mercado": "Empate",
-                    "Diferencia": 4.56
+                    "Diferencia": 4.48
                 },
                 "Confianza": {
-                    "Valor": 70.85,
+                    "Valor": 70.84,
                     "Nivel": "ALTA",
-                    "MargenVsSegundo": 5.59
+                    "MargenVsSegundo": 6.7
                 },
                 "Riesgo": {
                     "Indice": 80,
@@ -63668,14 +62953,14 @@
                     "Visitante": 31.57
                 },
                 "1X2Mercado": {
-                    "Local": 38.93,
-                    "Empate": 25.95,
-                    "Visitante": 35.12
+                    "Local": 40.74,
+                    "Empate": 26.03,
+                    "Visitante": 33.23
                 },
                 "1X2Final": {
-                    "Local": 38.22,
-                    "Empate": 29.14,
-                    "Visitante": 32.63
+                    "Local": 38.77,
+                    "Empate": 29.17,
+                    "Visitante": 32.07
                 },
                 "CalibracionV4": {
                     "PesoModelo": 0.7,
@@ -69431,9 +68716,9 @@
         "hora": "04:30",
         "local": "Preston Lions",
         "visitante": "South Melbourne",
-        "cuota_local": 1.91,
+        "cuota_local": 1.85,
         "cuota_empate": 3.6,
-        "cuota_visitante": 3.3,
+        "cuota_visitante": 3.5,
         "link": "https://www.flashscore.co/partido/futbol/preston-lions-Wz3kQlpC/south-melbourne-6ciKPSEO/?mid=6w8PWEsp",
         "logo_local": "https://static.flashscore.com/res/image/data/4rLQYLGG-lldGheui.png",
         "logo_visitante": "https://static.flashscore.com/res/image/data/IsOwrMdM-bTzLAEkQ.png",
@@ -69786,13 +69071,13 @@
                 },
                 "Favorito": "Local",
                 "ValueBet": {
-                    "Mercado": "Local",
-                    "Diferencia": 1.84
+                    "Mercado": "Visitante",
+                    "Diferencia": 0.77
                 },
                 "Confianza": {
-                    "Valor": 75.59,
+                    "Valor": 75.58,
                     "Nivel": "ALTA",
-                    "MargenVsSegundo": 21.81
+                    "MargenVsSegundo": 22.74
                 },
                 "Riesgo": {
                     "Indice": 53,
@@ -69804,14 +69089,14 @@
                     "Visitante": 26.65
                 },
                 "1X2Mercado": {
-                    "Local": 47.41,
-                    "Empate": 25.15,
-                    "Visitante": 27.44
+                    "Local": 48.96,
+                    "Empate": 25.16,
+                    "Visitante": 25.88
                 },
                 "1X2Final": {
-                    "Local": 48.7,
+                    "Local": 49.16,
                     "Empate": 24.42,
-                    "Visitante": 26.89
+                    "Visitante": 26.42
                 },
                 "CalibracionV4": {
                     "PesoModelo": 0.7,
@@ -86854,9 +86139,9 @@
         "hora": "15:30",
         "local": "Plaza Colonia",
         "visitante": "Cerro Largo",
-        "cuota_local": 2.55,
-        "cuota_empate": 3.3,
-        "cuota_visitante": 2.55,
+        "cuota_local": 2.5,
+        "cuota_empate": 2.9,
+        "cuota_visitante": 2.8,
         "link": "https://www.flashscore.co/partido/futbol/cerro-largo-jgsDvTBl/plaza-colonia-27mJGMIe/?mid=bHj9Isr2",
         "logo_local": "https://static.flashscore.com/res/image/data/pjBy2cjl-SARVQmpJ.png",
         "logo_visitante": "https://static.flashscore.com/res/image/data/bmaSNUil-2c38J1pB.png",
@@ -87224,12 +86509,12 @@
                 "Favorito": "Local",
                 "ValueBet": {
                     "Mercado": "Local",
-                    "Diferencia": 12.87
+                    "Diferencia": 12.64
                 },
                 "Confianza": {
-                    "Valor": 72.71,
+                    "Valor": 73.81,
                     "Nivel": "ALTA",
-                    "MargenVsSegundo": 17.45
+                    "MargenVsSegundo": 16.49
                 },
                 "Riesgo": {
                     "Indice": 58,
@@ -87241,14 +86526,14 @@
                     "Visitante": 23.53
                 },
                 "1X2Mercado": {
-                    "Local": 36.07,
-                    "Empate": 27.87,
-                    "Visitante": 36.07
+                    "Local": 36.3,
+                    "Empate": 31.29,
+                    "Visitante": 32.41
                 },
                 "1X2Final": {
-                    "Local": 45.08,
-                    "Empate": 27.63,
-                    "Visitante": 27.29
+                    "Local": 45.15,
+                    "Empate": 28.66,
+                    "Visitante": 26.19
                 },
                 "CalibracionV4": {
                     "PesoModelo": 0.7,
@@ -88653,6 +87938,367 @@
                 "Segundo": {
                     "Marcador": "0-1",
                     "Probabilidad": 12.69
+                }
+            }
+        }
+    },
+    {
+        "fecha": "2026-08-26",
+        "hora": "14:00",
+        "local": "Bolivar",
+        "visitante": "Monagas",
+        "cuota_local": 4.33,
+        "cuota_empate": 3.55,
+        "cuota_visitante": 1.7,
+        "link": "https://www.flashscore.co/partido/futbol/bolivar-KpRwCxzH/monagas-MHPrulvq/?mid=zPYFqGEO",
+        "logo_local": "https://static.flashscore.com/res/image/data/vwa4SQil-C2oEmzEB.png",
+        "logo_visitante": "https://static.flashscore.com/res/image/data/8hyfQxHG-f3x5Nog1.png",
+        "pais": "VENEZUELA",
+        "liga": "COPA VENEZUELA - JORNADA 3",
+        "h2h": {
+            "LOCAL10": [
+                {
+                    "fecha": "19.08.26",
+                    "local": "Bolivar",
+                    "visitante": "Dynamo Puerto",
+                    "goles_local": "1",
+                    "goles_visitante": "2"
+                },
+                {
+                    "fecha": "16.08.26",
+                    "local": "Monagas B",
+                    "visitante": "Bolivar",
+                    "goles_local": "2",
+                    "goles_visitante": "3"
+                },
+                {
+                    "fecha": "09.08.26",
+                    "local": "Bolivar",
+                    "visitante": "Dynamo Puerto",
+                    "goles_local": "1",
+                    "goles_visitante": "0"
+                },
+                {
+                    "fecha": "01.08.26",
+                    "local": "Aragua",
+                    "visitante": "Bolivar",
+                    "goles_local": "1",
+                    "goles_visitante": "0"
+                },
+                {
+                    "fecha": "26.07.26",
+                    "local": "Bolivar",
+                    "visitante": "Mineros",
+                    "goles_local": "1",
+                    "goles_visitante": "2"
+                },
+                {
+                    "fecha": "24.06.26",
+                    "local": "Mineros",
+                    "visitante": "Bolivar",
+                    "goles_local": "1",
+                    "goles_visitante": "1"
+                },
+                {
+                    "fecha": "06.06.26",
+                    "local": "Bolivar",
+                    "visitante": "Miranda",
+                    "goles_local": "2",
+                    "goles_visitante": "0"
+                },
+                {
+                    "fecha": "31.05.26",
+                    "local": "Ávila",
+                    "visitante": "Bolivar",
+                    "goles_local": "0",
+                    "goles_visitante": "0"
+                },
+                {
+                    "fecha": "23.05.26",
+                    "local": "Marítimo",
+                    "visitante": "Bolivar",
+                    "goles_local": "2",
+                    "goles_visitante": "1"
+                },
+                {
+                    "fecha": "17.05.26",
+                    "local": "Bolivar",
+                    "visitante": "Monagas B",
+                    "goles_local": "2",
+                    "goles_visitante": "1"
+                },
+                {
+                    "fecha": "10.05.26",
+                    "local": "Dynamo Puerto",
+                    "visitante": "Bolivar",
+                    "goles_local": "1",
+                    "goles_visitante": "0"
+                },
+                {
+                    "fecha": "03.05.26",
+                    "local": "Bolivar",
+                    "visitante": "Aragua",
+                    "goles_local": "0",
+                    "goles_visitante": "0"
+                },
+                {
+                    "fecha": "25.04.26",
+                    "local": "Mineros",
+                    "visitante": "Bolivar",
+                    "goles_local": "2",
+                    "goles_visitante": "3"
+                },
+                {
+                    "fecha": "12.04.26",
+                    "local": "Miranda",
+                    "visitante": "Bolivar",
+                    "goles_local": "1",
+                    "goles_visitante": "0"
+                },
+                {
+                    "fecha": "05.04.26",
+                    "local": "Bolivar",
+                    "visitante": "Ávila",
+                    "goles_local": "2",
+                    "goles_visitante": "2"
+                }
+            ],
+            "VISITANTE10": [
+                {
+                    "fecha": "23.08.26",
+                    "local": "Monagas",
+                    "visitante": "Portuguesa",
+                    "goles_local": "0",
+                    "goles_visitante": "0"
+                },
+                {
+                    "fecha": "19.08.26",
+                    "local": "Monagas",
+                    "visitante": "Mineros",
+                    "goles_local": "1",
+                    "goles_visitante": "0"
+                },
+                {
+                    "fecha": "16.08.26",
+                    "local": "Dep. Táchira",
+                    "visitante": "Monagas",
+                    "goles_local": "3",
+                    "goles_visitante": "2"
+                },
+                {
+                    "fecha": "08.08.26",
+                    "local": "Monagas",
+                    "visitante": "Carabobo",
+                    "goles_local": "1",
+                    "goles_visitante": "0"
+                },
+                {
+                    "fecha": "04.08.26",
+                    "local": "Universidad Central",
+                    "visitante": "Monagas",
+                    "goles_local": "2",
+                    "goles_visitante": "1"
+                },
+                {
+                    "fecha": "01.08.26",
+                    "local": "Monagas",
+                    "visitante": "La Guaira",
+                    "goles_local": "1",
+                    "goles_visitante": "2"
+                },
+                {
+                    "fecha": "24.06.26",
+                    "local": "Dynamo Puerto",
+                    "visitante": "Monagas",
+                    "goles_local": "0",
+                    "goles_visitante": "4"
+                },
+                {
+                    "fecha": "25.04.26",
+                    "local": "Monagas",
+                    "visitante": "Puerto Cabello",
+                    "goles_local": "1",
+                    "goles_visitante": "1"
+                },
+                {
+                    "fecha": "19.04.26",
+                    "local": "Estudiantes M.",
+                    "visitante": "Monagas",
+                    "goles_local": "3",
+                    "goles_visitante": "2"
+                },
+                {
+                    "fecha": "11.04.26",
+                    "local": "Monagas",
+                    "visitante": "Rayo Zuliano",
+                    "goles_local": "3",
+                    "goles_visitante": "0"
+                },
+                {
+                    "fecha": "04.04.26",
+                    "local": "Zamora",
+                    "visitante": "Monagas",
+                    "goles_local": "2",
+                    "goles_visitante": "1"
+                },
+                {
+                    "fecha": "22.03.26",
+                    "local": "Monagas",
+                    "visitante": "Caracas",
+                    "goles_local": "1",
+                    "goles_visitante": "1"
+                },
+                {
+                    "fecha": "18.03.26",
+                    "local": "Metropolitanos",
+                    "visitante": "Monagas",
+                    "goles_local": "1",
+                    "goles_visitante": "0"
+                },
+                {
+                    "fecha": "14.03.26",
+                    "local": "Monagas",
+                    "visitante": "Anzoategui FC",
+                    "goles_local": "1",
+                    "goles_visitante": "0"
+                },
+                {
+                    "fecha": "08.03.26",
+                    "local": "Monagas",
+                    "visitante": "Trujillanos",
+                    "goles_local": "3",
+                    "goles_visitante": "1"
+                }
+            ],
+            "H2H": [
+                {
+                    "fecha": "02.07.25",
+                    "local": "Bolivar",
+                    "visitante": "Monagas",
+                    "goles_local": "0",
+                    "goles_visitante": "0"
+                },
+                {
+                    "fecha": "11.06.25",
+                    "local": "Monagas",
+                    "visitante": "Bolivar",
+                    "goles_local": "1",
+                    "goles_visitante": "0"
+                }
+            ]
+        },
+        "analisis": {
+            "PronosticoFinal": {
+                "PickPrincipal": "Doble Oportunidad 12",
+                "1X2": {
+                    "Local": 35.22,
+                    "Empate": 27.6,
+                    "Visitante": 37.18
+                },
+                "BTTS": {
+                    "Pronostico": "SI",
+                    "SI": 50.96,
+                    "NO": 49.04,
+                    "LocalMarca": 70.15,
+                    "VisitanteMarca": 73.4,
+                    "Consenso": "MUY_ALTO",
+                    "Confianza": 97.65
+                },
+                "Over25": {
+                    "Pronostico": "UNDER",
+                    "OVER": 43.72,
+                    "UNDER": 56.28
+                },
+                "DobleOportunidad": {
+                    "Mercado": "12",
+                    "Probabilidad": 72.4
+                },
+                "MarcadoresProbables": {
+                    "Primero": {
+                        "Marcador": "1-1",
+                        "Probabilidad": 13.02
+                    },
+                    "Segundo": {
+                        "Marcador": "0-1",
+                        "Probabilidad": 10.88
+                    }
+                },
+                "Favorito": "Visitante",
+                "ValueBet": {
+                    "Mercado": "Local",
+                    "Diferencia": 14.24
+                },
+                "Confianza": {
+                    "Valor": 73.0,
+                    "Nivel": "ALTA",
+                    "MargenVsSegundo": 11.1
+                },
+                "Riesgo": {
+                    "Indice": 95,
+                    "Nivel": "ALTO"
+                },
+                "1X2Modelo": {
+                    "Local": 35.22,
+                    "Empate": 27.6,
+                    "Visitante": 37.18
+                },
+                "1X2Mercado": {
+                    "Local": 20.98,
+                    "Empate": 25.59,
+                    "Visitante": 53.43
+                },
+                "1X2Final": {
+                    "Local": 30.95,
+                    "Empate": 27.0,
+                    "Visitante": 42.05
+                },
+                "CalibracionV4": {
+                    "PesoModelo": 0.7,
+                    "PesoMercado": 0.3,
+                    "Nota": "Decision final = modelo + mercado; conservar 1X2Modelo para evaluar el motor puro."
+                }
+            },
+            "Select": {
+                "select": false,
+                "favorito": "Monagas",
+                "probabilidad_favorito": 37.18,
+                "nofavorito": "Bolivar",
+                "probabilidad_nofavorito": 35.22,
+                "probabilidad_empate": 27.6,
+                "marcador_probable": "1-1",
+                "ultimo_resultado_favorito": "D",
+                "condiciones": {
+                    "favorito_mayor_45": false,
+                    "empate_mayor_nofavorito": false,
+                    "favorito_gano_ultimo": false,
+                    "marcador_confirma_favorito": false
+                }
+            },
+            "Premium": {
+                "premium": false,
+                "favorito": "Monagas",
+                "probabilidad_favorito": 37.18,
+                "nofavorito": "Bolivar",
+                "probabilidad_nofavorito": 35.22,
+                "marcador_1": "1-1",
+                "marcador_2": "0-1",
+                "ultimo_resultado_favorito": "D",
+                "ultimo_resultado_nofavorito": "L",
+                "condiciones": {
+                    "favorito_mayor_55": false,
+                    "favorito_gano_ultimo": false,
+                    "marcadores_confirman_favorito": false,
+                    "nofavorito_perdio_ultimo": true
+                }
+            },
+            "MarcadorProbable": {
+                "Primero": {
+                    "Marcador": "1-1",
+                    "Probabilidad": 13.02
+                },
+                "Segundo": {
+                    "Marcador": "0-1",
+                    "Probabilidad": 10.88
                 }
             }
         }
@@ -90789,9 +90435,9 @@
         "hora": "11:00",
         "local": "Iberia 1999 (Geo)",
         "visitante": "Jagiellonia (Pol)",
-        "cuota_local": 3.55,
-        "cuota_empate": 3.55,
-        "cuota_visitante": 1.97,
+        "cuota_local": 3.75,
+        "cuota_empate": 3.6,
+        "cuota_visitante": 1.9,
         "link": "https://www.flashscore.co/partido/futbol/iberia-1999-dhfRkskl/jagiellonia-lIDaZJTc/?mid=EgKoyUGq",
         "logo_local": "https://static.flashscore.com/res/image/data/bujrJCEa-hK31pCkr.png",
         "logo_visitante": "https://static.flashscore.com/res/image/data/ALasYkCa-G09MInrR.png",
@@ -91061,12 +90707,12 @@
                 "Favorito": "Local",
                 "ValueBet": {
                     "Mercado": "Local",
-                    "Diferencia": 11.62
+                    "Diferencia": 13.02
                 },
                 "Confianza": {
-                    "Valor": 70.75,
+                    "Valor": 70.86,
                     "Nivel": "ALTA",
-                    "MargenVsSegundo": 1.89
+                    "MargenVsSegundo": 2.84
                 },
                 "Riesgo": {
                     "Indice": 80,
@@ -91078,14 +90724,14 @@
                     "Visitante": 31.57
                 },
                 "1X2Mercado": {
-                    "Local": 26.3,
-                    "Empate": 26.3,
-                    "Visitante": 47.4
+                    "Local": 24.9,
+                    "Empate": 25.94,
+                    "Visitante": 49.15
                 },
                 "1X2Final": {
-                    "Local": 34.43,
-                    "Empate": 29.25,
-                    "Visitante": 36.32
+                    "Local": 34.01,
+                    "Empate": 29.14,
+                    "Visitante": 36.85
                 },
                 "CalibracionV4": {
                     "PesoModelo": 0.7,
@@ -94122,8 +93768,8 @@
         "local": "Internacional",
         "visitante": "Grêmio",
         "cuota_local": 1.98,
-        "cuota_empate": 3.35,
-        "cuota_visitante": 3.9,
+        "cuota_empate": 3.3,
+        "cuota_visitante": 3.95,
         "link": "https://www.flashscore.co/partido/futbol/gremio-E1EFmhVh/internacional-tSCiHj0I/?mid=nw9aUY85",
         "logo_local": "https://static.flashscore.com/res/image/data/4EdoEoil-ALgHCh57.png",
         "logo_visitante": "https://static.flashscore.com/res/image/data/QPdJscAr-tQsU6dGl.png",
@@ -94491,12 +94137,12 @@
                 "Favorito": "Local",
                 "ValueBet": {
                     "Mercado": "Visitante",
-                    "Diferencia": 5.6
+                    "Diferencia": 5.93
                 },
                 "Confianza": {
-                    "Valor": 72.83,
+                    "Valor": 72.72,
                     "Nivel": "ALTA",
-                    "MargenVsSegundo": 16.61
+                    "MargenVsSegundo": 16.7
                 },
                 "Riesgo": {
                     "Indice": 85,
@@ -94508,14 +94154,14 @@
                     "Visitante": 29.79
                 },
                 "1X2Mercado": {
-                    "Local": 47.65,
-                    "Empate": 28.16,
-                    "Visitante": 24.19
+                    "Local": 47.59,
+                    "Empate": 28.55,
+                    "Visitante": 23.86
                 },
                 "1X2Final": {
-                    "Local": 44.72,
-                    "Empate": 27.17,
-                    "Visitante": 28.11
+                    "Local": 44.71,
+                    "Empate": 27.28,
+                    "Visitante": 28.01
                 },
                 "CalibracionV4": {
                     "PesoModelo": 0.7,
@@ -98060,9 +97706,9 @@
         "hora": "12:00",
         "local": "Inter Escaldes (And)",
         "visitante": "Drita (Kos)",
-        "cuota_local": 2.06,
-        "cuota_empate": 3.5,
-        "cuota_visitante": 3.3,
+        "cuota_local": 2.02,
+        "cuota_empate": 3.45,
+        "cuota_visitante": 3.5,
         "link": "https://www.flashscore.co/partido/futbol/drita-bwWOjXUP/inter-escaldes-4CambolL/?mid=xla9lS0D",
         "logo_local": "https://static.flashscore.com/res/image/data/rqmuPbEG-8nCMN5pD.png",
         "logo_visitante": "https://static.flashscore.com/res/image/data/KQqf4JdM-xYt3Tt4D.png",
@@ -98338,13 +97984,13 @@
                 },
                 "Favorito": "Local",
                 "ValueBet": {
-                    "Mercado": "Empate",
-                    "Diferencia": 3.91
+                    "Mercado": "Visitante",
+                    "Diferencia": 4.88
                 },
                 "Confianza": {
-                    "Valor": 70.66,
+                    "Valor": 70.53,
                     "Nivel": "ALTA",
-                    "MargenVsSegundo": 9.54
+                    "MargenVsSegundo": 10.31
                 },
                 "Riesgo": {
                     "Indice": 80,
@@ -98356,14 +98002,14 @@
                     "Visitante": 31.57
                 },
                 "1X2Mercado": {
-                    "Local": 45.19,
-                    "Empate": 26.6,
-                    "Visitante": 28.21
+                    "Local": 46.24,
+                    "Empate": 27.07,
+                    "Visitante": 26.69
                 },
                 "1X2Final": {
-                    "Local": 40.1,
-                    "Empate": 29.34,
-                    "Visitante": 30.56
+                    "Local": 40.42,
+                    "Empate": 29.48,
+                    "Visitante": 30.11
                 },
                 "CalibracionV4": {
                     "PesoModelo": 0.7,
@@ -98421,9 +98067,9 @@
         "hora": "12:00",
         "local": "Rakow (Pol)",
         "visitante": "Hajduk Split (Cro)",
-        "cuota_local": 1.9,
+        "cuota_local": 1.92,
         "cuota_empate": 3.55,
-        "cuota_visitante": 3.8,
+        "cuota_visitante": 3.7,
         "link": "https://www.flashscore.co/partido/futbol/hajduk-split-2w5qgpq0/rakow-czestochowa-SQOrbYim/?mid=ngZChjmA",
         "logo_local": "https://static.flashscore.com/res/image/data/A1vcs0g5-KpIcOmKL.png",
         "logo_visitante": "https://static.flashscore.com/res/image/data/KhiiTqGG-Mc6FcsjL.png",
@@ -98693,12 +98339,12 @@
                 "Favorito": "Local",
                 "ValueBet": {
                     "Mercado": "Visitante",
-                    "Diferencia": 7.0
+                    "Diferencia": 6.38
                 },
                 "Confianza": {
-                    "Valor": 70.75,
+                    "Valor": 70.77,
                     "Nivel": "ALTA",
-                    "MargenVsSegundo": 11.81
+                    "MargenVsSegundo": 11.45
                 },
                 "Riesgo": {
                     "Indice": 80,
@@ -98710,14 +98356,14 @@
                     "Visitante": 31.57
                 },
                 "1X2Mercado": {
-                    "Local": 49.13,
-                    "Empate": 26.3,
-                    "Visitante": 24.57
+                    "Local": 48.55,
+                    "Empate": 26.26,
+                    "Visitante": 25.19
                 },
                 "1X2Final": {
-                    "Local": 41.28,
-                    "Empate": 29.25,
-                    "Visitante": 29.47
+                    "Local": 41.11,
+                    "Empate": 29.23,
+                    "Visitante": 29.66
                 },
                 "CalibracionV4": {
                     "PesoModelo": 0.7,
@@ -104465,305 +104111,64 @@
         "pais": "URUGUAY",
         "liga": "COPA AUF URUGUAY - JORNADA 1",
         "h2h": {
-            "LOCAL10": [
-                {
-                    "fecha": "23.08.26",
-                    "local": "Nacional",
-                    "visitante": "Progreso",
-                    "goles_local": "1",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "15.08.26",
-                    "local": "Racing Montevideo",
-                    "visitante": "Nacional",
-                    "goles_local": "2",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "09.08.26",
-                    "local": "Nacional",
-                    "visitante": "Boston River",
-                    "goles_local": "1",
-                    "goles_visitante": "2"
-                },
-                {
-                    "fecha": "02.08.26",
-                    "local": "Nacional",
-                    "visitante": "Progreso",
-                    "goles_local": "2",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "28.07.26",
-                    "local": "Tigre",
-                    "visitante": "Nacional",
-                    "goles_local": "1",
-                    "goles_visitante": "2"
-                },
-                {
-                    "fecha": "21.07.26",
-                    "local": "Nacional",
-                    "visitante": "Tigre",
-                    "goles_local": "0",
-                    "goles_visitante": "3"
-                },
-                {
-                    "fecha": "17.07.26",
-                    "local": "Nacional",
-                    "visitante": "Wanderers",
-                    "goles_local": "1",
-                    "goles_visitante": "2"
-                },
-                {
-                    "fecha": "11.07.26",
-                    "local": "Danubio",
-                    "visitante": "Nacional",
-                    "goles_local": "0",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "06.06.26",
-                    "local": "Nacional",
-                    "visitante": "Juventud",
-                    "goles_local": "2",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "31.05.26",
-                    "local": "Maldonado",
-                    "visitante": "Nacional",
-                    "goles_local": "3",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "26.05.26",
-                    "local": "Nacional",
-                    "visitante": "Coquimbo",
-                    "goles_local": "1",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "23.05.26",
-                    "local": "Nacional",
-                    "visitante": "Albion",
-                    "goles_local": "1",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "20.05.26",
-                    "local": "Nacional",
-                    "visitante": "Universitario",
-                    "goles_local": "0",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "15.05.26",
-                    "local": "Montevideo City",
-                    "visitante": "Nacional",
-                    "goles_local": "1",
-                    "goles_visitante": "2"
-                },
-                {
-                    "fecha": "10.05.26",
-                    "local": "Nacional",
-                    "visitante": "CA Cerro",
-                    "goles_local": "4",
-                    "goles_visitante": "0"
-                }
-            ],
-            "VISITANTE10": [
-                {
-                    "fecha": "21.08.26",
-                    "local": "Albion",
-                    "visitante": "Boston River",
-                    "goles_local": "2",
-                    "goles_visitante": "3"
-                },
-                {
-                    "fecha": "15.08.26",
-                    "local": "CA Cerro",
-                    "visitante": "Albion",
-                    "goles_local": "2",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "08.08.26",
-                    "local": "Liverpool M.",
-                    "visitante": "Albion",
-                    "goles_local": "1",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "01.08.26",
-                    "local": "Albion",
-                    "visitante": "Danubio",
-                    "goles_local": "2",
-                    "goles_visitante": "2"
-                },
-                {
-                    "fecha": "17.07.26",
-                    "local": "Albion",
-                    "visitante": "Juventud",
-                    "goles_local": "0",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "10.07.26",
-                    "local": "Maldonado",
-                    "visitante": "Albion",
-                    "goles_local": "1",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "07.06.26",
-                    "local": "Progreso",
-                    "visitante": "Albion",
-                    "goles_local": "1",
-                    "goles_visitante": "2"
-                },
-                {
-                    "fecha": "31.05.26",
-                    "local": "Albion",
-                    "visitante": "Montevideo City",
-                    "goles_local": "1",
-                    "goles_visitante": "2"
-                },
-                {
-                    "fecha": "23.05.26",
-                    "local": "Nacional",
-                    "visitante": "Albion",
-                    "goles_local": "1",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "17.05.26",
-                    "local": "Albion",
-                    "visitante": "Wanderers",
-                    "goles_local": "0",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "09.05.26",
-                    "local": "Danubio",
-                    "visitante": "Albion",
-                    "goles_local": "0",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "03.05.26",
-                    "local": "Albion",
-                    "visitante": "Nacional",
-                    "goles_local": "3",
-                    "goles_visitante": "2"
-                },
-                {
-                    "fecha": "25.04.26",
-                    "local": "Maldonado",
-                    "visitante": "Albion",
-                    "goles_local": "1",
-                    "goles_visitante": "2"
-                },
-                {
-                    "fecha": "17.04.26",
-                    "local": "Albion",
-                    "visitante": "Central Esp.",
-                    "goles_local": "6",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "11.04.26",
-                    "local": "Montevideo City",
-                    "visitante": "Albion",
-                    "goles_local": "0",
-                    "goles_visitante": "1"
-                }
-            ],
-            "H2H": [
-                {
-                    "fecha": "23.05.26",
-                    "local": "Nacional",
-                    "visitante": "Albion",
-                    "goles_local": "1",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "03.05.26",
-                    "local": "Albion",
-                    "visitante": "Nacional",
-                    "goles_local": "3",
-                    "goles_visitante": "2"
-                },
-                {
-                    "fecha": "13.10.22",
-                    "local": "Albion",
-                    "visitante": "Nacional",
-                    "goles_local": "0",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "21.05.22",
-                    "local": "Nacional",
-                    "visitante": "Albion",
-                    "goles_local": "2",
-                    "goles_visitante": "0"
-                }
-            ]
+            "LOCAL10": [],
+            "VISITANTE10": [],
+            "H2H": []
         },
         "analisis": {
             "PronosticoFinal": {
-                "PickPrincipal": "Doble Oportunidad 12",
+                "PickPrincipal": "Doble Oportunidad 1X",
                 "1X2": {
-                    "Local": 39.12,
-                    "Empate": 27.18,
-                    "Visitante": 33.7
+                    "Local": 37.92,
+                    "Empate": 30.51,
+                    "Visitante": 31.57
                 },
                 "BTTS": {
-                    "Pronostico": "SI",
-                    "SI": 50.91,
-                    "NO": 49.09,
-                    "LocalMarca": 73.58,
-                    "VisitanteMarca": 69.34,
-                    "Consenso": "MUY_ALTO",
-                    "Confianza": 97.88
+                    "Pronostico": "NO",
+                    "SI": 33.99,
+                    "NO": 66.01,
+                    "LocalMarca": 68.28,
+                    "VisitanteMarca": 63.95,
+                    "Consenso": "MEDIO",
+                    "Confianza": 62.58
                 },
                 "Over25": {
                     "Pronostico": "UNDER",
-                    "OVER": 44.49,
-                    "UNDER": 55.51
+                    "OVER": 33.33,
+                    "UNDER": 66.67
                 },
                 "DobleOportunidad": {
                     "Mercado": "12",
-                    "Probabilidad": 72.82
+                    "Probabilidad": 69.49
                 },
                 "MarcadoresProbables": {
                     "Primero": {
-                        "Marcador": "1-1",
-                        "Probabilidad": 12.86
+                        "Marcador": "1-0",
+                        "Probabilidad": 14.06
                     },
                     "Segundo": {
-                        "Marcador": "1-0",
-                        "Probabilidad": 10.95
+                        "Marcador": "1-1",
+                        "Probabilidad": 13.49
                     }
                 },
                 "Favorito": "Local",
                 "ValueBet": {
                     "Mercado": "Visitante",
-                    "Diferencia": 12.31
+                    "Diferencia": 10.18
                 },
                 "Confianza": {
-                    "Valor": 72.98,
+                    "Valor": 71.48,
                     "Nivel": "ALTA",
-                    "MargenVsSegundo": 12.96
+                    "MargenVsSegundo": 12.78
                 },
                 "Riesgo": {
-                    "Indice": 95,
+                    "Indice": 80,
                     "Nivel": "ALTO"
                 },
                 "1X2Modelo": {
-                    "Local": 39.12,
-                    "Empate": 27.18,
-                    "Visitante": 33.7
+                    "Local": 37.92,
+                    "Empate": 30.51,
+                    "Visitante": 31.57
                 },
                 "1X2Mercado": {
                     "Local": 51.96,
@@ -104771,9 +104176,9 @@
                     "Visitante": 21.39
                 },
                 "1X2Final": {
-                    "Local": 42.97,
-                    "Empate": 27.02,
-                    "Visitante": 30.01
+                    "Local": 42.13,
+                    "Empate": 29.35,
+                    "Visitante": 28.52
                 },
                 "CalibracionV4": {
                     "PesoModelo": 0.7,
@@ -104784,44 +104189,44 @@
             "Select": {
                 "select": false,
                 "favorito": "Nacional",
-                "probabilidad_favorito": 39.12,
+                "probabilidad_favorito": 37.92,
                 "nofavorito": "Albion",
-                "probabilidad_nofavorito": 33.7,
-                "probabilidad_empate": 27.18,
-                "marcador_probable": "1-1",
-                "ultimo_resultado_favorito": "W",
+                "probabilidad_nofavorito": 31.57,
+                "probabilidad_empate": 30.51,
+                "marcador_probable": "1-0",
+                "ultimo_resultado_favorito": "",
                 "condiciones": {
                     "favorito_mayor_45": false,
                     "empate_mayor_nofavorito": false,
-                    "favorito_gano_ultimo": true,
-                    "marcador_confirma_favorito": false
+                    "favorito_gano_ultimo": false,
+                    "marcador_confirma_favorito": true
                 }
             },
             "Premium": {
                 "premium": false,
                 "favorito": "Nacional",
-                "probabilidad_favorito": 39.12,
+                "probabilidad_favorito": 37.92,
                 "nofavorito": "Albion",
-                "probabilidad_nofavorito": 33.7,
-                "marcador_1": "1-1",
-                "marcador_2": "1-0",
-                "ultimo_resultado_favorito": "W",
-                "ultimo_resultado_nofavorito": "L",
+                "probabilidad_nofavorito": 31.57,
+                "marcador_1": "1-0",
+                "marcador_2": "1-1",
+                "ultimo_resultado_favorito": "",
+                "ultimo_resultado_nofavorito": "",
                 "condiciones": {
                     "favorito_mayor_55": false,
-                    "favorito_gano_ultimo": true,
+                    "favorito_gano_ultimo": false,
                     "marcadores_confirman_favorito": false,
-                    "nofavorito_perdio_ultimo": true
+                    "nofavorito_perdio_ultimo": false
                 }
             },
             "MarcadorProbable": {
                 "Primero": {
-                    "Marcador": "1-1",
-                    "Probabilidad": 12.86
+                    "Marcador": "1-0",
+                    "Probabilidad": 14.06
                 },
                 "Segundo": {
-                    "Marcador": "1-0",
-                    "Probabilidad": 10.95
+                    "Marcador": "1-1",
+                    "Probabilidad": 13.49
                 }
             }
         }
