@@ -1,53 +1,7 @@
 {
     "fecha_generacion": "2026-08-24",
-    "cantidad": 10,
+    "cantidad": 7,
     "partidos": [
-        {
-            "fecha": "2026-08-24",
-            "hora": "14:15",
-            "local": "Gil Vicente",
-            "visitante": "Casa Pia",
-            "logolocal": "https://static.flashscore.com/res/image/data/OlcT5cjl-2gs7fTQ1.png",
-            "logovisitante": "https://static.flashscore.com/res/image/data/CbZc62Da-SERhQixU.png",
-            "favorito": "Gil Vicente",
-            "probabilidad_favorito": 58.52,
-            "nofavorito": "Casa Pia",
-            "probabilidad_nofavorito": 17.98,
-            "marcador_1": "1-0",
-            "marcador_2": "2-0",
-            "ultimo_resultado_favorito": "W",
-            "ultimo_resultado_nofavorito": "L",
-            "condiciones": {
-                "favorito_mayor_55": true,
-                "favorito_gano_ultimo": true,
-                "marcadores_confirman_favorito": true,
-                "nofavorito_perdio_ultimo": true
-            },
-            "premium": true
-        },
-        {
-            "fecha": "2026-08-24",
-            "hora": "13:30",
-            "local": "Kocaelispor",
-            "visitante": "Amedspor",
-            "logolocal": "https://static.flashscore.com/res/image/data/GjjYdAcM-pfQVcl7E.png",
-            "logovisitante": "https://static.flashscore.com/res/image/data/GxSkejf5-MqifFzcp.png",
-            "favorito": "Amedspor",
-            "probabilidad_favorito": 63.44,
-            "nofavorito": "Kocaelispor",
-            "probabilidad_nofavorito": 14.09,
-            "marcador_1": "0-1",
-            "marcador_2": "0-2",
-            "ultimo_resultado_favorito": "W",
-            "ultimo_resultado_nofavorito": "L",
-            "condiciones": {
-                "favorito_mayor_55": true,
-                "favorito_gano_ultimo": true,
-                "marcadores_confirman_favorito": true,
-                "nofavorito_perdio_ultimo": true
-            },
-            "premium": true
-        },
         {
             "fecha": "2026-08-25",
             "hora": "14:00",
@@ -153,29 +107,6 @@
             "probabilidad_nofavorito": 23.94,
             "marcador_1": "2-1",
             "marcador_2": "3-1",
-            "ultimo_resultado_favorito": "W",
-            "ultimo_resultado_nofavorito": "L",
-            "condiciones": {
-                "favorito_mayor_55": true,
-                "favorito_gano_ultimo": true,
-                "marcadores_confirman_favorito": true,
-                "nofavorito_perdio_ultimo": true
-            },
-            "premium": true
-        },
-        {
-            "fecha": "2026-08-25",
-            "hora": "13:00",
-            "local": "Al-Fahaheel",
-            "visitante": "Al Qadisiya",
-            "logolocal": "https://static.flashscore.com/res/image/data/4lUacfHG-25qRGqb6.png",
-            "logovisitante": "https://static.flashscore.com/res/image/data/MsaIZVWg-GMtDBc7o.png",
-            "favorito": "Al Qadisiya",
-            "probabilidad_favorito": 59.77,
-            "nofavorito": "Al-Fahaheel",
-            "probabilidad_nofavorito": 17.46,
-            "marcador_1": "0-1",
-            "marcador_2": "0-2",
             "ultimo_resultado_favorito": "W",
             "ultimo_resultado_nofavorito": "L",
             "condiciones": {
