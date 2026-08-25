@@ -1,6 +1,6 @@
 {
-    "fecha_generacion": "2026-08-24",
-    "cantidad": 2,
+    "fecha_generacion": "2026-08-25",
+    "cantidad": 5,
     "partidos": [
         {
             "fecha": "2026-08-25",
@@ -36,6 +36,75 @@
             "probabilidad_favorito": 63.39,
             "nofavorito": "UTC",
             "probabilidad_nofavorito": 15.7,
+            "marcador_1": "1-0",
+            "marcador_2": "2-0",
+            "ultimo_resultado_favorito": "W",
+            "ultimo_resultado_nofavorito": "L",
+            "condiciones": {
+                "favorito_mayor_55": true,
+                "favorito_gano_ultimo": true,
+                "marcadores_confirman_favorito": true,
+                "nofavorito_perdio_ultimo": true
+            },
+            "premium": true
+        },
+        {
+            "fecha": "2026-08-28",
+            "hora": "11:30",
+            "local": "St. Polten",
+            "visitante": "A. Salzburg",
+            "logolocal": "https://static.flashscore.com/res/image/data/l40O0mgl-6LImwhxm.png",
+            "logovisitante": "https://static.flashscore.com/res/image/data/SEwNQGwS-Mi5ow9UB.png",
+            "favorito": "A. Salzburg",
+            "probabilidad_favorito": 66.16,
+            "nofavorito": "St. Polten",
+            "probabilidad_nofavorito": 15.64,
+            "marcador_1": "1-2",
+            "marcador_2": "0-2",
+            "ultimo_resultado_favorito": "W",
+            "ultimo_resultado_nofavorito": "L",
+            "condiciones": {
+                "favorito_mayor_55": true,
+                "favorito_gano_ultimo": true,
+                "marcadores_confirman_favorito": true,
+                "nofavorito_perdio_ultimo": true
+            },
+            "premium": true
+        },
+        {
+            "fecha": "2026-08-28",
+            "hora": "13:00",
+            "local": "Rodez",
+            "visitante": "Pau FC",
+            "logolocal": "https://static.flashscore.com/res/image/data/lMOGXJf5-lrqg4wyC.png",
+            "logovisitante": "https://static.flashscore.com/res/image/data/pCJOEbwS-4hEPxFlP.png",
+            "favorito": "Rodez",
+            "probabilidad_favorito": 64.11,
+            "nofavorito": "Pau FC",
+            "probabilidad_nofavorito": 17.22,
+            "marcador_1": "2-1",
+            "marcador_2": "2-0",
+            "ultimo_resultado_favorito": "W",
+            "ultimo_resultado_nofavorito": "L",
+            "condiciones": {
+                "favorito_mayor_55": true,
+                "favorito_gano_ultimo": true,
+                "marcadores_confirman_favorito": true,
+                "nofavorito_perdio_ultimo": true
+            },
+            "premium": true
+        },
+        {
+            "fecha": "2026-08-28",
+            "hora": "13:30",
+            "local": "Genclerbirligi",
+            "visitante": "Erzurumspor",
+            "logolocal": "https://static.flashscore.com/res/image/data/bLnuvaAr-jwnC0KLI.png",
+            "logovisitante": "https://static.flashscore.com/res/image/data/nJYjgug5-S4x8F7fi.png",
+            "favorito": "Genclerbirligi",
+            "probabilidad_favorito": 57.44,
+            "nofavorito": "Erzurumspor",
+            "probabilidad_nofavorito": 18.38,
             "marcador_1": "1-0",
             "marcador_2": "2-0",
             "ultimo_resultado_favorito": "W",
