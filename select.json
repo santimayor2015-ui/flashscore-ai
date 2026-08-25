@@ -1,6 +1,6 @@
 {
-    "fecha_generacion": "2026-08-24",
-    "cantidad": 22,
+    "fecha_generacion": "2026-08-25",
+    "cantidad": 33,
     "partidos": [
         {
             "fecha": "2026-08-25",
@@ -115,6 +115,28 @@
         {
             "fecha": "2026-08-25",
             "hora": "13:45",
+            "local": "Workington",
+            "visitante": "Warrington Rylands",
+            "logolocal": "https://static.flashscore.com/res/image/data/vVhfioWg-2PBXgRPe.png",
+            "logovisitante": "https://static.flashscore.com/res/image/data/IJrAxbg5-0dJyAOVk.png",
+            "favorito": "Workington",
+            "probabilidad_favorito": 51.21,
+            "nofavorito": "Warrington Rylands",
+            "probabilidad_nofavorito": 21.18,
+            "probabilidad_empate": 27.62,
+            "marcador_probable": "1-0",
+            "ultimo_resultado_favorito": "W",
+            "condiciones": {
+                "favorito_mayor_45": true,
+                "empate_mayor_nofavorito": true,
+                "favorito_gano_ultimo": true,
+                "marcador_confirma_favorito": true
+            },
+            "select": true
+        },
+        {
+            "fecha": "2026-08-25",
+            "hora": "13:45",
             "local": "Stoke",
             "visitante": "Hull",
             "logolocal": "https://static.flashscore.com/res/image/data/2T9PgKcM-KpUCBoUk.png",
@@ -168,28 +190,6 @@
             "nofavorito": "Kaisar",
             "probabilidad_nofavorito": 23.45,
             "probabilidad_empate": 26.78,
-            "marcador_probable": "1-0",
-            "ultimo_resultado_favorito": "W",
-            "condiciones": {
-                "favorito_mayor_45": true,
-                "empate_mayor_nofavorito": true,
-                "favorito_gano_ultimo": true,
-                "marcador_confirma_favorito": true
-            },
-            "select": true
-        },
-        {
-            "fecha": "2026-08-25",
-            "hora": "12:00",
-            "local": "Zalgiris 2",
-            "visitante": "Transinvest 2",
-            "logolocal": "https://static.flashscore.com/res/image/data/MVine5GG-vsu1FSKE.png",
-            "logovisitante": "https://static.flashscore.com/res/image/data/bZFCvdCr-ryXJnH21.png",
-            "favorito": "Zalgiris 2",
-            "probabilidad_favorito": 52.26,
-            "nofavorito": "Transinvest 2",
-            "probabilidad_nofavorito": 21.92,
-            "probabilidad_empate": 25.82,
             "marcador_probable": "1-0",
             "ultimo_resultado_favorito": "W",
             "condiciones": {
@@ -400,6 +400,50 @@
         },
         {
             "fecha": "2026-08-26",
+            "hora": "05:00",
+            "local": "Imabari",
+            "visitante": "Blaublitz",
+            "logolocal": "https://static.flashscore.com/res/image/data/K6FiQ6Br-U5AYcT4I.png",
+            "logovisitante": "https://static.flashscore.com/res/image/data/0AdeOxEa-GIj6ZXII.png",
+            "favorito": "Blaublitz",
+            "probabilidad_favorito": 45.43,
+            "nofavorito": "Imabari",
+            "probabilidad_nofavorito": 27.07,
+            "probabilidad_empate": 27.5,
+            "marcador_probable": "0-1",
+            "ultimo_resultado_favorito": "W",
+            "condiciones": {
+                "favorito_mayor_45": true,
+                "empate_mayor_nofavorito": true,
+                "favorito_gano_ultimo": true,
+                "marcador_confirma_favorito": true
+            },
+            "select": true
+        },
+        {
+            "fecha": "2026-08-26",
+            "hora": "05:00",
+            "local": "Iwaki",
+            "visitante": "Oita",
+            "logolocal": "https://static.flashscore.com/res/image/data/t8rPKeCr-Czkjo0Oj.png",
+            "logovisitante": "https://static.flashscore.com/res/image/data/fJ6w8zZA-KfPYFYSf.png",
+            "favorito": "Oita",
+            "probabilidad_favorito": 53.73,
+            "nofavorito": "Iwaki",
+            "probabilidad_nofavorito": 20.32,
+            "probabilidad_empate": 25.95,
+            "marcador_probable": "0-1",
+            "ultimo_resultado_favorito": "W",
+            "condiciones": {
+                "favorito_mayor_45": true,
+                "empate_mayor_nofavorito": true,
+                "favorito_gano_ultimo": true,
+                "marcador_confirma_favorito": true
+            },
+            "select": true
+        },
+        {
+            "fecha": "2026-08-26",
             "hora": "19:30",
             "local": "Toluca",
             "visitante": "Austin FC",
@@ -476,6 +520,204 @@
             "nofavorito": "Albion",
             "probabilidad_nofavorito": 23.04,
             "probabilidad_empate": 26.61,
+            "marcador_probable": "1-0",
+            "ultimo_resultado_favorito": "W",
+            "condiciones": {
+                "favorito_mayor_45": true,
+                "empate_mayor_nofavorito": true,
+                "favorito_gano_ultimo": true,
+                "marcador_confirma_favorito": true
+            },
+            "select": true
+        },
+        {
+            "fecha": "2026-08-28",
+            "hora": "11:30",
+            "local": "St. Polten",
+            "visitante": "A. Salzburg",
+            "logolocal": "https://static.flashscore.com/res/image/data/l40O0mgl-6LImwhxm.png",
+            "logovisitante": "https://static.flashscore.com/res/image/data/SEwNQGwS-Mi5ow9UB.png",
+            "favorito": "A. Salzburg",
+            "probabilidad_favorito": 66.16,
+            "nofavorito": "St. Polten",
+            "probabilidad_nofavorito": 15.64,
+            "probabilidad_empate": 18.2,
+            "marcador_probable": "1-2",
+            "ultimo_resultado_favorito": "W",
+            "condiciones": {
+                "favorito_mayor_45": true,
+                "empate_mayor_nofavorito": true,
+                "favorito_gano_ultimo": true,
+                "marcador_confirma_favorito": true
+            },
+            "select": true
+        },
+        {
+            "fecha": "2026-08-28",
+            "hora": "13:45",
+            "local": "Edinburgh City",
+            "visitante": "Forfar",
+            "logolocal": "https://static.flashscore.com/res/image/data/bBLFq1Cr-EZLMeLv8.png",
+            "logovisitante": "https://static.flashscore.com/res/image/data/IPsH0tCa-4SnLNmG8.png",
+            "favorito": "Edinburgh City",
+            "probabilidad_favorito": 55.61,
+            "nofavorito": "Forfar",
+            "probabilidad_nofavorito": 18.98,
+            "probabilidad_empate": 25.41,
+            "marcador_probable": "1-0",
+            "ultimo_resultado_favorito": "W",
+            "condiciones": {
+                "favorito_mayor_45": true,
+                "empate_mayor_nofavorito": true,
+                "favorito_gano_ultimo": true,
+                "marcador_confirma_favorito": true
+            },
+            "select": true
+        },
+        {
+            "fecha": "2026-08-28",
+            "hora": "13:00",
+            "local": "Montpellier",
+            "visitante": "Boulogne",
+            "logolocal": "https://static.flashscore.com/res/image/data/4QDVStDa-n3xBmVJB.png",
+            "logovisitante": "https://static.flashscore.com/res/image/data/tCb0GrGG-ppahwjB4.png",
+            "favorito": "Montpellier",
+            "probabilidad_favorito": 74.22,
+            "nofavorito": "Boulogne",
+            "probabilidad_nofavorito": 9.48,
+            "probabilidad_empate": 16.3,
+            "marcador_probable": "2-0",
+            "ultimo_resultado_favorito": "W",
+            "condiciones": {
+                "favorito_mayor_45": true,
+                "empate_mayor_nofavorito": true,
+                "favorito_gano_ultimo": true,
+                "marcador_confirma_favorito": true
+            },
+            "select": true
+        },
+        {
+            "fecha": "2026-08-28",
+            "hora": "13:00",
+            "local": "Rodez",
+            "visitante": "Pau FC",
+            "logolocal": "https://static.flashscore.com/res/image/data/lMOGXJf5-lrqg4wyC.png",
+            "logovisitante": "https://static.flashscore.com/res/image/data/pCJOEbwS-4hEPxFlP.png",
+            "favorito": "Rodez",
+            "probabilidad_favorito": 64.11,
+            "nofavorito": "Pau FC",
+            "probabilidad_nofavorito": 17.22,
+            "probabilidad_empate": 18.67,
+            "marcador_probable": "2-1",
+            "ultimo_resultado_favorito": "W",
+            "condiciones": {
+                "favorito_mayor_45": true,
+                "empate_mayor_nofavorito": true,
+                "favorito_gano_ultimo": true,
+                "marcador_confirma_favorito": true
+            },
+            "select": true
+        },
+        {
+            "fecha": "2026-08-28",
+            "hora": "16:30",
+            "local": "San Lorenzo",
+            "visitante": "Nacional Asunción",
+            "logolocal": "https://static.flashscore.com/res/image/data/OEgPhXYA-jwW2wgsf.png",
+            "logovisitante": "https://static.flashscore.com/res/image/data/WIKARXhl-6PG8meHs.png",
+            "favorito": "Nacional Asunción",
+            "probabilidad_favorito": 52.23,
+            "nofavorito": "San Lorenzo",
+            "probabilidad_nofavorito": 17.39,
+            "probabilidad_empate": 30.37,
+            "marcador_probable": "0-1",
+            "ultimo_resultado_favorito": "W",
+            "condiciones": {
+                "favorito_mayor_45": true,
+                "empate_mayor_nofavorito": true,
+                "favorito_gano_ultimo": true,
+                "marcador_confirma_favorito": true
+            },
+            "select": true
+        },
+        {
+            "fecha": "2026-08-28",
+            "hora": "11:00",
+            "local": "Skierniewice",
+            "visitante": "S. Rzeszow",
+            "logolocal": "https://static.flashscore.com/res/image/data/vsa0dHg5-2gREfHhi.png",
+            "logovisitante": "https://static.flashscore.com/res/image/data/KEXj0yDr-Yqj3DX7m.png",
+            "favorito": "Skierniewice",
+            "probabilidad_favorito": 49.02,
+            "nofavorito": "S. Rzeszow",
+            "probabilidad_nofavorito": 24.97,
+            "probabilidad_empate": 26.01,
+            "marcador_probable": "1-0",
+            "ultimo_resultado_favorito": "W",
+            "condiciones": {
+                "favorito_mayor_45": true,
+                "empate_mayor_nofavorito": true,
+                "favorito_gano_ultimo": true,
+                "marcador_confirma_favorito": true
+            },
+            "select": true
+        },
+        {
+            "fecha": "2026-08-28",
+            "hora": "10:00",
+            "local": "Akron Togliatti",
+            "visitante": "CSKA Moscú",
+            "logolocal": "https://static.flashscore.com/res/image/data/hEACysBr-pKNNHowf.png",
+            "logovisitante": "https://static.flashscore.com/res/image/data/OhjmaZkl-IJ0hG48b.png",
+            "favorito": "CSKA Moscú",
+            "probabilidad_favorito": 56.21,
+            "nofavorito": "Akron Togliatti",
+            "probabilidad_nofavorito": 19.28,
+            "probabilidad_empate": 24.51,
+            "marcador_probable": "0-1",
+            "ultimo_resultado_favorito": "W",
+            "condiciones": {
+                "favorito_mayor_45": true,
+                "empate_mayor_nofavorito": true,
+                "favorito_gano_ultimo": true,
+                "marcador_confirma_favorito": true
+            },
+            "select": true
+        },
+        {
+            "fecha": "2026-08-28",
+            "hora": "13:30",
+            "local": "Genclerbirligi",
+            "visitante": "Erzurumspor",
+            "logolocal": "https://static.flashscore.com/res/image/data/bLnuvaAr-jwnC0KLI.png",
+            "logovisitante": "https://static.flashscore.com/res/image/data/nJYjgug5-S4x8F7fi.png",
+            "favorito": "Genclerbirligi",
+            "probabilidad_favorito": 57.44,
+            "nofavorito": "Erzurumspor",
+            "probabilidad_nofavorito": 18.38,
+            "probabilidad_empate": 24.19,
+            "marcador_probable": "1-0",
+            "ultimo_resultado_favorito": "W",
+            "condiciones": {
+                "favorito_mayor_45": true,
+                "empate_mayor_nofavorito": true,
+                "favorito_gano_ultimo": true,
+                "marcador_confirma_favorito": true
+            },
+            "select": true
+        },
+        {
+            "fecha": "2026-08-28",
+            "hora": "07:30",
+            "local": "Kolos Kovalivka",
+            "visitante": "Obolon",
+            "logolocal": "https://static.flashscore.com/res/image/data/CxxhPqxS-reHWnXse.png",
+            "logovisitante": "https://static.flashscore.com/res/image/data/O4eh1ezB-QanlLhoo.png",
+            "favorito": "Kolos Kovalivka",
+            "probabilidad_favorito": 53.79,
+            "nofavorito": "Obolon",
+            "probabilidad_nofavorito": 21.99,
+            "probabilidad_empate": 24.23,
             "marcador_probable": "1-0",
             "ultimo_resultado_favorito": "W",
             "condiciones": {
