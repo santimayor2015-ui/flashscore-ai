@@ -3136,9 +3136,9 @@
         "hora": "14:00",
         "local": "LASK (Aut)",
         "visitante": "Celtic (Sco)",
-        "cuota_local": 1.92,
-        "cuota_empate": 3.95,
-        "cuota_visitante": 3.4,
+        "cuota_local": 1.96,
+        "cuota_empate": 3.85,
+        "cuota_visitante": 3.35,
         "link": "https://www.flashscore.co/partido/futbol/celtic-QFKRRD8M/lask-linz-MipWYeKQ/?mid=OOklm0j3",
         "logo_local": "https://static.flashscore.com/res/image/data/0jGJoJyS-CbaUQRYa.png",
         "logo_visitante": "https://static.flashscore.com/res/image/data/6BtM40Br-Y1XXO0Va.png",
@@ -3396,9 +3396,9 @@
                     "Visitante": 32.05
                 },
                 "1X2Mercado": {
-                    "Local": 48.76,
-                    "Empate": 23.7,
-                    "Visitante": 27.54
+                    "Local": 47.75,
+                    "Empate": 24.31,
+                    "Visitante": 27.94
                 },
                 "1X2Final": {
                     "Local": 41.69,
@@ -3432,9 +3432,9 @@
                 "Favorito": "LASK (Aut)",
                 "ValueBet": {
                     "Mercado": "Visitante",
-                    "EV": 8.97,
-                    "Edge": 4.51,
-                    "Cuota": 3.4,
+                    "EV": 7.37,
+                    "Edge": 4.11,
+                    "Cuota": 3.35,
                     "Value": true
                 },
                 "Confianza": {
@@ -3645,33 +3645,33 @@
                 "ErrorMonteCarlo": ""
             },
             "Mercado": {
-                "Local": 48.76,
-                "Empate": 23.7,
-                "Visitante": 27.54
+                "Local": 47.75,
+                "Empate": 24.31,
+                "Visitante": 27.94
             },
             "ValueBets": {
                 "Local": {
                     "ProbModelo": 41.69,
-                    "ProbMercado": 48.76,
-                    "Edge": -7.07,
-                    "Cuota": 1.92,
-                    "EV": -19.96,
+                    "ProbMercado": 47.75,
+                    "Edge": -6.06,
+                    "Cuota": 1.96,
+                    "EV": -18.29,
                     "Value": false
                 },
                 "Empate": {
                     "ProbModelo": 26.26,
-                    "ProbMercado": 23.7,
-                    "Edge": 2.56,
-                    "Cuota": 3.95,
-                    "EV": 3.73,
+                    "ProbMercado": 24.31,
+                    "Edge": 1.95,
+                    "Cuota": 3.85,
+                    "EV": 1.1,
                     "Value": true
                 },
                 "Visitante": {
                     "ProbModelo": 32.05,
-                    "ProbMercado": 27.54,
-                    "Edge": 4.51,
-                    "Cuota": 3.4,
-                    "EV": 8.97,
+                    "ProbMercado": 27.94,
+                    "Edge": 4.11,
+                    "Cuota": 3.35,
+                    "EV": 7.37,
                     "Value": true
                 }
             },
@@ -5461,7 +5461,7 @@
         "hora": "11:05",
         "local": "Abha",
         "visitante": "Al Khaleej",
-        "cuota_local": 3.0,
+        "cuota_local": 3.1,
         "cuota_empate": 3.4,
         "cuota_visitante": 2.25,
         "link": "https://www.flashscore.co/partido/futbol/abha-lnEqnhJf/al-khaleej-UanWW9fq/?mid=A3xCop4s",
@@ -5812,9 +5812,9 @@
                     "Visitante": 24.47
                 },
                 "1X2Mercado": {
-                    "Local": 31.1,
-                    "Empate": 27.44,
-                    "Visitante": 41.46
+                    "Local": 30.4,
+                    "Empate": 27.72,
+                    "Visitante": 41.88
                 },
                 "1X2Final": {
                     "Local": 44.87,
@@ -5848,9 +5848,9 @@
                 "Favorito": "Abha",
                 "ValueBet": {
                     "Mercado": "Local",
-                    "EV": 34.61,
-                    "Edge": 13.77,
-                    "Cuota": 3.0,
+                    "EV": 39.1,
+                    "Edge": 14.47,
+                    "Cuota": 3.1,
                     "Value": true
                 },
                 "Confianza": {
@@ -6061,31 +6061,31 @@
                 "ErrorMonteCarlo": ""
             },
             "Mercado": {
-                "Local": 31.1,
-                "Empate": 27.44,
-                "Visitante": 41.46
+                "Local": 30.4,
+                "Empate": 27.72,
+                "Visitante": 41.88
             },
             "ValueBets": {
                 "Local": {
                     "ProbModelo": 44.87,
-                    "ProbMercado": 31.1,
-                    "Edge": 13.77,
-                    "Cuota": 3.0,
-                    "EV": 34.61,
+                    "ProbMercado": 30.4,
+                    "Edge": 14.47,
+                    "Cuota": 3.1,
+                    "EV": 39.1,
                     "Value": true
                 },
                 "Empate": {
                     "ProbModelo": 30.66,
-                    "ProbMercado": 27.44,
-                    "Edge": 3.22,
+                    "ProbMercado": 27.72,
+                    "Edge": 2.94,
                     "Cuota": 3.4,
                     "EV": 4.24,
                     "Value": true
                 },
                 "Visitante": {
                     "ProbModelo": 24.47,
-                    "ProbMercado": 41.46,
-                    "Edge": -16.99,
+                    "ProbMercado": 41.88,
+                    "Edge": -17.41,
                     "Cuota": 2.25,
                     "EV": -44.94,
                     "Value": false
@@ -19409,9 +19409,9 @@
         "hora": "13:00",
         "local": "Osasco Audax Sub-20",
         "visitante": "Gremio Prudente Sub-20",
-        "cuota_local": 2.1,
-        "cuota_empate": 3.25,
-        "cuota_visitante": 3.1,
+        "cuota_local": 2.18,
+        "cuota_empate": 3.2,
+        "cuota_visitante": 2.92,
         "link": "https://www.flashscore.co/partido/futbol/gremio-prudente-reCJH93l/osasco-audax-pdoaCn3N/?mid=QcR88jIM",
         "logo_local": "https://static.flashscore.com/res/image/data/Yw1IVKAr-rTzoXfSd.png",
         "logo_visitante": "https://static.flashscore.com/res/image/data/2R88C8Ea-jPY7Gq7o.png",
@@ -19654,9 +19654,9 @@
                     "Visitante": 20.63
                 },
                 "1X2Mercado": {
-                    "Local": 43.04,
-                    "Empate": 27.81,
-                    "Visitante": 29.15
+                    "Local": 41.19,
+                    "Empate": 28.06,
+                    "Visitante": 30.75
                 },
                 "1X2Final": {
                     "Local": 58.32,
@@ -19690,9 +19690,9 @@
                 "Favorito": "Osasco Audax Sub-20",
                 "ValueBet": {
                     "Mercado": "Local",
-                    "EV": 22.47,
-                    "Edge": 15.28,
-                    "Cuota": 2.1,
+                    "EV": 27.14,
+                    "Edge": 17.13,
+                    "Cuota": 2.18,
                     "Value": true
                 },
                 "Confianza": {
@@ -19903,33 +19903,33 @@
                 "ErrorMonteCarlo": ""
             },
             "Mercado": {
-                "Local": 43.04,
-                "Empate": 27.81,
-                "Visitante": 29.15
+                "Local": 41.19,
+                "Empate": 28.06,
+                "Visitante": 30.75
             },
             "ValueBets": {
                 "Local": {
                     "ProbModelo": 58.32,
-                    "ProbMercado": 43.04,
-                    "Edge": 15.28,
-                    "Cuota": 2.1,
-                    "EV": 22.47,
+                    "ProbMercado": 41.19,
+                    "Edge": 17.13,
+                    "Cuota": 2.18,
+                    "EV": 27.14,
                     "Value": true
                 },
                 "Empate": {
                     "ProbModelo": 21.04,
-                    "ProbMercado": 27.81,
-                    "Edge": -6.77,
-                    "Cuota": 3.25,
-                    "EV": -31.62,
+                    "ProbMercado": 28.06,
+                    "Edge": -7.02,
+                    "Cuota": 3.2,
+                    "EV": -32.67,
                     "Value": false
                 },
                 "Visitante": {
                     "ProbModelo": 20.63,
-                    "ProbMercado": 29.15,
-                    "Edge": -8.52,
-                    "Cuota": 3.1,
-                    "EV": -36.05,
+                    "ProbMercado": 30.75,
+                    "Edge": -10.12,
+                    "Cuota": 2.92,
+                    "EV": -39.76,
                     "Value": false
                 }
             },
@@ -65259,8 +65259,8 @@
         "hora": "15:00",
         "local": "Jarabacoa",
         "visitante": "Atlántico",
-        "cuota_local": 2.77,
-        "cuota_empate": 3.2,
+        "cuota_local": 2.75,
+        "cuota_empate": 3.25,
         "cuota_visitante": 2.27,
         "link": "https://www.flashscore.co/partido/futbol/atlantico-fc-MXjk86OJ/don-bosco-jarabacoa-8v8mfWDH/?mid=KnDa65Sb",
         "logo_local": "https://static.flashscore.com/res/image/data/pOaH61HG-dSdBiwoB.png",
@@ -65596,9 +65596,9 @@
                     "Visitante": 41.76
                 },
                 "1X2Mercado": {
-                    "Local": 32.41,
-                    "Empate": 28.05,
-                    "Visitante": 39.54
+                    "Local": 32.71,
+                    "Empate": 27.67,
+                    "Visitante": 39.62
                 },
                 "1X2Final": {
                     "Local": 29.79,
@@ -65633,7 +65633,7 @@
                 "ValueBet": {
                     "Mercado": "Visitante",
                     "EV": -5.2,
-                    "Edge": 2.22,
+                    "Edge": 2.14,
                     "Cuota": 2.27,
                     "Value": false
                 },
@@ -65845,31 +65845,31 @@
                 "ErrorMonteCarlo": ""
             },
             "Mercado": {
-                "Local": 32.41,
-                "Empate": 28.05,
-                "Visitante": 39.54
+                "Local": 32.71,
+                "Empate": 27.67,
+                "Visitante": 39.62
             },
             "ValueBets": {
                 "Local": {
                     "ProbModelo": 29.79,
-                    "ProbMercado": 32.41,
-                    "Edge": -2.62,
-                    "Cuota": 2.77,
-                    "EV": -17.48,
+                    "ProbMercado": 32.71,
+                    "Edge": -2.92,
+                    "Cuota": 2.75,
+                    "EV": -18.08,
                     "Value": false
                 },
                 "Empate": {
                     "ProbModelo": 28.45,
-                    "ProbMercado": 28.05,
-                    "Edge": 0.4,
-                    "Cuota": 3.2,
-                    "EV": -8.96,
+                    "ProbMercado": 27.67,
+                    "Edge": 0.78,
+                    "Cuota": 3.25,
+                    "EV": -7.54,
                     "Value": false
                 },
                 "Visitante": {
                     "ProbModelo": 41.76,
-                    "ProbMercado": 39.54,
-                    "Edge": 2.22,
+                    "ProbMercado": 39.62,
+                    "Edge": 2.14,
                     "Cuota": 2.27,
                     "EV": -5.2,
                     "Value": false
@@ -76720,9 +76720,9 @@
         "hora": "09:00",
         "local": "Andijan",
         "visitante": "Xorazm Urganch",
-        "cuota_local": 1.75,
+        "cuota_local": 1.68,
         "cuota_empate": 3.35,
-        "cuota_visitante": 4.6,
+        "cuota_visitante": 4.33,
         "link": "https://www.flashscore.co/partido/futbol/andijan-K6dxHEG0/xorazm-urganch-bkJfERao/?mid=dd6Zgp6c",
         "logo_local": "https://static.flashscore.com/res/image/data/f1VChqDa-Otel1TYN.png",
         "logo_visitante": "https://static.flashscore.com/res/image/data/6LnzzPBr-KrVwWP90.png",
@@ -77071,9 +77071,9 @@
                     "Visitante": 30.72
                 },
                 "1X2Mercado": {
-                    "Local": 52.55,
-                    "Empate": 27.45,
-                    "Visitante": 19.99
+                    "Local": 52.92,
+                    "Empate": 26.54,
+                    "Visitante": 20.53
                 },
                 "1X2Final": {
                     "Local": 39.4,
@@ -77107,9 +77107,9 @@
                 "Favorito": "Andijan",
                 "ValueBet": {
                     "Mercado": "Visitante",
-                    "EV": 41.31,
-                    "Edge": 10.73,
-                    "Cuota": 4.6,
+                    "EV": 33.02,
+                    "Edge": 10.19,
+                    "Cuota": 4.33,
                     "Value": true
                 },
                 "Confianza": {
@@ -77320,33 +77320,33 @@
                 "ErrorMonteCarlo": ""
             },
             "Mercado": {
-                "Local": 52.55,
-                "Empate": 27.45,
-                "Visitante": 19.99
+                "Local": 52.92,
+                "Empate": 26.54,
+                "Visitante": 20.53
             },
             "ValueBets": {
                 "Local": {
                     "ProbModelo": 39.4,
-                    "ProbMercado": 52.55,
-                    "Edge": -13.15,
-                    "Cuota": 1.75,
-                    "EV": -31.05,
+                    "ProbMercado": 52.92,
+                    "Edge": -13.52,
+                    "Cuota": 1.68,
+                    "EV": -33.81,
                     "Value": false
                 },
                 "Empate": {
                     "ProbModelo": 29.89,
-                    "ProbMercado": 27.45,
-                    "Edge": 2.44,
+                    "ProbMercado": 26.54,
+                    "Edge": 3.35,
                     "Cuota": 3.35,
                     "EV": 0.13,
                     "Value": true
                 },
                 "Visitante": {
                     "ProbModelo": 30.72,
-                    "ProbMercado": 19.99,
-                    "Edge": 10.73,
-                    "Cuota": 4.6,
-                    "EV": 41.31,
+                    "ProbMercado": 20.53,
+                    "Edge": 10.19,
+                    "Cuota": 4.33,
+                    "EV": 33.02,
                     "Value": true
                 }
             },
@@ -77366,9 +77366,9 @@
         "hora": "09:00",
         "local": "Termez Surkhon",
         "visitante": "OKMK",
-        "cuota_local": 3.3,
-        "cuota_empate": 3.25,
-        "cuota_visitante": 2.1,
+        "cuota_local": 3.1,
+        "cuota_empate": 3.3,
+        "cuota_visitante": 2.05,
         "link": "https://www.flashscore.co/partido/futbol/okmk-4bW7fppH/termez-surkhon-nNSkKzpB/?mid=4l4lWtEj",
         "logo_local": "https://static.flashscore.com/res/image/data/6LEe9Eg5-IFjYtoL1.png",
         "logo_visitante": "https://static.flashscore.com/res/image/data/bRmCDecM-EPflwKJK.png",
@@ -77717,8 +77717,8 @@
                     "Visitante": 48.46
                 },
                 "1X2Mercado": {
-                    "Local": 27.88,
-                    "Empate": 28.31,
+                    "Local": 28.97,
+                    "Empate": 27.22,
                     "Visitante": 43.81
                 },
                 "1X2Final": {
@@ -77753,10 +77753,10 @@
                 "Favorito": "OKMK",
                 "ValueBet": {
                     "Mercado": "Visitante",
-                    "EV": 1.77,
+                    "EV": -0.66,
                     "Edge": 4.65,
-                    "Cuota": 2.1,
-                    "Value": true
+                    "Cuota": 2.05,
+                    "Value": false
                 },
                 "Confianza": {
                     "Valor": 79.79,
@@ -77966,34 +77966,34 @@
                 "ErrorMonteCarlo": ""
             },
             "Mercado": {
-                "Local": 27.88,
-                "Empate": 28.31,
+                "Local": 28.97,
+                "Empate": 27.22,
                 "Visitante": 43.81
             },
             "ValueBets": {
                 "Local": {
                     "ProbModelo": 26.92,
-                    "ProbMercado": 27.88,
-                    "Edge": -0.96,
-                    "Cuota": 3.3,
-                    "EV": -11.16,
+                    "ProbMercado": 28.97,
+                    "Edge": -2.05,
+                    "Cuota": 3.1,
+                    "EV": -16.55,
                     "Value": false
                 },
                 "Empate": {
                     "ProbModelo": 24.63,
-                    "ProbMercado": 28.31,
-                    "Edge": -3.68,
-                    "Cuota": 3.25,
-                    "EV": -19.95,
+                    "ProbMercado": 27.22,
+                    "Edge": -2.59,
+                    "Cuota": 3.3,
+                    "EV": -18.72,
                     "Value": false
                 },
                 "Visitante": {
                     "ProbModelo": 48.46,
                     "ProbMercado": 43.81,
                     "Edge": 4.65,
-                    "Cuota": 2.1,
-                    "EV": 1.77,
-                    "Value": true
+                    "Cuota": 2.05,
+                    "EV": -0.66,
+                    "Value": false
                 }
             },
             "Select": {
@@ -105739,9 +105739,9 @@
         "hora": "19:30",
         "local": "Toluca",
         "visitante": "Austin FC",
-        "cuota_local": 1.57,
-        "cuota_empate": 4.2,
-        "cuota_visitante": 5.4,
+        "cuota_local": 1.56,
+        "cuota_empate": 4.1,
+        "cuota_visitante": 5.7,
         "link": "https://www.flashscore.co/partido/futbol/austin-fc-IeT6JBE3/toluca-8hiBr2eQ/?mid=vi8dmMiL",
         "logo_local": "https://static.flashscore.com/res/image/data/2XmJUlzB-0pHVJYjM.png",
         "logo_visitante": "https://static.flashscore.com/res/image/data/CEZPnWh5-AP3GsSz8.png",
@@ -105984,9 +105984,9 @@
                     "Visitante": 18.11
                 },
                 "1X2Mercado": {
-                    "Local": 60.08,
-                    "Empate": 22.46,
-                    "Visitante": 17.47
+                    "Local": 60.45,
+                    "Empate": 23.0,
+                    "Visitante": 16.55
                 },
                 "1X2Final": {
                     "Local": 59.61,
@@ -106020,10 +106020,10 @@
                 "Favorito": "Toluca",
                 "ValueBet": {
                     "Mercado": "Visitante",
-                    "EV": -2.21,
-                    "Edge": 0.64,
-                    "Cuota": 5.4,
-                    "Value": false
+                    "EV": 3.23,
+                    "Edge": 1.56,
+                    "Cuota": 5.7,
+                    "Value": true
                 },
                 "Confianza": {
                     "Valor": 83.33,
@@ -106233,34 +106233,34 @@
                 "ErrorMonteCarlo": ""
             },
             "Mercado": {
-                "Local": 60.08,
-                "Empate": 22.46,
-                "Visitante": 17.47
+                "Local": 60.45,
+                "Empate": 23.0,
+                "Visitante": 16.55
             },
             "ValueBets": {
                 "Local": {
                     "ProbModelo": 59.61,
-                    "ProbMercado": 60.08,
-                    "Edge": -0.47,
-                    "Cuota": 1.57,
-                    "EV": -6.41,
+                    "ProbMercado": 60.45,
+                    "Edge": -0.84,
+                    "Cuota": 1.56,
+                    "EV": -7.01,
                     "Value": false
                 },
                 "Empate": {
                     "ProbModelo": 22.29,
-                    "ProbMercado": 22.46,
-                    "Edge": -0.17,
-                    "Cuota": 4.2,
-                    "EV": -6.38,
+                    "ProbMercado": 23.0,
+                    "Edge": -0.71,
+                    "Cuota": 4.1,
+                    "EV": -8.61,
                     "Value": false
                 },
                 "Visitante": {
                     "ProbModelo": 18.11,
-                    "ProbMercado": 17.47,
-                    "Edge": 0.64,
-                    "Cuota": 5.4,
-                    "EV": -2.21,
-                    "Value": false
+                    "ProbMercado": 16.55,
+                    "Edge": 1.56,
+                    "Cuota": 5.7,
+                    "EV": 3.23,
+                    "Value": true
                 }
             },
             "Select": {
@@ -133064,9 +133064,9 @@
         "hora": "11:00",
         "local": "Qarabag (Aze)",
         "visitante": "Twente (Ned)",
-        "cuota_local": 3.05,
-        "cuota_empate": 3.6,
-        "cuota_visitante": 2.15,
+        "cuota_local": 3.0,
+        "cuota_empate": 3.55,
+        "cuota_visitante": 2.18,
         "link": "https://www.flashscore.co/partido/futbol/qarabag-agdam-Qgd3eSin/twente-dhOKTHGA/?mid=ANKmKyyh",
         "logo_local": "https://static.flashscore.com/res/image/data/Em3WdChl-W0XY6C3I.png",
         "logo_visitante": "https://static.flashscore.com/res/image/data/n9hVHBcM-4vob7cTR.png",
@@ -133359,9 +133359,9 @@
                     "Visitante": 32.05
                 },
                 "1X2Mercado": {
-                    "Local": 30.62,
-                    "Empate": 25.94,
-                    "Visitante": 43.44
+                    "Local": 31.04,
+                    "Empate": 26.23,
+                    "Visitante": 42.72
                 },
                 "1X2Final": {
                     "Local": 41.69,
@@ -133395,9 +133395,9 @@
                 "Favorito": "Qarabag (Aze)",
                 "ValueBet": {
                     "Mercado": "Local",
-                    "EV": 27.15,
-                    "Edge": 11.07,
-                    "Cuota": 3.05,
+                    "EV": 25.07,
+                    "Edge": 10.65,
+                    "Cuota": 3.0,
                     "Value": true
                 },
                 "Confianza": {
@@ -133608,33 +133608,33 @@
                 "ErrorMonteCarlo": ""
             },
             "Mercado": {
-                "Local": 30.62,
-                "Empate": 25.94,
-                "Visitante": 43.44
+                "Local": 31.04,
+                "Empate": 26.23,
+                "Visitante": 42.72
             },
             "ValueBets": {
                 "Local": {
                     "ProbModelo": 41.69,
-                    "ProbMercado": 30.62,
-                    "Edge": 11.07,
-                    "Cuota": 3.05,
-                    "EV": 27.15,
+                    "ProbMercado": 31.04,
+                    "Edge": 10.65,
+                    "Cuota": 3.0,
+                    "EV": 25.07,
                     "Value": true
                 },
                 "Empate": {
                     "ProbModelo": 26.26,
-                    "ProbMercado": 25.94,
-                    "Edge": 0.32,
-                    "Cuota": 3.6,
-                    "EV": -5.46,
+                    "ProbMercado": 26.23,
+                    "Edge": 0.03,
+                    "Cuota": 3.55,
+                    "EV": -6.78,
                     "Value": false
                 },
                 "Visitante": {
                     "ProbModelo": 32.05,
-                    "ProbMercado": 43.44,
-                    "Edge": -11.39,
-                    "Cuota": 2.15,
-                    "EV": -31.09,
+                    "ProbMercado": 42.72,
+                    "Edge": -10.67,
+                    "Cuota": 2.18,
+                    "EV": -30.13,
                     "Value": false
                 }
             },
@@ -136957,8 +136957,8 @@
         "local": "Austria Viena (Aut)",
         "visitante": "SC Braga (Por)",
         "cuota_local": 3.55,
-        "cuota_empate": 3.6,
-        "cuota_visitante": 1.96,
+        "cuota_empate": 3.55,
+        "cuota_visitante": 1.97,
         "link": "https://www.flashscore.co/partido/futbol/austria-viena-lvnOzIkE/braga-dpUer7ht/?mid=tbLrYwOG",
         "logo_local": "https://static.flashscore.com/res/image/data/C0vKONEG-lUkqx2Vt.png",
         "logo_visitante": "https://static.flashscore.com/res/image/data/hrorkWVg-6JDIcK05.png",
@@ -137209,9 +137209,9 @@
                     "Visitante": 32.05
                 },
                 "1X2Mercado": {
-                    "Local": 26.33,
-                    "Empate": 25.97,
-                    "Visitante": 47.7
+                    "Local": 26.3,
+                    "Empate": 26.3,
+                    "Visitante": 47.4
                 },
                 "1X2Final": {
                     "Local": 41.69,
@@ -137246,7 +137246,7 @@
                 "ValueBet": {
                     "Mercado": "Local",
                     "EV": 48.0,
-                    "Edge": 15.36,
+                    "Edge": 15.39,
                     "Cuota": 3.55,
                     "Value": true
                 },
@@ -137458,33 +137458,33 @@
                 "ErrorMonteCarlo": ""
             },
             "Mercado": {
-                "Local": 26.33,
-                "Empate": 25.97,
-                "Visitante": 47.7
+                "Local": 26.3,
+                "Empate": 26.3,
+                "Visitante": 47.4
             },
             "ValueBets": {
                 "Local": {
                     "ProbModelo": 41.69,
-                    "ProbMercado": 26.33,
-                    "Edge": 15.36,
+                    "ProbMercado": 26.3,
+                    "Edge": 15.39,
                     "Cuota": 3.55,
                     "EV": 48.0,
                     "Value": true
                 },
                 "Empate": {
                     "ProbModelo": 26.26,
-                    "ProbMercado": 25.97,
-                    "Edge": 0.29,
-                    "Cuota": 3.6,
-                    "EV": -5.46,
+                    "ProbMercado": 26.3,
+                    "Edge": -0.04,
+                    "Cuota": 3.55,
+                    "EV": -6.78,
                     "Value": false
                 },
                 "Visitante": {
                     "ProbModelo": 32.05,
-                    "ProbMercado": 47.7,
-                    "Edge": -15.65,
-                    "Cuota": 1.96,
-                    "EV": -37.18,
+                    "ProbMercado": 47.4,
+                    "Edge": -15.35,
+                    "Cuota": 1.97,
+                    "EV": -36.86,
                     "Value": false
                 }
             },
