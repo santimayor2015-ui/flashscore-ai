@@ -4,28 +4,6 @@
     "partidos": [
         {
             "fecha": "2026-08-25",
-            "hora": "19:30",
-            "local": "River Plate 2",
-            "visitante": "Unión Santa Fe 2",
-            "logolocal": "https://static.flashscore.com/res/image/data/8A2krlhl-xWPfZk28.png",
-            "logovisitante": "https://static.flashscore.com/res/image/data/EBbPL6hl-nsX29CUB.png",
-            "favorito": "River Plate 2",
-            "probabilidad_favorito": 55.12,
-            "nofavorito": "Unión Santa Fe 2",
-            "probabilidad_nofavorito": 20.21,
-            "probabilidad_empate": 24.67,
-            "marcador_probable": "1-0",
-            "ultimo_resultado_favorito": "W",
-            "condiciones": {
-                "favorito_mayor_45": true,
-                "empate_mayor_nofavorito": true,
-                "favorito_gano_ultimo": true,
-                "marcador_confirma_favorito": true
-            },
-            "select": true
-        },
-        {
-            "fecha": "2026-08-25",
             "hora": "21:30",
             "local": "León",
             "visitante": "Real Salt Lake",
@@ -278,6 +256,28 @@
             "nofavorito": "Anzoategui FC",
             "probabilidad_nofavorito": 22.45,
             "probabilidad_empate": 25.97,
+            "marcador_probable": "1-0",
+            "ultimo_resultado_favorito": "W",
+            "condiciones": {
+                "favorito_mayor_45": true,
+                "empate_mayor_nofavorito": true,
+                "favorito_gano_ultimo": true,
+                "marcador_confirma_favorito": true
+            },
+            "select": true
+        },
+        {
+            "fecha": "2026-08-27",
+            "hora": "13:00",
+            "local": "Setif",
+            "visitante": "Ben Aknoun",
+            "logolocal": "https://static.flashscore.com/res/image/data/84RXcQXg-CEDetKma.png",
+            "logovisitante": "https://static.flashscore.com/res/image/data/ht1A4kdM-foycN4W1.png",
+            "favorito": "Setif",
+            "probabilidad_favorito": 62.97,
+            "nofavorito": "Ben Aknoun",
+            "probabilidad_nofavorito": 15.51,
+            "probabilidad_empate": 21.52,
             "marcador_probable": "1-0",
             "ultimo_resultado_favorito": "W",
             "condiciones": {
