@@ -1,13 +1,13 @@
 {
-  "fecha_generacion": "2026-08-25T21:49:05",
+  "fecha_generacion": "2026-08-26T10:18:56",
   "archivo": "C:\\Flashcore\\historico_pronosticos.json",
-  "registros_historicos": 485,
-  "finalizados": 120,
-  "pendientes": 365,
+  "registros_historicos": 890,
+  "finalizados": 146,
+  "pendientes": 744,
   "sincronizacion_pendientes": {
-    "pendientes_iniciales": 374,
-    "actualizados": 9,
-    "aun_pendientes": 365,
+    "pendientes_iniciales": 770,
+    "actualizados": 26,
+    "aun_pendientes": 744,
     "errores": 0
   },
   "criterio": {
@@ -31,21 +31,21 @@
   "bloques": {
     "IA_PARTIDOS": {
       "resumen": {
-        "partidos": 120,
-        "aciertos": 53,
-        "fallos": 67,
-        "acierto": 44.17,
-        "brier": 0.652,
-        "log_loss": 1.0767
+        "partidos": 146,
+        "aciertos": 65,
+        "fallos": 81,
+        "acierto": 44.52,
+        "brier": 0.65,
+        "log_loss": 1.0754
       },
       "por_liga": {
         "SIN LIGA": {
-          "partidos": 120,
-          "aciertos": 53,
-          "fallos": 67,
-          "acierto": 44.17,
-          "brier": 0.652,
-          "log_loss": 1.0767,
+          "partidos": 146,
+          "aciertos": 65,
+          "fallos": 81,
+          "acierto": 44.52,
+          "brier": 0.65,
+          "log_loss": 1.0754,
           "muestra_suficiente": true
         }
       },
@@ -59,20 +59,20 @@
           "log_loss": 1.0731
         },
         "1.70-1.89": {
-          "partidos": 16,
-          "aciertos": 8,
-          "fallos": 8,
+          "partidos": 20,
+          "aciertos": 10,
+          "fallos": 10,
           "acierto": 50.0,
-          "brier": 0.5876,
-          "log_loss": 0.9872
+          "brier": 0.6161,
+          "log_loss": 1.0323
         },
         "1.90-2.09": {
-          "partidos": 17,
-          "aciertos": 8,
-          "fallos": 9,
-          "acierto": 47.06,
-          "brier": 0.5939,
-          "log_loss": 0.9922
+          "partidos": 20,
+          "aciertos": 9,
+          "fallos": 11,
+          "acierto": 45.0,
+          "brier": 0.6049,
+          "log_loss": 1.0094
         },
         "2.10-2.29": {
           "partidos": 15,
@@ -83,78 +83,78 @@
           "log_loss": 0.9898
         },
         "2.30-2.49": {
-          "partidos": 7,
-          "aciertos": 1,
-          "fallos": 6,
-          "acierto": 14.29,
-          "brier": 0.7679,
-          "log_loss": 1.2519
+          "partidos": 10,
+          "aciertos": 2,
+          "fallos": 8,
+          "acierto": 20.0,
+          "brier": 0.7478,
+          "log_loss": 1.2203
         },
         "2.50-2.99": {
-          "partidos": 17,
-          "aciertos": 5,
-          "fallos": 12,
-          "acierto": 29.41,
-          "brier": 0.681,
-          "log_loss": 1.1241
+          "partidos": 21,
+          "aciertos": 7,
+          "fallos": 14,
+          "acierto": 33.33,
+          "brier": 0.6621,
+          "log_loss": 1.0991
         },
         "3.00-3.49": {
-          "partidos": 14,
-          "aciertos": 6,
-          "fallos": 8,
-          "acierto": 42.86,
-          "brier": 0.71,
-          "log_loss": 1.1628
+          "partidos": 17,
+          "aciertos": 7,
+          "fallos": 10,
+          "acierto": 41.18,
+          "brier": 0.6763,
+          "log_loss": 1.1147
         },
         "3.50-4.49": {
-          "partidos": 5,
-          "aciertos": 1,
-          "fallos": 4,
-          "acierto": 20.0,
-          "brier": 0.7844,
-          "log_loss": 1.2266
+          "partidos": 11,
+          "aciertos": 5,
+          "fallos": 6,
+          "acierto": 45.45,
+          "brier": 0.691,
+          "log_loss": 1.1223
         },
         "4.50+": {
-          "partidos": 4,
-          "aciertos": 1,
-          "fallos": 3,
-          "acierto": 25.0,
-          "brier": 0.7049,
-          "log_loss": 1.1446
+          "partidos": 7,
+          "aciertos": 2,
+          "fallos": 5,
+          "acierto": 28.57,
+          "brier": 0.6987,
+          "log_loss": 1.1314
         }
       },
       "por_probabilidad": {
         "<50%": {
-          "partidos": 75,
-          "aciertos": 30,
-          "fallos": 45,
-          "acierto": 40.0,
-          "brier": 0.6583,
-          "log_loss": 1.085
+          "partidos": 92,
+          "aciertos": 38,
+          "fallos": 54,
+          "acierto": 41.3,
+          "brier": 0.6562,
+          "log_loss": 1.0826
         },
         "50-54%": {
-          "partidos": 17,
-          "aciertos": 13,
-          "fallos": 4,
-          "acierto": 76.47,
-          "brier": 0.4731,
-          "log_loss": 0.8294
+          "partidos": 22,
+          "aciertos": 14,
+          "fallos": 8,
+          "acierto": 63.64,
+          "brier": 0.5531,
+          "log_loss": 0.9455
         },
         "55-59%": {
-          "partidos": 23,
+          "partidos": 24,
           "aciertos": 8,
-          "fallos": 15,
-          "acierto": 34.78,
-          "brier": 0.7396,
-          "log_loss": 1.1979
+          "fallos": 16,
+          "acierto": 33.33,
+          "brier": 0.7543,
+          "log_loss": 1.2208
         },
         "60-64%": {
-          "partidos": 4,
-          "aciertos": 2,
+          "partidos": 5,
+          "aciertos": 3,
           "fallos": 2,
-          "acierto": 50.0,
-          "brier": 0.6558,
-          "log_loss": 1.0852
+          "acierto": 60.0,
+          "brier": 0.5633,
+          "log_loss": 0.9569
         },
         "65-69%": {
           "partidos": 1,
@@ -165,12 +165,12 @@
           "log_loss": 1.8351
         },
         "70-74%": {
-          "partidos": 0,
-          "aciertos": 0,
+          "partidos": 2,
+          "aciertos": 2,
           "fallos": 0,
-          "acierto": null,
-          "brier": null,
-          "log_loss": null
+          "acierto": 100.0,
+          "brier": 0.1295,
+          "log_loss": 0.345
         },
         "75-79%": {
           "partidos": 0,
@@ -208,9 +208,9 @@
       "mejores_ligas": [
         {
           "liga": "SIN LIGA",
-          "acierto": 44.17,
-          "partidos": 120,
-          "aciertos": 53,
+          "acierto": 44.52,
+          "partidos": 146,
+          "aciertos": 65,
           "muestra_suficiente": true
         }
       ],
@@ -230,38 +230,44 @@
         {
           "rango_cuota": "1.70-1.89",
           "acierto": 50.0,
-          "partidos": 16,
-          "aciertos": 8
-        },
-        {
-          "rango_cuota": "1.90-2.09",
-          "acierto": 47.06,
-          "partidos": 17,
-          "aciertos": 8
-        },
-        {
-          "rango_cuota": "3.00-3.49",
-          "acierto": 42.86,
-          "partidos": 14,
-          "aciertos": 6
-        },
-        {
-          "rango_cuota": "2.50-2.99",
-          "acierto": 29.41,
-          "partidos": 17,
-          "aciertos": 5
+          "partidos": 20,
+          "aciertos": 10
         },
         {
           "rango_cuota": "3.50-4.49",
-          "acierto": 20.0,
-          "partidos": 5,
-          "aciertos": 1
+          "acierto": 45.45,
+          "partidos": 11,
+          "aciertos": 5
+        },
+        {
+          "rango_cuota": "1.90-2.09",
+          "acierto": 45.0,
+          "partidos": 20,
+          "aciertos": 9
+        },
+        {
+          "rango_cuota": "3.00-3.49",
+          "acierto": 41.18,
+          "partidos": 17,
+          "aciertos": 7
+        },
+        {
+          "rango_cuota": "2.50-2.99",
+          "acierto": 33.33,
+          "partidos": 21,
+          "aciertos": 7
+        },
+        {
+          "rango_cuota": "4.50+",
+          "acierto": 28.57,
+          "partidos": 7,
+          "aciertos": 2
         },
         {
           "rango_cuota": "2.30-2.49",
-          "acierto": 14.29,
-          "partidos": 7,
-          "aciertos": 1
+          "acierto": 20.0,
+          "partidos": 10,
+          "aciertos": 2
         }
       ]
     },
@@ -605,21 +611,21 @@
     },
     "1X2MODELO": {
       "resumen": {
-        "partidos": 120,
-        "aciertos": 53,
-        "fallos": 67,
-        "acierto": 44.17,
-        "brier": 0.652,
-        "log_loss": 1.0767
+        "partidos": 146,
+        "aciertos": 65,
+        "fallos": 81,
+        "acierto": 44.52,
+        "brier": 0.65,
+        "log_loss": 1.0754
       },
       "por_liga": {
         "SIN LIGA": {
-          "partidos": 120,
-          "aciertos": 53,
-          "fallos": 67,
-          "acierto": 44.17,
-          "brier": 0.652,
-          "log_loss": 1.0767,
+          "partidos": 146,
+          "aciertos": 65,
+          "fallos": 81,
+          "acierto": 44.52,
+          "brier": 0.65,
+          "log_loss": 1.0754,
           "muestra_suficiente": true
         }
       },
@@ -633,20 +639,20 @@
           "log_loss": 1.0731
         },
         "1.70-1.89": {
-          "partidos": 16,
-          "aciertos": 8,
-          "fallos": 8,
+          "partidos": 20,
+          "aciertos": 10,
+          "fallos": 10,
           "acierto": 50.0,
-          "brier": 0.5876,
-          "log_loss": 0.9872
+          "brier": 0.6161,
+          "log_loss": 1.0323
         },
         "1.90-2.09": {
-          "partidos": 17,
-          "aciertos": 8,
-          "fallos": 9,
-          "acierto": 47.06,
-          "brier": 0.5939,
-          "log_loss": 0.9922
+          "partidos": 20,
+          "aciertos": 9,
+          "fallos": 11,
+          "acierto": 45.0,
+          "brier": 0.6049,
+          "log_loss": 1.0094
         },
         "2.10-2.29": {
           "partidos": 15,
@@ -657,78 +663,78 @@
           "log_loss": 0.9898
         },
         "2.30-2.49": {
-          "partidos": 7,
-          "aciertos": 1,
-          "fallos": 6,
-          "acierto": 14.29,
-          "brier": 0.7679,
-          "log_loss": 1.2519
+          "partidos": 10,
+          "aciertos": 2,
+          "fallos": 8,
+          "acierto": 20.0,
+          "brier": 0.7478,
+          "log_loss": 1.2203
         },
         "2.50-2.99": {
-          "partidos": 17,
-          "aciertos": 5,
-          "fallos": 12,
-          "acierto": 29.41,
-          "brier": 0.681,
-          "log_loss": 1.1241
+          "partidos": 21,
+          "aciertos": 7,
+          "fallos": 14,
+          "acierto": 33.33,
+          "brier": 0.6621,
+          "log_loss": 1.0991
         },
         "3.00-3.49": {
-          "partidos": 14,
-          "aciertos": 6,
-          "fallos": 8,
-          "acierto": 42.86,
-          "brier": 0.71,
-          "log_loss": 1.1628
+          "partidos": 17,
+          "aciertos": 7,
+          "fallos": 10,
+          "acierto": 41.18,
+          "brier": 0.6763,
+          "log_loss": 1.1147
         },
         "3.50-4.49": {
-          "partidos": 5,
-          "aciertos": 1,
-          "fallos": 4,
-          "acierto": 20.0,
-          "brier": 0.7844,
-          "log_loss": 1.2266
+          "partidos": 11,
+          "aciertos": 5,
+          "fallos": 6,
+          "acierto": 45.45,
+          "brier": 0.691,
+          "log_loss": 1.1223
         },
         "4.50+": {
-          "partidos": 4,
-          "aciertos": 1,
-          "fallos": 3,
-          "acierto": 25.0,
-          "brier": 0.7049,
-          "log_loss": 1.1446
+          "partidos": 7,
+          "aciertos": 2,
+          "fallos": 5,
+          "acierto": 28.57,
+          "brier": 0.6987,
+          "log_loss": 1.1314
         }
       },
       "por_probabilidad": {
         "<50%": {
-          "partidos": 75,
-          "aciertos": 30,
-          "fallos": 45,
-          "acierto": 40.0,
-          "brier": 0.6583,
-          "log_loss": 1.085
+          "partidos": 92,
+          "aciertos": 38,
+          "fallos": 54,
+          "acierto": 41.3,
+          "brier": 0.6562,
+          "log_loss": 1.0826
         },
         "50-54%": {
-          "partidos": 17,
-          "aciertos": 13,
-          "fallos": 4,
-          "acierto": 76.47,
-          "brier": 0.4731,
-          "log_loss": 0.8294
+          "partidos": 22,
+          "aciertos": 14,
+          "fallos": 8,
+          "acierto": 63.64,
+          "brier": 0.5531,
+          "log_loss": 0.9455
         },
         "55-59%": {
-          "partidos": 23,
+          "partidos": 24,
           "aciertos": 8,
-          "fallos": 15,
-          "acierto": 34.78,
-          "brier": 0.7396,
-          "log_loss": 1.1979
+          "fallos": 16,
+          "acierto": 33.33,
+          "brier": 0.7543,
+          "log_loss": 1.2208
         },
         "60-64%": {
-          "partidos": 4,
-          "aciertos": 2,
+          "partidos": 5,
+          "aciertos": 3,
           "fallos": 2,
-          "acierto": 50.0,
-          "brier": 0.6558,
-          "log_loss": 1.0852
+          "acierto": 60.0,
+          "brier": 0.5633,
+          "log_loss": 0.9569
         },
         "65-69%": {
           "partidos": 1,
@@ -739,12 +745,12 @@
           "log_loss": 1.8351
         },
         "70-74%": {
-          "partidos": 0,
-          "aciertos": 0,
+          "partidos": 2,
+          "aciertos": 2,
           "fallos": 0,
-          "acierto": null,
-          "brier": null,
-          "log_loss": null
+          "acierto": 100.0,
+          "brier": 0.1295,
+          "log_loss": 0.345
         },
         "75-79%": {
           "partidos": 0,
@@ -782,9 +788,9 @@
       "mejores_ligas": [
         {
           "liga": "SIN LIGA",
-          "acierto": 44.17,
-          "partidos": 120,
-          "aciertos": 53,
+          "acierto": 44.52,
+          "partidos": 146,
+          "aciertos": 65,
           "muestra_suficiente": true
         }
       ],
@@ -804,38 +810,44 @@
         {
           "rango_cuota": "1.70-1.89",
           "acierto": 50.0,
-          "partidos": 16,
-          "aciertos": 8
-        },
-        {
-          "rango_cuota": "1.90-2.09",
-          "acierto": 47.06,
-          "partidos": 17,
-          "aciertos": 8
-        },
-        {
-          "rango_cuota": "3.00-3.49",
-          "acierto": 42.86,
-          "partidos": 14,
-          "aciertos": 6
-        },
-        {
-          "rango_cuota": "2.50-2.99",
-          "acierto": 29.41,
-          "partidos": 17,
-          "aciertos": 5
+          "partidos": 20,
+          "aciertos": 10
         },
         {
           "rango_cuota": "3.50-4.49",
-          "acierto": 20.0,
-          "partidos": 5,
-          "aciertos": 1
+          "acierto": 45.45,
+          "partidos": 11,
+          "aciertos": 5
+        },
+        {
+          "rango_cuota": "1.90-2.09",
+          "acierto": 45.0,
+          "partidos": 20,
+          "aciertos": 9
+        },
+        {
+          "rango_cuota": "3.00-3.49",
+          "acierto": 41.18,
+          "partidos": 17,
+          "aciertos": 7
+        },
+        {
+          "rango_cuota": "2.50-2.99",
+          "acierto": 33.33,
+          "partidos": 21,
+          "aciertos": 7
+        },
+        {
+          "rango_cuota": "4.50+",
+          "acierto": 28.57,
+          "partidos": 7,
+          "aciertos": 2
         },
         {
           "rango_cuota": "2.30-2.49",
-          "acierto": 14.29,
-          "partidos": 7,
-          "aciertos": 1
+          "acierto": 20.0,
+          "partidos": 10,
+          "aciertos": 2
         }
       ]
     }
@@ -843,9 +855,9 @@
   "comparativo": [
     {
       "categoria": "IA_PARTIDOS",
-      "partidos": 120,
-      "aciertos": 53,
-      "acierto": 44.17
+      "partidos": 146,
+      "aciertos": 65,
+      "acierto": 44.52
     },
     {
       "categoria": "PREMIUM",
