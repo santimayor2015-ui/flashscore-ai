@@ -1,22 +1,71 @@
 {
-  "fecha_generacion": "2026-08-26T19:08:16",
-  "archivo": "C:\\Flashcore\\historico_pronosticos.json",
-  "registros_historicos": 673,
+  "fecha_generacion": "2026-08-26T22:56:42-05:00",
+  "archivo": "C:\\Flashcore\\Backup\\Historico\\historico_pronosticos.json",
+  "registros_historicos": 795,
   "finalizados": 0,
-  "pendientes": 673,
-  "sincronizacion_pendientes": {
-    "pendientes_iniciales": 673,
+  "pendientes": 795,
+  "control_universo": {
+    "antes_sincronizacion": {
+      "total": 795,
+      "finalizados": 0,
+      "pendientes": 795,
+      "pendientes_verificables": 3,
+      "pendientes_futuros": 792,
+      "pendientes_sin_fecha_hora": 0,
+      "ahora": "2026-08-26T22:56:27-05:00",
+      "zona_horaria": "America/Bogota"
+    },
+    "despues_sincronizacion": {
+      "total": 795,
+      "finalizados": 0,
+      "pendientes": 795,
+      "pendientes_verificables": 3,
+      "pendientes_futuros": 792,
+      "pendientes_sin_fecha_hora": 0,
+      "ahora": "2026-08-26T22:56:42-05:00",
+      "zona_horaria": "America/Bogota"
+    }
+  },
+  "sincronizacion": {
+    "pendientes_iniciales": 795,
+    "pendientes_verificables": 3,
+    "pendientes_futuros": 792,
+    "consultados": 3,
     "actualizados": 0,
-    "aun_pendientes": 673,
-    "errores": 0
+    "aun_pendientes_verificables": 3,
+    "errores": 0,
+    "sin_link": 0,
+    "sin_fecha_hora": 0,
+    "control_inicial": {
+      "total": 795,
+      "finalizados": 0,
+      "pendientes": 795,
+      "pendientes_verificables": 3,
+      "pendientes_futuros": 792,
+      "pendientes_sin_fecha_hora": 0,
+      "ahora": "2026-08-26T22:56:27-05:00",
+      "zona_horaria": "America/Bogota"
+    },
+    "control_final": {
+      "total": 795,
+      "finalizados": 0,
+      "pendientes": 795,
+      "pendientes_verificables": 3,
+      "pendientes_futuros": 792,
+      "pendientes_sin_fecha_hora": 0,
+      "ahora": "2026-08-26T22:56:42-05:00",
+      "zona_horaria": "America/Bogota"
+    }
   },
   "criterio": {
     "solo_finalizados": true,
     "pendientes_no_cuentan_como_fallo": true,
+    "pendientes_futuros_no_se_consultan": true,
     "pronostico_congelado": true,
     "muestra_suficiente_ligas": 10,
     "muestra_minima_top": 5,
     "rangos_cuotas": [
+      "<1.50",
       "1.50-1.69",
       "1.70-1.89",
       "1.90-2.09",
@@ -24,8 +73,8 @@
       "2.30-2.49",
       "2.50-2.99",
       "3.00-3.49",
-      "3.50-4.49",
-      "4.50+"
+      "3.50-3.69",
+      "3.70+"
     ]
   },
   "bloques": {}
