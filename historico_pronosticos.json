@@ -1,7 +1,7 @@
 {
     "version": 2,
-    "ultima_actualizacion": "2026-08-26T22:56:02",
-    "cantidad": 795,
+    "ultima_actualizacion": "2026-08-26T23:06:08",
+    "cantidad": 797,
     "partidos": [
         {
             "id_partido": "LINK::https://www.flashscore.co/partido/futbol/alajuelense-GhSOAX3r/plaza-amador-8dGV8nQa/?mid=zkfJKcSp",
@@ -382394,7 +382394,967 @@
                 "resultado_1x2": null,
                 "fecha_resultado": null
             }
+        },
+        {
+            "id_partido": "LINK::https://www.flashscore.co/partido/futbol/academia-del-balompie-Oh2AVRlj/bolivar-WImzpcSF/?mid=zHnUgRh2",
+            "primera_captura": "2026-08-26T23:06:08",
+            "fecha": "2026-08-27",
+            "hora": "19:30",
+            "local": "Bolívar",
+            "visitante": "Academia del Balompie",
+            "link": "https://www.flashscore.co/partido/futbol/academia-del-balompie-Oh2AVRlj/bolivar-WImzpcSF/?mid=zHnUgRh2",
+            "cuotas_iniciales": {
+                "Local": 1.11,
+                "Empate": 7.6,
+                "Visitante": 14.0
+            },
+            "pronostico_original": {
+                "Motor": "Motor_analitico",
+                "Version": "1.0-estable",
+                "Partido": {
+                    "Local": "Bolívar",
+                    "Visitante": "Academia del Balompie"
+                },
+                "PronosticoFinal": {
+                    "PickPrincipal": "Local",
+                    "EstadoSeleccion": "PICK",
+                    "1X2": {
+                        "Local": 70.97,
+                        "Empate": 16.64,
+                        "Visitante": 12.38
+                    },
+                    "1X2Modelo": {
+                        "Local": 63.5,
+                        "Empate": 19.56,
+                        "Visitante": 16.95
+                    },
+                    "1X2Mercado": {
+                        "Local": 81.61,
+                        "Empate": 11.92,
+                        "Visitante": 6.47
+                    },
+                    "1X2Final": {
+                        "Local": 70.97,
+                        "Empate": 16.64,
+                        "Visitante": 12.38
+                    },
+                    "BTTS": {
+                        "Pronostico": "SI",
+                        "SI": 65.97,
+                        "NO": 34.03
+                    },
+                    "Over25": {
+                        "Pronostico": "OVER",
+                        "OVER": 71.78,
+                        "UNDER": 28.22
+                    },
+                    "DobleOportunidad": {
+                        "Mercado": "1X",
+                        "Probabilidad": 87.61
+                    },
+                    "MarcadoresProbables": {
+                        "Primero": {
+                            "Marcador": "2-1",
+                            "Probabilidad": 9.24
+                        },
+                        "Segundo": {
+                            "Marcador": "1-1",
+                            "Probabilidad": 8.22
+                        }
+                    },
+                    "Favorito": "Bolívar",
+                    "ValueBet": {
+                        "Mercado": "Visitante",
+                        "EV": 73.32,
+                        "Edge": 5.91,
+                        "Cuota": 14.0,
+                        "Value": true
+                    },
+                    "Confianza": {
+                        "Valor": 86.52,
+                        "Nivel": "ALTA",
+                        "MargenVsSegundo": 54.33
+                    },
+                    "Riesgo": {
+                        "Indice": 64.42,
+                        "Nivel": "MEDIO"
+                    },
+                    "CalidadDatos": {
+                        "MuestraLocal": 15,
+                        "MuestraVisitante": 15,
+                        "Nivel": "ALTA"
+                    },
+                    "Estabilidad": 48.27,
+                    "DiagnosticoMonteCarlo": {
+                        "DiferenciaMaximaPuntos": 1.49,
+                        "Consistente": true
+                    },
+                    "Fusion": {
+                        "PesoPoissonPorResultado": {
+                            "Local": 0.8,
+                            "Empate": 0.5,
+                            "Visitante": 0.5
+                        },
+                        "PesoMercadoPorResultado": {
+                            "Local": 0.2,
+                            "Empate": 0.5,
+                            "Visitante": 0.5
+                        },
+                        "PesoFeatures": 0.0
+                    },
+                    "ReglaLongshot": {
+                        "Aplicada": false,
+                        "Motivo": "No activada"
+                    }
+                },
+                "ia_partidos": {
+                    "Favorito": "Bolívar",
+                    "ProbabilidadFavorito": 70.97,
+                    "DobleOportunidad": "1X",
+                    "ProbabilidadDO": 87.61,
+                    "BTTS": {
+                        "Pronostico": "SI",
+                        "Probabilidad": 65.97,
+                        "LocalMarca": 91.57,
+                        "VisitanteMarca": 71.23,
+                        "Analitico": 65.97,
+                        "Historico": 81.54,
+                        "MonteCarlo": 65.13,
+                        "Consenso": "BAJO",
+                        "Confianza": 86.52
+                    },
+                    "OverUnder": "OVER",
+                    "MarcadorProbable": [
+                        {
+                            "Marcador": "2-1",
+                            "Probabilidad": 9.24
+                        },
+                        {
+                            "Marcador": "1-1",
+                            "Probabilidad": 8.22
+                        }
+                    ],
+                    "Confianza": {
+                        "Valor": 86.52,
+                        "Nivel": "ALTA",
+                        "MargenVsSegundo": 54.33
+                    },
+                    "Riesgo": {
+                        "Indice": 64.42,
+                        "Nivel": "MEDIO"
+                    },
+                    "ValueBet": {
+                        "Mercado": "Visitante",
+                        "EV": 73.32,
+                        "Edge": 5.91,
+                        "Cuota": 14.0,
+                        "Value": true
+                    },
+                    "Selector": {
+                        "Estado": "PICK",
+                        "Pick": "Local",
+                        "Probabilidad": 70.97,
+                        "MargenVsSegundo": 54.33,
+                        "Edge": -10.64,
+                        "EV": -21.22,
+                        "Motivo": "Probabilidad, separación y riesgo compatibles.",
+                        "Cuota": 1.11
+                    }
+                },
+                "Select": {
+                    "select": true,
+                    "pick": "1",
+                    "probabilidad": 64.21,
+                    "motivo": "Filtro Select compatible"
+                },
+                "Premium": {
+                    "premium": false,
+                    "favorito": "Bolívar",
+                    "probabilidad_favorito": 64.21,
+                    "nofavorito": "Academia del Balompie",
+                    "probabilidad_nofavorito": 17.72,
+                    "marcador_1": "2-1",
+                    "marcador_2": "3-1",
+                    "ultimo_resultado_favorito": "W",
+                    "ultimo_resultado_nofavorito": "D",
+                    "condiciones": {
+                        "favorito_mayor_55": true,
+                        "favorito_gano_ultimo": true,
+                        "marcadores_confirman_favorito": true,
+                        "nofavorito_perdio_ultimo": false
+                    }
+                },
+                "Resumen": {
+                    "GF_Local": 2.19,
+                    "GC_Local": 1.5,
+                    "GF_Visitante": 1.66,
+                    "GC_Visitante": 2.06,
+                    "EloLocal": 0.0,
+                    "EloVisitante": 0.0,
+                    "DiferenciaElo": 0.0,
+                    "xG_Local": 2.473,
+                    "xG_Visitante": 1.246,
+                    "Modelo": {
+                        "xG_Local": 2.473,
+                        "xG_Visitante": 1.246,
+                        "Base": {
+                            "home_scoring": 2.3333333333333335,
+                            "home_conceding": 1.5333333333333334,
+                            "away_scoring": 1.4666666666666666,
+                            "away_conceding": 2.2,
+                            "global_scoring": 1.9,
+                            "global_conceding": 1.8666666666666667
+                        },
+                        "Local": {
+                            "gf": 2.3474,
+                            "gc": 1.3884,
+                            "attack_strength": 1.006,
+                            "defense_weakness": 0.9055,
+                            "form": 0.6342,
+                            "regularity": 0.5011,
+                            "sample": 15,
+                            "venue_sample": 7
+                        },
+                        "Visitante": {
+                            "gf": 1.3428,
+                            "gc": 2.25,
+                            "attack_strength": 0.9155,
+                            "defense_weakness": 1.0227,
+                            "form": 0.2855,
+                            "regularity": 0.4643,
+                            "sample": 15,
+                            "venue_sample": 7
+                        },
+                        "DeltaForma": 0.3487,
+                        "RegularidadMedia": 0.4827,
+                        "MuestraLocal": 15,
+                        "MuestraVisitante": 15
+                    }
+                },
+                "Modelo": {
+                    "xG_Local": 2.473,
+                    "xG_Visitante": 1.246,
+                    "Base": {
+                        "home_scoring": 2.3333333333333335,
+                        "home_conceding": 1.5333333333333334,
+                        "away_scoring": 1.4666666666666666,
+                        "away_conceding": 2.2,
+                        "global_scoring": 1.9,
+                        "global_conceding": 1.8666666666666667
+                    },
+                    "Local": {
+                        "gf": 2.3474,
+                        "gc": 1.3884,
+                        "attack_strength": 1.006,
+                        "defense_weakness": 0.9055,
+                        "form": 0.6342,
+                        "regularity": 0.5011,
+                        "sample": 15,
+                        "venue_sample": 7
+                    },
+                    "Visitante": {
+                        "gf": 1.3428,
+                        "gc": 2.25,
+                        "attack_strength": 0.9155,
+                        "defense_weakness": 1.0227,
+                        "form": 0.2855,
+                        "regularity": 0.4643,
+                        "sample": 15,
+                        "venue_sample": 7
+                    },
+                    "DeltaForma": 0.3487,
+                    "RegularidadMedia": 0.4827,
+                    "MuestraLocal": 15,
+                    "MuestraVisitante": 15
+                },
+                "Poisson": {
+                    "1X2": {
+                        "Prob1": 63.5,
+                        "ProbX": 19.56,
+                        "Prob2": 16.95
+                    },
+                    "Mercados": {
+                        "BTTS": 65.97,
+                        "Over05": 96.83,
+                        "Over15": 89.3,
+                        "Over25": 71.78,
+                        "Under25": 28.22,
+                        "Over35": 50.98,
+                        "Under35": 49.02
+                    },
+                    "TopMarcadores": [
+                        {
+                            "Marcador": "2-1",
+                            "Probabilidad": 9.24
+                        },
+                        {
+                            "Marcador": "1-1",
+                            "Probabilidad": 8.22
+                        },
+                        {
+                            "Marcador": "3-1",
+                            "Probabilidad": 7.62
+                        },
+                        {
+                            "Marcador": "2-0",
+                            "Probabilidad": 7.42
+                        },
+                        {
+                            "Marcador": "3-0",
+                            "Probabilidad": 6.12
+                        },
+                        {
+                            "Marcador": "2-2",
+                            "Probabilidad": 5.76
+                        },
+                        {
+                            "Marcador": "1-0",
+                            "Probabilidad": 5.25
+                        },
+                        {
+                            "Marcador": "3-2",
+                            "Probabilidad": 4.75
+                        },
+                        {
+                            "Marcador": "4-1",
+                            "Probabilidad": 4.71
+                        },
+                        {
+                            "Marcador": "1-2",
+                            "Probabilidad": 4.66
+                        }
+                    ]
+                },
+                "MonteCarlo": {
+                    "Prob1": 64.21,
+                    "ProbX": 18.07,
+                    "Prob2": 17.72,
+                    "BTTS": 65.13,
+                    "Over25": 71.65,
+                    "Over35": 50.8,
+                    "Under25": 28.35,
+                    "TopMarcadores": [
+                        [
+                            "2-1",
+                            9262
+                        ],
+                        [
+                            "3-1",
+                            7621
+                        ],
+                        [
+                            "1-1",
+                            7510
+                        ],
+                        [
+                            "2-0",
+                            7431
+                        ],
+                        [
+                            "3-0",
+                            6189
+                        ],
+                        [
+                            "1-0",
+                            6074
+                        ],
+                        [
+                            "2-2",
+                            5725
+                        ],
+                        [
+                            "3-2",
+                            4841
+                        ],
+                        [
+                            "1-2",
+                            4624
+                        ],
+                        [
+                            "4-1",
+                            4582
+                        ]
+                    ],
+                    "Simulaciones": 100000,
+                    "Semilla": 20260826,
+                    "ErrorMonteCarlo": ""
+                },
+                "Mercado": {
+                    "Local": 81.61,
+                    "Empate": 11.92,
+                    "Visitante": 6.47
+                },
+                "ValueBets": {
+                    "Local": {
+                        "ProbModelo": 70.97,
+                        "ProbMercado": 81.61,
+                        "Edge": -10.64,
+                        "Cuota": 1.11,
+                        "EV": -21.22,
+                        "Value": false
+                    },
+                    "Empate": {
+                        "ProbModelo": 16.64,
+                        "ProbMercado": 11.92,
+                        "Edge": 4.72,
+                        "Cuota": 7.6,
+                        "EV": 26.46,
+                        "Value": true
+                    },
+                    "Visitante": {
+                        "ProbModelo": 12.38,
+                        "ProbMercado": 6.47,
+                        "Edge": 5.91,
+                        "Cuota": 14.0,
+                        "EV": 73.32,
+                        "Value": true
+                    }
+                },
+                "FeatureComplementaria": null,
+                "Fusion": {
+                    "PesoPoissonPorResultado": {
+                        "Local": 0.8,
+                        "Empate": 0.5,
+                        "Visitante": 0.5
+                    },
+                    "PesoMercadoPorResultado": {
+                        "Local": 0.2,
+                        "Empate": 0.5,
+                        "Visitante": 0.5
+                    },
+                    "PesoFeatures": 0.0
+                },
+                "Selector": {
+                    "Estado": "PICK",
+                    "Pick": "Local",
+                    "Probabilidad": 70.97,
+                    "MargenVsSegundo": 54.33,
+                    "Edge": -10.64,
+                    "EV": -21.22,
+                    "Motivo": "Probabilidad, separación y riesgo compatibles.",
+                    "Cuota": 1.11
+                },
+                "SelectResumen": {
+                    "Pick": "Local",
+                    "Probabilidad": 70.97,
+                    "MargenVsSegundo": 54.33
+                }
+            },
+            "PronosticoFinal": {
+                "IA_PARTIDOS": {},
+                "PREMIUM": {
+                    "premium": false,
+                    "favorito": "Bolívar",
+                    "probabilidad_favorito": 64.21,
+                    "nofavorito": "Academia del Balompie",
+                    "probabilidad_nofavorito": 17.72,
+                    "marcador_1": "2-1",
+                    "marcador_2": "3-1",
+                    "ultimo_resultado_favorito": "W",
+                    "ultimo_resultado_nofavorito": "D",
+                    "condiciones": {
+                        "favorito_mayor_55": true,
+                        "favorito_gano_ultimo": true,
+                        "marcadores_confirman_favorito": true,
+                        "nofavorito_perdio_ultimo": false
+                    }
+                },
+                "SELECT": {
+                    "select": true,
+                    "pick": "1",
+                    "probabilidad": 64.21,
+                    "motivo": "Filtro Select compatible"
+                }
+            },
+            "resultado": {
+                "estado": "PENDIENTE",
+                "goles_local": null,
+                "goles_visitante": null,
+                "marcador": null,
+                "resultado_1x2": null,
+                "fecha_resultado": null
+            }
+        },
+        {
+            "id_partido": "LINK::https://www.flashscore.co/partido/futbol/iwata-QeOGk0W2/tochigi-city-4MvNs2n5/?mid=QwgYJ8MM",
+            "primera_captura": "2026-08-26T23:06:08",
+            "fecha": "2026-08-29",
+            "hora": "04:00",
+            "local": "Tochigi City",
+            "visitante": "Iwata",
+            "link": "https://www.flashscore.co/partido/futbol/iwata-QeOGk0W2/tochigi-city-4MvNs2n5/?mid=QwgYJ8MM",
+            "cuotas_iniciales": {
+                "Local": 2.15,
+                "Empate": 3.25,
+                "Visitante": 3.25
+            },
+            "pronostico_original": {
+                "Motor": "Motor_analitico",
+                "Version": "1.0-estable",
+                "Partido": {
+                    "Local": "Tochigi City",
+                    "Visitante": "Iwata"
+                },
+                "PronosticoFinal": {
+                    "PickPrincipal": "Doble Oportunidad 1X",
+                    "EstadoSeleccion": "DOBLE",
+                    "1X2": {
+                        "Local": 54.86,
+                        "Empate": 23.66,
+                        "Visitante": 21.48
+                    },
+                    "1X2Modelo": {
+                        "Local": 62.46,
+                        "Empate": 21.2,
+                        "Visitante": 16.34
+                    },
+                    "1X2Mercado": {
+                        "Local": 43.05,
+                        "Empate": 28.48,
+                        "Visitante": 28.48
+                    },
+                    "1X2Final": {
+                        "Local": 54.86,
+                        "Empate": 23.66,
+                        "Visitante": 21.48
+                    },
+                    "BTTS": {
+                        "Pronostico": "SI",
+                        "SI": 59.62,
+                        "NO": 40.38
+                    },
+                    "Over25": {
+                        "Pronostico": "OVER",
+                        "OVER": 64.02,
+                        "UNDER": 35.98
+                    },
+                    "DobleOportunidad": {
+                        "Mercado": "1X",
+                        "Probabilidad": 78.52
+                    },
+                    "MarcadoresProbables": {
+                        "Primero": {
+                            "Marcador": "2-1",
+                            "Probabilidad": 9.82
+                        },
+                        "Segundo": {
+                            "Marcador": "1-1",
+                            "Probabilidad": 9.72
+                        }
+                    },
+                    "Favorito": "Tochigi City",
+                    "ValueBet": {
+                        "Mercado": "Local",
+                        "EV": 17.95,
+                        "Edge": 11.81,
+                        "Cuota": 2.15,
+                        "Value": true
+                    },
+                    "Confianza": {
+                        "Valor": 82.3,
+                        "Nivel": "ALTA",
+                        "MargenVsSegundo": 31.2
+                    },
+                    "Riesgo": {
+                        "Indice": 61.24,
+                        "Nivel": "MEDIO"
+                    },
+                    "CalidadDatos": {
+                        "MuestraLocal": 12,
+                        "MuestraVisitante": 10,
+                        "Nivel": "MEDIA"
+                    },
+                    "Estabilidad": 44.85,
+                    "DiagnosticoMonteCarlo": {
+                        "DiferenciaMaximaPuntos": 1.57,
+                        "Consistente": false
+                    },
+                    "Fusion": {
+                        "PesoPoissonPorResultado": {
+                            "Local": 0.773,
+                            "Empate": 0.473,
+                            "Visitante": 0.473
+                        },
+                        "PesoMercadoPorResultado": {
+                            "Local": 0.227,
+                            "Empate": 0.527,
+                            "Visitante": 0.527
+                        },
+                        "PesoFeatures": 0.0
+                    },
+                    "ReglaLongshot": {
+                        "Aplicada": false,
+                        "Motivo": "No activada"
+                    }
+                },
+                "ia_partidos": {
+                    "Favorito": "Tochigi City",
+                    "ProbabilidadFavorito": 54.86,
+                    "DobleOportunidad": "1X",
+                    "ProbabilidadDO": 78.52,
+                    "BTTS": {
+                        "Pronostico": "SI",
+                        "Probabilidad": 59.62,
+                        "LocalMarca": 89.17,
+                        "VisitanteMarca": 65.87,
+                        "Analitico": 59.62,
+                        "Historico": 52.09,
+                        "MonteCarlo": 58.62,
+                        "Consenso": "MEDIO",
+                        "Confianza": 82.3
+                    },
+                    "OverUnder": "OVER",
+                    "MarcadorProbable": [
+                        {
+                            "Marcador": "2-1",
+                            "Probabilidad": 9.82
+                        },
+                        {
+                            "Marcador": "1-1",
+                            "Probabilidad": 9.72
+                        }
+                    ],
+                    "Confianza": {
+                        "Valor": 82.3,
+                        "Nivel": "ALTA",
+                        "MargenVsSegundo": 31.2
+                    },
+                    "Riesgo": {
+                        "Indice": 61.24,
+                        "Nivel": "MEDIO"
+                    },
+                    "ValueBet": {
+                        "Mercado": "Local",
+                        "EV": 17.95,
+                        "Edge": 11.81,
+                        "Cuota": 2.15,
+                        "Value": true
+                    },
+                    "Selector": {
+                        "Estado": "DOBLE",
+                        "Pick": "Doble Oportunidad 1X",
+                        "Probabilidad": 78.52,
+                        "MargenVsSegundo": 31.2,
+                        "Edge": 11.81,
+                        "EV": 17.95,
+                        "Motivo": "El 1X2 directo no supera el filtro; se conserva cobertura.",
+                        "Cuota": 2.15
+                    }
+                },
+                "Select": {
+                    "select": true,
+                    "pick": "1",
+                    "probabilidad": 63.2,
+                    "motivo": "Filtro Select compatible"
+                },
+                "Premium": {
+                    "premium": true,
+                    "favorito": "Tochigi City",
+                    "probabilidad_favorito": 63.2,
+                    "nofavorito": "Iwata",
+                    "probabilidad_nofavorito": 17.17,
+                    "marcador_1": "2-1",
+                    "marcador_2": "2-0",
+                    "ultimo_resultado_favorito": "W",
+                    "ultimo_resultado_nofavorito": "L",
+                    "condiciones": {
+                        "favorito_mayor_55": true,
+                        "favorito_gano_ultimo": true,
+                        "marcadores_confirman_favorito": true,
+                        "nofavorito_perdio_ultimo": true
+                    }
+                },
+                "Resumen": {
+                    "GF_Local": 1.81,
+                    "GC_Local": 1.13,
+                    "GF_Visitante": 1.14,
+                    "GC_Visitante": 1.52,
+                    "EloLocal": 0.0,
+                    "EloVisitante": 0.0,
+                    "DiferenciaElo": 0.0,
+                    "xG_Local": 2.223,
+                    "xG_Visitante": 1.075,
+                    "Modelo": {
+                        "xG_Local": 2.223,
+                        "xG_Visitante": 1.075,
+                        "Base": {
+                            "home_scoring": 1.8888888888888888,
+                            "home_conceding": 0.8888888888888888,
+                            "away_scoring": 1.1538461538461537,
+                            "away_conceding": 1.6923076923076923,
+                            "global_scoring": 1.4545454545454546,
+                            "global_conceding": 1.3636363636363635
+                        },
+                        "Local": {
+                            "gf": 2.4372,
+                            "gc": 0.7866,
+                            "attack_strength": 1.2903,
+                            "defense_weakness": 0.8849,
+                            "form": 0.6149,
+                            "regularity": 0.4129,
+                            "sample": 12,
+                            "venue_sample": 4
+                        },
+                        "Visitante": {
+                            "gf": 1.2758,
+                            "gc": 1.7094,
+                            "attack_strength": 1.1057,
+                            "defense_weakness": 1.0101,
+                            "form": 0.4946,
+                            "regularity": 0.4841,
+                            "sample": 10,
+                            "venue_sample": 5
+                        },
+                        "DeltaForma": 0.1203,
+                        "RegularidadMedia": 0.4485,
+                        "MuestraLocal": 12,
+                        "MuestraVisitante": 10
+                    }
+                },
+                "Modelo": {
+                    "xG_Local": 2.223,
+                    "xG_Visitante": 1.075,
+                    "Base": {
+                        "home_scoring": 1.8888888888888888,
+                        "home_conceding": 0.8888888888888888,
+                        "away_scoring": 1.1538461538461537,
+                        "away_conceding": 1.6923076923076923,
+                        "global_scoring": 1.4545454545454546,
+                        "global_conceding": 1.3636363636363635
+                    },
+                    "Local": {
+                        "gf": 2.4372,
+                        "gc": 0.7866,
+                        "attack_strength": 1.2903,
+                        "defense_weakness": 0.8849,
+                        "form": 0.6149,
+                        "regularity": 0.4129,
+                        "sample": 12,
+                        "venue_sample": 4
+                    },
+                    "Visitante": {
+                        "gf": 1.2758,
+                        "gc": 1.7094,
+                        "attack_strength": 1.1057,
+                        "defense_weakness": 1.0101,
+                        "form": 0.4946,
+                        "regularity": 0.4841,
+                        "sample": 10,
+                        "venue_sample": 5
+                    },
+                    "DeltaForma": 0.1203,
+                    "RegularidadMedia": 0.4485,
+                    "MuestraLocal": 12,
+                    "MuestraVisitante": 10
+                },
+                "Poisson": {
+                    "1X2": {
+                        "Prob1": 62.46,
+                        "ProbX": 21.2,
+                        "Prob2": 16.34
+                    },
+                    "Mercados": {
+                        "BTTS": 59.62,
+                        "Over05": 95.42,
+                        "Over15": 85.0,
+                        "Over25": 64.02,
+                        "Under25": 35.98,
+                        "Over35": 41.92,
+                        "Under35": 58.08
+                    },
+                    "TopMarcadores": [
+                        {
+                            "Marcador": "2-1",
+                            "Probabilidad": 9.82
+                        },
+                        {
+                            "Marcador": "1-1",
+                            "Probabilidad": 9.72
+                        },
+                        {
+                            "Marcador": "2-0",
+                            "Probabilidad": 9.13
+                        },
+                        {
+                            "Marcador": "1-0",
+                            "Probabilidad": 7.33
+                        },
+                        {
+                            "Marcador": "3-1",
+                            "Probabilidad": 7.27
+                        },
+                        {
+                            "Marcador": "3-0",
+                            "Probabilidad": 6.77
+                        },
+                        {
+                            "Marcador": "2-2",
+                            "Probabilidad": 5.28
+                        },
+                        {
+                            "Marcador": "1-2",
+                            "Probabilidad": 4.75
+                        },
+                        {
+                            "Marcador": "0-0",
+                            "Probabilidad": 4.58
+                        },
+                        {
+                            "Marcador": "4-1",
+                            "Probabilidad": 4.04
+                        }
+                    ]
+                },
+                "MonteCarlo": {
+                    "Prob1": 63.2,
+                    "ProbX": 19.63,
+                    "Prob2": 17.17,
+                    "BTTS": 58.62,
+                    "Over25": 63.86,
+                    "Over35": 41.77,
+                    "Under25": 36.14,
+                    "TopMarcadores": [
+                        [
+                            "2-1",
+                            9825
+                        ],
+                        [
+                            "2-0",
+                            9317
+                        ],
+                        [
+                            "1-1",
+                            8852
+                        ],
+                        [
+                            "1-0",
+                            8185
+                        ],
+                        [
+                            "3-1",
+                            7236
+                        ],
+                        [
+                            "3-0",
+                            6782
+                        ],
+                        [
+                            "2-2",
+                            5455
+                        ],
+                        [
+                            "1-2",
+                            4747
+                        ],
+                        [
+                            "0-1",
+                            3978
+                        ],
+                        [
+                            "3-2",
+                            3904
+                        ]
+                    ],
+                    "Simulaciones": 100000,
+                    "Semilla": 20260826,
+                    "ErrorMonteCarlo": ""
+                },
+                "Mercado": {
+                    "Local": 43.05,
+                    "Empate": 28.48,
+                    "Visitante": 28.48
+                },
+                "ValueBets": {
+                    "Local": {
+                        "ProbModelo": 54.86,
+                        "ProbMercado": 43.05,
+                        "Edge": 11.81,
+                        "Cuota": 2.15,
+                        "EV": 17.95,
+                        "Value": true
+                    },
+                    "Empate": {
+                        "ProbModelo": 23.66,
+                        "ProbMercado": 28.48,
+                        "Edge": -4.82,
+                        "Cuota": 3.25,
+                        "EV": -23.1,
+                        "Value": false
+                    },
+                    "Visitante": {
+                        "ProbModelo": 21.48,
+                        "ProbMercado": 28.48,
+                        "Edge": -7.0,
+                        "Cuota": 3.25,
+                        "EV": -30.19,
+                        "Value": false
+                    }
+                },
+                "FeatureComplementaria": null,
+                "Fusion": {
+                    "PesoPoissonPorResultado": {
+                        "Local": 0.773,
+                        "Empate": 0.473,
+                        "Visitante": 0.473
+                    },
+                    "PesoMercadoPorResultado": {
+                        "Local": 0.227,
+                        "Empate": 0.527,
+                        "Visitante": 0.527
+                    },
+                    "PesoFeatures": 0.0
+                },
+                "Selector": {
+                    "Estado": "DOBLE",
+                    "Pick": "Doble Oportunidad 1X",
+                    "Probabilidad": 78.52,
+                    "MargenVsSegundo": 31.2,
+                    "Edge": 11.81,
+                    "EV": 17.95,
+                    "Motivo": "El 1X2 directo no supera el filtro; se conserva cobertura.",
+                    "Cuota": 2.15
+                },
+                "SelectResumen": {
+                    "Pick": "Doble Oportunidad 1X",
+                    "Probabilidad": 78.52,
+                    "MargenVsSegundo": 31.2
+                }
+            },
+            "PronosticoFinal": {
+                "IA_PARTIDOS": {},
+                "PREMIUM": {
+                    "premium": true,
+                    "favorito": "Tochigi City",
+                    "probabilidad_favorito": 63.2,
+                    "nofavorito": "Iwata",
+                    "probabilidad_nofavorito": 17.17,
+                    "marcador_1": "2-1",
+                    "marcador_2": "2-0",
+                    "ultimo_resultado_favorito": "W",
+                    "ultimo_resultado_nofavorito": "L",
+                    "condiciones": {
+                        "favorito_mayor_55": true,
+                        "favorito_gano_ultimo": true,
+                        "marcadores_confirman_favorito": true,
+                        "nofavorito_perdio_ultimo": true
+                    }
+                },
+                "SELECT": {
+                    "select": true,
+                    "pick": "1",
+                    "probabilidad": 63.2,
+                    "motivo": "Filtro Select compatible"
+                }
+            },
+            "resultado": {
+                "estado": "PENDIENTE",
+                "goles_local": null,
+                "goles_visitante": null,
+                "marcador": null,
+                "resultado_1x2": null,
+                "fecha_resultado": null
+            }
         }
     ],
-    "ultima_actualizacion_resultados": "2026-08-26T22:56:42-05:00"
+    "ultima_actualizacion_resultados": "2026-08-26T23:06:44-05:00"
 }
