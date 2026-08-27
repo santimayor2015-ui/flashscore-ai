@@ -1,6 +1,6 @@
 {
     "fecha_generacion": "2026-08-26",
-    "cantidad": 39,
+    "cantidad": 40,
     "partidos": [
         {
             "fecha": "2026-08-26",
@@ -888,6 +888,29 @@
             "nofavorito": "Orebro Syr.",
             "probabilidad_nofavorito": 13.16,
             "marcador_1": "1-0",
+            "marcador_2": "2-0",
+            "ultimo_resultado_favorito": "W",
+            "ultimo_resultado_nofavorito": "L",
+            "condiciones": {
+                "favorito_mayor_55": true,
+                "favorito_gano_ultimo": true,
+                "marcadores_confirman_favorito": true,
+                "nofavorito_perdio_ultimo": true
+            },
+            "premium": true
+        },
+        {
+            "fecha": "2026-08-29",
+            "hora": "04:00",
+            "local": "Tochigi City",
+            "visitante": "Iwata",
+            "logolocal": "https://static.flashscore.com/res/image/data/zclXh5Fa-UPlim0Jl.png",
+            "logovisitante": "https://static.flashscore.com/res/image/data/nPunuMCa-j758IH5f.png",
+            "favorito": "Tochigi City",
+            "probabilidad_favorito": 63.2,
+            "nofavorito": "Iwata",
+            "probabilidad_nofavorito": 17.17,
+            "marcador_1": "2-1",
             "marcador_2": "2-0",
             "ultimo_resultado_favorito": "W",
             "ultimo_resultado_nofavorito": "L",
