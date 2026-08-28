@@ -1,191 +1,7 @@
 {
     "fecha_generacion": "2026-08-28",
-    "cantidad": 79,
+    "cantidad": 43,
     "partidos": [
-        {
-            "fecha": "2026-08-28",
-            "hora": "11:30",
-            "local": "Braunschweig",
-            "visitante": "Hertha BSC",
-            "logolocal": "https://static.flashscore.com/res/image/data/jTPygLBr-rBP4Wuhs.png",
-            "logovisitante": "https://static.flashscore.com/res/image/data/dQALRIjl-M145xF2s.png",
-            "favorito": "Hertha BSC",
-            "probabilidad_favorito": 76.85,
-            "nofavorito": "Braunschweig",
-            "probabilidad_nofavorito": 10.63,
-            "marcador_1": "1-3",
-            "marcador_2": "1-2",
-            "ultimo_resultado_favorito": "W",
-            "ultimo_resultado_nofavorito": "L",
-            "condiciones": {
-                "favorito_mayor_55": true,
-                "favorito_gano_ultimo": true,
-                "marcadores_confirman_favorito": true,
-                "nofavorito_perdio_ultimo": true
-            },
-            "premium": true
-        },
-        {
-            "fecha": "2026-08-28",
-            "hora": "12:00",
-            "local": "Altglienicke",
-            "visitante": "Chemie Leipzig",
-            "logolocal": "https://static.flashscore.com/res/image/data/l8kHiW9r-EVkyqJ8E.png",
-            "logovisitante": "https://static.flashscore.com/res/image/data/xpUx2Ef5-SS8iIa8o.png",
-            "favorito": "Altglienicke",
-            "probabilidad_favorito": 62.36,
-            "nofavorito": "Chemie Leipzig",
-            "probabilidad_nofavorito": 18.18,
-            "marcador_1": "2-1",
-            "marcador_2": "2-0",
-            "ultimo_resultado_favorito": "W",
-            "ultimo_resultado_nofavorito": "L",
-            "condiciones": {
-                "favorito_mayor_55": true,
-                "favorito_gano_ultimo": true,
-                "marcadores_confirman_favorito": true,
-                "nofavorito_perdio_ultimo": true
-            },
-            "premium": true
-        },
-        {
-            "fecha": "2026-08-28",
-            "hora": "11:30",
-            "local": "Kapfenberg",
-            "visitante": "BW Linz",
-            "logolocal": "https://static.flashscore.com/res/image/data/QaaL8mEa-pvWT1yik.png",
-            "logovisitante": "https://static.flashscore.com/res/image/data/0lL9EhyB-6ovmkrPK.png",
-            "favorito": "BW Linz",
-            "probabilidad_favorito": 57.53,
-            "nofavorito": "Kapfenberg",
-            "probabilidad_nofavorito": 21.92,
-            "marcador_1": "1-2",
-            "marcador_2": "1-1",
-            "ultimo_resultado_favorito": "W",
-            "ultimo_resultado_nofavorito": "L",
-            "condiciones": {
-                "favorito_mayor_55": true,
-                "favorito_gano_ultimo": true,
-                "marcadores_confirman_favorito": true,
-                "nofavorito_perdio_ultimo": true
-            },
-            "premium": true
-        },
-        {
-            "fecha": "2026-08-28",
-            "hora": "11:30",
-            "local": "St. Polten",
-            "visitante": "A. Salzburg",
-            "logolocal": "https://static.flashscore.com/res/image/data/l40O0mgl-6LImwhxm.png",
-            "logovisitante": "https://static.flashscore.com/res/image/data/SEwNQGwS-Mi5ow9UB.png",
-            "favorito": "A. Salzburg",
-            "probabilidad_favorito": 64.63,
-            "nofavorito": "St. Polten",
-            "probabilidad_nofavorito": 16.81,
-            "marcador_1": "1-2",
-            "marcador_2": "0-2",
-            "ultimo_resultado_favorito": "W",
-            "ultimo_resultado_nofavorito": "L",
-            "condiciones": {
-                "favorito_mayor_55": true,
-                "favorito_gano_ultimo": true,
-                "marcadores_confirman_favorito": true,
-                "nofavorito_perdio_ultimo": true
-            },
-            "premium": true
-        },
-        {
-            "fecha": "2026-08-28",
-            "hora": "13:00",
-            "local": "Hasselt",
-            "visitante": "Gent Sub-23",
-            "logolocal": "https://static.flashscore.com/res/image/data/bcUXMqzB-61SFettE.png",
-            "logovisitante": "https://static.flashscore.com/res/image/data/rLQy2oyB-IifnfgXC.png",
-            "favorito": "Hasselt",
-            "probabilidad_favorito": 60.01,
-            "nofavorito": "Gent Sub-23",
-            "probabilidad_nofavorito": 19.95,
-            "marcador_1": "2-1",
-            "marcador_2": "1-1",
-            "ultimo_resultado_favorito": "W",
-            "ultimo_resultado_nofavorito": "L",
-            "condiciones": {
-                "favorito_mayor_55": true,
-                "favorito_gano_ultimo": true,
-                "marcadores_confirman_favorito": true,
-                "nofavorito_perdio_ultimo": true
-            },
-            "premium": true
-        },
-        {
-            "fecha": "2026-08-28",
-            "hora": "10:30",
-            "local": "Atlantis",
-            "visitante": "HIFK",
-            "logolocal": "https://static.flashscore.com/res/image/data/SUXSqrGG-AezQhKuK.png",
-            "logovisitante": "https://static.flashscore.com/res/image/data/IPyrQkZA-z5xfuIoE.png",
-            "favorito": "Atlantis",
-            "probabilidad_favorito": 68.36,
-            "nofavorito": "HIFK",
-            "probabilidad_nofavorito": 18.62,
-            "marcador_1": "4-2",
-            "marcador_2": "3-2",
-            "ultimo_resultado_favorito": "W",
-            "ultimo_resultado_nofavorito": "L",
-            "condiciones": {
-                "favorito_mayor_55": true,
-                "favorito_gano_ultimo": true,
-                "marcadores_confirman_favorito": true,
-                "nofavorito_perdio_ultimo": true
-            },
-            "premium": true
-        },
-        {
-            "fecha": "2026-08-28",
-            "hora": "10:00",
-            "local": "EPS",
-            "visitante": "HJS",
-            "logolocal": "https://static.flashscore.com/res/image/data/OYYA6nWg-l6PhxmaK.png",
-            "logovisitante": "https://static.flashscore.com/res/image/data/Ec4H3dil-I3hpWY7P.png",
-            "favorito": "EPS",
-            "probabilidad_favorito": 56.88,
-            "nofavorito": "HJS",
-            "probabilidad_nofavorito": 22.74,
-            "marcador_1": "2-1",
-            "marcador_2": "1-1",
-            "ultimo_resultado_favorito": "W",
-            "ultimo_resultado_nofavorito": "L",
-            "condiciones": {
-                "favorito_mayor_55": true,
-                "favorito_gano_ultimo": true,
-                "marcadores_confirman_favorito": true,
-                "nofavorito_perdio_ultimo": true
-            },
-            "premium": true
-        },
-        {
-            "fecha": "2026-08-28",
-            "hora": "10:30",
-            "local": "JBK",
-            "visitante": "Narpes Kraft",
-            "logolocal": "https://static.flashscore.com/res/image/data/jBkBBizB-nTLUUUol.png",
-            "logovisitante": "https://static.flashscore.com/res/image/data/tIySlaFa-IcwGjv75.png",
-            "favorito": "JBK",
-            "probabilidad_favorito": 67.31,
-            "nofavorito": "Narpes Kraft",
-            "probabilidad_nofavorito": 17.39,
-            "marcador_1": "3-1",
-            "marcador_2": "2-1",
-            "ultimo_resultado_favorito": "W",
-            "ultimo_resultado_nofavorito": "L",
-            "condiciones": {
-                "favorito_mayor_55": true,
-                "favorito_gano_ultimo": true,
-                "marcadores_confirman_favorito": true,
-                "nofavorito_perdio_ultimo": true
-            },
-            "premium": true
-        },
         {
             "fecha": "2026-08-28",
             "hora": "13:00",
@@ -202,9 +18,10 @@
             "ultimo_resultado_favorito": "W",
             "ultimo_resultado_nofavorito": "L",
             "condiciones": {
-                "favorito_mayor_55": true,
+                "favorito_mayor_45": true,
                 "favorito_gano_ultimo": true,
-                "marcadores_confirman_favorito": true,
+                "marcador_1_confirma_favorito": true,
+                "marcador_2_confirma_favorito": true,
                 "nofavorito_perdio_ultimo": true
             },
             "premium": true
@@ -225,9 +42,10 @@
             "ultimo_resultado_favorito": "W",
             "ultimo_resultado_nofavorito": "L",
             "condiciones": {
-                "favorito_mayor_55": true,
+                "favorito_mayor_45": true,
                 "favorito_gano_ultimo": true,
-                "marcadores_confirman_favorito": true,
+                "marcador_1_confirma_favorito": true,
+                "marcador_2_confirma_favorito": true,
                 "nofavorito_perdio_ultimo": true
             },
             "premium": true
@@ -248,55 +66,10 @@
             "ultimo_resultado_favorito": "W",
             "ultimo_resultado_nofavorito": "L",
             "condiciones": {
-                "favorito_mayor_55": true,
+                "favorito_mayor_45": true,
                 "favorito_gano_ultimo": true,
-                "marcadores_confirman_favorito": true,
-                "nofavorito_perdio_ultimo": true
-            },
-            "premium": true
-        },
-        {
-            "fecha": "2026-08-28",
-            "hora": "13:00",
-            "local": "Nottingham Forest Sub-21",
-            "visitante": "Manchester City Sub-21",
-            "logolocal": "https://static.flashscore.com/res/image/data/hpZtDnxS-vNb3ty9m.png",
-            "logovisitante": "https://static.flashscore.com/res/image/data/fZX4fWg5-UPQNw1Wp.png",
-            "favorito": "Manchester City Sub-21",
-            "probabilidad_favorito": 55.84,
-            "nofavorito": "Nottingham Forest Sub-21",
-            "probabilidad_nofavorito": 26.61,
-            "marcador_1": "1-2",
-            "marcador_2": "2-2",
-            "ultimo_resultado_favorito": "W",
-            "ultimo_resultado_nofavorito": "L",
-            "condiciones": {
-                "favorito_mayor_55": true,
-                "favorito_gano_ultimo": true,
-                "marcadores_confirman_favorito": true,
-                "nofavorito_perdio_ultimo": true
-            },
-            "premium": true
-        },
-        {
-            "fecha": "2026-08-28",
-            "hora": "13:45",
-            "local": "Athlone",
-            "visitante": "Bray",
-            "logolocal": "https://static.flashscore.com/res/image/data/46okrWyS-4zJqyaPk.png",
-            "logovisitante": "https://static.flashscore.com/res/image/data/EJsW9eg5-xjjGj3mS.png",
-            "favorito": "Athlone",
-            "probabilidad_favorito": 55.31,
-            "nofavorito": "Bray",
-            "probabilidad_nofavorito": 24.0,
-            "marcador_1": "2-1",
-            "marcador_2": "1-1",
-            "ultimo_resultado_favorito": "W",
-            "ultimo_resultado_nofavorito": "L",
-            "condiciones": {
-                "favorito_mayor_55": true,
-                "favorito_gano_ultimo": true,
-                "marcadores_confirman_favorito": true,
+                "marcador_1_confirma_favorito": true,
+                "marcador_2_confirma_favorito": true,
                 "nofavorito_perdio_ultimo": true
             },
             "premium": true
@@ -317,9 +90,10 @@
             "ultimo_resultado_favorito": "W",
             "ultimo_resultado_nofavorito": "L",
             "condiciones": {
-                "favorito_mayor_55": true,
+                "favorito_mayor_45": true,
                 "favorito_gano_ultimo": true,
-                "marcadores_confirman_favorito": true,
+                "marcador_1_confirma_favorito": true,
+                "marcador_2_confirma_favorito": true,
                 "nofavorito_perdio_ultimo": true
             },
             "premium": true
@@ -340,78 +114,10 @@
             "ultimo_resultado_favorito": "W",
             "ultimo_resultado_nofavorito": "L",
             "condiciones": {
-                "favorito_mayor_55": true,
+                "favorito_mayor_45": true,
                 "favorito_gano_ultimo": true,
-                "marcadores_confirman_favorito": true,
-                "nofavorito_perdio_ultimo": true
-            },
-            "premium": true
-        },
-        {
-            "fecha": "2026-08-28",
-            "hora": "14:15",
-            "local": "Kari",
-            "visitante": "Throttur Vogar",
-            "logolocal": "https://static.flashscore.com/res/image/data/0fJ2kxWg-8r8kiWIb.png",
-            "logovisitante": "https://static.flashscore.com/res/image/data/xp9hWVxS-A5NQVAWs.png",
-            "favorito": "Kari",
-            "probabilidad_favorito": 57.26,
-            "nofavorito": "Throttur Vogar",
-            "probabilidad_nofavorito": 23.45,
-            "marcador_1": "2-1",
-            "marcador_2": "1-1",
-            "ultimo_resultado_favorito": "W",
-            "ultimo_resultado_nofavorito": "L",
-            "condiciones": {
-                "favorito_mayor_55": true,
-                "favorito_gano_ultimo": true,
-                "marcadores_confirman_favorito": true,
-                "nofavorito_perdio_ultimo": true
-            },
-            "premium": true
-        },
-        {
-            "fecha": "2026-08-28",
-            "hora": "12:00",
-            "local": "Sroda",
-            "visitante": "Gedania Gdansk",
-            "logolocal": "https://static.flashscore.com/res/image/data/jmu2biFa-WlaSNrDK.png",
-            "logovisitante": "https://static.flashscore.com/res/image/data/IeCh8AyB-EkMguTfe.png",
-            "favorito": "Sroda",
-            "probabilidad_favorito": 61.2,
-            "nofavorito": "Gedania Gdansk",
-            "probabilidad_nofavorito": 19.89,
-            "marcador_1": "2-1",
-            "marcador_2": "1-1",
-            "ultimo_resultado_favorito": "W",
-            "ultimo_resultado_nofavorito": "L",
-            "condiciones": {
-                "favorito_mayor_55": true,
-                "favorito_gano_ultimo": true,
-                "marcadores_confirman_favorito": true,
-                "nofavorito_perdio_ultimo": true
-            },
-            "premium": true
-        },
-        {
-            "fecha": "2026-08-28",
-            "hora": "12:00",
-            "local": "Lunds",
-            "visitante": "Olympic",
-            "logolocal": "https://static.flashscore.com/res/image/data/vqdpcsZg-EH8amopT.png",
-            "logovisitante": "https://static.flashscore.com/res/image/data/EX627zEa-dpKnbRIH.png",
-            "favorito": "Lunds",
-            "probabilidad_favorito": 58.07,
-            "nofavorito": "Olympic",
-            "probabilidad_nofavorito": 23.49,
-            "marcador_1": "2-1",
-            "marcador_2": "3-1",
-            "ultimo_resultado_favorito": "W",
-            "ultimo_resultado_nofavorito": "L",
-            "condiciones": {
-                "favorito_mayor_55": true,
-                "favorito_gano_ultimo": true,
-                "marcadores_confirman_favorito": true,
+                "marcador_1_confirma_favorito": true,
+                "marcador_2_confirma_favorito": true,
                 "nofavorito_perdio_ultimo": true
             },
             "premium": true
@@ -432,15 +138,16 @@
             "ultimo_resultado_favorito": "W",
             "ultimo_resultado_nofavorito": "L",
             "condiciones": {
-                "favorito_mayor_55": true,
+                "favorito_mayor_45": true,
                 "favorito_gano_ultimo": true,
-                "marcadores_confirman_favorito": true,
+                "marcador_1_confirma_favorito": true,
+                "marcador_2_confirma_favorito": true,
                 "nofavorito_perdio_ultimo": true
             },
             "premium": true
         },
         {
-            "fecha": "2026-08-31",
+            "fecha": "2026-08-29",
             "hora": "13:45",
             "local": "Juventus",
             "visitante": "Parma",
@@ -455,15 +162,16 @@
             "ultimo_resultado_favorito": "W",
             "ultimo_resultado_nofavorito": "L",
             "condiciones": {
-                "favorito_mayor_55": true,
+                "favorito_mayor_45": true,
                 "favorito_gano_ultimo": true,
-                "marcadores_confirman_favorito": true,
+                "marcador_1_confirma_favorito": true,
+                "marcador_2_confirma_favorito": true,
                 "nofavorito_perdio_ultimo": true
             },
             "premium": true
         },
         {
-            "fecha": "2026-08-31",
+            "fecha": "2026-08-29",
             "hora": "06:00",
             "local": "Heidenheim",
             "visitante": "Dynamo Dresden",
@@ -478,15 +186,16 @@
             "ultimo_resultado_favorito": "W",
             "ultimo_resultado_nofavorito": "L",
             "condiciones": {
-                "favorito_mayor_55": true,
+                "favorito_mayor_45": true,
                 "favorito_gano_ultimo": true,
-                "marcadores_confirman_favorito": true,
+                "marcador_1_confirma_favorito": true,
+                "marcador_2_confirma_favorito": true,
                 "nofavorito_perdio_ultimo": true
             },
             "premium": true
         },
         {
-            "fecha": "2026-08-31",
+            "fecha": "2026-08-29",
             "hora": "01:00",
             "local": "Tigers FC",
             "visitante": "Canberra Juventus",
@@ -501,38 +210,16 @@
             "ultimo_resultado_favorito": "W",
             "ultimo_resultado_nofavorito": "L",
             "condiciones": {
-                "favorito_mayor_55": true,
+                "favorito_mayor_45": true,
                 "favorito_gano_ultimo": true,
-                "marcadores_confirman_favorito": true,
+                "marcador_1_confirma_favorito": true,
+                "marcador_2_confirma_favorito": true,
                 "nofavorito_perdio_ultimo": true
             },
             "premium": true
         },
         {
-            "fecha": "2026-08-31",
-            "hora": "00:00",
-            "local": "George Cross",
-            "visitante": "South Melbourne",
-            "logolocal": "https://static.flashscore.com/res/image/data/tMuE3ZEa-ltdRM4ne.png",
-            "logovisitante": "https://static.flashscore.com/res/image/data/IsOwrMdM-bTzLAEkQ.png",
-            "favorito": "South Melbourne",
-            "probabilidad_favorito": 55.59,
-            "nofavorito": "George Cross",
-            "probabilidad_nofavorito": 22.65,
-            "marcador_1": "1-1",
-            "marcador_2": "1-2",
-            "ultimo_resultado_favorito": "W",
-            "ultimo_resultado_nofavorito": "L",
-            "condiciones": {
-                "favorito_mayor_55": true,
-                "favorito_gano_ultimo": true,
-                "marcadores_confirman_favorito": true,
-                "nofavorito_perdio_ultimo": true
-            },
-            "premium": true
-        },
-        {
-            "fecha": "2026-08-31",
+            "fecha": "2026-08-29",
             "hora": "02:00",
             "local": "Canterbury Bankstown",
             "visitante": "Macarthur Rams",
@@ -547,38 +234,16 @@
             "ultimo_resultado_favorito": "W",
             "ultimo_resultado_nofavorito": "L",
             "condiciones": {
-                "favorito_mayor_55": true,
+                "favorito_mayor_45": true,
                 "favorito_gano_ultimo": true,
-                "marcadores_confirman_favorito": true,
+                "marcador_1_confirma_favorito": true,
+                "marcador_2_confirma_favorito": true,
                 "nofavorito_perdio_ultimo": true
             },
             "premium": true
         },
         {
-            "fecha": "2026-08-31",
-            "hora": "02:00",
-            "local": "Hills United",
-            "visitante": "Central Coast Mariners Sub-23",
-            "logolocal": "https://static.flashscore.com/res/image/data/bLUR6QDa-rPMznd4r.png",
-            "logovisitante": "https://static.flashscore.com/res/image/data/lWGvNmf5-S2TEIpCd.png",
-            "favorito": "Hills United",
-            "probabilidad_favorito": 57.26,
-            "nofavorito": "Central Coast Mariners Sub-23",
-            "probabilidad_nofavorito": 21.51,
-            "marcador_1": "2-1",
-            "marcador_2": "1-1",
-            "ultimo_resultado_favorito": "W",
-            "ultimo_resultado_nofavorito": "L",
-            "condiciones": {
-                "favorito_mayor_55": true,
-                "favorito_gano_ultimo": true,
-                "marcadores_confirman_favorito": true,
-                "nofavorito_perdio_ultimo": true
-            },
-            "premium": true
-        },
-        {
-            "fecha": "2026-08-31",
+            "fecha": "2026-08-29",
             "hora": "12:30",
             "local": "LASK",
             "visitante": "Altach",
@@ -593,15 +258,16 @@
             "ultimo_resultado_favorito": "W",
             "ultimo_resultado_nofavorito": "L",
             "condiciones": {
-                "favorito_mayor_55": true,
+                "favorito_mayor_45": true,
                 "favorito_gano_ultimo": true,
-                "marcadores_confirman_favorito": true,
+                "marcador_1_confirma_favorito": true,
+                "marcador_2_confirma_favorito": true,
                 "nofavorito_perdio_ultimo": true
             },
             "premium": true
         },
         {
-            "fecha": "2026-08-31",
+            "fecha": "2026-08-29",
             "hora": "13:45",
             "local": "Leuven",
             "visitante": "St. Lieja",
@@ -616,38 +282,16 @@
             "ultimo_resultado_favorito": "W",
             "ultimo_resultado_nofavorito": "L",
             "condiciones": {
-                "favorito_mayor_55": true,
+                "favorito_mayor_45": true,
                 "favorito_gano_ultimo": true,
-                "marcadores_confirman_favorito": true,
+                "marcador_1_confirma_favorito": true,
+                "marcador_2_confirma_favorito": true,
                 "nofavorito_perdio_ultimo": true
             },
             "premium": true
         },
         {
-            "fecha": "2026-08-31",
-            "hora": "16:00",
-            "local": "Cavalry",
-            "visitante": "Vancouver FC",
-            "logolocal": "https://static.flashscore.com/res/image/data/rF3lk6EG-GWX7hUHN.png",
-            "logovisitante": "https://static.flashscore.com/res/image/data/YsikocwS-tfTKo796.png",
-            "favorito": "Cavalry",
-            "probabilidad_favorito": 58.36,
-            "nofavorito": "Vancouver FC",
-            "probabilidad_nofavorito": 22.05,
-            "marcador_1": "2-1",
-            "marcador_2": "1-1",
-            "ultimo_resultado_favorito": "W",
-            "ultimo_resultado_nofavorito": "L",
-            "condiciones": {
-                "favorito_mayor_55": true,
-                "favorito_gano_ultimo": true,
-                "marcadores_confirman_favorito": true,
-                "nofavorito_perdio_ultimo": true
-            },
-            "premium": true
-        },
-        {
-            "fecha": "2026-08-31",
+            "fecha": "2026-08-29",
             "hora": "06:30",
             "local": "VSK Aarhus",
             "visitante": "FA 2000",
@@ -662,61 +306,16 @@
             "ultimo_resultado_favorito": "W",
             "ultimo_resultado_nofavorito": "L",
             "condiciones": {
-                "favorito_mayor_55": true,
+                "favorito_mayor_45": true,
                 "favorito_gano_ultimo": true,
-                "marcadores_confirman_favorito": true,
+                "marcador_1_confirma_favorito": true,
+                "marcador_2_confirma_favorito": true,
                 "nofavorito_perdio_ultimo": true
             },
             "premium": true
         },
         {
-            "fecha": "2026-08-31",
-            "hora": "09:00",
-            "local": "Kilmarnock",
-            "visitante": "Dundee Utd",
-            "logolocal": "https://static.flashscore.com/res/image/data/MiZ4ezCr-xAfKntqE.png",
-            "logovisitante": "https://static.flashscore.com/res/image/data/Yg9D4KCr-hEvkcVY1.png",
-            "favorito": "Kilmarnock",
-            "probabilidad_favorito": 58.74,
-            "nofavorito": "Dundee Utd",
-            "probabilidad_nofavorito": 21.52,
-            "marcador_1": "2-1",
-            "marcador_2": "1-1",
-            "ultimo_resultado_favorito": "W",
-            "ultimo_resultado_nofavorito": "L",
-            "condiciones": {
-                "favorito_mayor_55": true,
-                "favorito_gano_ultimo": true,
-                "marcadores_confirman_favorito": true,
-                "nofavorito_perdio_ultimo": true
-            },
-            "premium": true
-        },
-        {
-            "fecha": "2026-08-31",
-            "hora": "09:00",
-            "local": "Spartans",
-            "visitante": "Clyde",
-            "logolocal": "https://static.flashscore.com/res/image/data/M1bW6TWg-lKOInTZo.png",
-            "logovisitante": "https://static.flashscore.com/res/image/data/8UEMekCa-GMWhxEmM.png",
-            "favorito": "Spartans",
-            "probabilidad_favorito": 59.26,
-            "nofavorito": "Clyde",
-            "probabilidad_nofavorito": 20.07,
-            "marcador_1": "2-1",
-            "marcador_2": "1-1",
-            "ultimo_resultado_favorito": "W",
-            "ultimo_resultado_nofavorito": "L",
-            "condiciones": {
-                "favorito_mayor_55": true,
-                "favorito_gano_ultimo": true,
-                "marcadores_confirman_favorito": true,
-                "nofavorito_perdio_ultimo": true
-            },
-            "premium": true
-        },
-        {
-            "fecha": "2026-08-31",
+            "fecha": "2026-08-29",
             "hora": "09:00",
             "local": "Stranraer",
             "visitante": "Kelty Hearts",
@@ -731,38 +330,88 @@
             "ultimo_resultado_favorito": "W",
             "ultimo_resultado_nofavorito": "L",
             "condiciones": {
-                "favorito_mayor_55": true,
+                "favorito_mayor_45": true,
                 "favorito_gano_ultimo": true,
-                "marcadores_confirman_favorito": true,
+                "marcador_1_confirma_favorito": true,
+                "marcador_2_confirma_favorito": true,
                 "nofavorito_perdio_ultimo": true
             },
             "premium": true
         },
         {
-            "fecha": "2026-08-31",
-            "hora": "19:00",
-            "local": "Louisville City",
-            "visitante": "Detroit",
-            "logolocal": "https://static.flashscore.com/res/image/data/xnjHOiFG-0nAHhmct.png",
-            "logovisitante": "https://static.flashscore.com/res/image/data/QZAY2ECa-G4D5QjoP.png",
-            "favorito": "Detroit",
-            "probabilidad_favorito": 55.27,
-            "nofavorito": "Louisville City",
-            "probabilidad_nofavorito": 23.42,
-            "marcador_1": "1-1",
-            "marcador_2": "1-2",
+            "fecha": "2026-08-29",
+            "hora": "09:00",
+            "local": "Pollok",
+            "visitante": "Beith",
+            "logolocal": "https://static.flashscore.com/res/image/data/GhT9dQfM-4xn6WmUQ.png",
+            "logovisitante": "https://static.flashscore.com/res/image/data/KxRtBewS-l8rgZkJu.png",
+            "favorito": "Pollok",
+            "probabilidad_favorito": 65.08,
+            "nofavorito": "Beith",
+            "probabilidad_nofavorito": 18.5,
+            "marcador_1": "2-1",
+            "marcador_2": "3-1",
             "ultimo_resultado_favorito": "W",
             "ultimo_resultado_nofavorito": "L",
             "condiciones": {
-                "favorito_mayor_55": true,
+                "favorito_mayor_45": true,
                 "favorito_gano_ultimo": true,
-                "marcadores_confirman_favorito": true,
+                "marcador_1_confirma_favorito": true,
+                "marcador_2_confirma_favorito": true,
                 "nofavorito_perdio_ultimo": true
             },
             "premium": true
         },
         {
-            "fecha": "2026-08-31",
+            "fecha": "2026-08-29",
+            "hora": "09:00",
+            "local": "PEPO",
+            "visitante": "PPJ",
+            "logolocal": "https://static.flashscore.com/res/image/data/vwpyQ0zB-pfj9k3UB.png",
+            "logovisitante": "https://static.flashscore.com/res/image/data/Gj9Q6CEa-Qg7PhtG2.png",
+            "favorito": "PEPO",
+            "probabilidad_favorito": 61.22,
+            "nofavorito": "PPJ",
+            "probabilidad_nofavorito": 21.14,
+            "marcador_1": "2-1",
+            "marcador_2": "3-1",
+            "ultimo_resultado_favorito": "W",
+            "ultimo_resultado_nofavorito": "L",
+            "condiciones": {
+                "favorito_mayor_45": true,
+                "favorito_gano_ultimo": true,
+                "marcador_1_confirma_favorito": true,
+                "marcador_2_confirma_favorito": true,
+                "nofavorito_perdio_ultimo": true
+            },
+            "premium": true
+        },
+        {
+            "fecha": "2026-08-29",
+            "hora": "08:00",
+            "local": "Huima / Urho",
+            "visitante": "VPS 2",
+            "logolocal": "https://static.flashscore.com/res/image/data/IRlMTCCa-Yq6vbosf.png",
+            "logovisitante": "https://static.flashscore.com/res/image/data/YsnAdWFG-rJXIO86a.png",
+            "favorito": "Huima / Urho",
+            "probabilidad_favorito": 69.48,
+            "nofavorito": "VPS 2",
+            "probabilidad_nofavorito": 17.16,
+            "marcador_1": "3-1",
+            "marcador_2": "3-2",
+            "ultimo_resultado_favorito": "W",
+            "ultimo_resultado_nofavorito": "L",
+            "condiciones": {
+                "favorito_mayor_45": true,
+                "favorito_gano_ultimo": true,
+                "marcador_1_confirma_favorito": true,
+                "marcador_2_confirma_favorito": true,
+                "nofavorito_perdio_ultimo": true
+            },
+            "premium": true
+        },
+        {
+            "fecha": "2026-08-29",
             "hora": "03:00",
             "local": "Southern District",
             "visitante": "Kowloon City",
@@ -777,15 +426,16 @@
             "ultimo_resultado_favorito": "W",
             "ultimo_resultado_nofavorito": "L",
             "condiciones": {
-                "favorito_mayor_55": true,
+                "favorito_mayor_45": true,
                 "favorito_gano_ultimo": true,
-                "marcadores_confirman_favorito": true,
+                "marcador_1_confirma_favorito": true,
+                "marcador_2_confirma_favorito": true,
                 "nofavorito_perdio_ultimo": true
             },
             "premium": true
         },
         {
-            "fecha": "2026-08-31",
+            "fecha": "2026-08-29",
             "hora": "06:30",
             "local": "Wolves",
             "visitante": "Stoke",
@@ -800,61 +450,16 @@
             "ultimo_resultado_favorito": "W",
             "ultimo_resultado_nofavorito": "L",
             "condiciones": {
-                "favorito_mayor_55": true,
+                "favorito_mayor_45": true,
                 "favorito_gano_ultimo": true,
-                "marcadores_confirman_favorito": true,
+                "marcador_1_confirma_favorito": true,
+                "marcador_2_confirma_favorito": true,
                 "nofavorito_perdio_ultimo": true
             },
             "premium": true
         },
         {
-            "fecha": "2026-08-31",
-            "hora": "06:30",
-            "local": "Barnet",
-            "visitante": "Cheltenham",
-            "logolocal": "https://static.flashscore.com/res/image/data/IHukLfjl-QqdgCtqL.png",
-            "logovisitante": "https://static.flashscore.com/res/image/data/hGwbv2ZA-QRSG3Z7h.png",
-            "favorito": "Barnet",
-            "probabilidad_favorito": 55.5,
-            "nofavorito": "Cheltenham",
-            "probabilidad_nofavorito": 24.43,
-            "marcador_1": "2-1",
-            "marcador_2": "1-1",
-            "ultimo_resultado_favorito": "W",
-            "ultimo_resultado_nofavorito": "L",
-            "condiciones": {
-                "favorito_mayor_55": true,
-                "favorito_gano_ultimo": true,
-                "marcadores_confirman_favorito": true,
-                "nofavorito_perdio_ultimo": true
-            },
-            "premium": true
-        },
-        {
-            "fecha": "2026-08-31",
-            "hora": "09:00",
-            "local": "Colchester",
-            "visitante": "Rochdale",
-            "logolocal": "https://static.flashscore.com/res/image/data/GKvJhTFG-K2FpWLH3.png",
-            "logovisitante": "https://static.flashscore.com/res/image/data/SKDrbiGG-K2FpWLH3.png",
-            "favorito": "Colchester",
-            "probabilidad_favorito": 58.53,
-            "nofavorito": "Rochdale",
-            "probabilidad_nofavorito": 19.65,
-            "marcador_1": "1-1",
-            "marcador_2": "1-0",
-            "ultimo_resultado_favorito": "W",
-            "ultimo_resultado_nofavorito": "L",
-            "condiciones": {
-                "favorito_mayor_55": true,
-                "favorito_gano_ultimo": true,
-                "marcadores_confirman_favorito": true,
-                "nofavorito_perdio_ultimo": true
-            },
-            "premium": true
-        },
-        {
-            "fecha": "2026-08-31",
+            "fecha": "2026-08-29",
             "hora": "09:00",
             "local": "Horsham FC",
             "visitante": "Farnham",
@@ -869,15 +474,16 @@
             "ultimo_resultado_favorito": "W",
             "ultimo_resultado_nofavorito": "L",
             "condiciones": {
-                "favorito_mayor_55": true,
+                "favorito_mayor_45": true,
                 "favorito_gano_ultimo": true,
-                "marcadores_confirman_favorito": true,
+                "marcador_1_confirma_favorito": true,
+                "marcador_2_confirma_favorito": true,
                 "nofavorito_perdio_ultimo": true
             },
             "premium": true
         },
         {
-            "fecha": "2026-08-31",
+            "fecha": "2026-08-29",
             "hora": "09:00",
             "local": "Maidstone",
             "visitante": "Salisbury",
@@ -892,15 +498,16 @@
             "ultimo_resultado_favorito": "W",
             "ultimo_resultado_nofavorito": "L",
             "condiciones": {
-                "favorito_mayor_55": true,
+                "favorito_mayor_45": true,
                 "favorito_gano_ultimo": true,
-                "marcadores_confirman_favorito": true,
+                "marcador_1_confirma_favorito": true,
+                "marcador_2_confirma_favorito": true,
                 "nofavorito_perdio_ultimo": true
             },
             "premium": true
         },
         {
-            "fecha": "2026-08-31",
+            "fecha": "2026-08-29",
             "hora": "09:00",
             "local": "Bromsgrove",
             "visitante": "Bishop's Stortford",
@@ -915,84 +522,64 @@
             "ultimo_resultado_favorito": "W",
             "ultimo_resultado_nofavorito": "L",
             "condiciones": {
-                "favorito_mayor_55": true,
+                "favorito_mayor_45": true,
                 "favorito_gano_ultimo": true,
-                "marcadores_confirman_favorito": true,
+                "marcador_1_confirma_favorito": true,
+                "marcador_2_confirma_favorito": true,
                 "nofavorito_perdio_ultimo": true
             },
             "premium": true
         },
         {
-            "fecha": "2026-08-31",
-            "hora": "09:00",
-            "local": "Leighton Town",
-            "visitante": "Bury Town",
-            "logolocal": "https://static.flashscore.com/res/image/data/xQTUz9hl-M5xYsIEh.png",
-            "logovisitante": "https://static.flashscore.com/res/image/data/fHliq5fM-I17PkuVQ.png",
-            "favorito": "Bury Town",
-            "probabilidad_favorito": 57.67,
-            "nofavorito": "Leighton Town",
-            "probabilidad_nofavorito": 22.09,
-            "marcador_1": "1-2",
-            "marcador_2": "1-1",
+            "fecha": "2026-08-29",
+            "hora": "11:00",
+            "local": "Breidablik F",
+            "visitante": "IBV Vestmannaeyjar F",
+            "logolocal": "https://static.flashscore.com/res/image/data/YJ6F5rxS-pEMOcBzo.png",
+            "logovisitante": "https://static.flashscore.com/res/image/data/z1GJ4cFG-GhaBLUZO.png",
+            "favorito": "Breidablik F",
+            "probabilidad_favorito": 66.29,
+            "nofavorito": "IBV Vestmannaeyjar F",
+            "probabilidad_nofavorito": 18.08,
+            "marcador_1": "3-1",
+            "marcador_2": "2-1",
             "ultimo_resultado_favorito": "W",
             "ultimo_resultado_nofavorito": "L",
             "condiciones": {
-                "favorito_mayor_55": true,
+                "favorito_mayor_45": true,
                 "favorito_gano_ultimo": true,
-                "marcadores_confirman_favorito": true,
+                "marcador_1_confirma_favorito": true,
+                "marcador_2_confirma_favorito": true,
                 "nofavorito_perdio_ultimo": true
             },
             "premium": true
         },
         {
-            "fecha": "2026-08-31",
-            "hora": "09:00",
-            "local": "Enfield Town",
-            "visitante": "Whitehawk",
-            "logolocal": "https://static.flashscore.com/res/image/data/j3pjpfjl-026s4X0M.png",
-            "logovisitante": "https://static.flashscore.com/res/image/data/00HKT2wS-zmB5Pa7N.png",
-            "favorito": "Enfield Town",
-            "probabilidad_favorito": 60.33,
-            "nofavorito": "Whitehawk",
-            "probabilidad_nofavorito": 18.59,
-            "marcador_1": "2-1",
-            "marcador_2": "1-1",
+            "fecha": "2026-08-29",
+            "hora": "06:00",
+            "local": "Sandur",
+            "visitante": "B36 Torshavn 2",
+            "logolocal": "https://static.flashscore.com/res/image/data/27JyD2Da-QTeOMRab.png",
+            "logovisitante": "https://static.flashscore.com/res/image/data/zoEj8BFG-nXsPsHi4.png",
+            "favorito": "Sandur",
+            "probabilidad_favorito": 74.87,
+            "nofavorito": "B36 Torshavn 2",
+            "probabilidad_nofavorito": 12.89,
+            "marcador_1": "3-1",
+            "marcador_2": "4-1",
             "ultimo_resultado_favorito": "W",
             "ultimo_resultado_nofavorito": "L",
             "condiciones": {
-                "favorito_mayor_55": true,
+                "favorito_mayor_45": true,
                 "favorito_gano_ultimo": true,
-                "marcadores_confirman_favorito": true,
+                "marcador_1_confirma_favorito": true,
+                "marcador_2_confirma_favorito": true,
                 "nofavorito_perdio_ultimo": true
             },
             "premium": true
         },
         {
-            "fecha": "2026-08-31",
-            "hora": "09:00",
-            "local": "Limavady",
-            "visitante": "Linfield",
-            "logolocal": "https://static.flashscore.com/res/image/data/jqjISGh5-Usn9oOj7.png",
-            "logovisitante": "https://static.flashscore.com/res/image/data/IDLDFmGG-d08YyqWn.png",
-            "favorito": "Linfield",
-            "probabilidad_favorito": 60.7,
-            "nofavorito": "Limavady",
-            "probabilidad_nofavorito": 18.62,
-            "marcador_1": "1-2",
-            "marcador_2": "1-1",
-            "ultimo_resultado_favorito": "W",
-            "ultimo_resultado_nofavorito": "L",
-            "condiciones": {
-                "favorito_mayor_55": true,
-                "favorito_gano_ultimo": true,
-                "marcadores_confirman_favorito": true,
-                "nofavorito_perdio_ultimo": true
-            },
-            "premium": true
-        },
-        {
-            "fecha": "2026-08-31",
+            "fecha": "2026-08-29",
             "hora": "14:00",
             "local": "Ascoli",
             "visitante": "Carrarese",
@@ -1007,15 +594,16 @@
             "ultimo_resultado_favorito": "W",
             "ultimo_resultado_nofavorito": "L",
             "condiciones": {
-                "favorito_mayor_55": true,
+                "favorito_mayor_45": true,
                 "favorito_gano_ultimo": true,
-                "marcadores_confirman_favorito": true,
+                "marcador_1_confirma_favorito": true,
+                "marcador_2_confirma_favorito": true,
                 "nofavorito_perdio_ultimo": true
             },
             "premium": true
         },
         {
-            "fecha": "2026-08-31",
+            "fecha": "2026-08-29",
             "hora": "04:00",
             "local": "Mito",
             "visitante": "Machida",
@@ -1030,15 +618,16 @@
             "ultimo_resultado_favorito": "W",
             "ultimo_resultado_nofavorito": "L",
             "condiciones": {
-                "favorito_mayor_55": true,
+                "favorito_mayor_45": true,
                 "favorito_gano_ultimo": true,
-                "marcadores_confirman_favorito": true,
+                "marcador_1_confirma_favorito": true,
+                "marcador_2_confirma_favorito": true,
                 "nofavorito_perdio_ultimo": true
             },
             "premium": true
         },
         {
-            "fecha": "2026-08-31",
+            "fecha": "2026-08-29",
             "hora": "04:00",
             "local": "Tochigi City",
             "visitante": "Iwata",
@@ -1053,38 +642,16 @@
             "ultimo_resultado_favorito": "W",
             "ultimo_resultado_nofavorito": "L",
             "condiciones": {
-                "favorito_mayor_55": true,
+                "favorito_mayor_45": true,
                 "favorito_gano_ultimo": true,
-                "marcadores_confirman_favorito": true,
+                "marcador_1_confirma_favorito": true,
+                "marcador_2_confirma_favorito": true,
                 "nofavorito_perdio_ultimo": true
             },
             "premium": true
         },
         {
-            "fecha": "2026-08-31",
-            "hora": "05:00",
-            "local": "Imabari",
-            "visitante": "Yamagata",
-            "logolocal": "https://static.flashscore.com/res/image/data/K6FiQ6Br-U5AYcT4I.png",
-            "logovisitante": "https://static.flashscore.com/res/image/data/MPYWA9HG-Uc4CHyL0.png",
-            "favorito": "Imabari",
-            "probabilidad_favorito": 55.27,
-            "nofavorito": "Yamagata",
-            "probabilidad_nofavorito": 20.35,
-            "marcador_1": "1-0",
-            "marcador_2": "1-1",
-            "ultimo_resultado_favorito": "W",
-            "ultimo_resultado_nofavorito": "L",
-            "condiciones": {
-                "favorito_mayor_55": true,
-                "favorito_gano_ultimo": true,
-                "marcadores_confirman_favorito": true,
-                "nofavorito_perdio_ultimo": true
-            },
-            "premium": true
-        },
-        {
-            "fecha": "2026-08-31",
+            "fecha": "2026-08-29",
             "hora": "04:00",
             "local": "Kamatamare",
             "visitante": "Kagoshima Utd",
@@ -1099,15 +666,40 @@
             "ultimo_resultado_favorito": "W",
             "ultimo_resultado_nofavorito": "L",
             "condiciones": {
-                "favorito_mayor_55": true,
+                "favorito_mayor_45": true,
                 "favorito_gano_ultimo": true,
-                "marcadores_confirman_favorito": true,
+                "marcador_1_confirma_favorito": true,
+                "marcador_2_confirma_favorito": true,
                 "nofavorito_perdio_ultimo": true
             },
             "premium": true
         },
         {
-            "fecha": "2026-08-31",
+            "fecha": "2026-08-29",
+            "hora": "11:00",
+            "local": "De Treffers",
+            "visitante": "Rijnsburgse Boys",
+            "logolocal": "https://static.flashscore.com/res/image/data/K2aCvzeM-8p9SVNbf.png",
+            "logovisitante": "https://static.flashscore.com/res/image/data/l2narQYA-bi1q8Nnc.png",
+            "favorito": "De Treffers",
+            "probabilidad_favorito": 70.54,
+            "nofavorito": "Rijnsburgse Boys",
+            "probabilidad_nofavorito": 14.92,
+            "marcador_1": "3-1",
+            "marcador_2": "2-1",
+            "ultimo_resultado_favorito": "W",
+            "ultimo_resultado_nofavorito": "L",
+            "condiciones": {
+                "favorito_mayor_45": true,
+                "favorito_gano_ultimo": true,
+                "marcador_1_confirma_favorito": true,
+                "marcador_2_confirma_favorito": true,
+                "nofavorito_perdio_ultimo": true
+            },
+            "premium": true
+        },
+        {
+            "fecha": "2026-08-29",
             "hora": "10:30",
             "local": "Kromeriz",
             "visitante": "Prostejov",
@@ -1122,38 +714,40 @@
             "ultimo_resultado_favorito": "W",
             "ultimo_resultado_nofavorito": "L",
             "condiciones": {
-                "favorito_mayor_55": true,
+                "favorito_mayor_45": true,
                 "favorito_gano_ultimo": true,
-                "marcadores_confirman_favorito": true,
+                "marcador_1_confirma_favorito": true,
+                "marcador_2_confirma_favorito": true,
                 "nofavorito_perdio_ultimo": true
             },
             "premium": true
         },
         {
-            "fecha": "2026-08-31",
-            "hora": "06:00",
-            "local": "Sleipner",
-            "visitante": "Eker Orebro",
-            "logolocal": "https://static.flashscore.com/res/image/data/fLyIibHG-raogUhzi.png",
-            "logovisitante": "https://static.flashscore.com/res/image/data/tSS74ScM-hYGalZpk.png",
-            "favorito": "Sleipner",
-            "probabilidad_favorito": 55.34,
-            "nofavorito": "Eker Orebro",
-            "probabilidad_nofavorito": 22.13,
-            "marcador_1": "1-1",
-            "marcador_2": "2-1",
+            "fecha": "2026-08-29",
+            "hora": "03:15",
+            "local": "Chomutov",
+            "visitante": "Meteor Prague",
+            "logolocal": "https://static.flashscore.com/res/image/data/fuQLWHil-dx6A3UDj.png",
+            "logovisitante": "https://static.flashscore.com/res/image/data/hv8J0eXg-bNsKOrPC.png",
+            "favorito": "Chomutov",
+            "probabilidad_favorito": 64.89,
+            "nofavorito": "Meteor Prague",
+            "probabilidad_nofavorito": 17.94,
+            "marcador_1": "2-1",
+            "marcador_2": "3-1",
             "ultimo_resultado_favorito": "W",
             "ultimo_resultado_nofavorito": "L",
             "condiciones": {
-                "favorito_mayor_55": true,
+                "favorito_mayor_45": true,
                 "favorito_gano_ultimo": true,
-                "marcadores_confirman_favorito": true,
+                "marcador_1_confirma_favorito": true,
+                "marcador_2_confirma_favorito": true,
                 "nofavorito_perdio_ultimo": true
             },
             "premium": true
         },
         {
-            "fecha": "2026-08-31",
+            "fecha": "2026-08-29",
             "hora": "07:00",
             "local": "Fittja",
             "visitante": "Orebro Syr.",
@@ -1168,9 +762,10 @@
             "ultimo_resultado_favorito": "W",
             "ultimo_resultado_nofavorito": "L",
             "condiciones": {
-                "favorito_mayor_55": true,
+                "favorito_mayor_45": true,
                 "favorito_gano_ultimo": true,
-                "marcadores_confirman_favorito": true,
+                "marcador_1_confirma_favorito": true,
+                "marcador_2_confirma_favorito": true,
                 "nofavorito_perdio_ultimo": true
             },
             "premium": true
@@ -1191,9 +786,10 @@
             "ultimo_resultado_favorito": "W",
             "ultimo_resultado_nofavorito": "L",
             "condiciones": {
-                "favorito_mayor_55": true,
+                "favorito_mayor_45": true,
                 "favorito_gano_ultimo": true,
-                "marcadores_confirman_favorito": true,
+                "marcador_1_confirma_favorito": true,
+                "marcador_2_confirma_favorito": true,
                 "nofavorito_perdio_ultimo": true
             },
             "premium": true
@@ -1214,9 +810,10 @@
             "ultimo_resultado_favorito": "W",
             "ultimo_resultado_nofavorito": "L",
             "condiciones": {
-                "favorito_mayor_55": true,
+                "favorito_mayor_45": true,
                 "favorito_gano_ultimo": true,
-                "marcadores_confirman_favorito": true,
+                "marcador_1_confirma_favorito": true,
+                "marcador_2_confirma_favorito": true,
                 "nofavorito_perdio_ultimo": true
             },
             "premium": true
@@ -1237,9 +834,10 @@
             "ultimo_resultado_favorito": "W",
             "ultimo_resultado_nofavorito": "L",
             "condiciones": {
-                "favorito_mayor_55": true,
+                "favorito_mayor_45": true,
                 "favorito_gano_ultimo": true,
-                "marcadores_confirman_favorito": true,
+                "marcador_1_confirma_favorito": true,
+                "marcador_2_confirma_favorito": true,
                 "nofavorito_perdio_ultimo": true
             },
             "premium": true
@@ -1260,55 +858,10 @@
             "ultimo_resultado_favorito": "W",
             "ultimo_resultado_nofavorito": "L",
             "condiciones": {
-                "favorito_mayor_55": true,
+                "favorito_mayor_45": true,
                 "favorito_gano_ultimo": true,
-                "marcadores_confirman_favorito": true,
-                "nofavorito_perdio_ultimo": true
-            },
-            "premium": true
-        },
-        {
-            "fecha": "2026-08-30",
-            "hora": "00:00",
-            "local": "Melbourne Victory Sub-21",
-            "visitante": "Port Melbourne Sharks",
-            "logolocal": "https://static.flashscore.com/res/image/data/hjkPxVGG-Gl57JWT0.png",
-            "logovisitante": "https://static.flashscore.com/res/image/data/pSEMGXzB-EBkIALyb.png",
-            "favorito": "Melbourne Victory Sub-21",
-            "probabilidad_favorito": 56.09,
-            "nofavorito": "Port Melbourne Sharks",
-            "probabilidad_nofavorito": 19.0,
-            "marcador_1": "1-0",
-            "marcador_2": "1-1",
-            "ultimo_resultado_favorito": "W",
-            "ultimo_resultado_nofavorito": "L",
-            "condiciones": {
-                "favorito_mayor_55": true,
-                "favorito_gano_ultimo": true,
-                "marcadores_confirman_favorito": true,
-                "nofavorito_perdio_ultimo": true
-            },
-            "premium": true
-        },
-        {
-            "fecha": "2026-08-30",
-            "hora": "12:15",
-            "local": "Westerlo",
-            "visitante": "Waregem",
-            "logolocal": "https://static.flashscore.com/res/image/data/UBF0fxBr-8GmkY6iJ.png",
-            "logovisitante": "https://static.flashscore.com/res/image/data/QNUmbEyS-fc7DY1B9.png",
-            "favorito": "Waregem",
-            "probabilidad_favorito": 56.18,
-            "nofavorito": "Westerlo",
-            "probabilidad_nofavorito": 22.37,
-            "marcador_1": "1-2",
-            "marcador_2": "1-1",
-            "ultimo_resultado_favorito": "W",
-            "ultimo_resultado_nofavorito": "L",
-            "condiciones": {
-                "favorito_mayor_55": true,
-                "favorito_gano_ultimo": true,
-                "marcadores_confirman_favorito": true,
+                "marcador_1_confirma_favorito": true,
+                "marcador_2_confirma_favorito": true,
                 "nofavorito_perdio_ultimo": true
             },
             "premium": true
@@ -1329,9 +882,10 @@
             "ultimo_resultado_favorito": "W",
             "ultimo_resultado_nofavorito": "L",
             "condiciones": {
-                "favorito_mayor_55": true,
+                "favorito_mayor_45": true,
                 "favorito_gano_ultimo": true,
-                "marcadores_confirman_favorito": true,
+                "marcador_1_confirma_favorito": true,
+                "marcador_2_confirma_favorito": true,
                 "nofavorito_perdio_ultimo": true
             },
             "premium": true
@@ -1352,32 +906,10 @@
             "ultimo_resultado_favorito": "W",
             "ultimo_resultado_nofavorito": "L",
             "condiciones": {
-                "favorito_mayor_55": true,
+                "favorito_mayor_45": true,
                 "favorito_gano_ultimo": true,
-                "marcadores_confirman_favorito": true,
-                "nofavorito_perdio_ultimo": true
-            },
-            "premium": true
-        },
-        {
-            "fecha": "2026-08-30",
-            "hora": "18:00",
-            "local": "St. Louis City",
-            "visitante": "FC Dallas",
-            "logolocal": "https://static.flashscore.com/res/image/data/fZQ24ABr-jmLPWdtA.png",
-            "logovisitante": "https://static.flashscore.com/res/image/data/IPVa0Qhl-08eoEXKh.png",
-            "favorito": "St. Louis City",
-            "probabilidad_favorito": 58.49,
-            "nofavorito": "FC Dallas",
-            "probabilidad_nofavorito": 21.78,
-            "marcador_1": "2-1",
-            "marcador_2": "1-1",
-            "ultimo_resultado_favorito": "W",
-            "ultimo_resultado_nofavorito": "L",
-            "condiciones": {
-                "favorito_mayor_55": true,
-                "favorito_gano_ultimo": true,
-                "marcadores_confirman_favorito": true,
+                "marcador_1_confirma_favorito": true,
+                "marcador_2_confirma_favorito": true,
                 "nofavorito_perdio_ultimo": true
             },
             "premium": true
@@ -1398,262 +930,10 @@
             "ultimo_resultado_favorito": "W",
             "ultimo_resultado_nofavorito": "L",
             "condiciones": {
-                "favorito_mayor_55": true,
+                "favorito_mayor_45": true,
                 "favorito_gano_ultimo": true,
-                "marcadores_confirman_favorito": true,
-                "nofavorito_perdio_ultimo": true
-            },
-            "premium": true
-        },
-        {
-            "fecha": "2026-08-30",
-            "hora": "09:00",
-            "local": "FA Siauliai",
-            "visitante": "Suduva",
-            "logolocal": "https://static.flashscore.com/res/image/data/4Wttb0hl-MNgQcn0j.png",
-            "logovisitante": "https://static.flashscore.com/res/image/data/A1ysJqyB-KUTmPbTL.png",
-            "favorito": "Suduva",
-            "probabilidad_favorito": 61.55,
-            "nofavorito": "FA Siauliai",
-            "probabilidad_nofavorito": 18.08,
-            "marcador_1": "1-2",
-            "marcador_2": "1-1",
-            "ultimo_resultado_favorito": "W",
-            "ultimo_resultado_nofavorito": "L",
-            "condiciones": {
-                "favorito_mayor_55": true,
-                "favorito_gano_ultimo": true,
-                "marcadores_confirman_favorito": true,
-                "nofavorito_perdio_ultimo": true
-            },
-            "premium": true
-        },
-        {
-            "fecha": "2026-08-30",
-            "hora": "19:00",
-            "local": "Toluca",
-            "visitante": "Juárez",
-            "logolocal": "https://static.flashscore.com/res/image/data/2XmJUlzB-0pHVJYjM.png",
-            "logovisitante": "https://static.flashscore.com/res/image/data/EyCbOdXg-OSiYNR3p.png",
-            "favorito": "Toluca",
-            "probabilidad_favorito": 58.04,
-            "nofavorito": "Juárez",
-            "probabilidad_nofavorito": 20.7,
-            "marcador_1": "2-1",
-            "marcador_2": "1-1",
-            "ultimo_resultado_favorito": "W",
-            "ultimo_resultado_nofavorito": "L",
-            "condiciones": {
-                "favorito_mayor_55": true,
-                "favorito_gano_ultimo": true,
-                "marcadores_confirman_favorito": true,
-                "nofavorito_perdio_ultimo": true
-            },
-            "premium": true
-        },
-        {
-            "fecha": "2026-08-30",
-            "hora": "13:00",
-            "local": "Cambuur",
-            "visitante": "Twente",
-            "logolocal": "https://static.flashscore.com/res/image/data/vu3nZcxS-0fjMSYzR.png",
-            "logovisitante": "https://static.flashscore.com/res/image/data/n9hVHBcM-4vob7cTR.png",
-            "favorito": "Twente",
-            "probabilidad_favorito": 55.83,
-            "nofavorito": "Cambuur",
-            "probabilidad_nofavorito": 23.02,
-            "marcador_1": "1-2",
-            "marcador_2": "1-1",
-            "ultimo_resultado_favorito": "W",
-            "ultimo_resultado_nofavorito": "L",
-            "condiciones": {
-                "favorito_mayor_55": true,
-                "favorito_gano_ultimo": true,
-                "marcadores_confirman_favorito": true,
-                "nofavorito_perdio_ultimo": true
-            },
-            "premium": true
-        },
-        {
-            "fecha": "2026-08-28",
-            "hora": "10:30",
-            "local": "GBK Kokkola",
-            "visitante": "Jaro 2",
-            "logolocal": "https://static.flashscore.com/res/image/data/SGlmyLEa-plwJVNCk.png",
-            "logovisitante": "https://static.flashscore.com/res/image/data/EkrxHXfM-fPLwFQWs.png",
-            "favorito": "GBK Kokkola",
-            "probabilidad_favorito": 65.5,
-            "nofavorito": "Jaro 2",
-            "probabilidad_nofavorito": 17.83,
-            "marcador_1": "2-1",
-            "marcador_2": "3-1",
-            "ultimo_resultado_favorito": "W",
-            "ultimo_resultado_nofavorito": "L",
-            "condiciones": {
-                "favorito_mayor_55": true,
-                "favorito_gano_ultimo": true,
-                "marcadores_confirman_favorito": true,
-                "nofavorito_perdio_ultimo": true
-            },
-            "premium": true
-        },
-        {
-            "fecha": "2026-08-31",
-            "hora": "11:00",
-            "local": "Breidablik F",
-            "visitante": "IBV Vestmannaeyjar F",
-            "logolocal": "https://static.flashscore.com/res/image/data/YJ6F5rxS-pEMOcBzo.png",
-            "logovisitante": "https://static.flashscore.com/res/image/data/z1GJ4cFG-GhaBLUZO.png",
-            "favorito": "Breidablik F",
-            "probabilidad_favorito": 66.29,
-            "nofavorito": "IBV Vestmannaeyjar F",
-            "probabilidad_nofavorito": 18.08,
-            "marcador_1": "3-1",
-            "marcador_2": "2-1",
-            "ultimo_resultado_favorito": "W",
-            "ultimo_resultado_nofavorito": "L",
-            "condiciones": {
-                "favorito_mayor_55": true,
-                "favorito_gano_ultimo": true,
-                "marcadores_confirman_favorito": true,
-                "nofavorito_perdio_ultimo": true
-            },
-            "premium": true
-        },
-        {
-            "fecha": "2026-08-31",
-            "hora": "06:00",
-            "local": "Sandur",
-            "visitante": "B36 Torshavn 2",
-            "logolocal": "https://static.flashscore.com/res/image/data/27JyD2Da-QTeOMRab.png",
-            "logovisitante": "https://static.flashscore.com/res/image/data/zoEj8BFG-nXsPsHi4.png",
-            "favorito": "Sandur",
-            "probabilidad_favorito": 74.87,
-            "nofavorito": "B36 Torshavn 2",
-            "probabilidad_nofavorito": 12.89,
-            "marcador_1": "3-1",
-            "marcador_2": "4-1",
-            "ultimo_resultado_favorito": "W",
-            "ultimo_resultado_nofavorito": "L",
-            "condiciones": {
-                "favorito_mayor_55": true,
-                "favorito_gano_ultimo": true,
-                "marcadores_confirman_favorito": true,
-                "nofavorito_perdio_ultimo": true
-            },
-            "premium": true
-        },
-        {
-            "fecha": "2026-08-31",
-            "hora": "08:00",
-            "local": "Zhenis",
-            "visitante": "Altai",
-            "logolocal": "https://static.flashscore.com/res/image/data/2q0RvJyB-zLEZgZeE.png",
-            "logovisitante": "https://static.flashscore.com/res/image/data/j1z0KpwS-n5RUMA8S.png",
-            "favorito": "Zhenis",
-            "probabilidad_favorito": 55.38,
-            "nofavorito": "Altai",
-            "probabilidad_nofavorito": 20.77,
-            "marcador_1": "1-0",
-            "marcador_2": "1-1",
-            "ultimo_resultado_favorito": "W",
-            "ultimo_resultado_nofavorito": "L",
-            "condiciones": {
-                "favorito_mayor_55": true,
-                "favorito_gano_ultimo": true,
-                "marcadores_confirman_favorito": true,
-                "nofavorito_perdio_ultimo": true
-            },
-            "premium": true
-        },
-        {
-            "fecha": "2026-08-31",
-            "hora": "11:00",
-            "local": "De Treffers",
-            "visitante": "Rijnsburgse Boys",
-            "logolocal": "https://static.flashscore.com/res/image/data/K2aCvzeM-8p9SVNbf.png",
-            "logovisitante": "https://static.flashscore.com/res/image/data/l2narQYA-bi1q8Nnc.png",
-            "favorito": "De Treffers",
-            "probabilidad_favorito": 70.54,
-            "nofavorito": "Rijnsburgse Boys",
-            "probabilidad_nofavorito": 14.92,
-            "marcador_1": "3-1",
-            "marcador_2": "2-1",
-            "ultimo_resultado_favorito": "W",
-            "ultimo_resultado_nofavorito": "L",
-            "condiciones": {
-                "favorito_mayor_55": true,
-                "favorito_gano_ultimo": true,
-                "marcadores_confirman_favorito": true,
-                "nofavorito_perdio_ultimo": true
-            },
-            "premium": true
-        },
-        {
-            "fecha": "2026-08-31",
-            "hora": "03:15",
-            "local": "Chomutov",
-            "visitante": "Meteor Prague",
-            "logolocal": "https://static.flashscore.com/res/image/data/fuQLWHil-dx6A3UDj.png",
-            "logovisitante": "https://static.flashscore.com/res/image/data/hv8J0eXg-bNsKOrPC.png",
-            "favorito": "Chomutov",
-            "probabilidad_favorito": 64.89,
-            "nofavorito": "Meteor Prague",
-            "probabilidad_nofavorito": 17.94,
-            "marcador_1": "2-1",
-            "marcador_2": "3-1",
-            "ultimo_resultado_favorito": "W",
-            "ultimo_resultado_nofavorito": "L",
-            "condiciones": {
-                "favorito_mayor_55": true,
-                "favorito_gano_ultimo": true,
-                "marcadores_confirman_favorito": true,
-                "nofavorito_perdio_ultimo": true
-            },
-            "premium": true
-        },
-        {
-            "fecha": "2026-08-30",
-            "hora": "08:00",
-            "local": "12 de Junio",
-            "visitante": "Sp. Carapegua",
-            "logolocal": "https://static.flashscore.com/res/image/data/ENHhNEh5-G8DKctQf.png",
-            "logovisitante": "https://static.flashscore.com/res/image/data/63YeLBhl-z96RnWye.png",
-            "favorito": "12 de Junio",
-            "probabilidad_favorito": 56.92,
-            "nofavorito": "Sp. Carapegua",
-            "probabilidad_nofavorito": 20.04,
-            "marcador_1": "1-0",
-            "marcador_2": "1-1",
-            "ultimo_resultado_favorito": "W",
-            "ultimo_resultado_nofavorito": "L",
-            "condiciones": {
-                "favorito_mayor_55": true,
-                "favorito_gano_ultimo": true,
-                "marcadores_confirman_favorito": true,
-                "nofavorito_perdio_ultimo": true
-            },
-            "premium": true
-        },
-        {
-            "fecha": "2026-08-30",
-            "hora": "03:15",
-            "local": "Pardubice B",
-            "visitante": "Caslav",
-            "logolocal": "https://static.flashscore.com/res/image/data/6aTo23dM-zyD25c4e.png",
-            "logovisitante": "https://static.flashscore.com/res/image/data/t6y1ODil-KOhmKRrd.png",
-            "favorito": "Pardubice B",
-            "probabilidad_favorito": 55.14,
-            "nofavorito": "Caslav",
-            "probabilidad_nofavorito": 26.56,
-            "marcador_1": "2-1",
-            "marcador_2": "2-2",
-            "ultimo_resultado_favorito": "W",
-            "ultimo_resultado_nofavorito": "L",
-            "condiciones": {
-                "favorito_mayor_55": true,
-                "favorito_gano_ultimo": true,
-                "marcadores_confirman_favorito": true,
+                "marcador_1_confirma_favorito": true,
+                "marcador_2_confirma_favorito": true,
                 "nofavorito_perdio_ultimo": true
             },
             "premium": true
@@ -1674,9 +954,10 @@
             "ultimo_resultado_favorito": "W",
             "ultimo_resultado_nofavorito": "L",
             "condiciones": {
-                "favorito_mayor_55": true,
+                "favorito_mayor_45": true,
                 "favorito_gano_ultimo": true,
-                "marcadores_confirman_favorito": true,
+                "marcador_1_confirma_favorito": true,
+                "marcador_2_confirma_favorito": true,
                 "nofavorito_perdio_ultimo": true
             },
             "premium": true
@@ -1697,9 +978,10 @@
             "ultimo_resultado_favorito": "W",
             "ultimo_resultado_nofavorito": "L",
             "condiciones": {
-                "favorito_mayor_55": true,
+                "favorito_mayor_45": true,
                 "favorito_gano_ultimo": true,
-                "marcadores_confirman_favorito": true,
+                "marcador_1_confirma_favorito": true,
+                "marcador_2_confirma_favorito": true,
                 "nofavorito_perdio_ultimo": true
             },
             "premium": true
@@ -1720,9 +1002,10 @@
             "ultimo_resultado_favorito": "W",
             "ultimo_resultado_nofavorito": "L",
             "condiciones": {
-                "favorito_mayor_55": true,
+                "favorito_mayor_45": true,
                 "favorito_gano_ultimo": true,
-                "marcadores_confirman_favorito": true,
+                "marcador_1_confirma_favorito": true,
+                "marcador_2_confirma_favorito": true,
                 "nofavorito_perdio_ultimo": true
             },
             "premium": true
@@ -1743,78 +1026,10 @@
             "ultimo_resultado_favorito": "W",
             "ultimo_resultado_nofavorito": "L",
             "condiciones": {
-                "favorito_mayor_55": true,
+                "favorito_mayor_45": true,
                 "favorito_gano_ultimo": true,
-                "marcadores_confirman_favorito": true,
-                "nofavorito_perdio_ultimo": true
-            },
-            "premium": true
-        },
-        {
-            "fecha": "2026-08-31",
-            "hora": "09:00",
-            "local": "Pollok",
-            "visitante": "Beith",
-            "logolocal": "https://static.flashscore.com/res/image/data/GhT9dQfM-4xn6WmUQ.png",
-            "logovisitante": "https://static.flashscore.com/res/image/data/KxRtBewS-l8rgZkJu.png",
-            "favorito": "Pollok",
-            "probabilidad_favorito": 65.08,
-            "nofavorito": "Beith",
-            "probabilidad_nofavorito": 18.5,
-            "marcador_1": "2-1",
-            "marcador_2": "3-1",
-            "ultimo_resultado_favorito": "W",
-            "ultimo_resultado_nofavorito": "L",
-            "condiciones": {
-                "favorito_mayor_55": true,
-                "favorito_gano_ultimo": true,
-                "marcadores_confirman_favorito": true,
-                "nofavorito_perdio_ultimo": true
-            },
-            "premium": true
-        },
-        {
-            "fecha": "2026-08-31",
-            "hora": "09:00",
-            "local": "PEPO",
-            "visitante": "PPJ",
-            "logolocal": "https://static.flashscore.com/res/image/data/vwpyQ0zB-pfj9k3UB.png",
-            "logovisitante": "https://static.flashscore.com/res/image/data/Gj9Q6CEa-Qg7PhtG2.png",
-            "favorito": "PEPO",
-            "probabilidad_favorito": 61.22,
-            "nofavorito": "PPJ",
-            "probabilidad_nofavorito": 21.14,
-            "marcador_1": "2-1",
-            "marcador_2": "3-1",
-            "ultimo_resultado_favorito": "W",
-            "ultimo_resultado_nofavorito": "L",
-            "condiciones": {
-                "favorito_mayor_55": true,
-                "favorito_gano_ultimo": true,
-                "marcadores_confirman_favorito": true,
-                "nofavorito_perdio_ultimo": true
-            },
-            "premium": true
-        },
-        {
-            "fecha": "2026-08-31",
-            "hora": "08:00",
-            "local": "Huima / Urho",
-            "visitante": "VPS 2",
-            "logolocal": "https://static.flashscore.com/res/image/data/IRlMTCCa-Yq6vbosf.png",
-            "logovisitante": "https://static.flashscore.com/res/image/data/YsnAdWFG-rJXIO86a.png",
-            "favorito": "Huima / Urho",
-            "probabilidad_favorito": 69.48,
-            "nofavorito": "VPS 2",
-            "probabilidad_nofavorito": 17.16,
-            "marcador_1": "3-1",
-            "marcador_2": "3-2",
-            "ultimo_resultado_favorito": "W",
-            "ultimo_resultado_nofavorito": "L",
-            "condiciones": {
-                "favorito_mayor_55": true,
-                "favorito_gano_ultimo": true,
-                "marcadores_confirman_favorito": true,
+                "marcador_1_confirma_favorito": true,
+                "marcador_2_confirma_favorito": true,
                 "nofavorito_perdio_ultimo": true
             },
             "premium": true
