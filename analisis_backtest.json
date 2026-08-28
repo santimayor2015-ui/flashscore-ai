@@ -1,59 +1,59 @@
 {
-  "fecha_generacion": "2026-08-28T09:07:44-05:00",
+  "fecha_generacion": "2026-08-28T10:53:00-05:00",
   "archivo": "C:\\Flashcore\\Backup\\Historico - copia\\historico_pronosticos.json",
-  "registros_historicos": 1478,
-  "finalizados": 24,
-  "pendientes": 1454,
+  "registros_historicos": 1519,
+  "finalizados": 33,
+  "pendientes": 1486,
   "control_universo": {
     "antes_sincronizacion": {
-      "total": 1478,
-      "finalizados": 0,
-      "pendientes": 1478,
-      "pendientes_verificables": 42,
-      "pendientes_futuros": 1436,
+      "total": 1519,
+      "finalizados": 24,
+      "pendientes": 1495,
+      "pendientes_verificables": 67,
+      "pendientes_futuros": 1428,
       "pendientes_sin_fecha_hora": 0,
-      "ahora": "2026-08-28T09:06:33-05:00",
+      "ahora": "2026-08-28T10:50:27-05:00",
       "zona_horaria": "America/Bogota"
     },
     "despues_sincronizacion": {
-      "total": 1478,
-      "finalizados": 24,
-      "pendientes": 1454,
-      "pendientes_verificables": 18,
-      "pendientes_futuros": 1436,
+      "total": 1519,
+      "finalizados": 33,
+      "pendientes": 1486,
+      "pendientes_verificables": 58,
+      "pendientes_futuros": 1428,
       "pendientes_sin_fecha_hora": 0,
-      "ahora": "2026-08-28T09:07:44-05:00",
+      "ahora": "2026-08-28T10:53:00-05:00",
       "zona_horaria": "America/Bogota"
     }
   },
   "sincronizacion": {
-    "pendientes_iniciales": 1478,
-    "pendientes_verificables": 42,
-    "pendientes_futuros": 1436,
-    "consultados": 42,
-    "actualizados": 24,
-    "aun_pendientes_verificables": 18,
+    "pendientes_iniciales": 1495,
+    "pendientes_verificables": 67,
+    "pendientes_futuros": 1428,
+    "consultados": 67,
+    "actualizados": 9,
+    "aun_pendientes_verificables": 58,
     "errores": 0,
     "sin_link": 0,
     "sin_fecha_hora": 0,
     "control_inicial": {
-      "total": 1478,
-      "finalizados": 0,
-      "pendientes": 1478,
-      "pendientes_verificables": 42,
-      "pendientes_futuros": 1436,
+      "total": 1519,
+      "finalizados": 24,
+      "pendientes": 1495,
+      "pendientes_verificables": 67,
+      "pendientes_futuros": 1428,
       "pendientes_sin_fecha_hora": 0,
-      "ahora": "2026-08-28T09:06:33-05:00",
+      "ahora": "2026-08-28T10:50:27-05:00",
       "zona_horaria": "America/Bogota"
     },
     "control_final": {
-      "total": 1478,
-      "finalizados": 24,
-      "pendientes": 1454,
-      "pendientes_verificables": 18,
-      "pendientes_futuros": 1436,
+      "total": 1519,
+      "finalizados": 33,
+      "pendientes": 1486,
+      "pendientes_verificables": 58,
+      "pendientes_futuros": 1428,
       "pendientes_sin_fecha_hora": 0,
-      "ahora": "2026-08-28T09:07:44-05:00",
+      "ahora": "2026-08-28T10:53:00-05:00",
       "zona_horaria": "America/Bogota"
     }
   },
@@ -87,25 +87,25 @@
       "mercados": {
         "directa_1x2": {
           "resumen": {
-            "partidos": 24,
-            "aciertos": 14,
-            "fallos": 10,
-            "acierto": 58.33,
+            "partidos": 33,
+            "aciertos": 17,
+            "fallos": 16,
+            "acierto": 51.52,
             "intervalo_confianza_95_acierto": [
-              38.83,
-              75.53
+              35.22,
+              67.5
             ],
-            "brier": 0.5869,
-            "log_loss": 0.987,
-            "muestras_con_brier": 24,
-            "muestras_con_log_loss": 24,
-            "unidades_net": 3.78,
-            "roi_pct": 15.75,
-            "cuota_media": 2.209,
-            "apuestas_con_cuota": 24,
-            "baseline_favorito_mercado": 66.67,
-            "baseline_favorito_partidos": 24,
-            "ece": 0.129608
+            "brier": 0.6083,
+            "log_loss": 1.0158,
+            "muestras_con_brier": 33,
+            "muestras_con_log_loss": 33,
+            "unidades_net": -0.02,
+            "roi_pct": -0.06,
+            "cuota_media": 2.162,
+            "apuestas_con_cuota": 33,
+            "baseline_favorito_mercado": 60.61,
+            "baseline_favorito_partidos": 33,
+            "ece": 0.067982
           },
           "por_liga": {
             "AUSTRALIA - NPL QUEENSLAND U23 - PLAYOFFS - CUARTOS DE FINAL": {
@@ -162,6 +162,44 @@
               "unidades_net": -1.0,
               "roi_pct": -100.0,
               "cuota_media": 2.95,
+              "apuestas_con_cuota": 1,
+              "muestra_suficiente": false
+            },
+            "BIELORRUSIA - PERSHAYA LIGA - JORNADA 22": {
+              "partidos": 1,
+              "aciertos": 1,
+              "fallos": 0,
+              "acierto": 100.0,
+              "intervalo_confianza_95_acierto": [
+                20.65,
+                100.0
+              ],
+              "brier": 0.5078,
+              "log_loss": 0.8682,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": 0.88,
+              "roi_pct": 88.0,
+              "cuota_media": 1.88,
+              "apuestas_con_cuota": 1,
+              "muestra_suficiente": false
+            },
+            "BRASIL - MINEIRO SUB-20 - FASE DE GANADORES - JORNADA 7": {
+              "partidos": 1,
+              "aciertos": 0,
+              "fallos": 1,
+              "acierto": 0.0,
+              "intervalo_confianza_95_acierto": [
+                0.0,
+                79.35
+              ],
+              "brier": 0.6688,
+              "log_loss": 1.0927,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": -1.0,
+              "roi_pct": -100.0,
+              "cuota_media": 2.47,
               "apuestas_con_cuota": 1,
               "muestra_suficiente": false
             },
@@ -222,6 +260,25 @@
               "apuestas_con_cuota": 2,
               "muestra_suficiente": false
             },
+            "EGIPTO - DIVISION 2 A - JORNADA 2": {
+              "partidos": 3,
+              "aciertos": 1,
+              "fallos": 2,
+              "acierto": 33.33,
+              "intervalo_confianza_95_acierto": [
+                6.15,
+                79.23
+              ],
+              "brier": 0.6359,
+              "log_loss": 1.0417,
+              "muestras_con_brier": 3,
+              "muestras_con_log_loss": 3,
+              "unidades_net": -1.43,
+              "roi_pct": -47.67,
+              "cuota_media": 2.107,
+              "apuestas_con_cuota": 3,
+              "muestra_suficiente": false
+            },
             "HONG KONG - PREMIER LEAGUE - JORNADA 2": {
               "partidos": 1,
               "aciertos": 1,
@@ -260,23 +317,42 @@
               "apuestas_con_cuota": 3,
               "muestra_suficiente": false
             },
-            "MALASIA - SUPER LIGA - JORNADA 2": {
+            "LITUANIA - I LYGA - JORNADA 22": {
               "partidos": 1,
-              "aciertos": 1,
+              "aciertos": 0,
+              "fallos": 1,
+              "acierto": 0.0,
+              "intervalo_confianza_95_acierto": [
+                0.0,
+                79.35
+              ],
+              "brier": 0.9401,
+              "log_loss": 1.4745,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": -1.0,
+              "roi_pct": -100.0,
+              "cuota_media": 1.85,
+              "apuestas_con_cuota": 1,
+              "muestra_suficiente": false
+            },
+            "MALASIA - SUPER LIGA - JORNADA 2": {
+              "partidos": 2,
+              "aciertos": 2,
               "fallos": 0,
               "acierto": 100.0,
               "intervalo_confianza_95_acierto": [
-                20.65,
+                34.24,
                 100.0
               ],
-              "brier": 0.4529,
-              "log_loss": 0.7973,
-              "muestras_con_brier": 1,
-              "muestras_con_log_loss": 1,
-              "unidades_net": 0.95,
-              "roi_pct": 95.0,
-              "cuota_media": 1.95,
-              "apuestas_con_cuota": 1,
+              "brier": 0.4317,
+              "log_loss": 0.7678,
+              "muestras_con_brier": 2,
+              "muestras_con_log_loss": 2,
+              "unidades_net": 1.7,
+              "roi_pct": 85.0,
+              "cuota_media": 1.85,
+              "apuestas_con_cuota": 2,
               "muestra_suficiente": false
             },
             "MUNDIAL - AMISTOSOS DE CLUBS": {
@@ -355,6 +431,44 @@
               "apuestas_con_cuota": 1,
               "muestra_suficiente": false
             },
+            "POLONIA - III LIGA - GRUPO III - JORNADA 6": {
+              "partidos": 1,
+              "aciertos": 0,
+              "fallos": 1,
+              "acierto": 0.0,
+              "intervalo_confianza_95_acierto": [
+                0.0,
+                79.35
+              ],
+              "brier": 0.8587,
+              "log_loss": 1.3988,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": -1.0,
+              "roi_pct": -100.0,
+              "cuota_media": 1.8,
+              "apuestas_con_cuota": 1,
+              "muestra_suficiente": false
+            },
+            "TANZANIA - LIGI KUU BARA - JORNADA 4": {
+              "partidos": 1,
+              "aciertos": 0,
+              "fallos": 1,
+              "acierto": 0.0,
+              "intervalo_confianza_95_acierto": [
+                0.0,
+                79.35
+              ],
+              "brier": 0.6925,
+              "log_loss": 1.1358,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": -1.0,
+              "roi_pct": -100.0,
+              "cuota_media": 2.25,
+              "apuestas_con_cuota": 1,
+              "muestra_suficiente": false
+            },
             "UCRANIA - PERSHA LIGA - JORNADA 5": {
               "partidos": 2,
               "aciertos": 1,
@@ -414,60 +528,6 @@
               "apuestas_con_cuota": 3
             },
             "1.50-1.69": {
-              "partidos": 4,
-              "aciertos": 1,
-              "fallos": 3,
-              "acierto": 25.0,
-              "intervalo_confianza_95_acierto": [
-                4.56,
-                69.94
-              ],
-              "brier": 0.6941,
-              "log_loss": 1.1346,
-              "muestras_con_brier": 4,
-              "muestras_con_log_loss": 4,
-              "unidades_net": -2.4,
-              "roi_pct": -60.0,
-              "cuota_media": 1.603,
-              "apuestas_con_cuota": 4
-            },
-            "1.70-1.89": {
-              "partidos": 1,
-              "aciertos": 1,
-              "fallos": 0,
-              "acierto": 100.0,
-              "intervalo_confianza_95_acierto": [
-                20.65,
-                100.0
-              ],
-              "brier": 0.4157,
-              "log_loss": 0.7474,
-              "muestras_con_brier": 1,
-              "muestras_con_log_loss": 1,
-              "unidades_net": 0.77,
-              "roi_pct": 77.0,
-              "cuota_media": 1.77,
-              "apuestas_con_cuota": 1
-            },
-            "1.90-2.09": {
-              "partidos": 3,
-              "aciertos": 3,
-              "fallos": 0,
-              "acierto": 100.0,
-              "intervalo_confianza_95_acierto": [
-                43.85,
-                100.0
-              ],
-              "brier": 0.4839,
-              "log_loss": 0.8351,
-              "muestras_con_brier": 3,
-              "muestras_con_log_loss": 3,
-              "unidades_net": 2.95,
-              "roi_pct": 98.33,
-              "cuota_media": 1.983,
-              "apuestas_con_cuota": 3
-            },
-            "2.10-2.29": {
               "partidos": 5,
               "aciertos": 2,
               "fallos": 3,
@@ -476,50 +536,104 @@
                 11.76,
                 76.93
               ],
-              "brier": 0.6995,
-              "log_loss": 1.154,
+              "brier": 0.6624,
+              "log_loss": 1.0895,
               "muestras_con_brier": 5,
               "muestras_con_log_loss": 5,
-              "unidades_net": -0.65,
-              "roi_pct": -13.0,
-              "cuota_media": 2.184,
+              "unidades_net": -1.83,
+              "roi_pct": -36.6,
+              "cuota_media": 1.596,
               "apuestas_con_cuota": 5
             },
-            "2.30-2.49": {
-              "partidos": 2,
-              "aciertos": 2,
-              "fallos": 0,
-              "acierto": 100.0,
-              "intervalo_confianza_95_acierto": [
-                34.24,
-                100.0
-              ],
-              "brier": 0.5987,
-              "log_loss": 0.9943,
-              "muestras_con_brier": 2,
-              "muestras_con_log_loss": 2,
-              "unidades_net": 2.76,
-              "roi_pct": 138.0,
-              "cuota_media": 2.38,
-              "apuestas_con_cuota": 2
-            },
-            "2.50-2.99": {
-              "partidos": 3,
-              "aciertos": 1,
+            "1.70-1.89": {
+              "partidos": 5,
+              "aciertos": 3,
               "fallos": 2,
+              "acierto": 60.0,
+              "intervalo_confianza_95_acierto": [
+                23.07,
+                88.24
+              ],
+              "brier": 0.6266,
+              "log_loss": 1.0454,
+              "muestras_con_brier": 5,
+              "muestras_con_log_loss": 5,
+              "unidades_net": 0.4,
+              "roi_pct": 8.0,
+              "cuota_media": 1.81,
+              "apuestas_con_cuota": 5
+            },
+            "1.90-2.09": {
+              "partidos": 4,
+              "aciertos": 3,
+              "fallos": 1,
+              "acierto": 75.0,
+              "intervalo_confianza_95_acierto": [
+                30.06,
+                95.44
+              ],
+              "brier": 0.5436,
+              "log_loss": 0.9161,
+              "muestras_con_brier": 4,
+              "muestras_con_log_loss": 4,
+              "unidades_net": 1.95,
+              "roi_pct": 48.75,
+              "cuota_media": 1.975,
+              "apuestas_con_cuota": 4
+            },
+            "2.10-2.29": {
+              "partidos": 6,
+              "aciertos": 2,
+              "fallos": 4,
               "acierto": 33.33,
               "intervalo_confianza_95_acierto": [
-                6.15,
-                79.23
+                9.68,
+                70.0
               ],
-              "brier": 0.6335,
-              "log_loss": 1.0482,
+              "brier": 0.6983,
+              "log_loss": 1.151,
+              "muestras_con_brier": 6,
+              "muestras_con_log_loss": 6,
+              "unidades_net": -1.65,
+              "roi_pct": -27.5,
+              "cuota_media": 2.195,
+              "apuestas_con_cuota": 6
+            },
+            "2.30-2.49": {
+              "partidos": 3,
+              "aciertos": 2,
+              "fallos": 1,
+              "acierto": 66.67,
+              "intervalo_confianza_95_acierto": [
+                20.77,
+                93.85
+              ],
+              "brier": 0.6221,
+              "log_loss": 1.0271,
               "muestras_con_brier": 3,
               "muestras_con_log_loss": 3,
-              "unidades_net": -0.37,
-              "roi_pct": -12.33,
-              "cuota_media": 2.827,
+              "unidades_net": 1.76,
+              "roi_pct": 58.67,
+              "cuota_media": 2.41,
               "apuestas_con_cuota": 3
+            },
+            "2.50-2.99": {
+              "partidos": 4,
+              "aciertos": 1,
+              "fallos": 3,
+              "acierto": 25.0,
+              "intervalo_confianza_95_acierto": [
+                4.56,
+                69.94
+              ],
+              "brier": 0.6376,
+              "log_loss": 1.0505,
+              "muestras_con_brier": 4,
+              "muestras_con_log_loss": 4,
+              "unidades_net": -1.37,
+              "roi_pct": -34.25,
+              "cuota_media": 2.82,
+              "apuestas_con_cuota": 4
             },
             "3.00-3.49": {
               "partidos": 2,
@@ -573,40 +687,40 @@
           },
           "por_probabilidad": {
             "<50%": {
-              "partidos": 19,
-              "aciertos": 10,
-              "fallos": 9,
-              "acierto": 52.63,
+              "partidos": 27,
+              "aciertos": 13,
+              "fallos": 14,
+              "acierto": 48.15,
               "intervalo_confianza_95_acierto": [
-                31.71,
-                72.67
+                30.74,
+                66.01
               ],
-              "brier": 0.6373,
-              "log_loss": 1.058,
-              "muestras_con_brier": 19,
-              "muestras_con_log_loss": 19,
-              "unidades_net": 3.46,
-              "roi_pct": 18.21,
-              "cuota_media": 2.423,
-              "apuestas_con_cuota": 19
+              "brier": 0.6354,
+              "log_loss": 1.0541,
+              "muestras_con_brier": 27,
+              "muestras_con_log_loss": 27,
+              "unidades_net": 0.66,
+              "roi_pct": 2.44,
+              "cuota_media": 2.315,
+              "apuestas_con_cuota": 27
             },
             "50-54%": {
-              "partidos": 3,
+              "partidos": 4,
               "aciertos": 2,
-              "fallos": 1,
-              "acierto": 66.67,
+              "fallos": 2,
+              "acierto": 50.0,
               "intervalo_confianza_95_acierto": [
-                20.77,
-                93.85
+                15.0,
+                85.0
               ],
-              "brier": 0.5128,
-              "log_loss": 0.8759,
-              "muestras_con_brier": 3,
-              "muestras_con_log_loss": 3,
-              "unidades_net": 0.0,
-              "roi_pct": 0.0,
-              "cuota_media": 1.553,
-              "apuestas_con_cuota": 3
+              "brier": 0.6196,
+              "log_loss": 1.0256,
+              "muestras_con_brier": 4,
+              "muestras_con_log_loss": 4,
+              "unidades_net": -1.0,
+              "roi_pct": -25.0,
+              "cuota_media": 1.627,
+              "apuestas_con_cuota": 4
             },
             "55-59%": {
               "partidos": 1,
@@ -728,25 +842,25 @@
         },
         "doble_oportunidad": {
           "resumen": {
-            "partidos": 24,
-            "aciertos": 19,
-            "fallos": 5,
-            "acierto": 79.17,
+            "partidos": 33,
+            "aciertos": 26,
+            "fallos": 7,
+            "acierto": 78.79,
             "intervalo_confianza_95_acierto": [
-              59.53,
-              90.76
+              62.25,
+              89.32
             ],
-            "brier": 0.1623,
-            "log_loss": 0.5038,
-            "muestras_con_brier": 24,
-            "muestras_con_log_loss": 24,
+            "brier": 0.1684,
+            "log_loss": 0.5193,
+            "muestras_con_brier": 33,
+            "muestras_con_log_loss": 33,
             "unidades_net": null,
             "roi_pct": null,
             "cuota_media": null,
             "apuestas_con_cuota": 0,
             "baseline_favorito_mercado": null,
             "baseline_favorito_partidos": 0,
-            "ece": 0.096054
+            "ece": 0.061115
           },
           "por_liga": {
             "AUSTRALIA - NPL QUEENSLAND U23 - PLAYOFFS - CUARTOS DE FINAL": {
@@ -798,6 +912,44 @@
               ],
               "brier": 0.0626,
               "log_loss": 0.2878,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
+            "BIELORRUSIA - PERSHAYA LIGA - JORNADA 22": {
+              "partidos": 1,
+              "aciertos": 1,
+              "fallos": 0,
+              "acierto": 100.0,
+              "intervalo_confianza_95_acierto": [
+                20.65,
+                100.0
+              ],
+              "brier": 0.0643,
+              "log_loss": 0.2924,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
+            "BRASIL - MINEIRO SUB-20 - FASE DE GANADORES - JORNADA 7": {
+              "partidos": 1,
+              "aciertos": 1,
+              "fallos": 0,
+              "acierto": 100.0,
+              "intervalo_confianza_95_acierto": [
+                20.65,
+                100.0
+              ],
+              "brier": 0.0769,
+              "log_loss": 0.3248,
               "muestras_con_brier": 1,
               "muestras_con_log_loss": 1,
               "unidades_net": null,
@@ -863,6 +1015,25 @@
               "apuestas_con_cuota": 0,
               "muestra_suficiente": false
             },
+            "EGIPTO - DIVISION 2 A - JORNADA 2": {
+              "partidos": 3,
+              "aciertos": 3,
+              "fallos": 0,
+              "acierto": 100.0,
+              "intervalo_confianza_95_acierto": [
+                43.85,
+                100.0
+              ],
+              "brier": 0.0689,
+              "log_loss": 0.3043,
+              "muestras_con_brier": 3,
+              "muestras_con_log_loss": 3,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
             "HONG KONG - PREMIER LEAGUE - JORNADA 2": {
               "partidos": 1,
               "aciertos": 1,
@@ -901,19 +1072,38 @@
               "apuestas_con_cuota": 0,
               "muestra_suficiente": false
             },
-            "MALASIA - SUPER LIGA - JORNADA 2": {
+            "LITUANIA - I LYGA - JORNADA 22": {
               "partidos": 1,
-              "aciertos": 1,
+              "aciertos": 0,
+              "fallos": 1,
+              "acierto": 0.0,
+              "intervalo_confianza_95_acierto": [
+                0.0,
+                79.35
+              ],
+              "brier": 0.5946,
+              "log_loss": 1.4745,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
+            "MALASIA - SUPER LIGA - JORNADA 2": {
+              "partidos": 2,
+              "aciertos": 2,
               "fallos": 0,
               "acierto": 100.0,
               "intervalo_confianza_95_acierto": [
-                20.65,
+                34.24,
                 100.0
               ],
-              "brier": 0.0726,
-              "log_loss": 0.3139,
-              "muestras_con_brier": 1,
-              "muestras_con_log_loss": 1,
+              "brier": 0.0633,
+              "log_loss": 0.2893,
+              "muestras_con_brier": 2,
+              "muestras_con_log_loss": 2,
               "unidades_net": null,
               "roi_pct": null,
               "cuota_media": null,
@@ -988,6 +1178,44 @@
               ],
               "brier": 0.0419,
               "log_loss": 0.2289,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
+            "POLONIA - III LIGA - GRUPO III - JORNADA 6": {
+              "partidos": 1,
+              "aciertos": 0,
+              "fallos": 1,
+              "acierto": 0.0,
+              "intervalo_confianza_95_acierto": [
+                0.0,
+                79.35
+              ],
+              "brier": 0.5672,
+              "log_loss": 1.3988,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
+            "TANZANIA - LIGI KUU BARA - JORNADA 4": {
+              "partidos": 1,
+              "aciertos": 1,
+              "fallos": 0,
+              "acierto": 100.0,
+              "intervalo_confianza_95_acierto": [
+                20.65,
+                100.0
+              ],
+              "brier": 0.0987,
+              "log_loss": 0.3772,
               "muestras_con_brier": 1,
               "muestras_con_log_loss": 1,
               "unidades_net": null,
@@ -1221,54 +1449,54 @@
               "apuestas_con_cuota": 0
             },
             "65-69%": {
-              "partidos": 1,
-              "aciertos": 0,
+              "partidos": 2,
+              "aciertos": 1,
               "fallos": 1,
-              "acierto": 0.0,
+              "acierto": 50.0,
               "intervalo_confianza_95_acierto": [
-                0.0,
-                79.35
+                9.45,
+                90.55
               ],
-              "brier": 0.4729,
-              "log_loss": 1.1638,
-              "muestras_con_brier": 1,
-              "muestras_con_log_loss": 1,
+              "brier": 0.2858,
+              "log_loss": 0.7705,
+              "muestras_con_brier": 2,
+              "muestras_con_log_loss": 2,
               "unidades_net": null,
               "roi_pct": null,
               "cuota_media": null,
               "apuestas_con_cuota": 0
             },
             "70-74%": {
-              "partidos": 13,
-              "aciertos": 11,
+              "partidos": 18,
+              "aciertos": 16,
               "fallos": 2,
-              "acierto": 84.62,
+              "acierto": 88.89,
               "intervalo_confianza_95_acierto": [
-                57.77,
-                95.67
+                67.2,
+                96.9
               ],
-              "brier": 0.1452,
-              "log_loss": 0.4715,
-              "muestras_con_brier": 13,
-              "muestras_con_log_loss": 13,
+              "brier": 0.1242,
+              "log_loss": 0.4255,
+              "muestras_con_brier": 18,
+              "muestras_con_log_loss": 18,
               "unidades_net": null,
               "roi_pct": null,
               "cuota_media": null,
               "apuestas_con_cuota": 0
             },
             "75-79%": {
-              "partidos": 8,
-              "aciertos": 6,
-              "fallos": 2,
-              "acierto": 75.0,
+              "partidos": 11,
+              "aciertos": 7,
+              "fallos": 4,
+              "acierto": 63.64,
               "intervalo_confianza_95_acierto": [
-                40.93,
-                92.85
+                35.38,
+                84.83
               ],
-              "brier": 0.1845,
-              "log_loss": 0.5534,
-              "muestras_con_brier": 8,
-              "muestras_con_log_loss": 8,
+              "brier": 0.2447,
+              "log_loss": 0.6877,
+              "muestras_con_brier": 11,
+              "muestras_con_log_loss": 11,
               "unidades_net": null,
               "roi_pct": null,
               "cuota_media": null,
@@ -1329,13 +1557,13 @@
         },
         "ambos_marcan": {
           "resumen": {
-            "partidos": 24,
-            "aciertos": 13,
-            "fallos": 11,
-            "acierto": 54.17,
+            "partidos": 33,
+            "aciertos": 19,
+            "fallos": 14,
+            "acierto": 57.58,
             "intervalo_confianza_95_acierto": [
-              35.07,
-              72.11
+              40.81,
+              72.76
             ],
             "brier": null,
             "log_loss": null,
@@ -1389,6 +1617,44 @@
               "muestra_suficiente": false
             },
             "AUSTRALIA - SA STATE LEAGUE - PLAYOFFS - SEMIFINALES": {
+              "partidos": 1,
+              "aciertos": 0,
+              "fallos": 1,
+              "acierto": 0.0,
+              "intervalo_confianza_95_acierto": [
+                0.0,
+                79.35
+              ],
+              "brier": null,
+              "log_loss": null,
+              "muestras_con_brier": 0,
+              "muestras_con_log_loss": 0,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
+            "BIELORRUSIA - PERSHAYA LIGA - JORNADA 22": {
+              "partidos": 1,
+              "aciertos": 1,
+              "fallos": 0,
+              "acierto": 100.0,
+              "intervalo_confianza_95_acierto": [
+                20.65,
+                100.0
+              ],
+              "brier": null,
+              "log_loss": null,
+              "muestras_con_brier": 0,
+              "muestras_con_log_loss": 0,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
+            "BRASIL - MINEIRO SUB-20 - FASE DE GANADORES - JORNADA 7": {
               "partidos": 1,
               "aciertos": 0,
               "fallos": 1,
@@ -1464,6 +1730,25 @@
               "apuestas_con_cuota": 0,
               "muestra_suficiente": false
             },
+            "EGIPTO - DIVISION 2 A - JORNADA 2": {
+              "partidos": 3,
+              "aciertos": 2,
+              "fallos": 1,
+              "acierto": 66.67,
+              "intervalo_confianza_95_acierto": [
+                20.77,
+                93.85
+              ],
+              "brier": null,
+              "log_loss": null,
+              "muestras_con_brier": 0,
+              "muestras_con_log_loss": 0,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
             "HONG KONG - PREMIER LEAGUE - JORNADA 2": {
               "partidos": 1,
               "aciertos": 0,
@@ -1502,7 +1787,7 @@
               "apuestas_con_cuota": 0,
               "muestra_suficiente": false
             },
-            "MALASIA - SUPER LIGA - JORNADA 2": {
+            "LITUANIA - I LYGA - JORNADA 22": {
               "partidos": 1,
               "aciertos": 1,
               "fallos": 0,
@@ -1510,6 +1795,25 @@
               "intervalo_confianza_95_acierto": [
                 20.65,
                 100.0
+              ],
+              "brier": null,
+              "log_loss": null,
+              "muestras_con_brier": 0,
+              "muestras_con_log_loss": 0,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
+            "MALASIA - SUPER LIGA - JORNADA 2": {
+              "partidos": 2,
+              "aciertos": 1,
+              "fallos": 1,
+              "acierto": 50.0,
+              "intervalo_confianza_95_acierto": [
+                9.45,
+                90.55
               ],
               "brier": null,
               "log_loss": null,
@@ -1579,6 +1883,44 @@
               "muestra_suficiente": false
             },
             "POLONIA - CENTRAL YOUTH LEAGUE - JORNADA 4": {
+              "partidos": 1,
+              "aciertos": 1,
+              "fallos": 0,
+              "acierto": 100.0,
+              "intervalo_confianza_95_acierto": [
+                20.65,
+                100.0
+              ],
+              "brier": null,
+              "log_loss": null,
+              "muestras_con_brier": 0,
+              "muestras_con_log_loss": 0,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
+            "POLONIA - III LIGA - GRUPO III - JORNADA 6": {
+              "partidos": 1,
+              "aciertos": 1,
+              "fallos": 0,
+              "acierto": 100.0,
+              "intervalo_confianza_95_acierto": [
+                20.65,
+                100.0
+              ],
+              "brier": null,
+              "log_loss": null,
+              "muestras_con_brier": 0,
+              "muestras_con_log_loss": 0,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
+            "TANZANIA - LIGI KUU BARA - JORNADA 4": {
               "partidos": 1,
               "aciertos": 1,
               "fallos": 0,
@@ -1905,25 +2247,25 @@
         },
         "marcador_1": {
           "resumen": {
-            "partidos": 24,
+            "partidos": 33,
             "aciertos": 3,
-            "fallos": 21,
-            "acierto": 12.5,
+            "fallos": 30,
+            "acierto": 9.09,
             "intervalo_confianza_95_acierto": [
-              4.34,
-              31.0
+              3.14,
+              23.57
             ],
-            "brier": 0.1169,
-            "log_loss": 0.408,
-            "muestras_con_brier": 24,
-            "muestras_con_log_loss": 24,
+            "brier": 0.0926,
+            "log_loss": 0.3402,
+            "muestras_con_brier": 33,
+            "muestras_con_log_loss": 33,
             "unidades_net": null,
             "roi_pct": null,
             "cuota_media": null,
             "apuestas_con_cuota": 0,
             "baseline_favorito_mercado": null,
             "baseline_favorito_partidos": 0,
-            "ece": 0.128021
+            "ece": 0.111685
           },
           "por_liga": {
             "AUSTRALIA - NPL QUEENSLAND U23 - PLAYOFFS - CUARTOS DE FINAL": {
@@ -1975,6 +2317,44 @@
               ],
               "brier": 0.0082,
               "log_loss": 0.0952,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
+            "BIELORRUSIA - PERSHAYA LIGA - JORNADA 22": {
+              "partidos": 1,
+              "aciertos": 0,
+              "fallos": 1,
+              "acierto": 0.0,
+              "intervalo_confianza_95_acierto": [
+                0.0,
+                79.35
+              ],
+              "brier": 0.0085,
+              "log_loss": 0.0965,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
+            "BRASIL - MINEIRO SUB-20 - FASE DE GANADORES - JORNADA 7": {
+              "partidos": 1,
+              "aciertos": 0,
+              "fallos": 1,
+              "acierto": 0.0,
+              "intervalo_confianza_95_acierto": [
+                0.0,
+                79.35
+              ],
+              "brier": 0.0183,
+              "log_loss": 0.1453,
               "muestras_con_brier": 1,
               "muestras_con_log_loss": 1,
               "unidades_net": null,
@@ -2040,6 +2420,25 @@
               "apuestas_con_cuota": 0,
               "muestra_suficiente": false
             },
+            "EGIPTO - DIVISION 2 A - JORNADA 2": {
+              "partidos": 3,
+              "aciertos": 0,
+              "fallos": 3,
+              "acierto": 0.0,
+              "intervalo_confianza_95_acierto": [
+                0.0,
+                56.15
+              ],
+              "brier": 0.0604,
+              "log_loss": 0.26,
+              "muestras_con_brier": 3,
+              "muestras_con_log_loss": 3,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
             "HONG KONG - PREMIER LEAGUE - JORNADA 2": {
               "partidos": 1,
               "aciertos": 0,
@@ -2078,7 +2477,7 @@
               "apuestas_con_cuota": 0,
               "muestra_suficiente": false
             },
-            "MALASIA - SUPER LIGA - JORNADA 2": {
+            "LITUANIA - I LYGA - JORNADA 22": {
               "partidos": 1,
               "aciertos": 0,
               "fallos": 1,
@@ -2087,10 +2486,29 @@
                 0.0,
                 79.35
               ],
-              "brier": 0.0201,
-              "log_loss": 0.1528,
+              "brier": 0.0091,
+              "log_loss": 0.1004,
               "muestras_con_brier": 1,
               "muestras_con_log_loss": 1,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
+            "MALASIA - SUPER LIGA - JORNADA 2": {
+              "partidos": 2,
+              "aciertos": 0,
+              "fallos": 2,
+              "acierto": 0.0,
+              "intervalo_confianza_95_acierto": [
+                0.0,
+                65.76
+              ],
+              "brier": 0.0126,
+              "log_loss": 0.1134,
+              "muestras_con_brier": 2,
+              "muestras_con_log_loss": 2,
               "unidades_net": null,
               "roi_pct": null,
               "cuota_media": null,
@@ -2165,6 +2583,44 @@
               ],
               "brier": 0.005,
               "log_loss": 0.0732,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
+            "POLONIA - III LIGA - GRUPO III - JORNADA 6": {
+              "partidos": 1,
+              "aciertos": 0,
+              "fallos": 1,
+              "acierto": 0.0,
+              "intervalo_confianza_95_acierto": [
+                0.0,
+                79.35
+              ],
+              "brier": 0.0055,
+              "log_loss": 0.0773,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
+            "TANZANIA - LIGI KUU BARA - JORNADA 4": {
+              "partidos": 1,
+              "aciertos": 0,
+              "fallos": 1,
+              "acierto": 0.0,
+              "intervalo_confianza_95_acierto": [
+                0.0,
+                79.35
+              ],
+              "brier": 0.0221,
+              "log_loss": 0.1608,
               "muestras_con_brier": 1,
               "muestras_con_log_loss": 1,
               "unidades_net": null,
@@ -2346,18 +2802,18 @@
           },
           "por_probabilidad": {
             "<50%": {
-              "partidos": 24,
+              "partidos": 33,
               "aciertos": 3,
-              "fallos": 21,
-              "acierto": 12.5,
+              "fallos": 30,
+              "acierto": 9.09,
               "intervalo_confianza_95_acierto": [
-                4.34,
-                31.0
+                3.14,
+                23.57
               ],
-              "brier": 0.1169,
-              "log_loss": 0.408,
-              "muestras_con_brier": 24,
-              "muestras_con_log_loss": 24,
+              "brier": 0.0926,
+              "log_loss": 0.3402,
+              "muestras_con_brier": 33,
+              "muestras_con_log_loss": 33,
               "unidades_net": null,
               "roi_pct": null,
               "cuota_media": null,
@@ -2486,25 +2942,25 @@
         },
         "marcador_2": {
           "resumen": {
-            "partidos": 24,
-            "aciertos": 0,
-            "fallos": 24,
-            "acierto": 0.0,
+            "partidos": 33,
+            "aciertos": 1,
+            "fallos": 32,
+            "acierto": 3.03,
             "intervalo_confianza_95_acierto": [
-              0.0,
-              13.8
+              0.54,
+              15.32
             ],
-            "brier": 0.0109,
-            "log_loss": 0.107,
-            "muestras_con_brier": 24,
-            "muestras_con_log_loss": 24,
+            "brier": 0.0376,
+            "log_loss": 0.187,
+            "muestras_con_brier": 33,
+            "muestras_con_log_loss": 33,
             "unidades_net": null,
             "roi_pct": null,
             "cuota_media": null,
             "apuestas_con_cuota": 0,
             "baseline_favorito_mercado": null,
             "baseline_favorito_partidos": 0,
-            "ece": 0.101008
+            "ece": 0.073221
           },
           "por_liga": {
             "AUSTRALIA - NPL QUEENSLAND U23 - PLAYOFFS - CUARTOS DE FINAL": {
@@ -2556,6 +3012,44 @@
               ],
               "brier": 0.0076,
               "log_loss": 0.0911,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
+            "BIELORRUSIA - PERSHAYA LIGA - JORNADA 22": {
+              "partidos": 1,
+              "aciertos": 0,
+              "fallos": 1,
+              "acierto": 0.0,
+              "intervalo_confianza_95_acierto": [
+                0.0,
+                79.35
+              ],
+              "brier": 0.0062,
+              "log_loss": 0.0823,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
+            "BRASIL - MINEIRO SUB-20 - FASE DE GANADORES - JORNADA 7": {
+              "partidos": 1,
+              "aciertos": 0,
+              "fallos": 1,
+              "acierto": 0.0,
+              "intervalo_confianza_95_acierto": [
+                0.0,
+                79.35
+              ],
+              "brier": 0.0077,
+              "log_loss": 0.0921,
               "muestras_con_brier": 1,
               "muestras_con_log_loss": 1,
               "unidades_net": null,
@@ -2621,6 +3115,25 @@
               "apuestas_con_cuota": 0,
               "muestra_suficiente": false
             },
+            "EGIPTO - DIVISION 2 A - JORNADA 2": {
+              "partidos": 3,
+              "aciertos": 0,
+              "fallos": 3,
+              "acierto": 0.0,
+              "intervalo_confianza_95_acierto": [
+                0.0,
+                56.15
+              ],
+              "brier": 0.0245,
+              "log_loss": 0.164,
+              "muestras_con_brier": 3,
+              "muestras_con_log_loss": 3,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
             "HONG KONG - PREMIER LEAGUE - JORNADA 2": {
               "partidos": 1,
               "aciertos": 0,
@@ -2659,7 +3172,7 @@
               "apuestas_con_cuota": 0,
               "muestra_suficiente": false
             },
-            "MALASIA - SUPER LIGA - JORNADA 2": {
+            "LITUANIA - I LYGA - JORNADA 22": {
               "partidos": 1,
               "aciertos": 0,
               "fallos": 1,
@@ -2668,10 +3181,29 @@
                 0.0,
                 79.35
               ],
-              "brier": 0.0144,
-              "log_loss": 0.1276,
+              "brier": 0.0091,
+              "log_loss": 0.1003,
               "muestras_con_brier": 1,
               "muestras_con_log_loss": 1,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
+            "MALASIA - SUPER LIGA - JORNADA 2": {
+              "partidos": 2,
+              "aciertos": 0,
+              "fallos": 2,
+              "acierto": 0.0,
+              "intervalo_confianza_95_acierto": [
+                0.0,
+                65.76
+              ],
+              "brier": 0.0097,
+              "log_loss": 0.1005,
+              "muestras_con_brier": 2,
+              "muestras_con_log_loss": 2,
               "unidades_net": null,
               "roi_pct": null,
               "cuota_media": null,
@@ -2746,6 +3278,44 @@
               ],
               "brier": 0.0045,
               "log_loss": 0.0695,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
+            "POLONIA - III LIGA - GRUPO III - JORNADA 6": {
+              "partidos": 1,
+              "aciertos": 1,
+              "fallos": 0,
+              "acierto": 100.0,
+              "intervalo_confianza_95_acierto": [
+                20.65,
+                100.0
+              ],
+              "brier": 0.8593,
+              "log_loss": 2.6173,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
+            "TANZANIA - LIGI KUU BARA - JORNADA 4": {
+              "partidos": 1,
+              "aciertos": 0,
+              "fallos": 1,
+              "acierto": 0.0,
+              "intervalo_confianza_95_acierto": [
+                0.0,
+                79.35
+              ],
+              "brier": 0.0184,
+              "log_loss": 0.1458,
               "muestras_con_brier": 1,
               "muestras_con_log_loss": 1,
               "unidades_net": null,
@@ -2927,18 +3497,18 @@
           },
           "por_probabilidad": {
             "<50%": {
-              "partidos": 24,
-              "aciertos": 0,
-              "fallos": 24,
-              "acierto": 0.0,
+              "partidos": 33,
+              "aciertos": 1,
+              "fallos": 32,
+              "acierto": 3.03,
               "intervalo_confianza_95_acierto": [
-                0.0,
-                13.8
+                0.54,
+                15.32
               ],
-              "brier": 0.0109,
-              "log_loss": 0.107,
-              "muestras_con_brier": 24,
-              "muestras_con_log_loss": 24,
+              "brier": 0.0376,
+              "log_loss": 0.187,
+              "muestras_con_brier": 33,
+              "muestras_con_log_loss": 33,
               "unidades_net": null,
               "roi_pct": null,
               "cuota_media": null,
@@ -3071,25 +3641,25 @@
       "mercados": {
         "directa_1x2": {
           "resumen": {
-            "partidos": 24,
-            "aciertos": 12,
-            "fallos": 12,
-            "acierto": 50.0,
+            "partidos": 33,
+            "aciertos": 14,
+            "fallos": 19,
+            "acierto": 42.42,
             "intervalo_confianza_95_acierto": [
-              31.43,
-              68.57
+              27.24,
+              59.19
             ],
-            "brier": 0.2474,
-            "log_loss": 0.6874,
-            "muestras_con_brier": 24,
-            "muestras_con_log_loss": 24,
-            "unidades_net": -0.6,
-            "roi_pct": -2.5,
-            "cuota_media": 2.434,
-            "apuestas_con_cuota": 24,
-            "baseline_favorito_mercado": 66.67,
-            "baseline_favorito_partidos": 24,
-            "ece": 0.144525
+            "brier": 0.2418,
+            "log_loss": 0.6764,
+            "muestras_con_brier": 33,
+            "muestras_con_log_loss": 33,
+            "unidades_net": -5.45,
+            "roi_pct": -16.52,
+            "cuota_media": 2.535,
+            "apuestas_con_cuota": 33,
+            "baseline_favorito_mercado": 60.61,
+            "baseline_favorito_partidos": 33,
+            "ece": 0.08593
           },
           "por_liga": {
             "AUSTRALIA - NPL QUEENSLAND U23 - PLAYOFFS - CUARTOS DE FINAL": {
@@ -3146,6 +3716,44 @@
               "unidades_net": -1.0,
               "roi_pct": -100.0,
               "cuota_media": 2.95,
+              "apuestas_con_cuota": 1,
+              "muestra_suficiente": false
+            },
+            "BIELORRUSIA - PERSHAYA LIGA - JORNADA 22": {
+              "partidos": 1,
+              "aciertos": 0,
+              "fallos": 1,
+              "acierto": 0.0,
+              "intervalo_confianza_95_acierto": [
+                0.0,
+                79.35
+              ],
+              "brier": 0.1627,
+              "log_loss": 0.5165,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": -1.0,
+              "roi_pct": -100.0,
+              "cuota_media": 3.25,
+              "apuestas_con_cuota": 1,
+              "muestra_suficiente": false
+            },
+            "BRASIL - MINEIRO SUB-20 - FASE DE GANADORES - JORNADA 7": {
+              "partidos": 1,
+              "aciertos": 0,
+              "fallos": 1,
+              "acierto": 0.0,
+              "intervalo_confianza_95_acierto": [
+                0.0,
+                79.35
+              ],
+              "brier": 0.1748,
+              "log_loss": 0.5415,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": -1.0,
+              "roi_pct": -100.0,
+              "cuota_media": 2.47,
               "apuestas_con_cuota": 1,
               "muestra_suficiente": false
             },
@@ -3206,6 +3814,25 @@
               "apuestas_con_cuota": 2,
               "muestra_suficiente": false
             },
+            "EGIPTO - DIVISION 2 A - JORNADA 2": {
+              "partidos": 3,
+              "aciertos": 1,
+              "fallos": 2,
+              "acierto": 33.33,
+              "intervalo_confianza_95_acierto": [
+                6.15,
+                79.23
+              ],
+              "brier": 0.264,
+              "log_loss": 0.7252,
+              "muestras_con_brier": 3,
+              "muestras_con_log_loss": 3,
+              "unidades_net": -0.6,
+              "roi_pct": -20.0,
+              "cuota_media": 3.367,
+              "apuestas_con_cuota": 3,
+              "muestra_suficiente": false
+            },
             "HONG KONG - PREMIER LEAGUE - JORNADA 2": {
               "partidos": 1,
               "aciertos": 1,
@@ -3244,23 +3871,42 @@
               "apuestas_con_cuota": 3,
               "muestra_suficiente": false
             },
-            "MALASIA - SUPER LIGA - JORNADA 2": {
+            "LITUANIA - I LYGA - JORNADA 22": {
               "partidos": 1,
-              "aciertos": 1,
+              "aciertos": 0,
+              "fallos": 1,
+              "acierto": 0.0,
+              "intervalo_confianza_95_acierto": [
+                0.0,
+                79.35
+              ],
+              "brier": 0.3397,
+              "log_loss": 0.8742,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": -1.0,
+              "roi_pct": -100.0,
+              "cuota_media": 1.85,
+              "apuestas_con_cuota": 1,
+              "muestra_suficiente": false
+            },
+            "MALASIA - SUPER LIGA - JORNADA 2": {
+              "partidos": 2,
+              "aciertos": 2,
               "fallos": 0,
               "acierto": 100.0,
               "intervalo_confianza_95_acierto": [
-                20.65,
+                34.24,
                 100.0
               ],
-              "brier": 0.2952,
-              "log_loss": 0.7837,
-              "muestras_con_brier": 1,
-              "muestras_con_log_loss": 1,
-              "unidades_net": 0.95,
-              "roi_pct": 95.0,
-              "cuota_media": 1.95,
-              "apuestas_con_cuota": 1,
+              "brier": 0.2921,
+              "log_loss": 0.7775,
+              "muestras_con_brier": 2,
+              "muestras_con_log_loss": 2,
+              "unidades_net": 1.7,
+              "roi_pct": 85.0,
+              "cuota_media": 1.85,
+              "apuestas_con_cuota": 2,
               "muestra_suficiente": false
             },
             "MUNDIAL - AMISTOSOS DE CLUBS": {
@@ -3336,6 +3982,44 @@
               "unidades_net": 0.6,
               "roi_pct": 60.0,
               "cuota_media": 1.6,
+              "apuestas_con_cuota": 1,
+              "muestra_suficiente": false
+            },
+            "POLONIA - III LIGA - GRUPO III - JORNADA 6": {
+              "partidos": 1,
+              "aciertos": 0,
+              "fallos": 1,
+              "acierto": 0.0,
+              "intervalo_confianza_95_acierto": [
+                0.0,
+                79.35
+              ],
+              "brier": 0.161,
+              "log_loss": 0.513,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": -1.0,
+              "roi_pct": -100.0,
+              "cuota_media": 3.55,
+              "apuestas_con_cuota": 1,
+              "muestra_suficiente": false
+            },
+            "TANZANIA - LIGI KUU BARA - JORNADA 4": {
+              "partidos": 1,
+              "aciertos": 0,
+              "fallos": 1,
+              "acierto": 0.0,
+              "intervalo_confianza_95_acierto": [
+                0.0,
+                79.35
+              ],
+              "brier": 0.1224,
+              "log_loss": 0.4305,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": -1.0,
+              "roi_pct": -100.0,
+              "cuota_media": 2.25,
               "apuestas_con_cuota": 1,
               "muestra_suficiente": false
             },
@@ -3416,76 +4100,76 @@
               "apuestas_con_cuota": 3
             },
             "1.70-1.89": {
-              "partidos": 1,
-              "aciertos": 1,
-              "fallos": 0,
-              "acierto": 100.0,
+              "partidos": 3,
+              "aciertos": 2,
+              "fallos": 1,
+              "acierto": 66.67,
               "intervalo_confianza_95_acierto": [
-                20.65,
-                100.0
+                20.77,
+                93.85
               ],
-              "brier": 0.293,
-              "log_loss": 0.7794,
-              "muestras_con_brier": 1,
-              "muestras_con_log_loss": 1,
-              "unidades_net": 0.77,
-              "roi_pct": 77.0,
-              "cuota_media": 1.77,
-              "apuestas_con_cuota": 1
+              "brier": 0.3072,
+              "log_loss": 0.8083,
+              "muestras_con_brier": 3,
+              "muestras_con_log_loss": 3,
+              "unidades_net": 0.52,
+              "roi_pct": 17.33,
+              "cuota_media": 1.79,
+              "apuestas_con_cuota": 3
             },
             "1.90-2.09": {
-              "partidos": 2,
+              "partidos": 3,
               "aciertos": 2,
-              "fallos": 0,
-              "acierto": 100.0,
+              "fallos": 1,
+              "acierto": 66.67,
               "intervalo_confianza_95_acierto": [
-                34.24,
-                100.0
+                20.77,
+                93.85
               ],
-              "brier": 0.2789,
-              "log_loss": 0.751,
-              "muestras_con_brier": 2,
-              "muestras_con_log_loss": 2,
-              "unidades_net": 1.95,
-              "roi_pct": 97.5,
-              "cuota_media": 1.975,
-              "apuestas_con_cuota": 2
+              "brier": 0.2469,
+              "log_loss": 0.6868,
+              "muestras_con_brier": 3,
+              "muestras_con_log_loss": 3,
+              "unidades_net": 0.95,
+              "roi_pct": 31.67,
+              "cuota_media": 1.967,
+              "apuestas_con_cuota": 3
             },
             "2.10-2.29": {
-              "partidos": 4,
+              "partidos": 5,
               "aciertos": 2,
-              "fallos": 2,
-              "acierto": 50.0,
+              "fallos": 3,
+              "acierto": 40.0,
               "intervalo_confianza_95_acierto": [
-                15.0,
-                85.0
+                11.76,
+                76.93
               ],
-              "brier": 0.2727,
-              "log_loss": 0.739,
-              "muestras_con_brier": 4,
-              "muestras_con_log_loss": 4,
-              "unidades_net": 0.35,
-              "roi_pct": 8.75,
-              "cuota_media": 2.2,
-              "apuestas_con_cuota": 4
+              "brier": 0.2426,
+              "log_loss": 0.6773,
+              "muestras_con_brier": 5,
+              "muestras_con_log_loss": 5,
+              "unidades_net": -0.65,
+              "roi_pct": -13.0,
+              "cuota_media": 2.21,
+              "apuestas_con_cuota": 5
             },
             "2.30-2.49": {
-              "partidos": 1,
-              "aciertos": 1,
-              "fallos": 0,
-              "acierto": 100.0,
+              "partidos": 3,
+              "aciertos": 2,
+              "fallos": 1,
+              "acierto": 66.67,
               "intervalo_confianza_95_acierto": [
-                20.65,
-                100.0
+                20.77,
+                93.85
               ],
-              "brier": 0.3993,
-              "log_loss": 0.9994,
-              "muestras_con_brier": 1,
-              "muestras_con_log_loss": 1,
-              "unidades_net": 1.38,
-              "roi_pct": 138.0,
-              "cuota_media": 2.38,
-              "apuestas_con_cuota": 1
+              "brier": 0.3371,
+              "log_loss": 0.8745,
+              "muestras_con_brier": 3,
+              "muestras_con_log_loss": 3,
+              "unidades_net": 1.78,
+              "roi_pct": 59.33,
+              "cuota_media": 2.417,
+              "apuestas_con_cuota": 3
             },
             "2.50-2.99": {
               "partidos": 6,
@@ -3506,73 +4190,78 @@
               "apuestas_con_cuota": 6
             },
             "3.00-3.49": {
-              "partidos": 2,
+              "partidos": 3,
               "aciertos": 1,
-              "fallos": 1,
-              "acierto": 50.0,
+              "fallos": 2,
+              "acierto": 33.33,
               "intervalo_confianza_95_acierto": [
-                9.45,
-                90.55
+                6.15,
+                79.23
               ],
-              "brier": 0.3081,
-              "log_loss": 0.8102,
-              "muestras_con_brier": 2,
-              "muestras_con_log_loss": 2,
-              "unidades_net": 1.0,
-              "roi_pct": 50.0,
-              "cuota_media": 3.2,
-              "apuestas_con_cuota": 2
+              "brier": 0.2597,
+              "log_loss": 0.7123,
+              "muestras_con_brier": 3,
+              "muestras_con_log_loss": 3,
+              "unidades_net": 0.0,
+              "roi_pct": 0.0,
+              "cuota_media": 3.217,
+              "apuestas_con_cuota": 3
             },
             "3.50-3.69": {
-              "partidos": 0,
+              "partidos": 1,
               "aciertos": 0,
-              "fallos": 0,
-              "acierto": null,
-              "intervalo_confianza_95_acierto": null,
-              "brier": null,
-              "log_loss": null,
-              "unidades_net": null,
-              "roi_pct": null,
-              "cuota_media": null,
-              "apuestas_con_cuota": 0
-            },
-            "3.70+": {
-              "partidos": 2,
-              "aciertos": 0,
-              "fallos": 2,
+              "fallos": 1,
               "acierto": 0.0,
               "intervalo_confianza_95_acierto": [
                 0.0,
-                65.76
+                79.35
               ],
-              "brier": 0.1746,
-              "log_loss": 0.5372,
-              "muestras_con_brier": 2,
-              "muestras_con_log_loss": 2,
-              "unidades_net": -2.0,
+              "brier": 0.161,
+              "log_loss": 0.513,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": -1.0,
               "roi_pct": -100.0,
-              "cuota_media": 4.85,
-              "apuestas_con_cuota": 2
+              "cuota_media": 3.55,
+              "apuestas_con_cuota": 1
+            },
+            "3.70+": {
+              "partidos": 3,
+              "aciertos": 0,
+              "fallos": 3,
+              "acierto": 0.0,
+              "intervalo_confianza_95_acierto": [
+                0.0,
+                56.15
+              ],
+              "brier": 0.1736,
+              "log_loss": 0.5363,
+              "muestras_con_brier": 3,
+              "muestras_con_log_loss": 3,
+              "unidades_net": -3.0,
+              "roi_pct": -100.0,
+              "cuota_media": 5.15,
+              "apuestas_con_cuota": 3
             }
           },
           "por_probabilidad": {
             "<50%": {
-              "partidos": 17,
-              "aciertos": 9,
-              "fallos": 8,
-              "acierto": 52.94,
+              "partidos": 25,
+              "aciertos": 11,
+              "fallos": 14,
+              "acierto": 44.0,
               "intervalo_confianza_95_acierto": [
-                30.96,
-                73.83
+                26.67,
+                62.93
               ],
-              "brier": 0.2468,
-              "log_loss": 0.6862,
-              "muestras_con_brier": 17,
-              "muestras_con_log_loss": 17,
-              "unidades_net": 1.03,
-              "roi_pct": 6.06,
-              "cuota_media": 2.52,
-              "apuestas_con_cuota": 17
+              "brier": 0.2359,
+              "log_loss": 0.6646,
+              "muestras_con_brier": 25,
+              "muestras_con_log_loss": 25,
+              "unidades_net": -2.82,
+              "roi_pct": -11.28,
+              "cuota_media": 2.648,
+              "apuestas_con_cuota": 25
             },
             "50-54%": {
               "partidos": 3,
@@ -3593,22 +4282,22 @@
               "apuestas_con_cuota": 3
             },
             "55-59%": {
-              "partidos": 3,
+              "partidos": 4,
               "aciertos": 1,
-              "fallos": 2,
-              "acierto": 33.33,
+              "fallos": 3,
+              "acierto": 25.0,
               "intervalo_confianza_95_acierto": [
-                6.15,
-                79.23
+                4.56,
+                69.94
               ],
-              "brier": 0.2809,
-              "log_loss": 0.7556,
-              "muestras_con_brier": 3,
-              "muestras_con_log_loss": 3,
-              "unidades_net": -0.37,
-              "roi_pct": -12.33,
-              "cuota_media": 2.993,
-              "apuestas_con_cuota": 3
+              "brier": 0.2956,
+              "log_loss": 0.7852,
+              "muestras_con_brier": 4,
+              "muestras_con_log_loss": 4,
+              "unidades_net": -1.37,
+              "roi_pct": -34.25,
+              "cuota_media": 2.708,
+              "apuestas_con_cuota": 4
             },
             "60-64%": {
               "partidos": 1,
@@ -3712,25 +4401,25 @@
         },
         "doble_oportunidad": {
           "resumen": {
-            "partidos": 24,
-            "aciertos": 19,
-            "fallos": 5,
-            "acierto": 79.17,
+            "partidos": 33,
+            "aciertos": 26,
+            "fallos": 7,
+            "acierto": 78.79,
             "intervalo_confianza_95_acierto": [
-              59.53,
-              90.76
+              62.25,
+              89.32
             ],
-            "brier": 0.1623,
-            "log_loss": 0.5038,
-            "muestras_con_brier": 24,
-            "muestras_con_log_loss": 24,
+            "brier": 0.1684,
+            "log_loss": 0.5193,
+            "muestras_con_brier": 33,
+            "muestras_con_log_loss": 33,
             "unidades_net": null,
             "roi_pct": null,
             "cuota_media": null,
             "apuestas_con_cuota": 0,
             "baseline_favorito_mercado": null,
             "baseline_favorito_partidos": 0,
-            "ece": 0.096054
+            "ece": 0.061115
           },
           "por_liga": {
             "AUSTRALIA - NPL QUEENSLAND U23 - PLAYOFFS - CUARTOS DE FINAL": {
@@ -3782,6 +4471,44 @@
               ],
               "brier": 0.0626,
               "log_loss": 0.2878,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
+            "BIELORRUSIA - PERSHAYA LIGA - JORNADA 22": {
+              "partidos": 1,
+              "aciertos": 1,
+              "fallos": 0,
+              "acierto": 100.0,
+              "intervalo_confianza_95_acierto": [
+                20.65,
+                100.0
+              ],
+              "brier": 0.0643,
+              "log_loss": 0.2924,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
+            "BRASIL - MINEIRO SUB-20 - FASE DE GANADORES - JORNADA 7": {
+              "partidos": 1,
+              "aciertos": 1,
+              "fallos": 0,
+              "acierto": 100.0,
+              "intervalo_confianza_95_acierto": [
+                20.65,
+                100.0
+              ],
+              "brier": 0.0769,
+              "log_loss": 0.3248,
               "muestras_con_brier": 1,
               "muestras_con_log_loss": 1,
               "unidades_net": null,
@@ -3847,6 +4574,25 @@
               "apuestas_con_cuota": 0,
               "muestra_suficiente": false
             },
+            "EGIPTO - DIVISION 2 A - JORNADA 2": {
+              "partidos": 3,
+              "aciertos": 3,
+              "fallos": 0,
+              "acierto": 100.0,
+              "intervalo_confianza_95_acierto": [
+                43.85,
+                100.0
+              ],
+              "brier": 0.0689,
+              "log_loss": 0.3043,
+              "muestras_con_brier": 3,
+              "muestras_con_log_loss": 3,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
             "HONG KONG - PREMIER LEAGUE - JORNADA 2": {
               "partidos": 1,
               "aciertos": 1,
@@ -3885,19 +4631,38 @@
               "apuestas_con_cuota": 0,
               "muestra_suficiente": false
             },
-            "MALASIA - SUPER LIGA - JORNADA 2": {
+            "LITUANIA - I LYGA - JORNADA 22": {
               "partidos": 1,
-              "aciertos": 1,
+              "aciertos": 0,
+              "fallos": 1,
+              "acierto": 0.0,
+              "intervalo_confianza_95_acierto": [
+                0.0,
+                79.35
+              ],
+              "brier": 0.5946,
+              "log_loss": 1.4745,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
+            "MALASIA - SUPER LIGA - JORNADA 2": {
+              "partidos": 2,
+              "aciertos": 2,
               "fallos": 0,
               "acierto": 100.0,
               "intervalo_confianza_95_acierto": [
-                20.65,
+                34.24,
                 100.0
               ],
-              "brier": 0.0726,
-              "log_loss": 0.3139,
-              "muestras_con_brier": 1,
-              "muestras_con_log_loss": 1,
+              "brier": 0.0633,
+              "log_loss": 0.2893,
+              "muestras_con_brier": 2,
+              "muestras_con_log_loss": 2,
               "unidades_net": null,
               "roi_pct": null,
               "cuota_media": null,
@@ -3972,6 +4737,44 @@
               ],
               "brier": 0.0419,
               "log_loss": 0.2289,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
+            "POLONIA - III LIGA - GRUPO III - JORNADA 6": {
+              "partidos": 1,
+              "aciertos": 0,
+              "fallos": 1,
+              "acierto": 0.0,
+              "intervalo_confianza_95_acierto": [
+                0.0,
+                79.35
+              ],
+              "brier": 0.5672,
+              "log_loss": 1.3988,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
+            "TANZANIA - LIGI KUU BARA - JORNADA 4": {
+              "partidos": 1,
+              "aciertos": 1,
+              "fallos": 0,
+              "acierto": 100.0,
+              "intervalo_confianza_95_acierto": [
+                20.65,
+                100.0
+              ],
+              "brier": 0.0987,
+              "log_loss": 0.3772,
               "muestras_con_brier": 1,
               "muestras_con_log_loss": 1,
               "unidades_net": null,
@@ -4205,54 +5008,54 @@
               "apuestas_con_cuota": 0
             },
             "65-69%": {
-              "partidos": 1,
-              "aciertos": 0,
+              "partidos": 2,
+              "aciertos": 1,
               "fallos": 1,
-              "acierto": 0.0,
+              "acierto": 50.0,
               "intervalo_confianza_95_acierto": [
-                0.0,
-                79.35
+                9.45,
+                90.55
               ],
-              "brier": 0.4729,
-              "log_loss": 1.1638,
-              "muestras_con_brier": 1,
-              "muestras_con_log_loss": 1,
+              "brier": 0.2858,
+              "log_loss": 0.7705,
+              "muestras_con_brier": 2,
+              "muestras_con_log_loss": 2,
               "unidades_net": null,
               "roi_pct": null,
               "cuota_media": null,
               "apuestas_con_cuota": 0
             },
             "70-74%": {
-              "partidos": 13,
-              "aciertos": 11,
+              "partidos": 18,
+              "aciertos": 16,
               "fallos": 2,
-              "acierto": 84.62,
+              "acierto": 88.89,
               "intervalo_confianza_95_acierto": [
-                57.77,
-                95.67
+                67.2,
+                96.9
               ],
-              "brier": 0.1452,
-              "log_loss": 0.4715,
-              "muestras_con_brier": 13,
-              "muestras_con_log_loss": 13,
+              "brier": 0.1242,
+              "log_loss": 0.4255,
+              "muestras_con_brier": 18,
+              "muestras_con_log_loss": 18,
               "unidades_net": null,
               "roi_pct": null,
               "cuota_media": null,
               "apuestas_con_cuota": 0
             },
             "75-79%": {
-              "partidos": 8,
-              "aciertos": 6,
-              "fallos": 2,
-              "acierto": 75.0,
+              "partidos": 11,
+              "aciertos": 7,
+              "fallos": 4,
+              "acierto": 63.64,
               "intervalo_confianza_95_acierto": [
-                40.93,
-                92.85
+                35.38,
+                84.83
               ],
-              "brier": 0.1845,
-              "log_loss": 0.5534,
-              "muestras_con_brier": 8,
-              "muestras_con_log_loss": 8,
+              "brier": 0.2447,
+              "log_loss": 0.6877,
+              "muestras_con_brier": 11,
+              "muestras_con_log_loss": 11,
               "unidades_net": null,
               "roi_pct": null,
               "cuota_media": null,
@@ -4313,25 +5116,25 @@
         },
         "ambos_marcan": {
           "resumen": {
-            "partidos": 24,
-            "aciertos": 13,
-            "fallos": 11,
-            "acierto": 54.17,
+            "partidos": 33,
+            "aciertos": 19,
+            "fallos": 14,
+            "acierto": 57.58,
             "intervalo_confianza_95_acierto": [
-              35.07,
-              72.11
+              40.81,
+              72.76
             ],
-            "brier": 0.237,
-            "log_loss": 0.6615,
-            "muestras_con_brier": 24,
-            "muestras_con_log_loss": 24,
+            "brier": 0.2484,
+            "log_loss": 0.6942,
+            "muestras_con_brier": 33,
+            "muestras_con_log_loss": 33,
             "unidades_net": null,
             "roi_pct": null,
             "cuota_media": null,
             "apuestas_con_cuota": 0,
             "baseline_favorito_mercado": null,
             "baseline_favorito_partidos": 0,
-            "ece": 0.114967
+            "ece": 0.059185
           },
           "por_liga": {
             "AUSTRALIA - NPL QUEENSLAND U23 - PLAYOFFS - CUARTOS DE FINAL": {
@@ -4383,6 +5186,44 @@
               ],
               "brier": 0.479,
               "log_loss": 1.178,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
+            "BIELORRUSIA - PERSHAYA LIGA - JORNADA 22": {
+              "partidos": 1,
+              "aciertos": 1,
+              "fallos": 0,
+              "acierto": 100.0,
+              "intervalo_confianza_95_acierto": [
+                20.65,
+                100.0
+              ],
+              "brier": 0.0774,
+              "log_loss": 0.326,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
+            "BRASIL - MINEIRO SUB-20 - FASE DE GANADORES - JORNADA 7": {
+              "partidos": 1,
+              "aciertos": 0,
+              "fallos": 1,
+              "acierto": 0.0,
+              "intervalo_confianza_95_acierto": [
+                0.0,
+                79.35
+              ],
+              "brier": 0.3043,
+              "log_loss": 0.8021,
               "muestras_con_brier": 1,
               "muestras_con_log_loss": 1,
               "unidades_net": null,
@@ -4448,6 +5289,25 @@
               "apuestas_con_cuota": 0,
               "muestra_suficiente": false
             },
+            "EGIPTO - DIVISION 2 A - JORNADA 2": {
+              "partidos": 3,
+              "aciertos": 2,
+              "fallos": 1,
+              "acierto": 66.67,
+              "intervalo_confianza_95_acierto": [
+                20.77,
+                93.85
+              ],
+              "brier": 0.3794,
+              "log_loss": 1.0284,
+              "muestras_con_brier": 3,
+              "muestras_con_log_loss": 3,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
             "HONG KONG - PREMIER LEAGUE - JORNADA 2": {
               "partidos": 1,
               "aciertos": 0,
@@ -4486,7 +5346,7 @@
               "apuestas_con_cuota": 0,
               "muestra_suficiente": false
             },
-            "MALASIA - SUPER LIGA - JORNADA 2": {
+            "LITUANIA - I LYGA - JORNADA 22": {
               "partidos": 1,
               "aciertos": 1,
               "fallos": 0,
@@ -4495,10 +5355,29 @@
                 20.65,
                 100.0
               ],
-              "brier": 0.2234,
-              "log_loss": 0.6398,
+              "brier": 0.1221,
+              "log_loss": 0.4299,
               "muestras_con_brier": 1,
               "muestras_con_log_loss": 1,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
+            "MALASIA - SUPER LIGA - JORNADA 2": {
+              "partidos": 2,
+              "aciertos": 1,
+              "fallos": 1,
+              "acierto": 50.0,
+              "intervalo_confianza_95_acierto": [
+                9.45,
+                90.55
+              ],
+              "brier": 0.4233,
+              "log_loss": 1.0988,
+              "muestras_con_brier": 2,
+              "muestras_con_log_loss": 2,
               "unidades_net": null,
               "roi_pct": null,
               "cuota_media": null,
@@ -4573,6 +5452,44 @@
               ],
               "brier": 0.0419,
               "log_loss": 0.2289,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
+            "POLONIA - III LIGA - GRUPO III - JORNADA 6": {
+              "partidos": 1,
+              "aciertos": 1,
+              "fallos": 0,
+              "acierto": 100.0,
+              "intervalo_confianza_95_acierto": [
+                20.65,
+                100.0
+              ],
+              "brier": 0.0519,
+              "log_loss": 0.2585,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
+            "TANZANIA - LIGI KUU BARA - JORNADA 4": {
+              "partidos": 1,
+              "aciertos": 1,
+              "fallos": 0,
+              "acierto": 100.0,
+              "intervalo_confianza_95_acierto": [
+                20.65,
+                100.0
+              ],
+              "brier": 0.1905,
+              "log_loss": 0.5736,
               "muestras_con_brier": 1,
               "muestras_con_log_loss": 1,
               "unidades_net": null,
@@ -4767,36 +5684,36 @@
               "apuestas_con_cuota": 0
             },
             "50-54%": {
-              "partidos": 10,
-              "aciertos": 5,
+              "partidos": 12,
+              "aciertos": 7,
               "fallos": 5,
-              "acierto": 50.0,
+              "acierto": 58.33,
               "intervalo_confianza_95_acierto": [
-                23.66,
-                76.34
+                31.95,
+                80.67
               ],
-              "brier": 0.2497,
-              "log_loss": 0.6925,
-              "muestras_con_brier": 10,
-              "muestras_con_log_loss": 10,
+              "brier": 0.244,
+              "log_loss": 0.6812,
+              "muestras_con_brier": 12,
+              "muestras_con_log_loss": 12,
               "unidades_net": null,
               "roi_pct": null,
               "cuota_media": null,
               "apuestas_con_cuota": 0
             },
             "55-59%": {
-              "partidos": 2,
-              "aciertos": 0,
-              "fallos": 2,
-              "acierto": 0.0,
+              "partidos": 4,
+              "aciertos": 1,
+              "fallos": 3,
+              "acierto": 25.0,
               "intervalo_confianza_95_acierto": [
-                0.0,
-                65.76
+                4.56,
+                69.94
               ],
-              "brier": 0.3263,
-              "log_loss": 0.8469,
-              "muestras_con_brier": 2,
-              "muestras_con_log_loss": 2,
+              "brier": 0.2868,
+              "log_loss": 0.7674,
+              "muestras_con_brier": 4,
+              "muestras_con_log_loss": 4,
               "unidades_net": null,
               "roi_pct": null,
               "cuota_media": null,
@@ -4821,16 +5738,34 @@
               "apuestas_con_cuota": 0
             },
             "65-69%": {
-              "partidos": 5,
-              "aciertos": 2,
+              "partidos": 6,
+              "aciertos": 3,
               "fallos": 3,
-              "acierto": 40.0,
+              "acierto": 50.0,
               "intervalo_confianza_95_acierto": [
-                11.76,
-                76.93
+                18.76,
+                81.24
               ],
-              "brier": 0.3254,
-              "log_loss": 0.8538,
+              "brier": 0.2915,
+              "log_loss": 0.7832,
+              "muestras_con_brier": 6,
+              "muestras_con_log_loss": 6,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "70-74%": {
+              "partidos": 5,
+              "aciertos": 4,
+              "fallos": 1,
+              "acierto": 80.0,
+              "intervalo_confianza_95_acierto": [
+                37.55,
+                96.38
+              ],
+              "brier": 0.1615,
+              "log_loss": 0.5049,
               "muestras_con_brier": 5,
               "muestras_con_log_loss": 5,
               "unidades_net": null,
@@ -4838,50 +5773,37 @@
               "cuota_media": null,
               "apuestas_con_cuota": 0
             },
-            "70-74%": {
-              "partidos": 4,
-              "aciertos": 3,
-              "fallos": 1,
-              "acierto": 75.0,
-              "intervalo_confianza_95_acierto": [
-                30.06,
-                95.44
-              ],
-              "brier": 0.1825,
-              "log_loss": 0.5497,
-              "muestras_con_brier": 4,
-              "muestras_con_log_loss": 4,
-              "unidades_net": null,
-              "roi_pct": null,
-              "cuota_media": null,
-              "apuestas_con_cuota": 0
-            },
             "75-79%": {
-              "partidos": 1,
-              "aciertos": 1,
-              "fallos": 0,
-              "acierto": 100.0,
+              "partidos": 3,
+              "aciertos": 2,
+              "fallos": 1,
+              "acierto": 66.67,
               "intervalo_confianza_95_acierto": [
-                20.65,
-                100.0
+                20.77,
+                93.85
               ],
-              "brier": 0.0419,
-              "log_loss": 0.2289,
-              "muestras_con_brier": 1,
-              "muestras_con_log_loss": 1,
+              "brier": 0.239,
+              "log_loss": 0.6817,
+              "muestras_con_brier": 3,
+              "muestras_con_log_loss": 3,
               "unidades_net": null,
               "roi_pct": null,
               "cuota_media": null,
               "apuestas_con_cuota": 0
             },
             "80-84%": {
-              "partidos": 0,
+              "partidos": 1,
               "aciertos": 0,
-              "fallos": 0,
-              "acierto": null,
-              "intervalo_confianza_95_acierto": null,
-              "brier": null,
-              "log_loss": null,
+              "fallos": 1,
+              "acierto": 0.0,
+              "intervalo_confianza_95_acierto": [
+                0.0,
+                79.35
+              ],
+              "brier": 0.7064,
+              "log_loss": 1.8357,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
               "unidades_net": null,
               "roi_pct": null,
               "cuota_media": null,
@@ -4924,25 +5846,25 @@
         },
         "marcador_1": {
           "resumen": {
-            "partidos": 24,
+            "partidos": 33,
             "aciertos": 3,
-            "fallos": 21,
-            "acierto": 12.5,
+            "fallos": 30,
+            "acierto": 9.09,
             "intervalo_confianza_95_acierto": [
-              4.34,
-              31.0
+              3.14,
+              23.57
             ],
-            "brier": 0.1169,
-            "log_loss": 0.408,
-            "muestras_con_brier": 24,
-            "muestras_con_log_loss": 24,
+            "brier": 0.0926,
+            "log_loss": 0.3402,
+            "muestras_con_brier": 33,
+            "muestras_con_log_loss": 33,
             "unidades_net": null,
             "roi_pct": null,
             "cuota_media": null,
             "apuestas_con_cuota": 0,
             "baseline_favorito_mercado": null,
             "baseline_favorito_partidos": 0,
-            "ece": 0.128021
+            "ece": 0.111685
           },
           "por_liga": {
             "AUSTRALIA - NPL QUEENSLAND U23 - PLAYOFFS - CUARTOS DE FINAL": {
@@ -4994,6 +5916,44 @@
               ],
               "brier": 0.0082,
               "log_loss": 0.0952,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
+            "BIELORRUSIA - PERSHAYA LIGA - JORNADA 22": {
+              "partidos": 1,
+              "aciertos": 0,
+              "fallos": 1,
+              "acierto": 0.0,
+              "intervalo_confianza_95_acierto": [
+                0.0,
+                79.35
+              ],
+              "brier": 0.0085,
+              "log_loss": 0.0965,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
+            "BRASIL - MINEIRO SUB-20 - FASE DE GANADORES - JORNADA 7": {
+              "partidos": 1,
+              "aciertos": 0,
+              "fallos": 1,
+              "acierto": 0.0,
+              "intervalo_confianza_95_acierto": [
+                0.0,
+                79.35
+              ],
+              "brier": 0.0183,
+              "log_loss": 0.1453,
               "muestras_con_brier": 1,
               "muestras_con_log_loss": 1,
               "unidades_net": null,
@@ -5059,6 +6019,25 @@
               "apuestas_con_cuota": 0,
               "muestra_suficiente": false
             },
+            "EGIPTO - DIVISION 2 A - JORNADA 2": {
+              "partidos": 3,
+              "aciertos": 0,
+              "fallos": 3,
+              "acierto": 0.0,
+              "intervalo_confianza_95_acierto": [
+                0.0,
+                56.15
+              ],
+              "brier": 0.0604,
+              "log_loss": 0.26,
+              "muestras_con_brier": 3,
+              "muestras_con_log_loss": 3,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
             "HONG KONG - PREMIER LEAGUE - JORNADA 2": {
               "partidos": 1,
               "aciertos": 0,
@@ -5097,7 +6076,7 @@
               "apuestas_con_cuota": 0,
               "muestra_suficiente": false
             },
-            "MALASIA - SUPER LIGA - JORNADA 2": {
+            "LITUANIA - I LYGA - JORNADA 22": {
               "partidos": 1,
               "aciertos": 0,
               "fallos": 1,
@@ -5106,10 +6085,29 @@
                 0.0,
                 79.35
               ],
-              "brier": 0.0201,
-              "log_loss": 0.1528,
+              "brier": 0.0091,
+              "log_loss": 0.1004,
               "muestras_con_brier": 1,
               "muestras_con_log_loss": 1,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
+            "MALASIA - SUPER LIGA - JORNADA 2": {
+              "partidos": 2,
+              "aciertos": 0,
+              "fallos": 2,
+              "acierto": 0.0,
+              "intervalo_confianza_95_acierto": [
+                0.0,
+                65.76
+              ],
+              "brier": 0.0126,
+              "log_loss": 0.1134,
+              "muestras_con_brier": 2,
+              "muestras_con_log_loss": 2,
               "unidades_net": null,
               "roi_pct": null,
               "cuota_media": null,
@@ -5184,6 +6182,44 @@
               ],
               "brier": 0.005,
               "log_loss": 0.0732,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
+            "POLONIA - III LIGA - GRUPO III - JORNADA 6": {
+              "partidos": 1,
+              "aciertos": 0,
+              "fallos": 1,
+              "acierto": 0.0,
+              "intervalo_confianza_95_acierto": [
+                0.0,
+                79.35
+              ],
+              "brier": 0.0055,
+              "log_loss": 0.0773,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
+            "TANZANIA - LIGI KUU BARA - JORNADA 4": {
+              "partidos": 1,
+              "aciertos": 0,
+              "fallos": 1,
+              "acierto": 0.0,
+              "intervalo_confianza_95_acierto": [
+                0.0,
+                79.35
+              ],
+              "brier": 0.0221,
+              "log_loss": 0.1608,
               "muestras_con_brier": 1,
               "muestras_con_log_loss": 1,
               "unidades_net": null,
@@ -5365,18 +6401,18 @@
           },
           "por_probabilidad": {
             "<50%": {
-              "partidos": 24,
+              "partidos": 33,
               "aciertos": 3,
-              "fallos": 21,
-              "acierto": 12.5,
+              "fallos": 30,
+              "acierto": 9.09,
               "intervalo_confianza_95_acierto": [
-                4.34,
-                31.0
+                3.14,
+                23.57
               ],
-              "brier": 0.1169,
-              "log_loss": 0.408,
-              "muestras_con_brier": 24,
-              "muestras_con_log_loss": 24,
+              "brier": 0.0926,
+              "log_loss": 0.3402,
+              "muestras_con_brier": 33,
+              "muestras_con_log_loss": 33,
               "unidades_net": null,
               "roi_pct": null,
               "cuota_media": null,
@@ -5505,25 +6541,25 @@
         },
         "marcador_2": {
           "resumen": {
-            "partidos": 24,
-            "aciertos": 0,
-            "fallos": 24,
-            "acierto": 0.0,
+            "partidos": 33,
+            "aciertos": 1,
+            "fallos": 32,
+            "acierto": 3.03,
             "intervalo_confianza_95_acierto": [
-              0.0,
-              13.8
+              0.54,
+              15.32
             ],
-            "brier": 0.0109,
-            "log_loss": 0.107,
-            "muestras_con_brier": 24,
-            "muestras_con_log_loss": 24,
+            "brier": 0.0376,
+            "log_loss": 0.187,
+            "muestras_con_brier": 33,
+            "muestras_con_log_loss": 33,
             "unidades_net": null,
             "roi_pct": null,
             "cuota_media": null,
             "apuestas_con_cuota": 0,
             "baseline_favorito_mercado": null,
             "baseline_favorito_partidos": 0,
-            "ece": 0.101008
+            "ece": 0.073221
           },
           "por_liga": {
             "AUSTRALIA - NPL QUEENSLAND U23 - PLAYOFFS - CUARTOS DE FINAL": {
@@ -5575,6 +6611,44 @@
               ],
               "brier": 0.0076,
               "log_loss": 0.0911,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
+            "BIELORRUSIA - PERSHAYA LIGA - JORNADA 22": {
+              "partidos": 1,
+              "aciertos": 0,
+              "fallos": 1,
+              "acierto": 0.0,
+              "intervalo_confianza_95_acierto": [
+                0.0,
+                79.35
+              ],
+              "brier": 0.0062,
+              "log_loss": 0.0823,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
+            "BRASIL - MINEIRO SUB-20 - FASE DE GANADORES - JORNADA 7": {
+              "partidos": 1,
+              "aciertos": 0,
+              "fallos": 1,
+              "acierto": 0.0,
+              "intervalo_confianza_95_acierto": [
+                0.0,
+                79.35
+              ],
+              "brier": 0.0077,
+              "log_loss": 0.0921,
               "muestras_con_brier": 1,
               "muestras_con_log_loss": 1,
               "unidades_net": null,
@@ -5640,6 +6714,25 @@
               "apuestas_con_cuota": 0,
               "muestra_suficiente": false
             },
+            "EGIPTO - DIVISION 2 A - JORNADA 2": {
+              "partidos": 3,
+              "aciertos": 0,
+              "fallos": 3,
+              "acierto": 0.0,
+              "intervalo_confianza_95_acierto": [
+                0.0,
+                56.15
+              ],
+              "brier": 0.0245,
+              "log_loss": 0.164,
+              "muestras_con_brier": 3,
+              "muestras_con_log_loss": 3,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
             "HONG KONG - PREMIER LEAGUE - JORNADA 2": {
               "partidos": 1,
               "aciertos": 0,
@@ -5678,7 +6771,7 @@
               "apuestas_con_cuota": 0,
               "muestra_suficiente": false
             },
-            "MALASIA - SUPER LIGA - JORNADA 2": {
+            "LITUANIA - I LYGA - JORNADA 22": {
               "partidos": 1,
               "aciertos": 0,
               "fallos": 1,
@@ -5687,10 +6780,29 @@
                 0.0,
                 79.35
               ],
-              "brier": 0.0144,
-              "log_loss": 0.1276,
+              "brier": 0.0091,
+              "log_loss": 0.1003,
               "muestras_con_brier": 1,
               "muestras_con_log_loss": 1,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
+            "MALASIA - SUPER LIGA - JORNADA 2": {
+              "partidos": 2,
+              "aciertos": 0,
+              "fallos": 2,
+              "acierto": 0.0,
+              "intervalo_confianza_95_acierto": [
+                0.0,
+                65.76
+              ],
+              "brier": 0.0097,
+              "log_loss": 0.1005,
+              "muestras_con_brier": 2,
+              "muestras_con_log_loss": 2,
               "unidades_net": null,
               "roi_pct": null,
               "cuota_media": null,
@@ -5765,6 +6877,44 @@
               ],
               "brier": 0.0045,
               "log_loss": 0.0695,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
+            "POLONIA - III LIGA - GRUPO III - JORNADA 6": {
+              "partidos": 1,
+              "aciertos": 1,
+              "fallos": 0,
+              "acierto": 100.0,
+              "intervalo_confianza_95_acierto": [
+                20.65,
+                100.0
+              ],
+              "brier": 0.8593,
+              "log_loss": 2.6173,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
+            "TANZANIA - LIGI KUU BARA - JORNADA 4": {
+              "partidos": 1,
+              "aciertos": 0,
+              "fallos": 1,
+              "acierto": 0.0,
+              "intervalo_confianza_95_acierto": [
+                0.0,
+                79.35
+              ],
+              "brier": 0.0184,
+              "log_loss": 0.1458,
               "muestras_con_brier": 1,
               "muestras_con_log_loss": 1,
               "unidades_net": null,
@@ -5946,18 +7096,18 @@
           },
           "por_probabilidad": {
             "<50%": {
-              "partidos": 24,
-              "aciertos": 0,
-              "fallos": 24,
-              "acierto": 0.0,
+              "partidos": 33,
+              "aciertos": 1,
+              "fallos": 32,
+              "acierto": 3.03,
               "intervalo_confianza_95_acierto": [
-                0.0,
-                13.8
+                0.54,
+                15.32
               ],
-              "brier": 0.0109,
-              "log_loss": 0.107,
-              "muestras_con_brier": 24,
-              "muestras_con_log_loss": 24,
+              "brier": 0.0376,
+              "log_loss": 0.187,
+              "muestras_con_brier": 33,
+              "muestras_con_log_loss": 33,
               "unidades_net": null,
               "roi_pct": null,
               "cuota_media": null,
@@ -6090,25 +7240,25 @@
       "mercados": {
         "directa_1x2": {
           "resumen": {
-            "partidos": 24,
-            "aciertos": 13,
-            "fallos": 11,
-            "acierto": 54.17,
+            "partidos": 33,
+            "aciertos": 14,
+            "fallos": 19,
+            "acierto": 42.42,
             "intervalo_confianza_95_acierto": [
-              35.07,
-              72.11
+              27.24,
+              59.19
             ],
-            "brier": 0.9167,
-            "log_loss": 12.6642,
-            "muestras_con_brier": 24,
-            "muestras_con_log_loss": 24,
-            "unidades_net": 3.05,
-            "roi_pct": 12.71,
-            "cuota_media": 2.392,
-            "apuestas_con_cuota": 24,
-            "baseline_favorito_mercado": 66.67,
-            "baseline_favorito_partidos": 24,
-            "ece": 0.183512
+            "brier": 1.1515,
+            "log_loss": 15.9088,
+            "muestras_con_brier": 33,
+            "muestras_con_log_loss": 33,
+            "unidades_net": -4.2,
+            "roi_pct": -12.73,
+            "cuota_media": 2.516,
+            "apuestas_con_cuota": 33,
+            "baseline_favorito_mercado": 60.61,
+            "baseline_favorito_partidos": 33,
+            "ece": 0.103488
           },
           "por_liga": {
             "AUSTRALIA - NPL QUEENSLAND U23 - PLAYOFFS - CUARTOS DE FINAL": {
@@ -6165,6 +7315,44 @@
               "unidades_net": -1.0,
               "roi_pct": -100.0,
               "cuota_media": 2.95,
+              "apuestas_con_cuota": 1,
+              "muestra_suficiente": false
+            },
+            "BIELORRUSIA - PERSHAYA LIGA - JORNADA 22": {
+              "partidos": 1,
+              "aciertos": 0,
+              "fallos": 1,
+              "acierto": 0.0,
+              "intervalo_confianza_95_acierto": [
+                0.0,
+                79.35
+              ],
+              "brier": 2.0,
+              "log_loss": 27.631,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": -1.0,
+              "roi_pct": -100.0,
+              "cuota_media": 3.25,
+              "apuestas_con_cuota": 1,
+              "muestra_suficiente": false
+            },
+            "BRASIL - MINEIRO SUB-20 - FASE DE GANADORES - JORNADA 7": {
+              "partidos": 1,
+              "aciertos": 0,
+              "fallos": 1,
+              "acierto": 0.0,
+              "intervalo_confianza_95_acierto": [
+                0.0,
+                79.35
+              ],
+              "brier": 2.0,
+              "log_loss": 27.631,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": -1.0,
+              "roi_pct": -100.0,
+              "cuota_media": 2.47,
               "apuestas_con_cuota": 1,
               "muestra_suficiente": false
             },
@@ -6225,6 +7413,25 @@
               "apuestas_con_cuota": 2,
               "muestra_suficiente": false
             },
+            "EGIPTO - DIVISION 2 A - JORNADA 2": {
+              "partidos": 3,
+              "aciertos": 0,
+              "fallos": 3,
+              "acierto": 0.0,
+              "intervalo_confianza_95_acierto": [
+                0.0,
+                56.15
+              ],
+              "brier": 2.0,
+              "log_loss": 27.631,
+              "muestras_con_brier": 3,
+              "muestras_con_log_loss": 3,
+              "unidades_net": -3.0,
+              "roi_pct": -100.0,
+              "cuota_media": 3.5,
+              "apuestas_con_cuota": 3,
+              "muestra_suficiente": false
+            },
             "HONG KONG - PREMIER LEAGUE - JORNADA 2": {
               "partidos": 1,
               "aciertos": 1,
@@ -6263,23 +7470,42 @@
               "apuestas_con_cuota": 3,
               "muestra_suficiente": false
             },
-            "MALASIA - SUPER LIGA - JORNADA 2": {
+            "LITUANIA - I LYGA - JORNADA 22": {
               "partidos": 1,
-              "aciertos": 1,
+              "aciertos": 0,
+              "fallos": 1,
+              "acierto": 0.0,
+              "intervalo_confianza_95_acierto": [
+                0.0,
+                79.35
+              ],
+              "brier": 2.0,
+              "log_loss": 27.631,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": -1.0,
+              "roi_pct": -100.0,
+              "cuota_media": 1.85,
+              "apuestas_con_cuota": 1,
+              "muestra_suficiente": false
+            },
+            "MALASIA - SUPER LIGA - JORNADA 2": {
+              "partidos": 2,
+              "aciertos": 2,
               "fallos": 0,
               "acierto": 100.0,
               "intervalo_confianza_95_acierto": [
-                20.65,
+                34.24,
                 100.0
               ],
               "brier": 0.0,
               "log_loss": 0.0,
-              "muestras_con_brier": 1,
-              "muestras_con_log_loss": 1,
-              "unidades_net": 0.95,
-              "roi_pct": 95.0,
-              "cuota_media": 1.95,
-              "apuestas_con_cuota": 1,
+              "muestras_con_brier": 2,
+              "muestras_con_log_loss": 2,
+              "unidades_net": 1.7,
+              "roi_pct": 85.0,
+              "cuota_media": 1.85,
+              "apuestas_con_cuota": 2,
               "muestra_suficiente": false
             },
             "MUNDIAL - AMISTOSOS DE CLUBS": {
@@ -6355,6 +7581,44 @@
               "unidades_net": 0.6,
               "roi_pct": 60.0,
               "cuota_media": 1.6,
+              "apuestas_con_cuota": 1,
+              "muestra_suficiente": false
+            },
+            "POLONIA - III LIGA - GRUPO III - JORNADA 6": {
+              "partidos": 1,
+              "aciertos": 0,
+              "fallos": 1,
+              "acierto": 0.0,
+              "intervalo_confianza_95_acierto": [
+                0.0,
+                79.35
+              ],
+              "brier": 2.0,
+              "log_loss": 27.631,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": -1.0,
+              "roi_pct": -100.0,
+              "cuota_media": 3.55,
+              "apuestas_con_cuota": 1,
+              "muestra_suficiente": false
+            },
+            "TANZANIA - LIGI KUU BARA - JORNADA 4": {
+              "partidos": 1,
+              "aciertos": 0,
+              "fallos": 1,
+              "acierto": 0.0,
+              "intervalo_confianza_95_acierto": [
+                0.0,
+                79.35
+              ],
+              "brier": 2.0,
+              "log_loss": 27.631,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": -1.0,
+              "roi_pct": -100.0,
+              "cuota_media": 2.25,
               "apuestas_con_cuota": 1,
               "muestra_suficiente": false
             },
@@ -6435,168 +7699,168 @@
               "apuestas_con_cuota": 3
             },
             "1.70-1.89": {
-              "partidos": 1,
-              "aciertos": 1,
-              "fallos": 0,
-              "acierto": 100.0,
+              "partidos": 3,
+              "aciertos": 2,
+              "fallos": 1,
+              "acierto": 66.67,
               "intervalo_confianza_95_acierto": [
-                20.65,
-                100.0
+                20.77,
+                93.85
               ],
-              "brier": 0.0,
-              "log_loss": 0.0,
-              "muestras_con_brier": 1,
-              "muestras_con_log_loss": 1,
-              "unidades_net": 0.77,
-              "roi_pct": 77.0,
-              "cuota_media": 1.77,
-              "apuestas_con_cuota": 1
+              "brier": 0.6667,
+              "log_loss": 9.2103,
+              "muestras_con_brier": 3,
+              "muestras_con_log_loss": 3,
+              "unidades_net": 0.52,
+              "roi_pct": 17.33,
+              "cuota_media": 1.79,
+              "apuestas_con_cuota": 3
             },
             "1.90-2.09": {
-              "partidos": 2,
+              "partidos": 3,
               "aciertos": 2,
-              "fallos": 0,
-              "acierto": 100.0,
+              "fallos": 1,
+              "acierto": 66.67,
               "intervalo_confianza_95_acierto": [
-                34.24,
-                100.0
+                20.77,
+                93.85
               ],
-              "brier": 0.0,
-              "log_loss": 0.0,
-              "muestras_con_brier": 2,
-              "muestras_con_log_loss": 2,
-              "unidades_net": 1.95,
-              "roi_pct": 97.5,
-              "cuota_media": 1.975,
-              "apuestas_con_cuota": 2
+              "brier": 0.6667,
+              "log_loss": 9.2103,
+              "muestras_con_brier": 3,
+              "muestras_con_log_loss": 3,
+              "unidades_net": 0.95,
+              "roi_pct": 31.67,
+              "cuota_media": 1.967,
+              "apuestas_con_cuota": 3
             },
             "2.10-2.29": {
-              "partidos": 4,
+              "partidos": 5,
               "aciertos": 2,
-              "fallos": 2,
+              "fallos": 3,
+              "acierto": 40.0,
+              "intervalo_confianza_95_acierto": [
+                11.76,
+                76.93
+              ],
+              "brier": 1.2,
+              "log_loss": 16.5786,
+              "muestras_con_brier": 5,
+              "muestras_con_log_loss": 5,
+              "unidades_net": -0.65,
+              "roi_pct": -13.0,
+              "cuota_media": 2.21,
+              "apuestas_con_cuota": 5
+            },
+            "2.30-2.49": {
+              "partidos": 2,
+              "aciertos": 1,
+              "fallos": 1,
               "acierto": 50.0,
               "intervalo_confianza_95_acierto": [
-                15.0,
-                85.0
+                9.45,
+                90.55
               ],
               "brier": 1.0,
               "log_loss": 13.8155,
-              "muestras_con_brier": 4,
-              "muestras_con_log_loss": 4,
-              "unidades_net": 0.35,
-              "roi_pct": 8.75,
-              "cuota_media": 2.2,
-              "apuestas_con_cuota": 4
-            },
-            "2.30-2.49": {
-              "partidos": 1,
-              "aciertos": 1,
-              "fallos": 0,
-              "acierto": 100.0,
-              "intervalo_confianza_95_acierto": [
-                20.65,
-                100.0
-              ],
-              "brier": 0.0,
-              "log_loss": 0.0,
-              "muestras_con_brier": 1,
-              "muestras_con_log_loss": 1,
-              "unidades_net": 1.38,
-              "roi_pct": 138.0,
-              "cuota_media": 2.38,
-              "apuestas_con_cuota": 1
+              "muestras_con_brier": 2,
+              "muestras_con_log_loss": 2,
+              "unidades_net": 0.38,
+              "roi_pct": 19.0,
+              "cuota_media": 2.425,
+              "apuestas_con_cuota": 2
             },
             "2.50-2.99": {
-              "partidos": 5,
+              "partidos": 6,
               "aciertos": 1,
-              "fallos": 4,
-              "acierto": 20.0,
+              "fallos": 5,
+              "acierto": 16.67,
               "intervalo_confianza_95_acierto": [
-                3.62,
-                62.45
+                3.01,
+                56.35
               ],
-              "brier": 1.6,
-              "log_loss": 22.1048,
-              "muestras_con_brier": 5,
-              "muestras_con_log_loss": 5,
-              "unidades_net": -2.37,
-              "roi_pct": -47.4,
-              "cuota_media": 2.784,
-              "apuestas_con_cuota": 5
+              "brier": 1.6667,
+              "log_loss": 23.0259,
+              "muestras_con_brier": 6,
+              "muestras_con_log_loss": 6,
+              "unidades_net": -3.37,
+              "roi_pct": -56.17,
+              "cuota_media": 2.787,
+              "apuestas_con_cuota": 6
             },
             "3.00-3.49": {
-              "partidos": 3,
+              "partidos": 4,
               "aciertos": 1,
-              "fallos": 2,
-              "acierto": 33.33,
+              "fallos": 3,
+              "acierto": 25.0,
               "intervalo_confianza_95_acierto": [
-                6.15,
-                79.23
+                4.56,
+                69.94
               ],
-              "brier": 1.3333,
-              "log_loss": 18.4207,
-              "muestras_con_brier": 3,
-              "muestras_con_log_loss": 3,
-              "unidades_net": 0.0,
-              "roi_pct": 0.0,
+              "brier": 1.5,
+              "log_loss": 20.7233,
+              "muestras_con_brier": 4,
+              "muestras_con_log_loss": 4,
+              "unidades_net": -1.0,
+              "roi_pct": -25.0,
               "cuota_media": 3.25,
-              "apuestas_con_cuota": 3
+              "apuestas_con_cuota": 4
             },
             "3.50-3.69": {
-              "partidos": 1,
+              "partidos": 2,
               "aciertos": 1,
-              "fallos": 0,
-              "acierto": 100.0,
+              "fallos": 1,
+              "acierto": 50.0,
               "intervalo_confianza_95_acierto": [
-                20.65,
-                100.0
+                9.45,
+                90.55
               ],
-              "brier": 0.0,
-              "log_loss": 0.0,
-              "muestras_con_brier": 1,
-              "muestras_con_log_loss": 1,
-              "unidades_net": 2.65,
-              "roi_pct": 265.0,
-              "cuota_media": 3.65,
-              "apuestas_con_cuota": 1
+              "brier": 1.0,
+              "log_loss": 13.8155,
+              "muestras_con_brier": 2,
+              "muestras_con_log_loss": 2,
+              "unidades_net": 1.65,
+              "roi_pct": 82.5,
+              "cuota_media": 3.6,
+              "apuestas_con_cuota": 2
             },
             "3.70+": {
-              "partidos": 1,
+              "partidos": 2,
               "aciertos": 0,
-              "fallos": 1,
+              "fallos": 2,
               "acierto": 0.0,
               "intervalo_confianza_95_acierto": [
                 0.0,
-                79.35
+                65.76
               ],
               "brier": 2.0,
               "log_loss": 27.631,
-              "muestras_con_brier": 1,
-              "muestras_con_log_loss": 1,
-              "unidades_net": -1.0,
+              "muestras_con_brier": 2,
+              "muestras_con_log_loss": 2,
+              "unidades_net": -2.0,
               "roi_pct": -100.0,
-              "cuota_media": 4.6,
-              "apuestas_con_cuota": 1
+              "cuota_media": 5.175,
+              "apuestas_con_cuota": 2
             }
           },
           "por_probabilidad": {
             "<50%": {
-              "partidos": 17,
-              "aciertos": 10,
-              "fallos": 7,
-              "acierto": 58.82,
+              "partidos": 25,
+              "aciertos": 11,
+              "fallos": 14,
+              "acierto": 44.0,
               "intervalo_confianza_95_acierto": [
-                36.01,
-                78.39
+                26.67,
+                62.93
               ],
-              "brier": 0.8235,
-              "log_loss": 11.3775,
-              "muestras_con_brier": 17,
-              "muestras_con_log_loss": 17,
-              "unidades_net": 4.68,
-              "roi_pct": 27.53,
-              "cuota_media": 2.461,
-              "apuestas_con_cuota": 17
+              "brier": 1.12,
+              "log_loss": 15.4734,
+              "muestras_con_brier": 25,
+              "muestras_con_log_loss": 25,
+              "unidades_net": -1.57,
+              "roi_pct": -6.28,
+              "cuota_media": 2.624,
+              "apuestas_con_cuota": 25
             },
             "50-54%": {
               "partidos": 3,
@@ -6617,22 +7881,22 @@
               "apuestas_con_cuota": 3
             },
             "55-59%": {
-              "partidos": 3,
+              "partidos": 4,
               "aciertos": 1,
-              "fallos": 2,
-              "acierto": 33.33,
+              "fallos": 3,
+              "acierto": 25.0,
               "intervalo_confianza_95_acierto": [
-                6.15,
-                79.23
+                4.56,
+                69.94
               ],
-              "brier": 1.3333,
-              "log_loss": 18.4207,
-              "muestras_con_brier": 3,
-              "muestras_con_log_loss": 3,
-              "unidades_net": -0.37,
-              "roi_pct": -12.33,
-              "cuota_media": 2.993,
-              "apuestas_con_cuota": 3
+              "brier": 1.5,
+              "log_loss": 20.7233,
+              "muestras_con_brier": 4,
+              "muestras_con_log_loss": 4,
+              "unidades_net": -1.37,
+              "roi_pct": -34.25,
+              "cuota_media": 2.708,
+              "apuestas_con_cuota": 4
             },
             "60-64%": {
               "partidos": 1,
@@ -6736,25 +8000,25 @@
         },
         "doble_oportunidad": {
           "resumen": {
-            "partidos": 24,
-            "aciertos": 19,
-            "fallos": 5,
-            "acierto": 79.17,
+            "partidos": 33,
+            "aciertos": 26,
+            "fallos": 7,
+            "acierto": 78.79,
             "intervalo_confianza_95_acierto": [
-              59.53,
-              90.76
+              62.25,
+              89.32
             ],
-            "brier": 0.1623,
-            "log_loss": 0.5038,
-            "muestras_con_brier": 24,
-            "muestras_con_log_loss": 24,
+            "brier": 0.1684,
+            "log_loss": 0.5193,
+            "muestras_con_brier": 33,
+            "muestras_con_log_loss": 33,
             "unidades_net": null,
             "roi_pct": null,
             "cuota_media": null,
             "apuestas_con_cuota": 0,
             "baseline_favorito_mercado": null,
             "baseline_favorito_partidos": 0,
-            "ece": 0.096054
+            "ece": 0.061115
           },
           "por_liga": {
             "AUSTRALIA - NPL QUEENSLAND U23 - PLAYOFFS - CUARTOS DE FINAL": {
@@ -6806,6 +8070,44 @@
               ],
               "brier": 0.0626,
               "log_loss": 0.2878,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
+            "BIELORRUSIA - PERSHAYA LIGA - JORNADA 22": {
+              "partidos": 1,
+              "aciertos": 1,
+              "fallos": 0,
+              "acierto": 100.0,
+              "intervalo_confianza_95_acierto": [
+                20.65,
+                100.0
+              ],
+              "brier": 0.0643,
+              "log_loss": 0.2924,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
+            "BRASIL - MINEIRO SUB-20 - FASE DE GANADORES - JORNADA 7": {
+              "partidos": 1,
+              "aciertos": 1,
+              "fallos": 0,
+              "acierto": 100.0,
+              "intervalo_confianza_95_acierto": [
+                20.65,
+                100.0
+              ],
+              "brier": 0.0769,
+              "log_loss": 0.3248,
               "muestras_con_brier": 1,
               "muestras_con_log_loss": 1,
               "unidades_net": null,
@@ -6871,6 +8173,25 @@
               "apuestas_con_cuota": 0,
               "muestra_suficiente": false
             },
+            "EGIPTO - DIVISION 2 A - JORNADA 2": {
+              "partidos": 3,
+              "aciertos": 3,
+              "fallos": 0,
+              "acierto": 100.0,
+              "intervalo_confianza_95_acierto": [
+                43.85,
+                100.0
+              ],
+              "brier": 0.0689,
+              "log_loss": 0.3043,
+              "muestras_con_brier": 3,
+              "muestras_con_log_loss": 3,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
             "HONG KONG - PREMIER LEAGUE - JORNADA 2": {
               "partidos": 1,
               "aciertos": 1,
@@ -6909,19 +8230,38 @@
               "apuestas_con_cuota": 0,
               "muestra_suficiente": false
             },
-            "MALASIA - SUPER LIGA - JORNADA 2": {
+            "LITUANIA - I LYGA - JORNADA 22": {
               "partidos": 1,
-              "aciertos": 1,
+              "aciertos": 0,
+              "fallos": 1,
+              "acierto": 0.0,
+              "intervalo_confianza_95_acierto": [
+                0.0,
+                79.35
+              ],
+              "brier": 0.5946,
+              "log_loss": 1.4745,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
+            "MALASIA - SUPER LIGA - JORNADA 2": {
+              "partidos": 2,
+              "aciertos": 2,
               "fallos": 0,
               "acierto": 100.0,
               "intervalo_confianza_95_acierto": [
-                20.65,
+                34.24,
                 100.0
               ],
-              "brier": 0.0726,
-              "log_loss": 0.3139,
-              "muestras_con_brier": 1,
-              "muestras_con_log_loss": 1,
+              "brier": 0.0633,
+              "log_loss": 0.2893,
+              "muestras_con_brier": 2,
+              "muestras_con_log_loss": 2,
               "unidades_net": null,
               "roi_pct": null,
               "cuota_media": null,
@@ -6996,6 +8336,44 @@
               ],
               "brier": 0.0419,
               "log_loss": 0.2289,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
+            "POLONIA - III LIGA - GRUPO III - JORNADA 6": {
+              "partidos": 1,
+              "aciertos": 0,
+              "fallos": 1,
+              "acierto": 0.0,
+              "intervalo_confianza_95_acierto": [
+                0.0,
+                79.35
+              ],
+              "brier": 0.5672,
+              "log_loss": 1.3988,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
+            "TANZANIA - LIGI KUU BARA - JORNADA 4": {
+              "partidos": 1,
+              "aciertos": 1,
+              "fallos": 0,
+              "acierto": 100.0,
+              "intervalo_confianza_95_acierto": [
+                20.65,
+                100.0
+              ],
+              "brier": 0.0987,
+              "log_loss": 0.3772,
               "muestras_con_brier": 1,
               "muestras_con_log_loss": 1,
               "unidades_net": null,
@@ -7229,54 +8607,54 @@
               "apuestas_con_cuota": 0
             },
             "65-69%": {
-              "partidos": 1,
-              "aciertos": 0,
+              "partidos": 2,
+              "aciertos": 1,
               "fallos": 1,
-              "acierto": 0.0,
+              "acierto": 50.0,
               "intervalo_confianza_95_acierto": [
-                0.0,
-                79.35
+                9.45,
+                90.55
               ],
-              "brier": 0.4729,
-              "log_loss": 1.1638,
-              "muestras_con_brier": 1,
-              "muestras_con_log_loss": 1,
+              "brier": 0.2858,
+              "log_loss": 0.7705,
+              "muestras_con_brier": 2,
+              "muestras_con_log_loss": 2,
               "unidades_net": null,
               "roi_pct": null,
               "cuota_media": null,
               "apuestas_con_cuota": 0
             },
             "70-74%": {
-              "partidos": 13,
-              "aciertos": 11,
+              "partidos": 18,
+              "aciertos": 16,
               "fallos": 2,
-              "acierto": 84.62,
+              "acierto": 88.89,
               "intervalo_confianza_95_acierto": [
-                57.77,
-                95.67
+                67.2,
+                96.9
               ],
-              "brier": 0.1452,
-              "log_loss": 0.4715,
-              "muestras_con_brier": 13,
-              "muestras_con_log_loss": 13,
+              "brier": 0.1242,
+              "log_loss": 0.4255,
+              "muestras_con_brier": 18,
+              "muestras_con_log_loss": 18,
               "unidades_net": null,
               "roi_pct": null,
               "cuota_media": null,
               "apuestas_con_cuota": 0
             },
             "75-79%": {
-              "partidos": 8,
-              "aciertos": 6,
-              "fallos": 2,
-              "acierto": 75.0,
+              "partidos": 11,
+              "aciertos": 7,
+              "fallos": 4,
+              "acierto": 63.64,
               "intervalo_confianza_95_acierto": [
-                40.93,
-                92.85
+                35.38,
+                84.83
               ],
-              "brier": 0.1845,
-              "log_loss": 0.5534,
-              "muestras_con_brier": 8,
-              "muestras_con_log_loss": 8,
+              "brier": 0.2447,
+              "log_loss": 0.6877,
+              "muestras_con_brier": 11,
+              "muestras_con_log_loss": 11,
               "unidades_net": null,
               "roi_pct": null,
               "cuota_media": null,
@@ -7337,25 +8715,25 @@
         },
         "ambos_marcan": {
           "resumen": {
-            "partidos": 24,
-            "aciertos": 13,
-            "fallos": 11,
-            "acierto": 54.17,
+            "partidos": 33,
+            "aciertos": 19,
+            "fallos": 14,
+            "acierto": 57.58,
             "intervalo_confianza_95_acierto": [
-              35.07,
-              72.11
+              40.81,
+              72.76
             ],
-            "brier": 0.237,
-            "log_loss": 0.6615,
-            "muestras_con_brier": 24,
-            "muestras_con_log_loss": 24,
+            "brier": 0.2484,
+            "log_loss": 0.6942,
+            "muestras_con_brier": 33,
+            "muestras_con_log_loss": 33,
             "unidades_net": null,
             "roi_pct": null,
             "cuota_media": null,
             "apuestas_con_cuota": 0,
             "baseline_favorito_mercado": null,
             "baseline_favorito_partidos": 0,
-            "ece": 0.114967
+            "ece": 0.059185
           },
           "por_liga": {
             "AUSTRALIA - NPL QUEENSLAND U23 - PLAYOFFS - CUARTOS DE FINAL": {
@@ -7407,6 +8785,44 @@
               ],
               "brier": 0.479,
               "log_loss": 1.178,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
+            "BIELORRUSIA - PERSHAYA LIGA - JORNADA 22": {
+              "partidos": 1,
+              "aciertos": 1,
+              "fallos": 0,
+              "acierto": 100.0,
+              "intervalo_confianza_95_acierto": [
+                20.65,
+                100.0
+              ],
+              "brier": 0.0774,
+              "log_loss": 0.326,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
+            "BRASIL - MINEIRO SUB-20 - FASE DE GANADORES - JORNADA 7": {
+              "partidos": 1,
+              "aciertos": 0,
+              "fallos": 1,
+              "acierto": 0.0,
+              "intervalo_confianza_95_acierto": [
+                0.0,
+                79.35
+              ],
+              "brier": 0.3043,
+              "log_loss": 0.8021,
               "muestras_con_brier": 1,
               "muestras_con_log_loss": 1,
               "unidades_net": null,
@@ -7472,6 +8888,25 @@
               "apuestas_con_cuota": 0,
               "muestra_suficiente": false
             },
+            "EGIPTO - DIVISION 2 A - JORNADA 2": {
+              "partidos": 3,
+              "aciertos": 2,
+              "fallos": 1,
+              "acierto": 66.67,
+              "intervalo_confianza_95_acierto": [
+                20.77,
+                93.85
+              ],
+              "brier": 0.3794,
+              "log_loss": 1.0284,
+              "muestras_con_brier": 3,
+              "muestras_con_log_loss": 3,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
             "HONG KONG - PREMIER LEAGUE - JORNADA 2": {
               "partidos": 1,
               "aciertos": 0,
@@ -7510,7 +8945,7 @@
               "apuestas_con_cuota": 0,
               "muestra_suficiente": false
             },
-            "MALASIA - SUPER LIGA - JORNADA 2": {
+            "LITUANIA - I LYGA - JORNADA 22": {
               "partidos": 1,
               "aciertos": 1,
               "fallos": 0,
@@ -7519,10 +8954,29 @@
                 20.65,
                 100.0
               ],
-              "brier": 0.2234,
-              "log_loss": 0.6398,
+              "brier": 0.1221,
+              "log_loss": 0.4299,
               "muestras_con_brier": 1,
               "muestras_con_log_loss": 1,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
+            "MALASIA - SUPER LIGA - JORNADA 2": {
+              "partidos": 2,
+              "aciertos": 1,
+              "fallos": 1,
+              "acierto": 50.0,
+              "intervalo_confianza_95_acierto": [
+                9.45,
+                90.55
+              ],
+              "brier": 0.4233,
+              "log_loss": 1.0988,
+              "muestras_con_brier": 2,
+              "muestras_con_log_loss": 2,
               "unidades_net": null,
               "roi_pct": null,
               "cuota_media": null,
@@ -7597,6 +9051,44 @@
               ],
               "brier": 0.0419,
               "log_loss": 0.2289,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
+            "POLONIA - III LIGA - GRUPO III - JORNADA 6": {
+              "partidos": 1,
+              "aciertos": 1,
+              "fallos": 0,
+              "acierto": 100.0,
+              "intervalo_confianza_95_acierto": [
+                20.65,
+                100.0
+              ],
+              "brier": 0.0519,
+              "log_loss": 0.2585,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
+            "TANZANIA - LIGI KUU BARA - JORNADA 4": {
+              "partidos": 1,
+              "aciertos": 1,
+              "fallos": 0,
+              "acierto": 100.0,
+              "intervalo_confianza_95_acierto": [
+                20.65,
+                100.0
+              ],
+              "brier": 0.1905,
+              "log_loss": 0.5736,
               "muestras_con_brier": 1,
               "muestras_con_log_loss": 1,
               "unidades_net": null,
@@ -7791,36 +9283,36 @@
               "apuestas_con_cuota": 0
             },
             "50-54%": {
-              "partidos": 10,
-              "aciertos": 5,
+              "partidos": 12,
+              "aciertos": 7,
               "fallos": 5,
-              "acierto": 50.0,
+              "acierto": 58.33,
               "intervalo_confianza_95_acierto": [
-                23.66,
-                76.34
+                31.95,
+                80.67
               ],
-              "brier": 0.2497,
-              "log_loss": 0.6925,
-              "muestras_con_brier": 10,
-              "muestras_con_log_loss": 10,
+              "brier": 0.244,
+              "log_loss": 0.6812,
+              "muestras_con_brier": 12,
+              "muestras_con_log_loss": 12,
               "unidades_net": null,
               "roi_pct": null,
               "cuota_media": null,
               "apuestas_con_cuota": 0
             },
             "55-59%": {
-              "partidos": 2,
-              "aciertos": 0,
-              "fallos": 2,
-              "acierto": 0.0,
+              "partidos": 4,
+              "aciertos": 1,
+              "fallos": 3,
+              "acierto": 25.0,
               "intervalo_confianza_95_acierto": [
-                0.0,
-                65.76
+                4.56,
+                69.94
               ],
-              "brier": 0.3263,
-              "log_loss": 0.8469,
-              "muestras_con_brier": 2,
-              "muestras_con_log_loss": 2,
+              "brier": 0.2868,
+              "log_loss": 0.7674,
+              "muestras_con_brier": 4,
+              "muestras_con_log_loss": 4,
               "unidades_net": null,
               "roi_pct": null,
               "cuota_media": null,
@@ -7845,16 +9337,34 @@
               "apuestas_con_cuota": 0
             },
             "65-69%": {
-              "partidos": 5,
-              "aciertos": 2,
+              "partidos": 6,
+              "aciertos": 3,
               "fallos": 3,
-              "acierto": 40.0,
+              "acierto": 50.0,
               "intervalo_confianza_95_acierto": [
-                11.76,
-                76.93
+                18.76,
+                81.24
               ],
-              "brier": 0.3254,
-              "log_loss": 0.8538,
+              "brier": 0.2915,
+              "log_loss": 0.7832,
+              "muestras_con_brier": 6,
+              "muestras_con_log_loss": 6,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "70-74%": {
+              "partidos": 5,
+              "aciertos": 4,
+              "fallos": 1,
+              "acierto": 80.0,
+              "intervalo_confianza_95_acierto": [
+                37.55,
+                96.38
+              ],
+              "brier": 0.1615,
+              "log_loss": 0.5049,
               "muestras_con_brier": 5,
               "muestras_con_log_loss": 5,
               "unidades_net": null,
@@ -7862,50 +9372,37 @@
               "cuota_media": null,
               "apuestas_con_cuota": 0
             },
-            "70-74%": {
-              "partidos": 4,
-              "aciertos": 3,
-              "fallos": 1,
-              "acierto": 75.0,
-              "intervalo_confianza_95_acierto": [
-                30.06,
-                95.44
-              ],
-              "brier": 0.1825,
-              "log_loss": 0.5497,
-              "muestras_con_brier": 4,
-              "muestras_con_log_loss": 4,
-              "unidades_net": null,
-              "roi_pct": null,
-              "cuota_media": null,
-              "apuestas_con_cuota": 0
-            },
             "75-79%": {
-              "partidos": 1,
-              "aciertos": 1,
-              "fallos": 0,
-              "acierto": 100.0,
+              "partidos": 3,
+              "aciertos": 2,
+              "fallos": 1,
+              "acierto": 66.67,
               "intervalo_confianza_95_acierto": [
-                20.65,
-                100.0
+                20.77,
+                93.85
               ],
-              "brier": 0.0419,
-              "log_loss": 0.2289,
-              "muestras_con_brier": 1,
-              "muestras_con_log_loss": 1,
+              "brier": 0.239,
+              "log_loss": 0.6817,
+              "muestras_con_brier": 3,
+              "muestras_con_log_loss": 3,
               "unidades_net": null,
               "roi_pct": null,
               "cuota_media": null,
               "apuestas_con_cuota": 0
             },
             "80-84%": {
-              "partidos": 0,
+              "partidos": 1,
               "aciertos": 0,
-              "fallos": 0,
-              "acierto": null,
-              "intervalo_confianza_95_acierto": null,
-              "brier": null,
-              "log_loss": null,
+              "fallos": 1,
+              "acierto": 0.0,
+              "intervalo_confianza_95_acierto": [
+                0.0,
+                79.35
+              ],
+              "brier": 0.7064,
+              "log_loss": 1.8357,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
               "unidades_net": null,
               "roi_pct": null,
               "cuota_media": null,
@@ -7948,25 +9445,25 @@
         },
         "marcador_1": {
           "resumen": {
-            "partidos": 24,
+            "partidos": 33,
             "aciertos": 3,
-            "fallos": 21,
-            "acierto": 12.5,
+            "fallos": 30,
+            "acierto": 9.09,
             "intervalo_confianza_95_acierto": [
-              4.34,
-              31.0
+              3.14,
+              23.57
             ],
-            "brier": 0.1169,
-            "log_loss": 0.408,
-            "muestras_con_brier": 24,
-            "muestras_con_log_loss": 24,
+            "brier": 0.0926,
+            "log_loss": 0.3402,
+            "muestras_con_brier": 33,
+            "muestras_con_log_loss": 33,
             "unidades_net": null,
             "roi_pct": null,
             "cuota_media": null,
             "apuestas_con_cuota": 0,
             "baseline_favorito_mercado": null,
             "baseline_favorito_partidos": 0,
-            "ece": 0.128021
+            "ece": 0.111685
           },
           "por_liga": {
             "AUSTRALIA - NPL QUEENSLAND U23 - PLAYOFFS - CUARTOS DE FINAL": {
@@ -8018,6 +9515,44 @@
               ],
               "brier": 0.0082,
               "log_loss": 0.0952,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
+            "BIELORRUSIA - PERSHAYA LIGA - JORNADA 22": {
+              "partidos": 1,
+              "aciertos": 0,
+              "fallos": 1,
+              "acierto": 0.0,
+              "intervalo_confianza_95_acierto": [
+                0.0,
+                79.35
+              ],
+              "brier": 0.0085,
+              "log_loss": 0.0965,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
+            "BRASIL - MINEIRO SUB-20 - FASE DE GANADORES - JORNADA 7": {
+              "partidos": 1,
+              "aciertos": 0,
+              "fallos": 1,
+              "acierto": 0.0,
+              "intervalo_confianza_95_acierto": [
+                0.0,
+                79.35
+              ],
+              "brier": 0.0183,
+              "log_loss": 0.1453,
               "muestras_con_brier": 1,
               "muestras_con_log_loss": 1,
               "unidades_net": null,
@@ -8083,6 +9618,25 @@
               "apuestas_con_cuota": 0,
               "muestra_suficiente": false
             },
+            "EGIPTO - DIVISION 2 A - JORNADA 2": {
+              "partidos": 3,
+              "aciertos": 0,
+              "fallos": 3,
+              "acierto": 0.0,
+              "intervalo_confianza_95_acierto": [
+                0.0,
+                56.15
+              ],
+              "brier": 0.0604,
+              "log_loss": 0.26,
+              "muestras_con_brier": 3,
+              "muestras_con_log_loss": 3,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
             "HONG KONG - PREMIER LEAGUE - JORNADA 2": {
               "partidos": 1,
               "aciertos": 0,
@@ -8121,7 +9675,7 @@
               "apuestas_con_cuota": 0,
               "muestra_suficiente": false
             },
-            "MALASIA - SUPER LIGA - JORNADA 2": {
+            "LITUANIA - I LYGA - JORNADA 22": {
               "partidos": 1,
               "aciertos": 0,
               "fallos": 1,
@@ -8130,10 +9684,29 @@
                 0.0,
                 79.35
               ],
-              "brier": 0.0201,
-              "log_loss": 0.1528,
+              "brier": 0.0091,
+              "log_loss": 0.1004,
               "muestras_con_brier": 1,
               "muestras_con_log_loss": 1,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
+            "MALASIA - SUPER LIGA - JORNADA 2": {
+              "partidos": 2,
+              "aciertos": 0,
+              "fallos": 2,
+              "acierto": 0.0,
+              "intervalo_confianza_95_acierto": [
+                0.0,
+                65.76
+              ],
+              "brier": 0.0126,
+              "log_loss": 0.1134,
+              "muestras_con_brier": 2,
+              "muestras_con_log_loss": 2,
               "unidades_net": null,
               "roi_pct": null,
               "cuota_media": null,
@@ -8208,6 +9781,44 @@
               ],
               "brier": 0.005,
               "log_loss": 0.0732,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
+            "POLONIA - III LIGA - GRUPO III - JORNADA 6": {
+              "partidos": 1,
+              "aciertos": 0,
+              "fallos": 1,
+              "acierto": 0.0,
+              "intervalo_confianza_95_acierto": [
+                0.0,
+                79.35
+              ],
+              "brier": 0.0055,
+              "log_loss": 0.0773,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
+            "TANZANIA - LIGI KUU BARA - JORNADA 4": {
+              "partidos": 1,
+              "aciertos": 0,
+              "fallos": 1,
+              "acierto": 0.0,
+              "intervalo_confianza_95_acierto": [
+                0.0,
+                79.35
+              ],
+              "brier": 0.0221,
+              "log_loss": 0.1608,
               "muestras_con_brier": 1,
               "muestras_con_log_loss": 1,
               "unidades_net": null,
@@ -8389,18 +10000,18 @@
           },
           "por_probabilidad": {
             "<50%": {
-              "partidos": 24,
+              "partidos": 33,
               "aciertos": 3,
-              "fallos": 21,
-              "acierto": 12.5,
+              "fallos": 30,
+              "acierto": 9.09,
               "intervalo_confianza_95_acierto": [
-                4.34,
-                31.0
+                3.14,
+                23.57
               ],
-              "brier": 0.1169,
-              "log_loss": 0.408,
-              "muestras_con_brier": 24,
-              "muestras_con_log_loss": 24,
+              "brier": 0.0926,
+              "log_loss": 0.3402,
+              "muestras_con_brier": 33,
+              "muestras_con_log_loss": 33,
               "unidades_net": null,
               "roi_pct": null,
               "cuota_media": null,
@@ -8529,25 +10140,25 @@
         },
         "marcador_2": {
           "resumen": {
-            "partidos": 24,
-            "aciertos": 0,
-            "fallos": 24,
-            "acierto": 0.0,
+            "partidos": 33,
+            "aciertos": 1,
+            "fallos": 32,
+            "acierto": 3.03,
             "intervalo_confianza_95_acierto": [
-              0.0,
-              13.8
+              0.54,
+              15.32
             ],
-            "brier": 0.0109,
-            "log_loss": 0.107,
-            "muestras_con_brier": 24,
-            "muestras_con_log_loss": 24,
+            "brier": 0.0376,
+            "log_loss": 0.187,
+            "muestras_con_brier": 33,
+            "muestras_con_log_loss": 33,
             "unidades_net": null,
             "roi_pct": null,
             "cuota_media": null,
             "apuestas_con_cuota": 0,
             "baseline_favorito_mercado": null,
             "baseline_favorito_partidos": 0,
-            "ece": 0.101008
+            "ece": 0.073221
           },
           "por_liga": {
             "AUSTRALIA - NPL QUEENSLAND U23 - PLAYOFFS - CUARTOS DE FINAL": {
@@ -8599,6 +10210,44 @@
               ],
               "brier": 0.0076,
               "log_loss": 0.0911,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
+            "BIELORRUSIA - PERSHAYA LIGA - JORNADA 22": {
+              "partidos": 1,
+              "aciertos": 0,
+              "fallos": 1,
+              "acierto": 0.0,
+              "intervalo_confianza_95_acierto": [
+                0.0,
+                79.35
+              ],
+              "brier": 0.0062,
+              "log_loss": 0.0823,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
+            "BRASIL - MINEIRO SUB-20 - FASE DE GANADORES - JORNADA 7": {
+              "partidos": 1,
+              "aciertos": 0,
+              "fallos": 1,
+              "acierto": 0.0,
+              "intervalo_confianza_95_acierto": [
+                0.0,
+                79.35
+              ],
+              "brier": 0.0077,
+              "log_loss": 0.0921,
               "muestras_con_brier": 1,
               "muestras_con_log_loss": 1,
               "unidades_net": null,
@@ -8664,6 +10313,25 @@
               "apuestas_con_cuota": 0,
               "muestra_suficiente": false
             },
+            "EGIPTO - DIVISION 2 A - JORNADA 2": {
+              "partidos": 3,
+              "aciertos": 0,
+              "fallos": 3,
+              "acierto": 0.0,
+              "intervalo_confianza_95_acierto": [
+                0.0,
+                56.15
+              ],
+              "brier": 0.0245,
+              "log_loss": 0.164,
+              "muestras_con_brier": 3,
+              "muestras_con_log_loss": 3,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
             "HONG KONG - PREMIER LEAGUE - JORNADA 2": {
               "partidos": 1,
               "aciertos": 0,
@@ -8702,7 +10370,7 @@
               "apuestas_con_cuota": 0,
               "muestra_suficiente": false
             },
-            "MALASIA - SUPER LIGA - JORNADA 2": {
+            "LITUANIA - I LYGA - JORNADA 22": {
               "partidos": 1,
               "aciertos": 0,
               "fallos": 1,
@@ -8711,10 +10379,29 @@
                 0.0,
                 79.35
               ],
-              "brier": 0.0144,
-              "log_loss": 0.1276,
+              "brier": 0.0091,
+              "log_loss": 0.1003,
               "muestras_con_brier": 1,
               "muestras_con_log_loss": 1,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
+            "MALASIA - SUPER LIGA - JORNADA 2": {
+              "partidos": 2,
+              "aciertos": 0,
+              "fallos": 2,
+              "acierto": 0.0,
+              "intervalo_confianza_95_acierto": [
+                0.0,
+                65.76
+              ],
+              "brier": 0.0097,
+              "log_loss": 0.1005,
+              "muestras_con_brier": 2,
+              "muestras_con_log_loss": 2,
               "unidades_net": null,
               "roi_pct": null,
               "cuota_media": null,
@@ -8789,6 +10476,44 @@
               ],
               "brier": 0.0045,
               "log_loss": 0.0695,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
+            "POLONIA - III LIGA - GRUPO III - JORNADA 6": {
+              "partidos": 1,
+              "aciertos": 1,
+              "fallos": 0,
+              "acierto": 100.0,
+              "intervalo_confianza_95_acierto": [
+                20.65,
+                100.0
+              ],
+              "brier": 0.8593,
+              "log_loss": 2.6173,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
+            "TANZANIA - LIGI KUU BARA - JORNADA 4": {
+              "partidos": 1,
+              "aciertos": 0,
+              "fallos": 1,
+              "acierto": 0.0,
+              "intervalo_confianza_95_acierto": [
+                0.0,
+                79.35
+              ],
+              "brier": 0.0184,
+              "log_loss": 0.1458,
               "muestras_con_brier": 1,
               "muestras_con_log_loss": 1,
               "unidades_net": null,
@@ -8970,18 +10695,18 @@
           },
           "por_probabilidad": {
             "<50%": {
-              "partidos": 24,
-              "aciertos": 0,
-              "fallos": 24,
-              "acierto": 0.0,
+              "partidos": 33,
+              "aciertos": 1,
+              "fallos": 32,
+              "acierto": 3.03,
               "intervalo_confianza_95_acierto": [
-                0.0,
-                13.8
+                0.54,
+                15.32
               ],
-              "brier": 0.0109,
-              "log_loss": 0.107,
-              "muestras_con_brier": 24,
-              "muestras_con_log_loss": 24,
+              "brier": 0.0376,
+              "log_loss": 0.187,
+              "muestras_con_brier": 33,
+              "muestras_con_log_loss": 33,
               "unidades_net": null,
               "roi_pct": null,
               "cuota_media": null,
@@ -9114,21 +10839,21 @@
   "comparativo": [
     {
       "categoria": "IA_PARTIDOS",
-      "partidos": 24,
-      "aciertos": 14,
-      "acierto": 58.33
+      "partidos": 33,
+      "aciertos": 17,
+      "acierto": 51.52
     },
     {
       "categoria": "PREMIUM",
-      "partidos": 24,
-      "aciertos": 12,
-      "acierto": 50.0
+      "partidos": 33,
+      "aciertos": 14,
+      "acierto": 42.42
     },
     {
       "categoria": "SELECT",
-      "partidos": 24,
-      "aciertos": 13,
-      "acierto": 54.17
+      "partidos": 33,
+      "aciertos": 14,
+      "acierto": 42.42
     }
   ]
 }
