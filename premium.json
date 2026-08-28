@@ -1,6 +1,6 @@
 {
     "fecha_generacion": "2026-08-28",
-    "cantidad": 77,
+    "cantidad": 80,
     "partidos": [
         {
             "fecha": "2026-08-28",
@@ -1763,6 +1763,75 @@
             "probabilidad_nofavorito": 16.03,
             "marcador_1": "2-1",
             "marcador_2": "3-1",
+            "ultimo_resultado_favorito": "W",
+            "ultimo_resultado_nofavorito": "L",
+            "condiciones": {
+                "favorito_mayor_55": true,
+                "favorito_gano_ultimo": true,
+                "marcadores_confirman_favorito": true,
+                "nofavorito_perdio_ultimo": true
+            },
+            "premium": true
+        },
+        {
+            "fecha": "2026-08-29",
+            "hora": "09:00",
+            "local": "Pollok",
+            "visitante": "Beith",
+            "logolocal": "https://static.flashscore.com/res/image/data/GhT9dQfM-4xn6WmUQ.png",
+            "logovisitante": "https://static.flashscore.com/res/image/data/KxRtBewS-l8rgZkJu.png",
+            "favorito": "Pollok",
+            "probabilidad_favorito": 65.08,
+            "nofavorito": "Beith",
+            "probabilidad_nofavorito": 18.5,
+            "marcador_1": "2-1",
+            "marcador_2": "3-1",
+            "ultimo_resultado_favorito": "W",
+            "ultimo_resultado_nofavorito": "L",
+            "condiciones": {
+                "favorito_mayor_55": true,
+                "favorito_gano_ultimo": true,
+                "marcadores_confirman_favorito": true,
+                "nofavorito_perdio_ultimo": true
+            },
+            "premium": true
+        },
+        {
+            "fecha": "2026-08-29",
+            "hora": "09:00",
+            "local": "PEPO",
+            "visitante": "PPJ",
+            "logolocal": "https://static.flashscore.com/res/image/data/vwpyQ0zB-pfj9k3UB.png",
+            "logovisitante": "https://static.flashscore.com/res/image/data/Gj9Q6CEa-Qg7PhtG2.png",
+            "favorito": "PEPO",
+            "probabilidad_favorito": 61.22,
+            "nofavorito": "PPJ",
+            "probabilidad_nofavorito": 21.14,
+            "marcador_1": "2-1",
+            "marcador_2": "3-1",
+            "ultimo_resultado_favorito": "W",
+            "ultimo_resultado_nofavorito": "L",
+            "condiciones": {
+                "favorito_mayor_55": true,
+                "favorito_gano_ultimo": true,
+                "marcadores_confirman_favorito": true,
+                "nofavorito_perdio_ultimo": true
+            },
+            "premium": true
+        },
+        {
+            "fecha": "2026-08-29",
+            "hora": "08:00",
+            "local": "Huima / Urho",
+            "visitante": "VPS 2",
+            "logolocal": "https://static.flashscore.com/res/image/data/IRlMTCCa-Yq6vbosf.png",
+            "logovisitante": "https://static.flashscore.com/res/image/data/YsnAdWFG-rJXIO86a.png",
+            "favorito": "Huima / Urho",
+            "probabilidad_favorito": 69.48,
+            "nofavorito": "VPS 2",
+            "probabilidad_nofavorito": 17.16,
+            "marcador_1": "3-1",
+            "marcador_2": "3-2",
             "ultimo_resultado_favorito": "W",
             "ultimo_resultado_nofavorito": "L",
             "condiciones": {
