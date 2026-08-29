@@ -1,6 +1,6 @@
 {
     "fecha_generacion": "2026-08-28",
-    "cantidad": 39,
+    "cantidad": 34,
     "partidos": [
         {
             "fecha": "2026-08-29",
@@ -17,6 +17,15 @@
             "marcador_2": "2-0",
             "ultimo_resultado_favorito": "W",
             "ultimo_resultado_nofavorito": "L",
+            "cuota_favorito": 1.26,
+            "ultimo_enfrentamiento": {
+                "fecha": "30.10.24",
+                "local": "Juventus",
+                "visitante": "Parma",
+                "goles_local": "2",
+                "goles_visitante": "2"
+            },
+            "ambos_marcan_probabilidad": 36.95,
             "condiciones": {
                 "favorito_mayor_45": true,
                 "favorito_gano_ultimo": true,
@@ -41,6 +50,15 @@
             "marcador_2": "1-3",
             "ultimo_resultado_favorito": "W",
             "ultimo_resultado_nofavorito": "L",
+            "cuota_favorito": 2.65,
+            "ultimo_enfrentamiento": {
+                "fecha": "30.04.10",
+                "local": "Heidenheim",
+                "visitante": "Dynamo Dresden",
+                "goles_local": "3",
+                "goles_visitante": "0"
+            },
+            "ambos_marcan_probabilidad": 82.89,
             "condiciones": {
                 "favorito_mayor_45": true,
                 "favorito_gano_ultimo": true,
@@ -65,6 +83,15 @@
             "marcador_2": "2-1",
             "ultimo_resultado_favorito": "W",
             "ultimo_resultado_nofavorito": "L",
+            "cuota_favorito": 1.29,
+            "ultimo_enfrentamiento": {
+                "fecha": "15.04.26",
+                "local": "Tigers FC",
+                "visitante": "Canberra Juventus",
+                "goles_local": "2",
+                "goles_visitante": "3"
+            },
+            "ambos_marcan_probabilidad": 75.7,
             "condiciones": {
                 "favorito_mayor_45": true,
                 "favorito_gano_ultimo": true,
@@ -89,6 +116,15 @@
             "marcador_2": "3-1",
             "ultimo_resultado_favorito": "W",
             "ultimo_resultado_nofavorito": "L",
+            "cuota_favorito": 2.15,
+            "ultimo_enfrentamiento": {
+                "fecha": "28.06.25",
+                "local": "Canterbury Bankstown",
+                "visitante": "Macarthur Rams",
+                "goles_local": "0",
+                "goles_visitante": "1"
+            },
+            "ambos_marcan_probabilidad": 75.66,
             "condiciones": {
                 "favorito_mayor_45": true,
                 "favorito_gano_ultimo": true,
@@ -113,6 +149,15 @@
             "marcador_2": "3-1",
             "ultimo_resultado_favorito": "W",
             "ultimo_resultado_nofavorito": "L",
+            "cuota_favorito": 1.4,
+            "ultimo_enfrentamiento": {
+                "fecha": "28.03.25",
+                "local": "Altach",
+                "visitante": "LASK",
+                "goles_local": "0",
+                "goles_visitante": "2"
+            },
+            "ambos_marcan_probabilidad": 73.89,
             "condiciones": {
                 "favorito_mayor_45": true,
                 "favorito_gano_ultimo": true,
@@ -137,6 +182,15 @@
             "marcador_2": "1-3",
             "ultimo_resultado_favorito": "W",
             "ultimo_resultado_nofavorito": "L",
+            "cuota_favorito": 2.3,
+            "ultimo_enfrentamiento": {
+                "fecha": "31.08.25",
+                "local": "Leuven",
+                "visitante": "St. Lieja",
+                "goles_local": "1",
+                "goles_visitante": "0"
+            },
+            "ambos_marcan_probabilidad": 76.51,
             "condiciones": {
                 "favorito_mayor_45": true,
                 "favorito_gano_ultimo": true,
@@ -161,6 +215,15 @@
             "marcador_2": "3-0",
             "ultimo_resultado_favorito": "W",
             "ultimo_resultado_nofavorito": "L",
+            "cuota_favorito": 1.57,
+            "ultimo_enfrentamiento": {
+                "fecha": "28.08.22",
+                "local": "FA 2000",
+                "visitante": "VSK Aarhus",
+                "goles_local": "4",
+                "goles_visitante": "1"
+            },
+            "ambos_marcan_probabilidad": 51.25,
             "condiciones": {
                 "favorito_mayor_45": true,
                 "favorito_gano_ultimo": true,
@@ -185,6 +248,15 @@
             "marcador_2": "2-0",
             "ultimo_resultado_favorito": "W",
             "ultimo_resultado_nofavorito": "L",
+            "cuota_favorito": 2.1,
+            "ultimo_enfrentamiento": {
+                "fecha": "29.01.22",
+                "local": "Kelty Hearts",
+                "visitante": "Stranraer",
+                "goles_local": "3",
+                "goles_visitante": "2"
+            },
+            "ambos_marcan_probabilidad": 40.41,
             "condiciones": {
                 "favorito_mayor_45": true,
                 "favorito_gano_ultimo": true,
@@ -209,6 +281,9 @@
             "marcador_2": "3-1",
             "ultimo_resultado_favorito": "W",
             "ultimo_resultado_nofavorito": "L",
+            "cuota_favorito": 1.75,
+            "ultimo_enfrentamiento": false,
+            "ambos_marcan_probabilidad": 74.66,
             "condiciones": {
                 "favorito_mayor_45": true,
                 "favorito_gano_ultimo": true,
@@ -233,6 +308,15 @@
             "marcador_2": "3-1",
             "ultimo_resultado_favorito": "W",
             "ultimo_resultado_nofavorito": "L",
+            "cuota_favorito": 1.5,
+            "ultimo_enfrentamiento": {
+                "fecha": "27.07.24",
+                "local": "PPJ",
+                "visitante": "PEPO",
+                "goles_local": "1",
+                "goles_visitante": "1"
+            },
+            "ambos_marcan_probabilidad": 72.37,
             "condiciones": {
                 "favorito_mayor_45": true,
                 "favorito_gano_ultimo": true,
@@ -257,6 +341,15 @@
             "marcador_2": "3-2",
             "ultimo_resultado_favorito": "W",
             "ultimo_resultado_nofavorito": "L",
+            "cuota_favorito": 1.5,
+            "ultimo_enfrentamiento": {
+                "fecha": "25.04.26",
+                "local": "Huima / Urho",
+                "visitante": "VPS 2",
+                "goles_local": "4",
+                "goles_visitante": "4"
+            },
+            "ambos_marcan_probabilidad": 83.33,
             "condiciones": {
                 "favorito_mayor_45": true,
                 "favorito_gano_ultimo": true,
@@ -281,6 +374,15 @@
             "marcador_2": "1-0",
             "ultimo_resultado_favorito": "W",
             "ultimo_resultado_nofavorito": "L",
+            "cuota_favorito": 1.68,
+            "ultimo_enfrentamiento": {
+                "fecha": "26.04.26",
+                "local": "Southern District",
+                "visitante": "Kowloon City",
+                "goles_local": "3",
+                "goles_visitante": "1"
+            },
+            "ambos_marcan_probabilidad": 49.64,
             "condiciones": {
                 "favorito_mayor_45": true,
                 "favorito_gano_ultimo": true,
@@ -305,6 +407,15 @@
             "marcador_2": "2-0",
             "ultimo_resultado_favorito": "W",
             "ultimo_resultado_nofavorito": "L",
+            "cuota_favorito": 1.51,
+            "ultimo_enfrentamiento": {
+                "fecha": "31.10.09",
+                "local": "Stoke",
+                "visitante": "Wolves",
+                "goles_local": "2",
+                "goles_visitante": "2"
+            },
+            "ambos_marcan_probabilidad": 40.74,
             "condiciones": {
                 "favorito_mayor_45": true,
                 "favorito_gano_ultimo": true,
@@ -329,6 +440,15 @@
             "marcador_2": "2-0",
             "ultimo_resultado_favorito": "W",
             "ultimo_resultado_nofavorito": "L",
+            "cuota_favorito": 2.05,
+            "ultimo_enfrentamiento": {
+                "fecha": "15.11.25",
+                "local": "Horsham FC",
+                "visitante": "Farnham",
+                "goles_local": "2",
+                "goles_visitante": "0"
+            },
+            "ambos_marcan_probabilidad": 48.16,
             "condiciones": {
                 "favorito_mayor_45": true,
                 "favorito_gano_ultimo": true,
@@ -353,6 +473,15 @@
             "marcador_2": "3-2",
             "ultimo_resultado_favorito": "W",
             "ultimo_resultado_nofavorito": "L",
+            "cuota_favorito": 1.64,
+            "ultimo_enfrentamiento": {
+                "fecha": "30.01.10",
+                "local": "Salisbury",
+                "visitante": "Maidstone",
+                "goles_local": "2",
+                "goles_visitante": "0"
+            },
+            "ambos_marcan_probabilidad": 82.24,
             "condiciones": {
                 "favorito_mayor_45": true,
                 "favorito_gano_ultimo": true,
@@ -377,6 +506,15 @@
             "marcador_2": "1-0",
             "ultimo_resultado_favorito": "W",
             "ultimo_resultado_nofavorito": "L",
+            "cuota_favorito": 1.62,
+            "ultimo_enfrentamiento": {
+                "fecha": "26.04.25",
+                "local": "Bromsgrove",
+                "visitante": "Bishop's Stortford",
+                "goles_local": "2",
+                "goles_visitante": "3"
+            },
+            "ambos_marcan_probabilidad": 53.85,
             "condiciones": {
                 "favorito_mayor_45": true,
                 "favorito_gano_ultimo": true,
@@ -401,6 +539,15 @@
             "marcador_2": "2-1",
             "ultimo_resultado_favorito": "W",
             "ultimo_resultado_nofavorito": "L",
+            "cuota_favorito": 1.16,
+            "ultimo_enfrentamiento": {
+                "fecha": "31.07.25",
+                "local": "Breidablik F",
+                "visitante": "IBV Vestmannaeyjar F",
+                "goles_local": "3",
+                "goles_visitante": "2"
+            },
+            "ambos_marcan_probabilidad": 77.2,
             "condiciones": {
                 "favorito_mayor_45": true,
                 "favorito_gano_ultimo": true,
@@ -425,6 +572,15 @@
             "marcador_2": "4-1",
             "ultimo_resultado_favorito": "W",
             "ultimo_resultado_nofavorito": "L",
+            "cuota_favorito": 1.23,
+            "ultimo_enfrentamiento": {
+                "fecha": "31.08.24",
+                "local": "Sandur",
+                "visitante": "B36 Torshavn 2",
+                "goles_local": "3",
+                "goles_visitante": "1"
+            },
+            "ambos_marcan_probabilidad": 80.3,
             "condiciones": {
                 "favorito_mayor_45": true,
                 "favorito_gano_ultimo": true,
@@ -449,6 +605,15 @@
             "marcador_2": "2-0",
             "ultimo_resultado_favorito": "W",
             "ultimo_resultado_nofavorito": "L",
+            "cuota_favorito": 1.9,
+            "ultimo_enfrentamiento": {
+                "fecha": "19.04.15",
+                "local": "Ascoli",
+                "visitante": "Carrarese",
+                "goles_local": "3",
+                "goles_visitante": "2"
+            },
+            "ambos_marcan_probabilidad": 46.54,
             "condiciones": {
                 "favorito_mayor_45": true,
                 "favorito_gano_ultimo": true,
@@ -473,6 +638,15 @@
             "marcador_2": "1-2",
             "ultimo_resultado_favorito": "W",
             "ultimo_resultado_nofavorito": "L",
+            "cuota_favorito": 1.85,
+            "ultimo_enfrentamiento": {
+                "fecha": "29.04.26\nTras pen.",
+                "local": "Mito",
+                "visitante": "Machida",
+                "goles_local": "2\n(3)",
+                "goles_visitante": "2\n(4)"
+            },
+            "ambos_marcan_probabilidad": 57.09,
             "condiciones": {
                 "favorito_mayor_45": true,
                 "favorito_gano_ultimo": true,
@@ -497,6 +671,15 @@
             "marcador_2": "2-0",
             "ultimo_resultado_favorito": "W",
             "ultimo_resultado_nofavorito": "L",
+            "cuota_favorito": 2.4,
+            "ultimo_enfrentamiento": {
+                "fecha": "30.05.26\nTras pen.",
+                "local": "Tochigi City",
+                "visitante": "Iwata",
+                "goles_local": "3\n(3)",
+                "goles_visitante": "3\n(1)"
+            },
+            "ambos_marcan_probabilidad": 59.12,
             "condiciones": {
                 "favorito_mayor_45": true,
                 "favorito_gano_ultimo": true,
@@ -521,6 +704,15 @@
             "marcador_2": "0-2",
             "ultimo_resultado_favorito": "W",
             "ultimo_resultado_nofavorito": "L",
+            "cuota_favorito": 1.91,
+            "ultimo_enfrentamiento": {
+                "fecha": "29.05.22",
+                "local": "Kamatamare",
+                "visitante": "Kagoshima Utd",
+                "goles_local": "0",
+                "goles_visitante": "4"
+            },
+            "ambos_marcan_probabilidad": 45.64,
             "condiciones": {
                 "favorito_mayor_45": true,
                 "favorito_gano_ultimo": true,
@@ -545,6 +737,15 @@
             "marcador_2": "2-1",
             "ultimo_resultado_favorito": "W",
             "ultimo_resultado_nofavorito": "L",
+            "cuota_favorito": 1.57,
+            "ultimo_enfrentamiento": {
+                "fecha": "29.02.20",
+                "local": "De Treffers",
+                "visitante": "Rijnsburgse Boys",
+                "goles_local": "0",
+                "goles_visitante": "2"
+            },
+            "ambos_marcan_probabilidad": 74.04,
             "condiciones": {
                 "favorito_mayor_45": true,
                 "favorito_gano_ultimo": true,
@@ -569,6 +770,15 @@
             "marcador_2": "0-2",
             "ultimo_resultado_favorito": "W",
             "ultimo_resultado_nofavorito": "L",
+            "cuota_favorito": 3.2,
+            "ultimo_enfrentamiento": {
+                "fecha": "29.07.23",
+                "local": "Kromeriz",
+                "visitante": "Prostejov",
+                "goles_local": "3",
+                "goles_visitante": "0"
+            },
+            "ambos_marcan_probabilidad": 57.1,
             "condiciones": {
                 "favorito_mayor_45": true,
                 "favorito_gano_ultimo": true,
@@ -593,6 +803,15 @@
             "marcador_2": "3-1",
             "ultimo_resultado_favorito": "W",
             "ultimo_resultado_nofavorito": "L",
+            "cuota_favorito": 1.6,
+            "ultimo_enfrentamiento": {
+                "fecha": "26.08.20",
+                "local": "Chomutov",
+                "visitante": "Meteor Prague",
+                "goles_local": "2",
+                "goles_visitante": "1"
+            },
+            "ambos_marcan_probabilidad": 69.89,
             "condiciones": {
                 "favorito_mayor_45": true,
                 "favorito_gano_ultimo": true,
@@ -617,6 +836,15 @@
             "marcador_2": "2-0",
             "ultimo_resultado_favorito": "W",
             "ultimo_resultado_nofavorito": "L",
+            "cuota_favorito": 2.2,
+            "ultimo_enfrentamiento": {
+                "fecha": "23.05.26",
+                "local": "Orebro Syr.",
+                "visitante": "Fittja",
+                "goles_local": "1",
+                "goles_visitante": "0"
+            },
+            "ambos_marcan_probabilidad": 43.88,
             "condiciones": {
                 "favorito_mayor_45": true,
                 "favorito_gano_ultimo": true,
@@ -641,6 +869,15 @@
             "marcador_2": "3-0",
             "ultimo_resultado_favorito": "W",
             "ultimo_resultado_nofavorito": "L",
+            "cuota_favorito": 2.05,
+            "ultimo_enfrentamiento": {
+                "fecha": "30.01.26",
+                "local": "Lazio",
+                "visitante": "Genoa",
+                "goles_local": "3",
+                "goles_visitante": "2"
+            },
+            "ambos_marcan_probabilidad": 52.83,
             "condiciones": {
                 "favorito_mayor_45": true,
                 "favorito_gano_ultimo": true,
@@ -665,6 +902,15 @@
             "marcador_2": "3-1",
             "ultimo_resultado_favorito": "W",
             "ultimo_resultado_nofavorito": "L",
+            "cuota_favorito": 2.63,
+            "ultimo_enfrentamiento": {
+                "fecha": "30.10.10",
+                "local": "Rostock",
+                "visitante": "Saarbrücken",
+                "goles_local": "2",
+                "goles_visitante": "1"
+            },
+            "ambos_marcan_probabilidad": 85.04,
             "condiciones": {
                 "favorito_mayor_45": true,
                 "favorito_gano_ultimo": true,
@@ -689,6 +935,15 @@
             "marcador_2": "3-1",
             "ultimo_resultado_favorito": "W",
             "ultimo_resultado_nofavorito": "L",
+            "cuota_favorito": 1.95,
+            "ultimo_enfrentamiento": {
+                "fecha": "25.04.26",
+                "local": "RB Leipzig F",
+                "visitante": "Werder Bremen F",
+                "goles_local": "1",
+                "goles_visitante": "1"
+            },
+            "ambos_marcan_probabilidad": 74.06,
             "condiciones": {
                 "favorito_mayor_45": true,
                 "favorito_gano_ultimo": true,
@@ -713,6 +968,15 @@
             "marcador_2": "2-0",
             "ultimo_resultado_favorito": "W",
             "ultimo_resultado_nofavorito": "L",
+            "cuota_favorito": 1.36,
+            "ultimo_enfrentamiento": {
+                "fecha": "29.07.23",
+                "local": "Manningham United Blues",
+                "visitante": "Brunswick Juventus",
+                "goles_local": "4",
+                "goles_visitante": "3"
+            },
+            "ambos_marcan_probabilidad": 62.15,
             "condiciones": {
                 "favorito_mayor_45": true,
                 "favorito_gano_ultimo": true,
@@ -737,6 +1001,15 @@
             "marcador_2": "1-0",
             "ultimo_resultado_favorito": "W",
             "ultimo_resultado_nofavorito": "L",
+            "cuota_favorito": 1.5,
+            "ultimo_enfrentamiento": {
+                "fecha": "25.03.23",
+                "local": "Millonarios F",
+                "visitante": "Inter Palmira F",
+                "goles_local": "1",
+                "goles_visitante": "0"
+            },
+            "ambos_marcan_probabilidad": 44.13,
             "condiciones": {
                 "favorito_mayor_45": true,
                 "favorito_gano_ultimo": true,
@@ -761,6 +1034,9 @@
             "marcador_2": "2-0",
             "ultimo_resultado_favorito": "W",
             "ultimo_resultado_nofavorito": "L",
+            "cuota_favorito": 2.5,
+            "ultimo_enfrentamiento": false,
+            "ambos_marcan_probabilidad": 48.09,
             "condiciones": {
                 "favorito_mayor_45": true,
                 "favorito_gano_ultimo": true,
@@ -785,126 +1061,15 @@
             "marcador_2": "2-1",
             "ultimo_resultado_favorito": "W",
             "ultimo_resultado_nofavorito": "L",
-            "condiciones": {
-                "favorito_mayor_45": true,
-                "favorito_gano_ultimo": true,
-                "marcador_1_confirma_favorito": true,
-                "marcador_2_confirma_favorito": true,
-                "nofavorito_perdio_ultimo": true
+            "cuota_favorito": 2.0,
+            "ultimo_enfrentamiento": {
+                "fecha": "30.08.20",
+                "local": "Soroksar",
+                "visitante": "Csakvari",
+                "goles_local": "4",
+                "goles_visitante": "3"
             },
-            "premium": true
-        },
-        {
-            "fecha": "2026-08-31",
-            "hora": "11:30",
-            "local": "Hajduk Split",
-            "visitante": "Lok. Zagreb",
-            "logolocal": "https://static.flashscore.com/res/image/data/KhiiTqGG-Mc6FcsjL.png",
-            "logovisitante": "https://static.flashscore.com/res/image/data/2V3mzCil-xGP0AdYc.png",
-            "favorito": "Hajduk Split",
-            "probabilidad_favorito": 60.72,
-            "nofavorito": "Lok. Zagreb",
-            "probabilidad_nofavorito": 20.97,
-            "marcador_1": "2-1",
-            "marcador_2": "3-1",
-            "ultimo_resultado_favorito": "W",
-            "ultimo_resultado_nofavorito": "L",
-            "condiciones": {
-                "favorito_mayor_45": true,
-                "favorito_gano_ultimo": true,
-                "marcador_1_confirma_favorito": true,
-                "marcador_2_confirma_favorito": true,
-                "nofavorito_perdio_ultimo": true
-            },
-            "premium": true
-        },
-        {
-            "fecha": "2026-08-31",
-            "hora": "12:00",
-            "local": "Copenhague",
-            "visitante": "Sonderjyske",
-            "logolocal": "https://static.flashscore.com/res/image/data/dvE1YECa-xv6lkb7q.png",
-            "logovisitante": "https://static.flashscore.com/res/image/data/lOIdvbxS-jTh33WB7.png",
-            "favorito": "Copenhague",
-            "probabilidad_favorito": 65.73,
-            "nofavorito": "Sonderjyske",
-            "probabilidad_nofavorito": 17.49,
-            "marcador_1": "2-1",
-            "marcador_2": "3-1",
-            "ultimo_resultado_favorito": "W",
-            "ultimo_resultado_nofavorito": "L",
-            "condiciones": {
-                "favorito_mayor_45": true,
-                "favorito_gano_ultimo": true,
-                "marcador_1_confirma_favorito": true,
-                "marcador_2_confirma_favorito": true,
-                "nofavorito_perdio_ultimo": true
-            },
-            "premium": true
-        },
-        {
-            "fecha": "2026-08-31",
-            "hora": "14:15",
-            "local": "Benfica",
-            "visitante": "Estoril",
-            "logolocal": "https://static.flashscore.com/res/image/data/AZHdTBf5-GEKimEim.png",
-            "logovisitante": "https://static.flashscore.com/res/image/data/pEIK5GfM-8GL0cHSF.png",
-            "favorito": "Benfica",
-            "probabilidad_favorito": 71.03,
-            "nofavorito": "Estoril",
-            "probabilidad_nofavorito": 13.25,
-            "marcador_1": "2-1",
-            "marcador_2": "3-1",
-            "ultimo_resultado_favorito": "W",
-            "ultimo_resultado_nofavorito": "L",
-            "condiciones": {
-                "favorito_mayor_45": true,
-                "favorito_gano_ultimo": true,
-                "marcador_1_confirma_favorito": true,
-                "marcador_2_confirma_favorito": true,
-                "nofavorito_perdio_ultimo": true
-            },
-            "premium": true
-        },
-        {
-            "fecha": "2026-08-31",
-            "hora": "12:00",
-            "local": "Djurgarden",
-            "visitante": "Mjallby",
-            "logolocal": "https://static.flashscore.com/res/image/data/WvY9pWzB-lvoaqOtj.png",
-            "logovisitante": "https://static.flashscore.com/res/image/data/S8bG87fM-nBrEseHA.png",
-            "favorito": "Djurgarden",
-            "probabilidad_favorito": 67.06,
-            "nofavorito": "Mjallby",
-            "probabilidad_nofavorito": 16.03,
-            "marcador_1": "2-1",
-            "marcador_2": "3-1",
-            "ultimo_resultado_favorito": "W",
-            "ultimo_resultado_nofavorito": "L",
-            "condiciones": {
-                "favorito_mayor_45": true,
-                "favorito_gano_ultimo": true,
-                "marcador_1_confirma_favorito": true,
-                "marcador_2_confirma_favorito": true,
-                "nofavorito_perdio_ultimo": true
-            },
-            "premium": true
-        },
-        {
-            "fecha": "2026-08-28",
-            "hora": "17:45",
-            "local": "Tijuana Sub-21",
-            "visitante": "Pumas UNAM Sub-21",
-            "logolocal": "https://static.flashscore.com/res/image/data/jB3QwjcM-rwQIscXH.png",
-            "logovisitante": "https://static.flashscore.com/res/image/data/zZw3MBil-v9D5c3Pm.png",
-            "favorito": "Tijuana Sub-21",
-            "probabilidad_favorito": 64.34,
-            "nofavorito": "Pumas UNAM Sub-21",
-            "probabilidad_nofavorito": 13.8,
-            "marcador_1": "1-0",
-            "marcador_2": "2-0",
-            "ultimo_resultado_favorito": "W",
-            "ultimo_resultado_nofavorito": "L",
+            "ambos_marcan_probabilidad": 55.06,
             "condiciones": {
                 "favorito_mayor_45": true,
                 "favorito_gano_ultimo": true,
@@ -929,6 +1094,9 @@
             "marcador_2": "2-1",
             "ultimo_resultado_favorito": "W",
             "ultimo_resultado_nofavorito": "L",
+            "cuota_favorito": 1.55,
+            "ultimo_enfrentamiento": false,
+            "ambos_marcan_probabilidad": 54.19,
             "condiciones": {
                 "favorito_mayor_45": true,
                 "favorito_gano_ultimo": true,
