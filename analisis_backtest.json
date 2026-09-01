@@ -1,59 +1,59 @@
 {
-  "fecha_generacion": "2026-08-31T21:07:58-05:00",
+  "fecha_generacion": "2026-09-01T06:43:59-05:00",
   "archivo": "C:\\Flashcore\\Motor 1 29-08-2026\\historico_pronosticos.json",
-  "registros_historicos": 542,
-  "finalizados": 235,
-  "pendientes": 307,
+  "registros_historicos": 717,
+  "finalizados": 243,
+  "pendientes": 474,
   "control_universo": {
     "antes_sincronizacion": {
-      "total": 542,
-      "finalizados": 120,
-      "pendientes": 422,
-      "pendientes_verificables": 128,
-      "pendientes_futuros": 294,
+      "total": 717,
+      "finalizados": 235,
+      "pendientes": 482,
+      "pendientes_verificables": 20,
+      "pendientes_futuros": 462,
       "pendientes_sin_fecha_hora": 0,
-      "ahora": "2026-08-31T21:05:15-05:00",
+      "ahora": "2026-09-01T06:43:23-05:00",
       "zona_horaria": "America/Bogota"
     },
     "despues_sincronizacion": {
-      "total": 542,
-      "finalizados": 235,
-      "pendientes": 307,
-      "pendientes_verificables": 13,
-      "pendientes_futuros": 294,
+      "total": 717,
+      "finalizados": 243,
+      "pendientes": 474,
+      "pendientes_verificables": 12,
+      "pendientes_futuros": 462,
       "pendientes_sin_fecha_hora": 0,
-      "ahora": "2026-08-31T21:07:58-05:00",
+      "ahora": "2026-09-01T06:43:59-05:00",
       "zona_horaria": "America/Bogota"
     }
   },
   "sincronizacion": {
-    "pendientes_iniciales": 422,
-    "pendientes_verificables": 128,
-    "pendientes_futuros": 294,
-    "consultados": 128,
-    "actualizados": 115,
-    "aun_pendientes_verificables": 13,
+    "pendientes_iniciales": 482,
+    "pendientes_verificables": 20,
+    "pendientes_futuros": 462,
+    "consultados": 20,
+    "actualizados": 8,
+    "aun_pendientes_verificables": 12,
     "errores": 0,
     "sin_link": 0,
     "sin_fecha_hora": 0,
     "control_inicial": {
-      "total": 542,
-      "finalizados": 120,
-      "pendientes": 422,
-      "pendientes_verificables": 128,
-      "pendientes_futuros": 294,
+      "total": 717,
+      "finalizados": 235,
+      "pendientes": 482,
+      "pendientes_verificables": 20,
+      "pendientes_futuros": 462,
       "pendientes_sin_fecha_hora": 0,
-      "ahora": "2026-08-31T21:05:15-05:00",
+      "ahora": "2026-09-01T06:43:23-05:00",
       "zona_horaria": "America/Bogota"
     },
     "control_final": {
-      "total": 542,
-      "finalizados": 235,
-      "pendientes": 307,
-      "pendientes_verificables": 13,
-      "pendientes_futuros": 294,
+      "total": 717,
+      "finalizados": 243,
+      "pendientes": 474,
+      "pendientes_verificables": 12,
+      "pendientes_futuros": 462,
       "pendientes_sin_fecha_hora": 0,
-      "ahora": "2026-08-31T21:07:58-05:00",
+      "ahora": "2026-09-01T06:43:59-05:00",
       "zona_horaria": "America/Bogota"
     }
   },
@@ -95,25 +95,25 @@
       "mercados": {
         "directa_1x2": {
           "resumen": {
-            "partidos": 235,
-            "aciertos": 108,
-            "fallos": 127,
-            "acierto": 45.96,
+            "partidos": 243,
+            "aciertos": 113,
+            "fallos": 130,
+            "acierto": 46.5,
             "intervalo_confianza_95_acierto": [
-              39.7,
-              52.34
+              40.33,
+              52.78
             ],
-            "brier": 0.6323,
-            "log_loss": 1.0485,
-            "muestras_con_brier": 235,
-            "muestras_con_log_loss": 235,
-            "unidades_net": -9.1,
-            "roi_pct": -3.87,
-            "cuota_media": 2.433,
-            "apuestas_con_cuota": 235,
-            "baseline_favorito_mercado": 55.74,
-            "baseline_favorito_partidos": 235,
-            "ece": 0.074062
+            "brier": 0.6298,
+            "log_loss": 1.0451,
+            "muestras_con_brier": 243,
+            "muestras_con_log_loss": 243,
+            "unidades_net": -8.08,
+            "roi_pct": -3.33,
+            "cuota_media": 2.415,
+            "apuestas_con_cuota": 243,
+            "baseline_favorito_mercado": 55.97,
+            "baseline_favorito_partidos": 243,
+            "ece": 0.06958
           },
           "por_liga": {
             "ALBANIA - SUPERLIGA - JORNADA 2": {
@@ -155,22 +155,22 @@
               "muestra_suficiente": false
             },
             "ARGENTINA - LIGA PROFESIONAL - CLAUSURA - JORNADA 7": {
-              "partidos": 3,
-              "aciertos": 1,
-              "fallos": 2,
-              "acierto": 33.33,
+              "partidos": 5,
+              "aciertos": 2,
+              "fallos": 3,
+              "acierto": 40.0,
               "intervalo_confianza_95_acierto": [
-                6.15,
-                79.23
+                11.76,
+                76.93
               ],
-              "brier": 0.6457,
-              "log_loss": 1.0646,
-              "muestras_con_brier": 3,
-              "muestras_con_log_loss": 3,
-              "unidades_net": -1.07,
-              "roi_pct": -35.67,
-              "cuota_media": 2.323,
-              "apuestas_con_cuota": 3,
+              "brier": 0.5843,
+              "log_loss": 0.9745,
+              "muestras_con_brier": 5,
+              "muestras_con_log_loss": 5,
+              "unidades_net": -1.16,
+              "roi_pct": -23.2,
+              "cuota_media": 2.148,
+              "apuestas_con_cuota": 5,
               "muestra_suficiente": false
             },
             "ARGENTINA - PRIMERA A FEMENINA - CLAUSURA - JORNADA 6": {
@@ -345,22 +345,22 @@
               "muestra_suficiente": false
             },
             "BRASIL - BRASILEIRAO FEMENINO - PLAYOFFS - CUARTOS DE FINAL": {
-              "partidos": 1,
+              "partidos": 2,
               "aciertos": 0,
-              "fallos": 1,
+              "fallos": 2,
               "acierto": 0.0,
               "intervalo_confianza_95_acierto": [
                 0.0,
-                79.35
+                65.76
               ],
-              "brier": 1.0226,
-              "log_loss": 1.564,
-              "muestras_con_brier": 1,
-              "muestras_con_log_loss": 1,
-              "unidades_net": -1.0,
+              "brier": 0.9243,
+              "log_loss": 1.4594,
+              "muestras_con_brier": 2,
+              "muestras_con_log_loss": 2,
+              "unidades_net": -2.0,
               "roi_pct": -100.0,
-              "cuota_media": 4.0,
-              "apuestas_con_cuota": 1,
+              "cuota_media": 2.9,
+              "apuestas_con_cuota": 2,
               "muestra_suficiente": false
             },
             "BRASIL - BRASILEIRAO SERIE B - JORNADA 25": {
@@ -478,22 +478,22 @@
               "muestra_suficiente": false
             },
             "CHILE - LIGA DE PRIMERA - JORNADA 21": {
-              "partidos": 1,
-              "aciertos": 0,
+              "partidos": 2,
+              "aciertos": 1,
               "fallos": 1,
-              "acierto": 0.0,
+              "acierto": 50.0,
               "intervalo_confianza_95_acierto": [
-                0.0,
-                79.35
+                9.45,
+                90.55
               ],
-              "brier": 0.8325,
-              "log_loss": 1.319,
-              "muestras_con_brier": 1,
-              "muestras_con_log_loss": 1,
-              "unidades_net": -1.0,
-              "roi_pct": -100.0,
-              "cuota_media": 2.15,
-              "apuestas_con_cuota": 1,
+              "brier": 0.5803,
+              "log_loss": 0.9743,
+              "muestras_con_brier": 2,
+              "muestras_con_log_loss": 2,
+              "unidades_net": -0.21,
+              "roi_pct": -10.5,
+              "cuota_media": 1.97,
+              "apuestas_con_cuota": 2,
               "muestra_suficiente": false
             },
             "CHILE - SEGUNDA DIVISIÓN - GRUPO DESCENSO - JORNADA 4": {
@@ -554,22 +554,41 @@
               "muestra_suficiente": false
             },
             "COLOMBIA - PRIMERA A - CLAUSURA - JORNADA 8": {
-              "partidos": 2,
-              "aciertos": 0,
+              "partidos": 3,
+              "aciertos": 1,
               "fallos": 2,
-              "acierto": 0.0,
+              "acierto": 33.33,
               "intervalo_confianza_95_acierto": [
-                0.0,
-                65.76
+                6.15,
+                79.23
               ],
-              "brier": 0.8602,
-              "log_loss": 1.3396,
-              "muestras_con_brier": 2,
-              "muestras_con_log_loss": 2,
-              "unidades_net": -2.0,
-              "roi_pct": -100.0,
-              "cuota_media": 3.14,
-              "apuestas_con_cuota": 2,
+              "brier": 0.7576,
+              "log_loss": 1.2032,
+              "muestras_con_brier": 3,
+              "muestras_con_log_loss": 3,
+              "unidades_net": -1.6,
+              "roi_pct": -53.33,
+              "cuota_media": 2.56,
+              "apuestas_con_cuota": 3,
+              "muestra_suficiente": false
+            },
+            "COSTA RICA - LIGA DE ASCENSO - APERTURA - JORNADA 5": {
+              "partidos": 1,
+              "aciertos": 1,
+              "fallos": 0,
+              "acierto": 100.0,
+              "intervalo_confianza_95_acierto": [
+                20.65,
+                100.0
+              ],
+              "brier": 0.4056,
+              "log_loss": 0.7333,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": 1.22,
+              "roi_pct": 122.0,
+              "cuota_media": 2.22,
+              "apuestas_con_cuota": 1,
               "muestra_suficiente": false
             },
             "CROACIA - HNL - JORNADA 5": {
@@ -1370,6 +1389,25 @@
               "apuestas_con_cuota": 1,
               "muestra_suficiente": false
             },
+            "MÉXICO - LIGA MX FEMENIL - APERTURA - JORNADA 5": {
+              "partidos": 1,
+              "aciertos": 1,
+              "fallos": 0,
+              "acierto": 100.0,
+              "intervalo_confianza_95_acierto": [
+                20.65,
+                100.0
+              ],
+              "brier": 0.6362,
+              "log_loss": 1.0522,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": 0.7,
+              "roi_pct": 70.0,
+              "cuota_media": 1.7,
+              "apuestas_con_cuota": 1,
+              "muestra_suficiente": false
+            },
             "NICARAGUA - LIGA PRIMERA - APERTURA - JORNADA 7": {
               "partidos": 1,
               "aciertos": 0,
@@ -1520,6 +1558,25 @@
               "roi_pct": 1.5,
               "cuota_media": 1.99,
               "apuestas_con_cuota": 4,
+              "muestra_suficiente": false
+            },
+            "PANAMÁ - LPF - APERTURA - JORNADA 6": {
+              "partidos": 1,
+              "aciertos": 0,
+              "fallos": 1,
+              "acierto": 0.0,
+              "intervalo_confianza_95_acierto": [
+                0.0,
+                79.35
+              ],
+              "brier": 0.7311,
+              "log_loss": 1.1923,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": -1.0,
+              "roi_pct": -100.0,
+              "cuota_media": 2.42,
+              "apuestas_con_cuota": 1,
               "muestra_suficiente": false
             },
             "PARAGUAY - DIVISIÓN INTERMEDIA - JORNADA 21": {
@@ -1867,22 +1924,22 @@
           },
           "por_cuota": {
             "MENOS DE 1.50": {
-              "partidos": 23,
-              "aciertos": 18,
+              "partidos": 24,
+              "aciertos": 19,
               "fallos": 5,
-              "acierto": 78.26,
+              "acierto": 79.17,
               "intervalo_confianza_95_acierto": [
-                58.1,
-                90.34
+                59.53,
+                90.76
               ],
-              "brier": 0.449,
-              "log_loss": 0.7948,
-              "muestras_con_brier": 23,
-              "muestras_con_log_loss": 23,
-              "unidades_net": 0.73,
-              "roi_pct": 3.17,
-              "cuota_media": 1.325,
-              "apuestas_con_cuota": 23
+              "brier": 0.4533,
+              "log_loss": 0.8004,
+              "muestras_con_brier": 24,
+              "muestras_con_log_loss": 24,
+              "unidades_net": 1.13,
+              "roi_pct": 4.71,
+              "cuota_media": 1.328,
+              "apuestas_con_cuota": 24
             },
             "1.50 AL 1.70": {
               "partidos": 32,
@@ -1903,76 +1960,76 @@
               "apuestas_con_cuota": 32
             },
             "1.70 AL 1.90": {
-              "partidos": 29,
-              "aciertos": 16,
-              "fallos": 13,
-              "acierto": 55.17,
+              "partidos": 33,
+              "aciertos": 18,
+              "fallos": 15,
+              "acierto": 54.55,
               "intervalo_confianza_95_acierto": [
-                37.55,
-                71.59
+                37.99,
+                70.16
               ],
-              "brier": 0.5811,
-              "log_loss": 0.9669,
-              "muestras_con_brier": 29,
-              "muestras_con_log_loss": 29,
-              "unidades_net": -0.36,
-              "roi_pct": -1.24,
-              "cuota_media": 1.801,
-              "apuestas_con_cuota": 29
+              "brier": 0.5848,
+              "log_loss": 0.974,
+              "muestras_con_brier": 33,
+              "muestras_con_log_loss": 33,
+              "unidades_net": -0.87,
+              "roi_pct": -2.64,
+              "cuota_media": 1.799,
+              "apuestas_con_cuota": 33
             },
             "1.90 AL 2.10": {
-              "partidos": 26,
-              "aciertos": 10,
+              "partidos": 27,
+              "aciertos": 11,
               "fallos": 16,
-              "acierto": 38.46,
+              "acierto": 40.74,
               "intervalo_confianza_95_acierto": [
-                22.43,
-                57.47
+                24.51,
+                59.27
               ],
-              "brier": 0.6601,
-              "log_loss": 1.0943,
-              "muestras_con_brier": 26,
-              "muestras_con_log_loss": 26,
-              "unidades_net": -6.31,
-              "roi_pct": -24.27,
-              "cuota_media": 1.998,
-              "apuestas_con_cuota": 26
+              "brier": 0.6478,
+              "log_loss": 1.0764,
+              "muestras_con_brier": 27,
+              "muestras_con_log_loss": 27,
+              "unidades_net": -5.4,
+              "roi_pct": -20.0,
+              "cuota_media": 1.995,
+              "apuestas_con_cuota": 27
             },
             "2.10 AL 2.30": {
-              "partidos": 26,
-              "aciertos": 14,
+              "partidos": 27,
+              "aciertos": 15,
               "fallos": 12,
-              "acierto": 53.85,
+              "acierto": 55.56,
               "intervalo_confianza_95_acierto": [
-                35.46,
-                71.24
+                37.31,
+                72.41
               ],
-              "brier": 0.6564,
-              "log_loss": 1.0961,
-              "muestras_con_brier": 26,
-              "muestras_con_log_loss": 26,
-              "unidades_net": 4.57,
-              "roi_pct": 17.58,
-              "cuota_media": 2.18,
-              "apuestas_con_cuota": 26
+              "brier": 0.6471,
+              "log_loss": 1.0826,
+              "muestras_con_brier": 27,
+              "muestras_con_log_loss": 27,
+              "unidades_net": 5.79,
+              "roi_pct": 21.44,
+              "cuota_media": 2.182,
+              "apuestas_con_cuota": 27
             },
             "2.30 AL 2.50": {
-              "partidos": 16,
+              "partidos": 17,
               "aciertos": 7,
-              "fallos": 9,
-              "acierto": 43.75,
+              "fallos": 10,
+              "acierto": 41.18,
               "intervalo_confianza_95_acierto": [
-                23.1,
-                66.82
+                21.61,
+                63.99
               ],
-              "brier": 0.706,
-              "log_loss": 1.1469,
-              "muestras_con_brier": 16,
-              "muestras_con_log_loss": 16,
-              "unidades_net": 0.75,
-              "roi_pct": 4.69,
-              "cuota_media": 2.403,
-              "apuestas_con_cuota": 16
+              "brier": 0.7075,
+              "log_loss": 1.1496,
+              "muestras_con_brier": 17,
+              "muestras_con_log_loss": 17,
+              "unidades_net": -0.25,
+              "roi_pct": -1.47,
+              "cuota_media": 2.404,
+              "apuestas_con_cuota": 17
             },
             "2.50 AL 2.70": {
               "partidos": 21,
@@ -2085,22 +2142,22 @@
           },
           "por_probabilidad": {
             "35% AL 40%": {
-              "partidos": 44,
-              "aciertos": 16,
-              "fallos": 28,
-              "acierto": 36.36,
+              "partidos": 48,
+              "aciertos": 17,
+              "fallos": 31,
+              "acierto": 35.42,
               "intervalo_confianza_95_acierto": [
-                23.78,
-                51.13
+                23.43,
+                49.56
               ],
-              "brier": 0.6499,
-              "log_loss": 1.0716,
-              "muestras_con_brier": 44,
-              "muestras_con_log_loss": 44,
-              "unidades_net": -7.74,
-              "roi_pct": -17.59,
-              "cuota_media": 2.697,
-              "apuestas_con_cuota": 44
+              "brier": 0.6533,
+              "log_loss": 1.077,
+              "muestras_con_brier": 48,
+              "muestras_con_log_loss": 48,
+              "unidades_net": -10.34,
+              "roi_pct": -21.54,
+              "cuota_media": 2.628,
+              "apuestas_con_cuota": 48
             },
             "40% AL 45%": {
               "partidos": 52,
@@ -2121,40 +2178,40 @@
               "apuestas_con_cuota": 52
             },
             "45% AL 50%": {
-              "partidos": 52,
-              "aciertos": 25,
+              "partidos": 53,
+              "aciertos": 26,
               "fallos": 27,
-              "acierto": 48.08,
+              "acierto": 49.06,
               "intervalo_confianza_95_acierto": [
-                35.1,
-                61.31
+                36.12,
+                62.12
               ],
-              "brier": 0.623,
-              "log_loss": 1.0306,
-              "muestras_con_brier": 52,
-              "muestras_con_log_loss": 52,
-              "unidades_net": -1.12,
-              "roi_pct": -2.15,
+              "brier": 0.6189,
+              "log_loss": 1.025,
+              "muestras_con_brier": 53,
+              "muestras_con_log_loss": 53,
+              "unidades_net": 0.1,
+              "roi_pct": 0.19,
               "cuota_media": 2.218,
-              "apuestas_con_cuota": 52
+              "apuestas_con_cuota": 53
             },
             "50% AL 55%": {
-              "partidos": 34,
-              "aciertos": 11,
+              "partidos": 36,
+              "aciertos": 13,
               "fallos": 23,
-              "acierto": 32.35,
+              "acierto": 36.11,
               "intervalo_confianza_95_acierto": [
-                19.13,
-                49.16
+                22.48,
+                52.42
               ],
-              "brier": 0.7312,
-              "log_loss": 1.1946,
-              "muestras_con_brier": 34,
-              "muestras_con_log_loss": 34,
-              "unidades_net": -6.93,
-              "roi_pct": -20.38,
-              "cuota_media": 2.707,
-              "apuestas_con_cuota": 34
+              "brier": 0.7088,
+              "log_loss": 1.1627,
+              "muestras_con_brier": 36,
+              "muestras_con_log_loss": 36,
+              "unidades_net": -5.23,
+              "roi_pct": -14.53,
+              "cuota_media": 2.659,
+              "apuestas_con_cuota": 36
             },
             "MAS DE 55%": {
               "partidos": 49,
@@ -2268,14 +2325,14 @@
               "muestra_suficiente": false
             },
             {
-              "liga": "DINAMARCA - SUPERLIGA - JORNADA 6",
+              "liga": "COSTA RICA - LIGA DE ASCENSO - APERTURA - JORNADA 5",
               "acierto": 100.0,
               "partidos": 1,
               "aciertos": 1,
               "muestra_suficiente": false
             },
             {
-              "liga": "ESLOVAQUIA - 2. LIGA - JORNADA 6",
+              "liga": "DINAMARCA - SUPERLIGA - JORNADA 6",
               "acierto": 100.0,
               "partidos": 1,
               "aciertos": 1,
@@ -2285,25 +2342,25 @@
         },
         "doble_oportunidad": {
           "resumen": {
-            "partidos": 235,
-            "aciertos": 180,
-            "fallos": 55,
-            "acierto": 76.6,
+            "partidos": 243,
+            "aciertos": 186,
+            "fallos": 57,
+            "acierto": 76.54,
             "intervalo_confianza_95_acierto": [
-              70.78,
-              81.55
+              70.83,
+              81.43
             ],
-            "brier": 0.1786,
-            "log_loss": 0.5418,
-            "muestras_con_brier": 235,
-            "muestras_con_log_loss": 235,
+            "brier": 0.1784,
+            "log_loss": 0.5412,
+            "muestras_con_brier": 243,
+            "muestras_con_log_loss": 243,
             "unidades_net": null,
             "roi_pct": null,
             "cuota_media": null,
             "apuestas_con_cuota": 0,
             "baseline_favorito_mercado": null,
             "baseline_favorito_partidos": 0,
-            "ece": 0.008265
+            "ece": 0.008178
           },
           "por_liga": {
             "ALBANIA - SUPERLIGA - JORNADA 2": {
@@ -2345,18 +2402,18 @@
               "muestra_suficiente": false
             },
             "ARGENTINA - LIGA PROFESIONAL - CLAUSURA - JORNADA 7": {
-              "partidos": 3,
-              "aciertos": 3,
+              "partidos": 5,
+              "aciertos": 5,
               "fallos": 0,
               "acierto": 100.0,
               "intervalo_confianza_95_acierto": [
-                43.85,
+                56.55,
                 100.0
               ],
-              "brier": 0.0641,
-              "log_loss": 0.2908,
-              "muestras_con_brier": 3,
-              "muestras_con_log_loss": 3,
+              "brier": 0.0559,
+              "log_loss": 0.265,
+              "muestras_con_brier": 5,
+              "muestras_con_log_loss": 5,
               "unidades_net": null,
               "roi_pct": null,
               "cuota_media": null,
@@ -2535,18 +2592,18 @@
               "muestra_suficiente": false
             },
             "BRASIL - BRASILEIRAO FEMENINO - PLAYOFFS - CUARTOS DE FINAL": {
-              "partidos": 1,
+              "partidos": 2,
               "aciertos": 1,
-              "fallos": 0,
-              "acierto": 100.0,
+              "fallos": 1,
+              "acierto": 50.0,
               "intervalo_confianza_95_acierto": [
-                20.65,
-                100.0
+                9.45,
+                90.55
               ],
-              "brier": 0.0359,
-              "log_loss": 0.21,
-              "muestras_con_brier": 1,
-              "muestras_con_log_loss": 1,
+              "brier": 0.2932,
+              "log_loss": 0.7824,
+              "muestras_con_brier": 2,
+              "muestras_con_log_loss": 2,
               "unidades_net": null,
               "roi_pct": null,
               "cuota_media": null,
@@ -2668,18 +2725,18 @@
               "muestra_suficiente": false
             },
             "CHILE - LIGA DE PRIMERA - JORNADA 21": {
-              "partidos": 1,
-              "aciertos": 1,
+              "partidos": 2,
+              "aciertos": 2,
               "fallos": 0,
               "acierto": 100.0,
               "intervalo_confianza_95_acierto": [
-                20.65,
+                34.24,
                 100.0
               ],
-              "brier": 0.0621,
-              "log_loss": 0.2865,
-              "muestras_con_brier": 1,
-              "muestras_con_log_loss": 1,
+              "brier": 0.0541,
+              "log_loss": 0.264,
+              "muestras_con_brier": 2,
+              "muestras_con_log_loss": 2,
               "unidades_net": null,
               "roi_pct": null,
               "cuota_media": null,
@@ -2744,18 +2801,37 @@
               "muestra_suficiente": false
             },
             "COLOMBIA - PRIMERA A - CLAUSURA - JORNADA 8": {
-              "partidos": 2,
-              "aciertos": 2,
+              "partidos": 3,
+              "aciertos": 3,
               "fallos": 0,
               "acierto": 100.0,
               "intervalo_confianza_95_acierto": [
-                34.24,
+                43.85,
                 100.0
               ],
-              "brier": 0.053,
-              "log_loss": 0.2573,
-              "muestras_con_brier": 2,
-              "muestras_con_log_loss": 2,
+              "brier": 0.0596,
+              "log_loss": 0.2764,
+              "muestras_con_brier": 3,
+              "muestras_con_log_loss": 3,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
+            "COSTA RICA - LIGA DE ASCENSO - APERTURA - JORNADA 5": {
+              "partidos": 1,
+              "aciertos": 1,
+              "fallos": 0,
+              "acierto": 100.0,
+              "intervalo_confianza_95_acierto": [
+                20.65,
+                100.0
+              ],
+              "brier": 0.0597,
+              "log_loss": 0.2801,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
               "unidades_net": null,
               "roi_pct": null,
               "cuota_media": null,
@@ -3560,6 +3636,25 @@
               "apuestas_con_cuota": 0,
               "muestra_suficiente": false
             },
+            "MÉXICO - LIGA MX FEMENIL - APERTURA - JORNADA 5": {
+              "partidos": 1,
+              "aciertos": 1,
+              "fallos": 0,
+              "acierto": 100.0,
+              "intervalo_confianza_95_acierto": [
+                20.65,
+                100.0
+              ],
+              "brier": 0.0927,
+              "log_loss": 0.3631,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
             "NICARAGUA - LIGA PRIMERA - APERTURA - JORNADA 7": {
               "partidos": 1,
               "aciertos": 1,
@@ -3706,6 +3801,25 @@
               "log_loss": 0.5974,
               "muestras_con_brier": 4,
               "muestras_con_log_loss": 4,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
+            "PANAMÁ - LPF - APERTURA - JORNADA 6": {
+              "partidos": 1,
+              "aciertos": 0,
+              "fallos": 1,
+              "acierto": 0.0,
+              "intervalo_confianza_95_acierto": [
+                0.0,
+                79.35
+              ],
+              "brier": 0.485,
+              "log_loss": 1.192,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
               "unidades_net": null,
               "roi_pct": null,
               "cuota_media": null,
@@ -4110,18 +4224,18 @@
               "apuestas_con_cuota": 0
             },
             "MAS DE 55%": {
-              "partidos": 235,
-              "aciertos": 180,
-              "fallos": 55,
-              "acierto": 76.6,
+              "partidos": 243,
+              "aciertos": 186,
+              "fallos": 57,
+              "acierto": 76.54,
               "intervalo_confianza_95_acierto": [
-                70.78,
-                81.55
+                70.83,
+                81.43
               ],
-              "brier": 0.1786,
-              "log_loss": 0.5418,
-              "muestras_con_brier": 235,
-              "muestras_con_log_loss": 235,
+              "brier": 0.1784,
+              "log_loss": 0.5412,
+              "muestras_con_brier": 243,
+              "muestras_con_log_loss": 243,
               "unidades_net": null,
               "roi_pct": null,
               "cuota_media": null,
@@ -4131,6 +4245,13 @@
           "mejores_ligas": [
             {
               "liga": "ARGENTINA - LIGA PROFESIONAL - CLAUSURA - JORNADA 7",
+              "acierto": 100.0,
+              "partidos": 5,
+              "aciertos": 5,
+              "muestra_suficiente": false
+            },
+            {
+              "liga": "COLOMBIA - PRIMERA A - CLAUSURA - JORNADA 8",
               "acierto": 100.0,
               "partidos": 3,
               "aciertos": 3,
@@ -4200,7 +4321,7 @@
               "muestra_suficiente": false
             },
             {
-              "liga": "COLOMBIA - PRIMERA A - CLAUSURA - JORNADA 8",
+              "liga": "CHILE - LIGA DE PRIMERA - JORNADA 21",
               "acierto": 100.0,
               "partidos": 2,
               "aciertos": 2,
@@ -4226,25 +4347,18 @@
               "partidos": 2,
               "aciertos": 2,
               "muestra_suficiente": false
-            },
-            {
-              "liga": "ITALIA - SERIE A - JORNADA 2",
-              "acierto": 100.0,
-              "partidos": 2,
-              "aciertos": 2,
-              "muestra_suficiente": false
             }
           ]
         },
         "ambos_marcan": {
           "resumen": {
-            "partidos": 235,
-            "aciertos": 135,
-            "fallos": 100,
-            "acierto": 57.45,
+            "partidos": 243,
+            "aciertos": 140,
+            "fallos": 103,
+            "acierto": 57.61,
             "intervalo_confianza_95_acierto": [
-              51.06,
-              63.6
+              51.33,
+              63.66
             ],
             "brier": null,
             "log_loss": null,
@@ -4298,13 +4412,13 @@
               "muestra_suficiente": false
             },
             "ARGENTINA - LIGA PROFESIONAL - CLAUSURA - JORNADA 7": {
-              "partidos": 3,
-              "aciertos": 0,
+              "partidos": 5,
+              "aciertos": 2,
               "fallos": 3,
-              "acierto": 0.0,
+              "acierto": 40.0,
               "intervalo_confianza_95_acierto": [
-                0.0,
-                56.15
+                11.76,
+                76.93
               ],
               "brier": null,
               "log_loss": null,
@@ -4488,13 +4602,13 @@
               "muestra_suficiente": false
             },
             "BRASIL - BRASILEIRAO FEMENINO - PLAYOFFS - CUARTOS DE FINAL": {
-              "partidos": 1,
-              "aciertos": 0,
+              "partidos": 2,
+              "aciertos": 1,
               "fallos": 1,
-              "acierto": 0.0,
+              "acierto": 50.0,
               "intervalo_confianza_95_acierto": [
-                0.0,
-                79.35
+                9.45,
+                90.55
               ],
               "brier": null,
               "log_loss": null,
@@ -4621,13 +4735,13 @@
               "muestra_suficiente": false
             },
             "CHILE - LIGA DE PRIMERA - JORNADA 21": {
-              "partidos": 1,
-              "aciertos": 0,
+              "partidos": 2,
+              "aciertos": 1,
               "fallos": 1,
-              "acierto": 0.0,
+              "acierto": 50.0,
               "intervalo_confianza_95_acierto": [
-                0.0,
-                79.35
+                9.45,
+                90.55
               ],
               "brier": null,
               "log_loss": null,
@@ -4697,13 +4811,32 @@
               "muestra_suficiente": false
             },
             "COLOMBIA - PRIMERA A - CLAUSURA - JORNADA 8": {
-              "partidos": 2,
+              "partidos": 3,
               "aciertos": 1,
-              "fallos": 1,
-              "acierto": 50.0,
+              "fallos": 2,
+              "acierto": 33.33,
               "intervalo_confianza_95_acierto": [
-                9.45,
-                90.55
+                6.15,
+                79.23
+              ],
+              "brier": null,
+              "log_loss": null,
+              "muestras_con_brier": 0,
+              "muestras_con_log_loss": 0,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
+            "COSTA RICA - LIGA DE ASCENSO - APERTURA - JORNADA 5": {
+              "partidos": 1,
+              "aciertos": 0,
+              "fallos": 1,
+              "acierto": 0.0,
+              "intervalo_confianza_95_acierto": [
+                0.0,
+                79.35
               ],
               "brier": null,
               "log_loss": null,
@@ -5513,6 +5646,25 @@
               "apuestas_con_cuota": 0,
               "muestra_suficiente": false
             },
+            "MÉXICO - LIGA MX FEMENIL - APERTURA - JORNADA 5": {
+              "partidos": 1,
+              "aciertos": 1,
+              "fallos": 0,
+              "acierto": 100.0,
+              "intervalo_confianza_95_acierto": [
+                20.65,
+                100.0
+              ],
+              "brier": null,
+              "log_loss": null,
+              "muestras_con_brier": 0,
+              "muestras_con_log_loss": 0,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
             "NICARAGUA - LIGA PRIMERA - APERTURA - JORNADA 7": {
               "partidos": 1,
               "aciertos": 0,
@@ -5654,6 +5806,25 @@
               "intervalo_confianza_95_acierto": [
                 51.01,
                 100.0
+              ],
+              "brier": null,
+              "log_loss": null,
+              "muestras_con_brier": 0,
+              "muestras_con_log_loss": 0,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
+            "PANAMÁ - LPF - APERTURA - JORNADA 6": {
+              "partidos": 1,
+              "aciertos": 0,
+              "fallos": 1,
+              "acierto": 0.0,
+              "intervalo_confianza_95_acierto": [
+                0.0,
+                79.35
               ],
               "brier": null,
               "log_loss": null,
@@ -6186,25 +6357,25 @@
         },
         "marcador_1": {
           "resumen": {
-            "partidos": 235,
-            "aciertos": 27,
-            "fallos": 208,
-            "acierto": 11.49,
+            "partidos": 243,
+            "aciertos": 31,
+            "fallos": 212,
+            "acierto": 12.76,
             "intervalo_confianza_95_acierto": [
-              8.02,
-              16.2
+              9.13,
+              17.54
             ],
-            "brier": 0.1035,
-            "log_loss": 0.3647,
-            "muestras_con_brier": 235,
-            "muestras_con_log_loss": 235,
+            "brier": 0.1119,
+            "log_loss": 0.3852,
+            "muestras_con_brier": 243,
+            "muestras_con_log_loss": 243,
             "unidades_net": null,
             "roi_pct": null,
             "cuota_media": null,
             "apuestas_con_cuota": 0,
             "baseline_favorito_mercado": null,
             "baseline_favorito_partidos": 0,
-            "ece": 0.036666
+            "ece": 0.023057
           },
           "por_liga": {
             "ALBANIA - SUPERLIGA - JORNADA 2": {
@@ -6246,18 +6417,18 @@
               "muestra_suficiente": false
             },
             "ARGENTINA - LIGA PROFESIONAL - CLAUSURA - JORNADA 7": {
-              "partidos": 3,
-              "aciertos": 0,
+              "partidos": 5,
+              "aciertos": 2,
               "fallos": 3,
-              "acierto": 0.0,
+              "acierto": 40.0,
               "intervalo_confianza_95_acierto": [
-                0.0,
-                56.15
+                11.76,
+                76.93
               ],
-              "brier": 0.0165,
-              "log_loss": 0.1375,
-              "muestras_con_brier": 3,
-              "muestras_con_log_loss": 3,
+              "brier": 0.2676,
+              "log_loss": 0.7328,
+              "muestras_con_brier": 5,
+              "muestras_con_log_loss": 5,
               "unidades_net": null,
               "roi_pct": null,
               "cuota_media": null,
@@ -6436,18 +6607,18 @@
               "muestra_suficiente": false
             },
             "BRASIL - BRASILEIRAO FEMENINO - PLAYOFFS - CUARTOS DE FINAL": {
-              "partidos": 1,
-              "aciertos": 0,
+              "partidos": 2,
+              "aciertos": 1,
               "fallos": 1,
-              "acierto": 0.0,
+              "acierto": 50.0,
               "intervalo_confianza_95_acierto": [
-                0.0,
-                79.35
+                9.45,
+                90.55
               ],
-              "brier": 0.0072,
-              "log_loss": 0.0884,
-              "muestras_con_brier": 1,
-              "muestras_con_log_loss": 1,
+              "brier": 0.3903,
+              "log_loss": 1.1018,
+              "muestras_con_brier": 2,
+              "muestras_con_log_loss": 2,
               "unidades_net": null,
               "roi_pct": null,
               "cuota_media": null,
@@ -6569,18 +6740,18 @@
               "muestra_suficiente": false
             },
             "CHILE - LIGA DE PRIMERA - JORNADA 21": {
-              "partidos": 1,
+              "partidos": 2,
               "aciertos": 0,
-              "fallos": 1,
+              "fallos": 2,
               "acierto": 0.0,
               "intervalo_confianza_95_acierto": [
                 0.0,
-                79.35
+                65.76
               ],
-              "brier": 0.0137,
-              "log_loss": 0.1243,
-              "muestras_con_brier": 1,
-              "muestras_con_log_loss": 1,
+              "brier": 0.011,
+              "log_loss": 0.1101,
+              "muestras_con_brier": 2,
+              "muestras_con_log_loss": 2,
               "unidades_net": null,
               "roi_pct": null,
               "cuota_media": null,
@@ -6645,18 +6816,37 @@
               "muestra_suficiente": false
             },
             "COLOMBIA - PRIMERA A - CLAUSURA - JORNADA 8": {
-              "partidos": 2,
+              "partidos": 3,
               "aciertos": 1,
-              "fallos": 1,
-              "acierto": 50.0,
+              "fallos": 2,
+              "acierto": 33.33,
               "intervalo_confianza_95_acierto": [
-                9.45,
-                90.55
+                6.15,
+                79.23
               ],
-              "brier": 0.4426,
-              "log_loss": 1.3101,
-              "muestras_con_brier": 2,
-              "muestras_con_log_loss": 2,
+              "brier": 0.3044,
+              "log_loss": 0.9346,
+              "muestras_con_brier": 3,
+              "muestras_con_log_loss": 3,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
+            "COSTA RICA - LIGA DE ASCENSO - APERTURA - JORNADA 5": {
+              "partidos": 1,
+              "aciertos": 0,
+              "fallos": 1,
+              "acierto": 0.0,
+              "intervalo_confianza_95_acierto": [
+                0.0,
+                79.35
+              ],
+              "brier": 0.0128,
+              "log_loss": 0.1201,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
               "unidades_net": null,
               "roi_pct": null,
               "cuota_media": null,
@@ -7461,6 +7651,25 @@
               "apuestas_con_cuota": 0,
               "muestra_suficiente": false
             },
+            "MÉXICO - LIGA MX FEMENIL - APERTURA - JORNADA 5": {
+              "partidos": 1,
+              "aciertos": 0,
+              "fallos": 1,
+              "acierto": 0.0,
+              "intervalo_confianza_95_acierto": [
+                0.0,
+                79.35
+              ],
+              "brier": 0.0199,
+              "log_loss": 0.1521,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
             "NICARAGUA - LIGA PRIMERA - APERTURA - JORNADA 7": {
               "partidos": 1,
               "aciertos": 0,
@@ -7607,6 +7816,25 @@
               "log_loss": 0.1755,
               "muestras_con_brier": 4,
               "muestras_con_log_loss": 4,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
+            "PANAMÁ - LPF - APERTURA - JORNADA 6": {
+              "partidos": 1,
+              "aciertos": 1,
+              "fallos": 0,
+              "acierto": 100.0,
+              "intervalo_confianza_95_acierto": [
+                20.65,
+                100.0
+              ],
+              "brier": 0.7393,
+              "log_loss": 1.9647,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
               "unidades_net": null,
               "roi_pct": null,
               "cuota_media": null,
@@ -8054,6 +8282,13 @@
               "muestra_suficiente": false
             },
             {
+              "liga": "PANAMÁ - LPF - APERTURA - JORNADA 6",
+              "acierto": 100.0,
+              "partidos": 1,
+              "aciertos": 1,
+              "muestra_suficiente": false
+            },
+            {
               "liga": "PORTUGAL - LIGA NEXT GEN U23 - JORNADA 4",
               "acierto": 100.0,
               "partidos": 1,
@@ -8082,7 +8317,7 @@
               "muestra_suficiente": false
             },
             {
-              "liga": "COLOMBIA - PRIMERA A - CLAUSURA - JORNADA 8",
+              "liga": "BRASIL - BRASILEIRAO FEMENINO - PLAYOFFS - CUARTOS DE FINAL",
               "acierto": 50.0,
               "partidos": 2,
               "aciertos": 1,
@@ -8122,37 +8357,30 @@
               "partidos": 2,
               "aciertos": 1,
               "muestra_suficiente": false
-            },
-            {
-              "liga": "PORTUGAL - LIGA PORTUGAL - JORNADA 4",
-              "acierto": 50.0,
-              "partidos": 2,
-              "aciertos": 1,
-              "muestra_suficiente": false
             }
           ]
         },
         "marcador_2": {
           "resumen": {
-            "partidos": 235,
+            "partidos": 243,
             "aciertos": 25,
-            "fallos": 210,
-            "acierto": 10.64,
+            "fallos": 218,
+            "acierto": 10.29,
             "intervalo_confianza_95_acierto": [
-              7.31,
-              15.23
+              7.07,
+              14.75
             ],
-            "brier": 0.0947,
-            "log_loss": 0.3345,
-            "muestras_con_brier": 235,
-            "muestras_con_log_loss": 235,
+            "brier": 0.0921,
+            "log_loss": 0.3281,
+            "muestras_con_brier": 243,
+            "muestras_con_log_loss": 243,
             "unidades_net": null,
             "roi_pct": null,
             "cuota_media": null,
             "apuestas_con_cuota": 0,
             "baseline_favorito_mercado": null,
             "baseline_favorito_partidos": 0,
-            "ece": 0.012927
+            "ece": 0.010498
           },
           "por_liga": {
             "ALBANIA - SUPERLIGA - JORNADA 2": {
@@ -8194,18 +8422,18 @@
               "muestra_suficiente": false
             },
             "ARGENTINA - LIGA PROFESIONAL - CLAUSURA - JORNADA 7": {
-              "partidos": 3,
+              "partidos": 5,
               "aciertos": 0,
-              "fallos": 3,
+              "fallos": 5,
               "acierto": 0.0,
               "intervalo_confianza_95_acierto": [
                 0.0,
-                56.15
+                43.45
               ],
-              "brier": 0.0123,
-              "log_loss": 0.1172,
-              "muestras_con_brier": 3,
-              "muestras_con_log_loss": 3,
+              "brier": 0.0198,
+              "log_loss": 0.1476,
+              "muestras_con_brier": 5,
+              "muestras_con_log_loss": 5,
               "unidades_net": null,
               "roi_pct": null,
               "cuota_media": null,
@@ -8384,18 +8612,18 @@
               "muestra_suficiente": false
             },
             "BRASIL - BRASILEIRAO FEMENINO - PLAYOFFS - CUARTOS DE FINAL": {
-              "partidos": 1,
+              "partidos": 2,
               "aciertos": 0,
-              "fallos": 1,
+              "fallos": 2,
               "acierto": 0.0,
               "intervalo_confianza_95_acierto": [
                 0.0,
-                79.35
+                65.76
               ],
-              "brier": 0.0052,
-              "log_loss": 0.075,
-              "muestras_con_brier": 1,
-              "muestras_con_log_loss": 1,
+              "brier": 0.0062,
+              "log_loss": 0.0819,
+              "muestras_con_brier": 2,
+              "muestras_con_log_loss": 2,
               "unidades_net": null,
               "roi_pct": null,
               "cuota_media": null,
@@ -8517,18 +8745,18 @@
               "muestra_suficiente": false
             },
             "CHILE - LIGA DE PRIMERA - JORNADA 21": {
-              "partidos": 1,
+              "partidos": 2,
               "aciertos": 0,
-              "fallos": 1,
+              "fallos": 2,
               "acierto": 0.0,
               "intervalo_confianza_95_acierto": [
                 0.0,
-                79.35
+                65.76
               ],
-              "brier": 0.0089,
-              "log_loss": 0.0993,
-              "muestras_con_brier": 1,
-              "muestras_con_log_loss": 1,
+              "brier": 0.0083,
+              "log_loss": 0.0957,
+              "muestras_con_brier": 2,
+              "muestras_con_log_loss": 2,
               "unidades_net": null,
               "roi_pct": null,
               "cuota_media": null,
@@ -8593,18 +8821,37 @@
               "muestra_suficiente": false
             },
             "COLOMBIA - PRIMERA A - CLAUSURA - JORNADA 8": {
-              "partidos": 2,
+              "partidos": 3,
               "aciertos": 0,
-              "fallos": 2,
+              "fallos": 3,
               "acierto": 0.0,
               "intervalo_confianza_95_acierto": [
                 0.0,
-                65.76
+                56.15
               ],
-              "brier": 0.0212,
-              "log_loss": 0.1517,
-              "muestras_con_brier": 2,
-              "muestras_con_log_loss": 2,
+              "brier": 0.0227,
+              "log_loss": 0.1593,
+              "muestras_con_brier": 3,
+              "muestras_con_log_loss": 3,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
+            "COSTA RICA - LIGA DE ASCENSO - APERTURA - JORNADA 5": {
+              "partidos": 1,
+              "aciertos": 0,
+              "fallos": 1,
+              "acierto": 0.0,
+              "intervalo_confianza_95_acierto": [
+                0.0,
+                79.35
+              ],
+              "brier": 0.009,
+              "log_loss": 0.0997,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
               "unidades_net": null,
               "roi_pct": null,
               "cuota_media": null,
@@ -9409,6 +9656,25 @@
               "apuestas_con_cuota": 0,
               "muestra_suficiente": false
             },
+            "MÉXICO - LIGA MX FEMENIL - APERTURA - JORNADA 5": {
+              "partidos": 1,
+              "aciertos": 0,
+              "fallos": 1,
+              "acierto": 0.0,
+              "intervalo_confianza_95_acierto": [
+                0.0,
+                79.35
+              ],
+              "brier": 0.0138,
+              "log_loss": 0.125,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
             "NICARAGUA - LIGA PRIMERA - APERTURA - JORNADA 7": {
               "partidos": 1,
               "aciertos": 0,
@@ -9555,6 +9821,25 @@
               "log_loss": 0.6226,
               "muestras_con_brier": 4,
               "muestras_con_log_loss": 4,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
+            "PANAMÁ - LPF - APERTURA - JORNADA 6": {
+              "partidos": 1,
+              "aciertos": 0,
+              "fallos": 1,
+              "acierto": 0.0,
+              "intervalo_confianza_95_acierto": [
+                0.0,
+                79.35
+              ],
+              "brier": 0.0158,
+              "log_loss": 0.1342,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
               "unidades_net": null,
               "roi_pct": null,
               "cuota_media": null,
@@ -10086,25 +10371,25 @@
       "mercados": {
         "directa_1x2": {
           "resumen": {
-            "partidos": 52,
-            "aciertos": 25,
+            "partidos": 53,
+            "aciertos": 26,
             "fallos": 27,
-            "acierto": 48.08,
+            "acierto": 49.06,
             "intervalo_confianza_95_acierto": [
-              35.1,
-              61.31
+              36.12,
+              62.12
             ],
-            "brier": 1.0385,
-            "log_loss": 14.3469,
-            "muestras_con_brier": 52,
-            "muestras_con_log_loss": 52,
-            "unidades_net": -7.77,
-            "roi_pct": -14.94,
-            "cuota_media": 2.272,
-            "apuestas_con_cuota": 52,
+            "brier": 1.0189,
+            "log_loss": 14.0762,
+            "muestras_con_brier": 53,
+            "muestras_con_log_loss": 53,
+            "unidades_net": -6.86,
+            "roi_pct": -12.94,
+            "cuota_media": 2.265,
+            "apuestas_con_cuota": 53,
             "baseline_favorito_mercado": null,
             "baseline_favorito_partidos": 0,
-            "ece": 0.18665
+            "ece": 0.174498
           },
           "por_liga": {
             "ARABIA SAUDÍ - PRIMERA DIVISIÓN - JORNADA 3": {
@@ -10127,22 +10412,22 @@
               "muestra_suficiente": false
             },
             "ARGENTINA - LIGA PROFESIONAL - CLAUSURA - JORNADA 7": {
-              "partidos": 2,
-              "aciertos": 1,
+              "partidos": 3,
+              "aciertos": 2,
               "fallos": 1,
-              "acierto": 50.0,
+              "acierto": 66.67,
               "intervalo_confianza_95_acierto": [
-                9.45,
-                90.55
+                20.77,
+                93.85
               ],
-              "brier": 1.0,
-              "log_loss": 13.8155,
-              "muestras_con_brier": 2,
-              "muestras_con_log_loss": 2,
-              "unidades_net": -0.07,
-              "roi_pct": -3.5,
-              "cuota_media": 1.81,
-              "apuestas_con_cuota": 2,
+              "brier": 0.6667,
+              "log_loss": 9.2103,
+              "muestras_con_brier": 3,
+              "muestras_con_log_loss": 3,
+              "unidades_net": 0.84,
+              "roi_pct": 28.0,
+              "cuota_media": 1.843,
+              "apuestas_con_cuota": 3,
               "muestra_suficiente": false
             },
             "ARGENTINA - PRIMERA C - JORNADA 26": {
@@ -10905,22 +11190,22 @@
               "apuestas_con_cuota": 6
             },
             "1.90 AL 2.10": {
-              "partidos": 6,
-              "aciertos": 4,
+              "partidos": 7,
+              "aciertos": 5,
               "fallos": 2,
-              "acierto": 66.67,
+              "acierto": 71.43,
               "intervalo_confianza_95_acierto": [
-                30.0,
-                90.32
+                35.89,
+                91.78
               ],
-              "brier": 0.6667,
-              "log_loss": 9.2103,
-              "muestras_con_brier": 6,
-              "muestras_con_log_loss": 6,
-              "unidades_net": 1.79,
-              "roi_pct": 29.83,
-              "cuota_media": 1.973,
-              "apuestas_con_cuota": 6
+              "brier": 0.5714,
+              "log_loss": 7.8946,
+              "muestras_con_brier": 7,
+              "muestras_con_log_loss": 7,
+              "unidades_net": 2.7,
+              "roi_pct": 38.57,
+              "cuota_media": 1.964,
+              "apuestas_con_cuota": 7
             },
             "2.10 AL 2.30": {
               "partidos": 6,
@@ -11098,22 +11383,22 @@
               "apuestas_con_cuota": 0
             },
             "50% AL 55%": {
-              "partidos": 17,
-              "aciertos": 2,
+              "partidos": 18,
+              "aciertos": 3,
               "fallos": 15,
-              "acierto": 11.76,
+              "acierto": 16.67,
               "intervalo_confianza_95_acierto": [
-                3.29,
-                34.34
+                5.84,
+                39.22
               ],
-              "brier": 1.7647,
-              "log_loss": 24.3803,
-              "muestras_con_brier": 17,
-              "muestras_con_log_loss": 17,
-              "unidades_net": -11.57,
-              "roi_pct": -68.06,
-              "cuota_media": 3.061,
-              "apuestas_con_cuota": 17
+              "brier": 1.6667,
+              "log_loss": 23.0259,
+              "muestras_con_brier": 18,
+              "muestras_con_log_loss": 18,
+              "unidades_net": -10.66,
+              "roi_pct": -59.22,
+              "cuota_media": 2.997,
+              "apuestas_con_cuota": 18
             },
             "MAS DE 55%": {
               "partidos": 35,
@@ -11244,25 +11529,25 @@
         },
         "doble_oportunidad": {
           "resumen": {
-            "partidos": 52,
-            "aciertos": 36,
+            "partidos": 53,
+            "aciertos": 37,
             "fallos": 16,
-            "acierto": 69.23,
+            "acierto": 69.81,
             "intervalo_confianza_95_acierto": [
-              55.73,
-              80.09
+              56.46,
+              80.48
             ],
-            "brier": 0.2193,
-            "log_loss": 0.6328,
-            "muestras_con_brier": 52,
-            "muestras_con_log_loss": 52,
+            "brier": 0.2156,
+            "log_loss": 0.6238,
+            "muestras_con_brier": 53,
+            "muestras_con_log_loss": 53,
             "unidades_net": null,
             "roi_pct": null,
             "cuota_media": null,
             "apuestas_con_cuota": 0,
             "baseline_favorito_mercado": null,
             "baseline_favorito_partidos": 0,
-            "ece": 0.134958
+            "ece": 0.129732
           },
           "por_liga": {
             "ARABIA SAUDÍ - PRIMERA DIVISIÓN - JORNADA 3": {
@@ -11285,18 +11570,18 @@
               "muestra_suficiente": false
             },
             "ARGENTINA - LIGA PROFESIONAL - CLAUSURA - JORNADA 7": {
-              "partidos": 2,
-              "aciertos": 2,
+              "partidos": 3,
+              "aciertos": 3,
               "fallos": 0,
               "acierto": 100.0,
               "intervalo_confianza_95_acierto": [
-                34.24,
+                43.85,
                 100.0
               ],
-              "brier": 0.0552,
-              "log_loss": 0.2678,
-              "muestras_con_brier": 2,
-              "muestras_con_log_loss": 2,
+              "brier": 0.0435,
+              "log_loss": 0.2296,
+              "muestras_con_brier": 3,
+              "muestras_con_log_loss": 3,
               "unidades_net": null,
               "roi_pct": null,
               "cuota_media": null,
@@ -12062,18 +12347,18 @@
               "apuestas_con_cuota": 0
             },
             "MAS DE 55%": {
-              "partidos": 52,
-              "aciertos": 36,
+              "partidos": 53,
+              "aciertos": 37,
               "fallos": 16,
-              "acierto": 69.23,
+              "acierto": 69.81,
               "intervalo_confianza_95_acierto": [
-                55.73,
-                80.09
+                56.46,
+                80.48
               ],
-              "brier": 0.2193,
-              "log_loss": 0.6328,
-              "muestras_con_brier": 52,
-              "muestras_con_log_loss": 52,
+              "brier": 0.2156,
+              "log_loss": 0.6238,
+              "muestras_con_brier": 53,
+              "muestras_con_log_loss": 53,
               "unidades_net": null,
               "roi_pct": null,
               "cuota_media": null,
@@ -12082,17 +12367,17 @@
           },
           "mejores_ligas": [
             {
-              "liga": "INGLATERRA - SOUTHERN LEAGUE PREMIER CENTRAL - JORNADA 6",
+              "liga": "ARGENTINA - LIGA PROFESIONAL - CLAUSURA - JORNADA 7",
               "acierto": 100.0,
               "partidos": 3,
               "aciertos": 3,
               "muestra_suficiente": false
             },
             {
-              "liga": "ARGENTINA - LIGA PROFESIONAL - CLAUSURA - JORNADA 7",
+              "liga": "INGLATERRA - SOUTHERN LEAGUE PREMIER CENTRAL - JORNADA 6",
               "acierto": 100.0,
-              "partidos": 2,
-              "aciertos": 2,
+              "partidos": 3,
+              "aciertos": 3,
               "muestra_suficiente": false
             },
             {
@@ -12190,25 +12475,25 @@
         },
         "ambos_marcan": {
           "resumen": {
-            "partidos": 52,
-            "aciertos": 35,
+            "partidos": 53,
+            "aciertos": 36,
             "fallos": 17,
-            "acierto": 67.31,
+            "acierto": 67.92,
             "intervalo_confianza_95_acierto": [
-              53.76,
-              78.48
+              54.52,
+              78.91
             ],
-            "brier": 0.2223,
-            "log_loss": 0.6392,
-            "muestras_con_brier": 52,
-            "muestras_con_log_loss": 52,
+            "brier": 0.2196,
+            "log_loss": 0.6334,
+            "muestras_con_brier": 53,
+            "muestras_con_log_loss": 53,
             "unidades_net": null,
             "roi_pct": null,
             "cuota_media": null,
             "apuestas_con_cuota": 0,
             "baseline_favorito_mercado": null,
             "baseline_favorito_partidos": 0,
-            "ece": 0.120629
+            "ece": 0.123657
           },
           "por_liga": {
             "ARABIA SAUDÍ - PRIMERA DIVISIÓN - JORNADA 3": {
@@ -12231,18 +12516,18 @@
               "muestra_suficiente": false
             },
             "ARGENTINA - LIGA PROFESIONAL - CLAUSURA - JORNADA 7": {
-              "partidos": 2,
-              "aciertos": 0,
+              "partidos": 3,
+              "aciertos": 1,
               "fallos": 2,
-              "acierto": 0.0,
+              "acierto": 33.33,
               "intervalo_confianza_95_acierto": [
-                0.0,
-                65.76
+                6.15,
+                79.23
               ],
-              "brier": 0.2815,
-              "log_loss": 0.7562,
-              "muestras_con_brier": 2,
-              "muestras_con_log_loss": 2,
+              "brier": 0.214,
+              "log_loss": 0.6141,
+              "muestras_con_brier": 3,
+              "muestras_con_log_loss": 3,
               "unidades_net": null,
               "roi_pct": null,
               "cuota_media": null,
@@ -13018,18 +13303,18 @@
               "apuestas_con_cuota": 0
             },
             "MAS DE 55%": {
-              "partidos": 28,
-              "aciertos": 23,
+              "partidos": 29,
+              "aciertos": 24,
               "fallos": 5,
-              "acierto": 82.14,
+              "acierto": 82.76,
               "intervalo_confianza_95_acierto": [
-                64.41,
-                92.12
+                65.45,
+                92.4
               ],
-              "brier": 0.196,
-              "log_loss": 0.5877,
-              "muestras_con_brier": 28,
-              "muestras_con_log_loss": 28,
+              "brier": 0.1919,
+              "log_loss": 0.5788,
+              "muestras_con_brier": 29,
+              "muestras_con_log_loss": 29,
               "unidades_net": null,
               "roi_pct": null,
               "cuota_media": null,
@@ -13146,25 +13431,25 @@
         },
         "marcador_1": {
           "resumen": {
-            "partidos": 52,
-            "aciertos": 6,
+            "partidos": 53,
+            "aciertos": 7,
             "fallos": 46,
-            "acierto": 11.54,
+            "acierto": 13.21,
             "intervalo_confianza_95_acierto": [
-              5.4,
-              22.97
+              6.55,
+              24.84
             ],
-            "brier": 0.105,
-            "log_loss": 0.3703,
-            "muestras_con_brier": 52,
-            "muestras_con_log_loss": 52,
+            "brier": 0.1147,
+            "log_loss": 0.3923,
+            "muestras_con_brier": 53,
+            "muestras_con_log_loss": 53,
             "unidades_net": null,
             "roi_pct": null,
             "cuota_media": null,
             "apuestas_con_cuota": 0,
             "baseline_favorito_mercado": null,
             "baseline_favorito_partidos": 0,
-            "ece": 0.038667
+            "ece": 0.033304
           },
           "por_liga": {
             "ARABIA SAUDÍ - PRIMERA DIVISIÓN - JORNADA 3": {
@@ -13187,18 +13472,18 @@
               "muestra_suficiente": false
             },
             "ARGENTINA - LIGA PROFESIONAL - CLAUSURA - JORNADA 7": {
-              "partidos": 2,
-              "aciertos": 0,
+              "partidos": 3,
+              "aciertos": 1,
               "fallos": 2,
-              "acierto": 0.0,
+              "acierto": 33.33,
               "intervalo_confianza_95_acierto": [
-                0.0,
-                65.76
+                6.15,
+                79.23
               ],
-              "brier": 0.0156,
-              "log_loss": 0.1331,
-              "muestras_con_brier": 2,
-              "muestras_con_log_loss": 2,
+              "brier": 0.2157,
+              "log_loss": 0.6008,
+              "muestras_con_brier": 3,
+              "muestras_con_log_loss": 3,
               "unidades_net": null,
               "roi_pct": null,
               "cuota_media": null,
@@ -14021,6 +14306,13 @@
               "muestra_suficiente": false
             },
             {
+              "liga": "ARGENTINA - LIGA PROFESIONAL - CLAUSURA - JORNADA 7",
+              "acierto": 33.33,
+              "partidos": 3,
+              "aciertos": 1,
+              "muestra_suficiente": false
+            },
+            {
               "liga": "GALES - CYMRU SOUTH - JORNADA 6",
               "acierto": 0.0,
               "partidos": 3,
@@ -14038,13 +14330,6 @@
               "liga": "INGLATERRA - SOUTHERN LEAGUE PREMIER SOUTH - JORNADA 6",
               "acierto": 0.0,
               "partidos": 3,
-              "aciertos": 0,
-              "muestra_suficiente": false
-            },
-            {
-              "liga": "ARGENTINA - LIGA PROFESIONAL - CLAUSURA - JORNADA 7",
-              "acierto": 0.0,
-              "partidos": 2,
               "aciertos": 0,
               "muestra_suficiente": false
             },
@@ -14087,25 +14372,25 @@
         },
         "marcador_2": {
           "resumen": {
-            "partidos": 52,
+            "partidos": 53,
             "aciertos": 9,
-            "fallos": 43,
-            "acierto": 17.31,
+            "fallos": 44,
+            "acierto": 16.98,
             "intervalo_confianza_95_acierto": [
-              9.38,
-              29.73
+              9.2,
+              29.23
             ],
-            "brier": 0.1484,
-            "log_loss": 0.4834,
-            "muestras_con_brier": 52,
-            "muestras_con_log_loss": 52,
+            "brier": 0.1462,
+            "log_loss": 0.4781,
+            "muestras_con_brier": 53,
+            "muestras_con_log_loss": 53,
             "unidades_net": null,
             "roi_pct": null,
             "cuota_media": null,
             "apuestas_con_cuota": 0,
             "baseline_favorito_mercado": null,
             "baseline_favorito_partidos": 0,
-            "ece": 0.081317
+            "ece": 0.076319
           },
           "por_liga": {
             "ARABIA SAUDÍ - PRIMERA DIVISIÓN - JORNADA 3": {
@@ -14128,18 +14413,18 @@
               "muestra_suficiente": false
             },
             "ARGENTINA - LIGA PROFESIONAL - CLAUSURA - JORNADA 7": {
-              "partidos": 2,
+              "partidos": 3,
               "aciertos": 0,
-              "fallos": 2,
+              "fallos": 3,
               "acierto": 0.0,
               "intervalo_confianza_95_acierto": [
                 0.0,
-                65.76
+                56.15
               ],
-              "brier": 0.0129,
-              "log_loss": 0.12,
-              "muestras_con_brier": 2,
-              "muestras_con_log_loss": 2,
+              "brier": 0.0198,
+              "log_loss": 0.1476,
+              "muestras_con_brier": 3,
+              "muestras_con_log_loss": 3,
               "unidades_net": null,
               "roi_pct": null,
               "cuota_media": null,
@@ -14983,6 +15268,13 @@
               "muestra_suficiente": false
             },
             {
+              "liga": "ARGENTINA - LIGA PROFESIONAL - CLAUSURA - JORNADA 7",
+              "acierto": 0.0,
+              "partidos": 3,
+              "aciertos": 0,
+              "muestra_suficiente": false
+            },
+            {
               "liga": "GALES - CYMRU SOUTH - JORNADA 6",
               "acierto": 0.0,
               "partidos": 3,
@@ -14993,13 +15285,6 @@
               "liga": "INGLATERRA - SOUTHERN LEAGUE PREMIER CENTRAL - JORNADA 6",
               "acierto": 0.0,
               "partidos": 3,
-              "aciertos": 0,
-              "muestra_suficiente": false
-            },
-            {
-              "liga": "ARGENTINA - LIGA PROFESIONAL - CLAUSURA - JORNADA 7",
-              "acierto": 0.0,
-              "partidos": 2,
               "aciertos": 0,
               "muestra_suficiente": false
             },
@@ -16741,26 +17026,26 @@
     }
   },
   "diagnostico_select": {
-    "finalizados": 235,
-    "bloque_select_encontrado": 235,
-    "select_true": 52,
-    "select_false": 183,
-    "pick_valido": 52,
+    "finalizados": 243,
+    "bloque_select_encontrado": 243,
+    "select_true": 53,
+    "select_false": 190,
+    "pick_valido": 53,
     "pick_invalido": 0,
-    "probabilidad_valida": 52
+    "probabilidad_valida": 53
   },
   "comparativo": [
     {
       "categoria": "IA_PARTIDOS",
-      "partidos": 235,
-      "aciertos": 108,
-      "acierto": 45.96
+      "partidos": 243,
+      "aciertos": 113,
+      "acierto": 46.5
     },
     {
       "categoria": "SELECT",
-      "partidos": 52,
-      "aciertos": 25,
-      "acierto": 48.08
+      "partidos": 53,
+      "aciertos": 26,
+      "acierto": 49.06
     },
     {
       "categoria": "PREMIUM",
