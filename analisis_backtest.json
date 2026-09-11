@@ -1,82 +1,83 @@
 {
-  "fecha_generacion": "2026-09-09T23:08:49-05:00",
+  "fecha_generacion": "2026-09-11T15:59:41-05:00",
   "archivo": "C:\\Flashcore\\Motor 1 09-09-2026\\historico_pronosticos.json",
-  "registros_historicos": 311,
-  "finalizados": 0,
-  "pendientes": 311,
-  "versiones_historico_finalizados": {},
+  "registros_historicos": 1505,
+  "finalizados": 9,
+  "pendientes": 1496,
   "control_universo": {
     "antes_sincronizacion": {
-      "total": 311,
+      "total": 1505,
       "finalizados": 0,
-      "pendientes": 311,
-      "pendientes_verificables": 0,
-      "pendientes_futuros": 311,
+      "pendientes": 1505,
+      "pendientes_verificables": 20,
+      "pendientes_futuros": 1485,
       "pendientes_sin_fecha_hora": 0,
-      "ahora": "2026-09-09T23:08:49-05:00",
+      "ahora": "2026-09-11T15:58:51-05:00",
       "zona_horaria": "America/Bogota"
     },
     "despues_sincronizacion": {
-      "total": 311,
-      "finalizados": 0,
-      "pendientes": 311,
-      "pendientes_verificables": 0,
-      "pendientes_futuros": 311,
+      "total": 1505,
+      "finalizados": 9,
+      "pendientes": 1496,
+      "pendientes_verificables": 11,
+      "pendientes_futuros": 1485,
       "pendientes_sin_fecha_hora": 0,
-      "ahora": "2026-09-09T23:08:49-05:00",
+      "ahora": "2026-09-11T15:59:41-05:00",
       "zona_horaria": "America/Bogota"
     }
   },
   "sincronizacion": {
-    "pendientes_iniciales": 311,
-    "pendientes_verificables": 0,
-    "pendientes_futuros": 311,
-    "consultados": 0,
-    "actualizados": 0,
-    "aun_pendientes_verificables": 0,
+    "pendientes_iniciales": 1505,
+    "pendientes_verificables": 20,
+    "pendientes_futuros": 1485,
+    "consultados": 20,
+    "actualizados": 9,
+    "aun_pendientes_verificables": 11,
     "errores": 0,
     "sin_link": 0,
     "sin_fecha_hora": 0,
     "control_inicial": {
-      "total": 311,
+      "total": 1505,
       "finalizados": 0,
-      "pendientes": 311,
-      "pendientes_verificables": 0,
-      "pendientes_futuros": 311,
+      "pendientes": 1505,
+      "pendientes_verificables": 20,
+      "pendientes_futuros": 1485,
       "pendientes_sin_fecha_hora": 0,
-      "ahora": "2026-09-09T23:08:49-05:00",
+      "ahora": "2026-09-11T15:58:51-05:00",
       "zona_horaria": "America/Bogota"
     },
     "control_final": {
-      "total": 311,
-      "finalizados": 0,
-      "pendientes": 311,
-      "pendientes_verificables": 0,
-      "pendientes_futuros": 311,
+      "total": 1505,
+      "finalizados": 9,
+      "pendientes": 1496,
+      "pendientes_verificables": 11,
+      "pendientes_futuros": 1485,
       "pendientes_sin_fecha_hora": 0,
-      "ahora": "2026-09-09T23:08:49-05:00",
+      "ahora": "2026-09-11T15:59:41-05:00",
       "zona_horaria": "America/Bogota"
     }
   },
   "criterio": {
-    "motor_nombre": "Motor_analitico",
-    "motor_version_esperada": "2.0-final",
-    "version_v2_canonica": "2.0-final",
-    "pronostico_1x2_canonico": "PronosticoFinal.1X2Final",
-    "pronostico_congelado": true,
     "solo_finalizados": true,
-    "select_solo_select_true": true,
-    "premium_solo_premium_true": true,
-    "favorito_minimo_porcentaje": 35,
+    "pendientes_no_cuentan_como_fallo": true,
+    "pendientes_futuros_no_se_consultan": true,
+    "pronostico_congelado": true,
+    "select_usa_pick_explicito": true,
+    "muestra_suficiente_ligas": 10,
+    "muestra_minima_top": 10,
     "top_ligas": 15,
-    "muestra_minima_top": 1,
-    "rangos_probabilidad": [
+    "probabilidad_favorito_minima": 35.0,
+    "rangos_probabilidad_favorito": [
       "35% AL 40%",
       "40% AL 45%",
       "45% AL 50%",
       "50% AL 55%",
       "MAS DE 55%"
     ],
+    "intervalo_confianza_acierto": "Wilson 95%",
+    "incluye_roi_1x2": true,
+    "incluye_baseline_favorito_mercado": true,
+    "incluye_ece": true,
     "rangos_cuotas": [
       "MENOS DE 1.50",
       "1.50 AL 1.70",
@@ -108,6 +109,384 @@
             "roi_pct": null,
             "cuota_media": null,
             "apuestas_con_cuota": 0,
+            "baseline_favorito_mercado": 77.78,
+            "baseline_favorito_partidos": 9,
+            "ece": null
+          },
+          "por_liga": {},
+          "por_cuota": {
+            "MENOS DE 1.50": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "1.50 AL 1.70": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "1.70 AL 1.90": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "1.90 AL 2.10": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "2.10 AL 2.30": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "2.30 AL 2.50": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "2.50 AL 2.70": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "2.70 AL 2.90": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "2.90 AL 3.10": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "3.10 AL 3.30": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "3.30 AL 3.50": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "MAS DE 3.50": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            }
+          },
+          "por_probabilidad": {
+            "MENOS DE 10%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "10% AL 20%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "20% AL 30%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "30% AL 40%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "40% AL 50%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "50% AL 60%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "60% AL 70%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "70% AL 80%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "80% AL 90%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "90% AL 100%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            }
+          },
+          "mejores_ligas": [],
+          "mejores_rangos_cuota": [],
+          "por_probabilidad_favorito": {
+            "35% AL 40%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "40% AL 45%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "45% AL 50%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "50% AL 55%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "MAS DE 55%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            }
+          }
+        },
+        "doble_oportunidad": {
+          "resumen": {
+            "partidos": 0,
+            "aciertos": 0,
+            "fallos": 0,
+            "acierto": null,
+            "intervalo_confianza_95_acierto": null,
+            "brier": null,
+            "log_loss": null,
+            "unidades_net": null,
+            "roi_pct": null,
+            "cuota_media": null,
+            "apuestas_con_cuota": 0,
             "baseline_favorito_mercado": null,
             "baseline_favorito_partidos": 0,
             "ece": null
@@ -272,7 +651,7 @@
             }
           },
           "por_probabilidad": {
-            "35% AL 40%": {
+            "MENOS DE 10%": {
               "partidos": 0,
               "aciertos": 0,
               "fallos": 0,
@@ -285,7 +664,7 @@
               "cuota_media": null,
               "apuestas_con_cuota": 0
             },
-            "40% AL 45%": {
+            "10% AL 20%": {
               "partidos": 0,
               "aciertos": 0,
               "fallos": 0,
@@ -298,7 +677,7 @@
               "cuota_media": null,
               "apuestas_con_cuota": 0
             },
-            "45% AL 50%": {
+            "20% AL 30%": {
               "partidos": 0,
               "aciertos": 0,
               "fallos": 0,
@@ -311,7 +690,7 @@
               "cuota_media": null,
               "apuestas_con_cuota": 0
             },
-            "50% AL 55%": {
+            "30% AL 40%": {
               "partidos": 0,
               "aciertos": 0,
               "fallos": 0,
@@ -324,7 +703,72 @@
               "cuota_media": null,
               "apuestas_con_cuota": 0
             },
-            "MAS DE 55%": {
+            "40% AL 50%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "50% AL 60%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "60% AL 70%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "70% AL 80%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "80% AL 90%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "90% AL 100%": {
               "partidos": 0,
               "aciertos": 0,
               "fallos": 0,
@@ -338,95 +782,8 @@
               "apuestas_con_cuota": 0
             }
           },
-          "mejores_ligas": []
-        },
-        "doble_oportunidad": {
-          "resumen": {
-            "partidos": 0,
-            "aciertos": 0,
-            "fallos": 0,
-            "acierto": null,
-            "intervalo_confianza_95_acierto": null,
-            "brier": null,
-            "log_loss": null,
-            "unidades_net": null,
-            "roi_pct": null,
-            "cuota_media": null,
-            "apuestas_con_cuota": 0,
-            "baseline_favorito_mercado": null,
-            "baseline_favorito_partidos": 0,
-            "ece": null
-          },
-          "por_liga": {},
-          "por_cuota": {},
-          "por_probabilidad": {
-            "35% AL 40%": {
-              "partidos": 0,
-              "aciertos": 0,
-              "fallos": 0,
-              "acierto": null,
-              "intervalo_confianza_95_acierto": null,
-              "brier": null,
-              "log_loss": null,
-              "unidades_net": null,
-              "roi_pct": null,
-              "cuota_media": null,
-              "apuestas_con_cuota": 0
-            },
-            "40% AL 45%": {
-              "partidos": 0,
-              "aciertos": 0,
-              "fallos": 0,
-              "acierto": null,
-              "intervalo_confianza_95_acierto": null,
-              "brier": null,
-              "log_loss": null,
-              "unidades_net": null,
-              "roi_pct": null,
-              "cuota_media": null,
-              "apuestas_con_cuota": 0
-            },
-            "45% AL 50%": {
-              "partidos": 0,
-              "aciertos": 0,
-              "fallos": 0,
-              "acierto": null,
-              "intervalo_confianza_95_acierto": null,
-              "brier": null,
-              "log_loss": null,
-              "unidades_net": null,
-              "roi_pct": null,
-              "cuota_media": null,
-              "apuestas_con_cuota": 0
-            },
-            "50% AL 55%": {
-              "partidos": 0,
-              "aciertos": 0,
-              "fallos": 0,
-              "acierto": null,
-              "intervalo_confianza_95_acierto": null,
-              "brier": null,
-              "log_loss": null,
-              "unidades_net": null,
-              "roi_pct": null,
-              "cuota_media": null,
-              "apuestas_con_cuota": 0
-            },
-            "MAS DE 55%": {
-              "partidos": 0,
-              "aciertos": 0,
-              "fallos": 0,
-              "acierto": null,
-              "intervalo_confianza_95_acierto": null,
-              "brier": null,
-              "log_loss": null,
-              "unidades_net": null,
-              "roi_pct": null,
-              "cuota_media": null,
-              "apuestas_con_cuota": 0
-            }
-          },
-          "mejores_ligas": []
+          "mejores_ligas": [],
+          "mejores_rangos_cuota": []
         },
         "ambos_marcan": {
           "resumen": {
@@ -446,9 +803,8 @@
             "ece": null
           },
           "por_liga": {},
-          "por_cuota": {},
-          "por_probabilidad": {
-            "35% AL 40%": {
+          "por_cuota": {
+            "MENOS DE 1.50": {
               "partidos": 0,
               "aciertos": 0,
               "fallos": 0,
@@ -461,7 +817,7 @@
               "cuota_media": null,
               "apuestas_con_cuota": 0
             },
-            "40% AL 45%": {
+            "1.50 AL 1.70": {
               "partidos": 0,
               "aciertos": 0,
               "fallos": 0,
@@ -474,7 +830,7 @@
               "cuota_media": null,
               "apuestas_con_cuota": 0
             },
-            "45% AL 50%": {
+            "1.70 AL 1.90": {
               "partidos": 0,
               "aciertos": 0,
               "fallos": 0,
@@ -487,7 +843,7 @@
               "cuota_media": null,
               "apuestas_con_cuota": 0
             },
-            "50% AL 55%": {
+            "1.90 AL 2.10": {
               "partidos": 0,
               "aciertos": 0,
               "fallos": 0,
@@ -500,7 +856,98 @@
               "cuota_media": null,
               "apuestas_con_cuota": 0
             },
-            "MAS DE 55%": {
+            "2.10 AL 2.30": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "2.30 AL 2.50": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "2.50 AL 2.70": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "2.70 AL 2.90": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "2.90 AL 3.10": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "3.10 AL 3.30": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "3.30 AL 3.50": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "MAS DE 3.50": {
               "partidos": 0,
               "aciertos": 0,
               "fallos": 0,
@@ -514,7 +961,140 @@
               "apuestas_con_cuota": 0
             }
           },
-          "mejores_ligas": []
+          "por_probabilidad": {
+            "MENOS DE 10%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "10% AL 20%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "20% AL 30%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "30% AL 40%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "40% AL 50%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "50% AL 60%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "60% AL 70%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "70% AL 80%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "80% AL 90%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "90% AL 100%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            }
+          },
+          "mejores_ligas": [],
+          "mejores_rangos_cuota": []
         },
         "marcador_1": {
           "resumen": {
@@ -534,9 +1114,8 @@
             "ece": null
           },
           "por_liga": {},
-          "por_cuota": {},
-          "por_probabilidad": {
-            "35% AL 40%": {
+          "por_cuota": {
+            "MENOS DE 1.50": {
               "partidos": 0,
               "aciertos": 0,
               "fallos": 0,
@@ -549,7 +1128,7 @@
               "cuota_media": null,
               "apuestas_con_cuota": 0
             },
-            "40% AL 45%": {
+            "1.50 AL 1.70": {
               "partidos": 0,
               "aciertos": 0,
               "fallos": 0,
@@ -562,7 +1141,7 @@
               "cuota_media": null,
               "apuestas_con_cuota": 0
             },
-            "45% AL 50%": {
+            "1.70 AL 1.90": {
               "partidos": 0,
               "aciertos": 0,
               "fallos": 0,
@@ -575,7 +1154,7 @@
               "cuota_media": null,
               "apuestas_con_cuota": 0
             },
-            "50% AL 55%": {
+            "1.90 AL 2.10": {
               "partidos": 0,
               "aciertos": 0,
               "fallos": 0,
@@ -588,7 +1167,98 @@
               "cuota_media": null,
               "apuestas_con_cuota": 0
             },
-            "MAS DE 55%": {
+            "2.10 AL 2.30": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "2.30 AL 2.50": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "2.50 AL 2.70": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "2.70 AL 2.90": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "2.90 AL 3.10": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "3.10 AL 3.30": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "3.30 AL 3.50": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "MAS DE 3.50": {
               "partidos": 0,
               "aciertos": 0,
               "fallos": 0,
@@ -602,7 +1272,140 @@
               "apuestas_con_cuota": 0
             }
           },
-          "mejores_ligas": []
+          "por_probabilidad": {
+            "MENOS DE 10%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "10% AL 20%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "20% AL 30%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "30% AL 40%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "40% AL 50%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "50% AL 60%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "60% AL 70%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "70% AL 80%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "80% AL 90%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "90% AL 100%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            }
+          },
+          "mejores_ligas": [],
+          "mejores_rangos_cuota": []
         },
         "marcador_2": {
           "resumen": {
@@ -622,9 +1425,8 @@
             "ece": null
           },
           "por_liga": {},
-          "por_cuota": {},
-          "por_probabilidad": {
-            "35% AL 40%": {
+          "por_cuota": {
+            "MENOS DE 1.50": {
               "partidos": 0,
               "aciertos": 0,
               "fallos": 0,
@@ -637,7 +1439,7 @@
               "cuota_media": null,
               "apuestas_con_cuota": 0
             },
-            "40% AL 45%": {
+            "1.50 AL 1.70": {
               "partidos": 0,
               "aciertos": 0,
               "fallos": 0,
@@ -650,7 +1452,7 @@
               "cuota_media": null,
               "apuestas_con_cuota": 0
             },
-            "45% AL 50%": {
+            "1.70 AL 1.90": {
               "partidos": 0,
               "aciertos": 0,
               "fallos": 0,
@@ -663,7 +1465,7 @@
               "cuota_media": null,
               "apuestas_con_cuota": 0
             },
-            "50% AL 55%": {
+            "1.90 AL 2.10": {
               "partidos": 0,
               "aciertos": 0,
               "fallos": 0,
@@ -676,7 +1478,98 @@
               "cuota_media": null,
               "apuestas_con_cuota": 0
             },
-            "MAS DE 55%": {
+            "2.10 AL 2.30": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "2.30 AL 2.50": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "2.50 AL 2.70": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "2.70 AL 2.90": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "2.90 AL 3.10": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "3.10 AL 3.30": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "3.30 AL 3.50": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "MAS DE 3.50": {
               "partidos": 0,
               "aciertos": 0,
               "fallos": 0,
@@ -690,7 +1583,140 @@
               "apuestas_con_cuota": 0
             }
           },
-          "mejores_ligas": []
+          "por_probabilidad": {
+            "MENOS DE 10%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "10% AL 20%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "20% AL 30%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "30% AL 40%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "40% AL 50%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "50% AL 60%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "60% AL 70%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "70% AL 80%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "80% AL 90%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "90% AL 100%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            }
+          },
+          "mejores_ligas": [],
+          "mejores_rangos_cuota": []
         }
       }
     },
@@ -709,6 +1735,384 @@
             "roi_pct": null,
             "cuota_media": null,
             "apuestas_con_cuota": 0,
+            "baseline_favorito_mercado": 77.78,
+            "baseline_favorito_partidos": 9,
+            "ece": null
+          },
+          "por_liga": {},
+          "por_cuota": {
+            "MENOS DE 1.50": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "1.50 AL 1.70": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "1.70 AL 1.90": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "1.90 AL 2.10": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "2.10 AL 2.30": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "2.30 AL 2.50": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "2.50 AL 2.70": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "2.70 AL 2.90": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "2.90 AL 3.10": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "3.10 AL 3.30": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "3.30 AL 3.50": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "MAS DE 3.50": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            }
+          },
+          "por_probabilidad": {
+            "MENOS DE 10%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "10% AL 20%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "20% AL 30%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "30% AL 40%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "40% AL 50%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "50% AL 60%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "60% AL 70%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "70% AL 80%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "80% AL 90%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "90% AL 100%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            }
+          },
+          "mejores_ligas": [],
+          "mejores_rangos_cuota": [],
+          "por_probabilidad_favorito": {
+            "35% AL 40%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "40% AL 45%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "45% AL 50%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "50% AL 55%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "MAS DE 55%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            }
+          }
+        },
+        "doble_oportunidad": {
+          "resumen": {
+            "partidos": 0,
+            "aciertos": 0,
+            "fallos": 0,
+            "acierto": null,
+            "intervalo_confianza_95_acierto": null,
+            "brier": null,
+            "log_loss": null,
+            "unidades_net": null,
+            "roi_pct": null,
+            "cuota_media": null,
+            "apuestas_con_cuota": 0,
             "baseline_favorito_mercado": null,
             "baseline_favorito_partidos": 0,
             "ece": null
@@ -873,7 +2277,7 @@
             }
           },
           "por_probabilidad": {
-            "35% AL 40%": {
+            "MENOS DE 10%": {
               "partidos": 0,
               "aciertos": 0,
               "fallos": 0,
@@ -886,7 +2290,7 @@
               "cuota_media": null,
               "apuestas_con_cuota": 0
             },
-            "40% AL 45%": {
+            "10% AL 20%": {
               "partidos": 0,
               "aciertos": 0,
               "fallos": 0,
@@ -899,7 +2303,7 @@
               "cuota_media": null,
               "apuestas_con_cuota": 0
             },
-            "45% AL 50%": {
+            "20% AL 30%": {
               "partidos": 0,
               "aciertos": 0,
               "fallos": 0,
@@ -912,7 +2316,7 @@
               "cuota_media": null,
               "apuestas_con_cuota": 0
             },
-            "50% AL 55%": {
+            "30% AL 40%": {
               "partidos": 0,
               "aciertos": 0,
               "fallos": 0,
@@ -925,7 +2329,72 @@
               "cuota_media": null,
               "apuestas_con_cuota": 0
             },
-            "MAS DE 55%": {
+            "40% AL 50%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "50% AL 60%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "60% AL 70%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "70% AL 80%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "80% AL 90%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "90% AL 100%": {
               "partidos": 0,
               "aciertos": 0,
               "fallos": 0,
@@ -939,95 +2408,8 @@
               "apuestas_con_cuota": 0
             }
           },
-          "mejores_ligas": []
-        },
-        "doble_oportunidad": {
-          "resumen": {
-            "partidos": 0,
-            "aciertos": 0,
-            "fallos": 0,
-            "acierto": null,
-            "intervalo_confianza_95_acierto": null,
-            "brier": null,
-            "log_loss": null,
-            "unidades_net": null,
-            "roi_pct": null,
-            "cuota_media": null,
-            "apuestas_con_cuota": 0,
-            "baseline_favorito_mercado": null,
-            "baseline_favorito_partidos": 0,
-            "ece": null
-          },
-          "por_liga": {},
-          "por_cuota": {},
-          "por_probabilidad": {
-            "35% AL 40%": {
-              "partidos": 0,
-              "aciertos": 0,
-              "fallos": 0,
-              "acierto": null,
-              "intervalo_confianza_95_acierto": null,
-              "brier": null,
-              "log_loss": null,
-              "unidades_net": null,
-              "roi_pct": null,
-              "cuota_media": null,
-              "apuestas_con_cuota": 0
-            },
-            "40% AL 45%": {
-              "partidos": 0,
-              "aciertos": 0,
-              "fallos": 0,
-              "acierto": null,
-              "intervalo_confianza_95_acierto": null,
-              "brier": null,
-              "log_loss": null,
-              "unidades_net": null,
-              "roi_pct": null,
-              "cuota_media": null,
-              "apuestas_con_cuota": 0
-            },
-            "45% AL 50%": {
-              "partidos": 0,
-              "aciertos": 0,
-              "fallos": 0,
-              "acierto": null,
-              "intervalo_confianza_95_acierto": null,
-              "brier": null,
-              "log_loss": null,
-              "unidades_net": null,
-              "roi_pct": null,
-              "cuota_media": null,
-              "apuestas_con_cuota": 0
-            },
-            "50% AL 55%": {
-              "partidos": 0,
-              "aciertos": 0,
-              "fallos": 0,
-              "acierto": null,
-              "intervalo_confianza_95_acierto": null,
-              "brier": null,
-              "log_loss": null,
-              "unidades_net": null,
-              "roi_pct": null,
-              "cuota_media": null,
-              "apuestas_con_cuota": 0
-            },
-            "MAS DE 55%": {
-              "partidos": 0,
-              "aciertos": 0,
-              "fallos": 0,
-              "acierto": null,
-              "intervalo_confianza_95_acierto": null,
-              "brier": null,
-              "log_loss": null,
-              "unidades_net": null,
-              "roi_pct": null,
-              "cuota_media": null,
-              "apuestas_con_cuota": 0
-            }
-          },
-          "mejores_ligas": []
+          "mejores_ligas": [],
+          "mejores_rangos_cuota": []
         },
         "ambos_marcan": {
           "resumen": {
@@ -1047,9 +2429,8 @@
             "ece": null
           },
           "por_liga": {},
-          "por_cuota": {},
-          "por_probabilidad": {
-            "35% AL 40%": {
+          "por_cuota": {
+            "MENOS DE 1.50": {
               "partidos": 0,
               "aciertos": 0,
               "fallos": 0,
@@ -1062,7 +2443,7 @@
               "cuota_media": null,
               "apuestas_con_cuota": 0
             },
-            "40% AL 45%": {
+            "1.50 AL 1.70": {
               "partidos": 0,
               "aciertos": 0,
               "fallos": 0,
@@ -1075,7 +2456,7 @@
               "cuota_media": null,
               "apuestas_con_cuota": 0
             },
-            "45% AL 50%": {
+            "1.70 AL 1.90": {
               "partidos": 0,
               "aciertos": 0,
               "fallos": 0,
@@ -1088,7 +2469,7 @@
               "cuota_media": null,
               "apuestas_con_cuota": 0
             },
-            "50% AL 55%": {
+            "1.90 AL 2.10": {
               "partidos": 0,
               "aciertos": 0,
               "fallos": 0,
@@ -1101,7 +2482,98 @@
               "cuota_media": null,
               "apuestas_con_cuota": 0
             },
-            "MAS DE 55%": {
+            "2.10 AL 2.30": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "2.30 AL 2.50": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "2.50 AL 2.70": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "2.70 AL 2.90": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "2.90 AL 3.10": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "3.10 AL 3.30": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "3.30 AL 3.50": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "MAS DE 3.50": {
               "partidos": 0,
               "aciertos": 0,
               "fallos": 0,
@@ -1115,7 +2587,140 @@
               "apuestas_con_cuota": 0
             }
           },
-          "mejores_ligas": []
+          "por_probabilidad": {
+            "MENOS DE 10%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "10% AL 20%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "20% AL 30%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "30% AL 40%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "40% AL 50%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "50% AL 60%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "60% AL 70%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "70% AL 80%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "80% AL 90%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "90% AL 100%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            }
+          },
+          "mejores_ligas": [],
+          "mejores_rangos_cuota": []
         },
         "marcador_1": {
           "resumen": {
@@ -1135,9 +2740,8 @@
             "ece": null
           },
           "por_liga": {},
-          "por_cuota": {},
-          "por_probabilidad": {
-            "35% AL 40%": {
+          "por_cuota": {
+            "MENOS DE 1.50": {
               "partidos": 0,
               "aciertos": 0,
               "fallos": 0,
@@ -1150,7 +2754,7 @@
               "cuota_media": null,
               "apuestas_con_cuota": 0
             },
-            "40% AL 45%": {
+            "1.50 AL 1.70": {
               "partidos": 0,
               "aciertos": 0,
               "fallos": 0,
@@ -1163,7 +2767,7 @@
               "cuota_media": null,
               "apuestas_con_cuota": 0
             },
-            "45% AL 50%": {
+            "1.70 AL 1.90": {
               "partidos": 0,
               "aciertos": 0,
               "fallos": 0,
@@ -1176,7 +2780,7 @@
               "cuota_media": null,
               "apuestas_con_cuota": 0
             },
-            "50% AL 55%": {
+            "1.90 AL 2.10": {
               "partidos": 0,
               "aciertos": 0,
               "fallos": 0,
@@ -1189,7 +2793,98 @@
               "cuota_media": null,
               "apuestas_con_cuota": 0
             },
-            "MAS DE 55%": {
+            "2.10 AL 2.30": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "2.30 AL 2.50": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "2.50 AL 2.70": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "2.70 AL 2.90": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "2.90 AL 3.10": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "3.10 AL 3.30": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "3.30 AL 3.50": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "MAS DE 3.50": {
               "partidos": 0,
               "aciertos": 0,
               "fallos": 0,
@@ -1203,7 +2898,140 @@
               "apuestas_con_cuota": 0
             }
           },
-          "mejores_ligas": []
+          "por_probabilidad": {
+            "MENOS DE 10%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "10% AL 20%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "20% AL 30%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "30% AL 40%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "40% AL 50%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "50% AL 60%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "60% AL 70%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "70% AL 80%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "80% AL 90%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "90% AL 100%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            }
+          },
+          "mejores_ligas": [],
+          "mejores_rangos_cuota": []
         },
         "marcador_2": {
           "resumen": {
@@ -1223,9 +3051,8 @@
             "ece": null
           },
           "por_liga": {},
-          "por_cuota": {},
-          "por_probabilidad": {
-            "35% AL 40%": {
+          "por_cuota": {
+            "MENOS DE 1.50": {
               "partidos": 0,
               "aciertos": 0,
               "fallos": 0,
@@ -1238,7 +3065,7 @@
               "cuota_media": null,
               "apuestas_con_cuota": 0
             },
-            "40% AL 45%": {
+            "1.50 AL 1.70": {
               "partidos": 0,
               "aciertos": 0,
               "fallos": 0,
@@ -1251,7 +3078,7 @@
               "cuota_media": null,
               "apuestas_con_cuota": 0
             },
-            "45% AL 50%": {
+            "1.70 AL 1.90": {
               "partidos": 0,
               "aciertos": 0,
               "fallos": 0,
@@ -1264,7 +3091,7 @@
               "cuota_media": null,
               "apuestas_con_cuota": 0
             },
-            "50% AL 55%": {
+            "1.90 AL 2.10": {
               "partidos": 0,
               "aciertos": 0,
               "fallos": 0,
@@ -1277,7 +3104,98 @@
               "cuota_media": null,
               "apuestas_con_cuota": 0
             },
-            "MAS DE 55%": {
+            "2.10 AL 2.30": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "2.30 AL 2.50": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "2.50 AL 2.70": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "2.70 AL 2.90": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "2.90 AL 3.10": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "3.10 AL 3.30": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "3.30 AL 3.50": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "MAS DE 3.50": {
               "partidos": 0,
               "aciertos": 0,
               "fallos": 0,
@@ -1291,7 +3209,140 @@
               "apuestas_con_cuota": 0
             }
           },
-          "mejores_ligas": []
+          "por_probabilidad": {
+            "MENOS DE 10%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "10% AL 20%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "20% AL 30%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "30% AL 40%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "40% AL 50%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "50% AL 60%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "60% AL 70%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "70% AL 80%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "80% AL 90%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "90% AL 100%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            }
+          },
+          "mejores_ligas": [],
+          "mejores_rangos_cuota": []
         }
       }
     },
@@ -1310,6 +3361,384 @@
             "roi_pct": null,
             "cuota_media": null,
             "apuestas_con_cuota": 0,
+            "baseline_favorito_mercado": 77.78,
+            "baseline_favorito_partidos": 9,
+            "ece": null
+          },
+          "por_liga": {},
+          "por_cuota": {
+            "MENOS DE 1.50": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "1.50 AL 1.70": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "1.70 AL 1.90": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "1.90 AL 2.10": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "2.10 AL 2.30": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "2.30 AL 2.50": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "2.50 AL 2.70": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "2.70 AL 2.90": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "2.90 AL 3.10": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "3.10 AL 3.30": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "3.30 AL 3.50": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "MAS DE 3.50": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            }
+          },
+          "por_probabilidad": {
+            "MENOS DE 10%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "10% AL 20%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "20% AL 30%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "30% AL 40%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "40% AL 50%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "50% AL 60%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "60% AL 70%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "70% AL 80%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "80% AL 90%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "90% AL 100%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            }
+          },
+          "mejores_ligas": [],
+          "mejores_rangos_cuota": [],
+          "por_probabilidad_favorito": {
+            "35% AL 40%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "40% AL 45%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "45% AL 50%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "50% AL 55%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "MAS DE 55%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            }
+          }
+        },
+        "doble_oportunidad": {
+          "resumen": {
+            "partidos": 0,
+            "aciertos": 0,
+            "fallos": 0,
+            "acierto": null,
+            "intervalo_confianza_95_acierto": null,
+            "brier": null,
+            "log_loss": null,
+            "unidades_net": null,
+            "roi_pct": null,
+            "cuota_media": null,
+            "apuestas_con_cuota": 0,
             "baseline_favorito_mercado": null,
             "baseline_favorito_partidos": 0,
             "ece": null
@@ -1474,7 +3903,7 @@
             }
           },
           "por_probabilidad": {
-            "35% AL 40%": {
+            "MENOS DE 10%": {
               "partidos": 0,
               "aciertos": 0,
               "fallos": 0,
@@ -1487,7 +3916,7 @@
               "cuota_media": null,
               "apuestas_con_cuota": 0
             },
-            "40% AL 45%": {
+            "10% AL 20%": {
               "partidos": 0,
               "aciertos": 0,
               "fallos": 0,
@@ -1500,7 +3929,7 @@
               "cuota_media": null,
               "apuestas_con_cuota": 0
             },
-            "45% AL 50%": {
+            "20% AL 30%": {
               "partidos": 0,
               "aciertos": 0,
               "fallos": 0,
@@ -1513,7 +3942,7 @@
               "cuota_media": null,
               "apuestas_con_cuota": 0
             },
-            "50% AL 55%": {
+            "30% AL 40%": {
               "partidos": 0,
               "aciertos": 0,
               "fallos": 0,
@@ -1526,7 +3955,72 @@
               "cuota_media": null,
               "apuestas_con_cuota": 0
             },
-            "MAS DE 55%": {
+            "40% AL 50%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "50% AL 60%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "60% AL 70%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "70% AL 80%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "80% AL 90%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "90% AL 100%": {
               "partidos": 0,
               "aciertos": 0,
               "fallos": 0,
@@ -1540,95 +4034,8 @@
               "apuestas_con_cuota": 0
             }
           },
-          "mejores_ligas": []
-        },
-        "doble_oportunidad": {
-          "resumen": {
-            "partidos": 0,
-            "aciertos": 0,
-            "fallos": 0,
-            "acierto": null,
-            "intervalo_confianza_95_acierto": null,
-            "brier": null,
-            "log_loss": null,
-            "unidades_net": null,
-            "roi_pct": null,
-            "cuota_media": null,
-            "apuestas_con_cuota": 0,
-            "baseline_favorito_mercado": null,
-            "baseline_favorito_partidos": 0,
-            "ece": null
-          },
-          "por_liga": {},
-          "por_cuota": {},
-          "por_probabilidad": {
-            "35% AL 40%": {
-              "partidos": 0,
-              "aciertos": 0,
-              "fallos": 0,
-              "acierto": null,
-              "intervalo_confianza_95_acierto": null,
-              "brier": null,
-              "log_loss": null,
-              "unidades_net": null,
-              "roi_pct": null,
-              "cuota_media": null,
-              "apuestas_con_cuota": 0
-            },
-            "40% AL 45%": {
-              "partidos": 0,
-              "aciertos": 0,
-              "fallos": 0,
-              "acierto": null,
-              "intervalo_confianza_95_acierto": null,
-              "brier": null,
-              "log_loss": null,
-              "unidades_net": null,
-              "roi_pct": null,
-              "cuota_media": null,
-              "apuestas_con_cuota": 0
-            },
-            "45% AL 50%": {
-              "partidos": 0,
-              "aciertos": 0,
-              "fallos": 0,
-              "acierto": null,
-              "intervalo_confianza_95_acierto": null,
-              "brier": null,
-              "log_loss": null,
-              "unidades_net": null,
-              "roi_pct": null,
-              "cuota_media": null,
-              "apuestas_con_cuota": 0
-            },
-            "50% AL 55%": {
-              "partidos": 0,
-              "aciertos": 0,
-              "fallos": 0,
-              "acierto": null,
-              "intervalo_confianza_95_acierto": null,
-              "brier": null,
-              "log_loss": null,
-              "unidades_net": null,
-              "roi_pct": null,
-              "cuota_media": null,
-              "apuestas_con_cuota": 0
-            },
-            "MAS DE 55%": {
-              "partidos": 0,
-              "aciertos": 0,
-              "fallos": 0,
-              "acierto": null,
-              "intervalo_confianza_95_acierto": null,
-              "brier": null,
-              "log_loss": null,
-              "unidades_net": null,
-              "roi_pct": null,
-              "cuota_media": null,
-              "apuestas_con_cuota": 0
-            }
-          },
-          "mejores_ligas": []
+          "mejores_ligas": [],
+          "mejores_rangos_cuota": []
         },
         "ambos_marcan": {
           "resumen": {
@@ -1648,9 +4055,8 @@
             "ece": null
           },
           "por_liga": {},
-          "por_cuota": {},
-          "por_probabilidad": {
-            "35% AL 40%": {
+          "por_cuota": {
+            "MENOS DE 1.50": {
               "partidos": 0,
               "aciertos": 0,
               "fallos": 0,
@@ -1663,7 +4069,7 @@
               "cuota_media": null,
               "apuestas_con_cuota": 0
             },
-            "40% AL 45%": {
+            "1.50 AL 1.70": {
               "partidos": 0,
               "aciertos": 0,
               "fallos": 0,
@@ -1676,7 +4082,7 @@
               "cuota_media": null,
               "apuestas_con_cuota": 0
             },
-            "45% AL 50%": {
+            "1.70 AL 1.90": {
               "partidos": 0,
               "aciertos": 0,
               "fallos": 0,
@@ -1689,7 +4095,7 @@
               "cuota_media": null,
               "apuestas_con_cuota": 0
             },
-            "50% AL 55%": {
+            "1.90 AL 2.10": {
               "partidos": 0,
               "aciertos": 0,
               "fallos": 0,
@@ -1702,7 +4108,98 @@
               "cuota_media": null,
               "apuestas_con_cuota": 0
             },
-            "MAS DE 55%": {
+            "2.10 AL 2.30": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "2.30 AL 2.50": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "2.50 AL 2.70": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "2.70 AL 2.90": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "2.90 AL 3.10": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "3.10 AL 3.30": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "3.30 AL 3.50": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "MAS DE 3.50": {
               "partidos": 0,
               "aciertos": 0,
               "fallos": 0,
@@ -1716,7 +4213,140 @@
               "apuestas_con_cuota": 0
             }
           },
-          "mejores_ligas": []
+          "por_probabilidad": {
+            "MENOS DE 10%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "10% AL 20%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "20% AL 30%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "30% AL 40%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "40% AL 50%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "50% AL 60%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "60% AL 70%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "70% AL 80%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "80% AL 90%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "90% AL 100%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            }
+          },
+          "mejores_ligas": [],
+          "mejores_rangos_cuota": []
         },
         "marcador_1": {
           "resumen": {
@@ -1736,9 +4366,8 @@
             "ece": null
           },
           "por_liga": {},
-          "por_cuota": {},
-          "por_probabilidad": {
-            "35% AL 40%": {
+          "por_cuota": {
+            "MENOS DE 1.50": {
               "partidos": 0,
               "aciertos": 0,
               "fallos": 0,
@@ -1751,7 +4380,7 @@
               "cuota_media": null,
               "apuestas_con_cuota": 0
             },
-            "40% AL 45%": {
+            "1.50 AL 1.70": {
               "partidos": 0,
               "aciertos": 0,
               "fallos": 0,
@@ -1764,7 +4393,7 @@
               "cuota_media": null,
               "apuestas_con_cuota": 0
             },
-            "45% AL 50%": {
+            "1.70 AL 1.90": {
               "partidos": 0,
               "aciertos": 0,
               "fallos": 0,
@@ -1777,7 +4406,7 @@
               "cuota_media": null,
               "apuestas_con_cuota": 0
             },
-            "50% AL 55%": {
+            "1.90 AL 2.10": {
               "partidos": 0,
               "aciertos": 0,
               "fallos": 0,
@@ -1790,7 +4419,98 @@
               "cuota_media": null,
               "apuestas_con_cuota": 0
             },
-            "MAS DE 55%": {
+            "2.10 AL 2.30": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "2.30 AL 2.50": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "2.50 AL 2.70": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "2.70 AL 2.90": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "2.90 AL 3.10": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "3.10 AL 3.30": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "3.30 AL 3.50": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "MAS DE 3.50": {
               "partidos": 0,
               "aciertos": 0,
               "fallos": 0,
@@ -1804,7 +4524,140 @@
               "apuestas_con_cuota": 0
             }
           },
-          "mejores_ligas": []
+          "por_probabilidad": {
+            "MENOS DE 10%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "10% AL 20%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "20% AL 30%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "30% AL 40%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "40% AL 50%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "50% AL 60%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "60% AL 70%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "70% AL 80%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "80% AL 90%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "90% AL 100%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            }
+          },
+          "mejores_ligas": [],
+          "mejores_rangos_cuota": []
         },
         "marcador_2": {
           "resumen": {
@@ -1824,9 +4677,8 @@
             "ece": null
           },
           "por_liga": {},
-          "por_cuota": {},
-          "por_probabilidad": {
-            "35% AL 40%": {
+          "por_cuota": {
+            "MENOS DE 1.50": {
               "partidos": 0,
               "aciertos": 0,
               "fallos": 0,
@@ -1839,7 +4691,7 @@
               "cuota_media": null,
               "apuestas_con_cuota": 0
             },
-            "40% AL 45%": {
+            "1.50 AL 1.70": {
               "partidos": 0,
               "aciertos": 0,
               "fallos": 0,
@@ -1852,7 +4704,7 @@
               "cuota_media": null,
               "apuestas_con_cuota": 0
             },
-            "45% AL 50%": {
+            "1.70 AL 1.90": {
               "partidos": 0,
               "aciertos": 0,
               "fallos": 0,
@@ -1865,7 +4717,7 @@
               "cuota_media": null,
               "apuestas_con_cuota": 0
             },
-            "50% AL 55%": {
+            "1.90 AL 2.10": {
               "partidos": 0,
               "aciertos": 0,
               "fallos": 0,
@@ -1878,7 +4730,98 @@
               "cuota_media": null,
               "apuestas_con_cuota": 0
             },
-            "MAS DE 55%": {
+            "2.10 AL 2.30": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "2.30 AL 2.50": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "2.50 AL 2.70": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "2.70 AL 2.90": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "2.90 AL 3.10": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "3.10 AL 3.30": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "3.30 AL 3.50": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "MAS DE 3.50": {
               "partidos": 0,
               "aciertos": 0,
               "fallos": 0,
@@ -1892,30 +4835,143 @@
               "apuestas_con_cuota": 0
             }
           },
-          "mejores_ligas": []
+          "por_probabilidad": {
+            "MENOS DE 10%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "10% AL 20%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "20% AL 30%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "30% AL 40%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "40% AL 50%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "50% AL 60%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "60% AL 70%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "70% AL 80%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "80% AL 90%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            },
+            "90% AL 100%": {
+              "partidos": 0,
+              "aciertos": 0,
+              "fallos": 0,
+              "acierto": null,
+              "intervalo_confianza_95_acierto": null,
+              "brier": null,
+              "log_loss": null,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0
+            }
+          },
+          "mejores_ligas": [],
+          "mejores_rangos_cuota": []
         }
       }
     }
-  },
-  "diagnostico_select": {
-    "finalizados": 0,
-    "bloque_select_encontrado": 0,
-    "select_true": 0,
-    "select_false": 0,
-    "pick_valido": 0,
-    "pick_invalido": 0,
-    "probabilidad_valida": 0
-  },
-  "calibracion_v2": {
-    "1x2_fuente": "PronosticoFinal.1X2Final",
-    "btts_fuente": "PronosticoFinal.BTTS.SI/NO",
-    "1x2_ece": null,
-    "1x2_brier": null,
-    "1x2_log_loss": null,
-    "btts_ece": null,
-    "btts_brier": null,
-    "btts_log_loss": null,
-    "nota": "Estas métricas miden exactamente las probabilidades congeladas producidas por V2; no recalculan el motor."
   },
   "comparativo": [
     {
@@ -1936,5 +4992,953 @@
       "aciertos": 0,
       "acierto": null
     }
-  ]
+  ],
+  "presentacion_solicitada": {
+    "resultado_directo": {
+      "IA_PARTIDOS": {
+        "partidos": 0,
+        "aciertos": 0,
+        "fallos": 0,
+        "acierto": null,
+        "intervalo_confianza_95_acierto": null,
+        "brier": null,
+        "log_loss": null,
+        "unidades_net": null,
+        "roi_pct": null,
+        "cuota_media": null,
+        "apuestas_con_cuota": 0,
+        "baseline_favorito_mercado": 77.78,
+        "baseline_favorito_partidos": 9,
+        "ece": null
+      },
+      "SELECT": {
+        "partidos": 0,
+        "aciertos": 0,
+        "fallos": 0,
+        "acierto": null,
+        "intervalo_confianza_95_acierto": null,
+        "brier": null,
+        "log_loss": null,
+        "unidades_net": null,
+        "roi_pct": null,
+        "cuota_media": null,
+        "apuestas_con_cuota": 0,
+        "baseline_favorito_mercado": 77.78,
+        "baseline_favorito_partidos": 9,
+        "ece": null
+      },
+      "PREMIUM": {
+        "partidos": 0,
+        "aciertos": 0,
+        "fallos": 0,
+        "acierto": null,
+        "intervalo_confianza_95_acierto": null,
+        "brier": null,
+        "log_loss": null,
+        "unidades_net": null,
+        "roi_pct": null,
+        "cuota_media": null,
+        "apuestas_con_cuota": 0,
+        "baseline_favorito_mercado": 77.78,
+        "baseline_favorito_partidos": 9,
+        "ece": null
+      }
+    },
+    "resultado_doble_oportunidad": {
+      "IA_PARTIDOS": {
+        "partidos": 0,
+        "aciertos": 0,
+        "fallos": 0,
+        "acierto": null,
+        "intervalo_confianza_95_acierto": null,
+        "brier": null,
+        "log_loss": null,
+        "unidades_net": null,
+        "roi_pct": null,
+        "cuota_media": null,
+        "apuestas_con_cuota": 0,
+        "baseline_favorito_mercado": null,
+        "baseline_favorito_partidos": 0,
+        "ece": null
+      },
+      "SELECT": {
+        "partidos": 0,
+        "aciertos": 0,
+        "fallos": 0,
+        "acierto": null,
+        "intervalo_confianza_95_acierto": null,
+        "brier": null,
+        "log_loss": null,
+        "unidades_net": null,
+        "roi_pct": null,
+        "cuota_media": null,
+        "apuestas_con_cuota": 0,
+        "baseline_favorito_mercado": null,
+        "baseline_favorito_partidos": 0,
+        "ece": null
+      },
+      "PREMIUM": {
+        "partidos": 0,
+        "aciertos": 0,
+        "fallos": 0,
+        "acierto": null,
+        "intervalo_confianza_95_acierto": null,
+        "brier": null,
+        "log_loss": null,
+        "unidades_net": null,
+        "roi_pct": null,
+        "cuota_media": null,
+        "apuestas_con_cuota": 0,
+        "baseline_favorito_mercado": null,
+        "baseline_favorito_partidos": 0,
+        "ece": null
+      }
+    },
+    "resultado_ambos_marcan": {
+      "IA_PARTIDOS": {
+        "partidos": 0,
+        "aciertos": 0,
+        "fallos": 0,
+        "acierto": null,
+        "intervalo_confianza_95_acierto": null,
+        "brier": null,
+        "log_loss": null,
+        "unidades_net": null,
+        "roi_pct": null,
+        "cuota_media": null,
+        "apuestas_con_cuota": 0,
+        "baseline_favorito_mercado": null,
+        "baseline_favorito_partidos": 0,
+        "ece": null
+      },
+      "SELECT": {
+        "partidos": 0,
+        "aciertos": 0,
+        "fallos": 0,
+        "acierto": null,
+        "intervalo_confianza_95_acierto": null,
+        "brier": null,
+        "log_loss": null,
+        "unidades_net": null,
+        "roi_pct": null,
+        "cuota_media": null,
+        "apuestas_con_cuota": 0,
+        "baseline_favorito_mercado": null,
+        "baseline_favorito_partidos": 0,
+        "ece": null
+      },
+      "PREMIUM": {
+        "partidos": 0,
+        "aciertos": 0,
+        "fallos": 0,
+        "acierto": null,
+        "intervalo_confianza_95_acierto": null,
+        "brier": null,
+        "log_loss": null,
+        "unidades_net": null,
+        "roi_pct": null,
+        "cuota_media": null,
+        "apuestas_con_cuota": 0,
+        "baseline_favorito_mercado": null,
+        "baseline_favorito_partidos": 0,
+        "ece": null
+      }
+    },
+    "marcador_1": {
+      "IA_PARTIDOS": {
+        "partidos": 0,
+        "aciertos": 0,
+        "fallos": 0,
+        "acierto": null,
+        "intervalo_confianza_95_acierto": null,
+        "brier": null,
+        "log_loss": null,
+        "unidades_net": null,
+        "roi_pct": null,
+        "cuota_media": null,
+        "apuestas_con_cuota": 0,
+        "baseline_favorito_mercado": null,
+        "baseline_favorito_partidos": 0,
+        "ece": null
+      },
+      "SELECT": {
+        "partidos": 0,
+        "aciertos": 0,
+        "fallos": 0,
+        "acierto": null,
+        "intervalo_confianza_95_acierto": null,
+        "brier": null,
+        "log_loss": null,
+        "unidades_net": null,
+        "roi_pct": null,
+        "cuota_media": null,
+        "apuestas_con_cuota": 0,
+        "baseline_favorito_mercado": null,
+        "baseline_favorito_partidos": 0,
+        "ece": null
+      },
+      "PREMIUM": {
+        "partidos": 0,
+        "aciertos": 0,
+        "fallos": 0,
+        "acierto": null,
+        "intervalo_confianza_95_acierto": null,
+        "brier": null,
+        "log_loss": null,
+        "unidades_net": null,
+        "roi_pct": null,
+        "cuota_media": null,
+        "apuestas_con_cuota": 0,
+        "baseline_favorito_mercado": null,
+        "baseline_favorito_partidos": 0,
+        "ece": null
+      }
+    },
+    "marcador_2": {
+      "IA_PARTIDOS": {
+        "partidos": 0,
+        "aciertos": 0,
+        "fallos": 0,
+        "acierto": null,
+        "intervalo_confianza_95_acierto": null,
+        "brier": null,
+        "log_loss": null,
+        "unidades_net": null,
+        "roi_pct": null,
+        "cuota_media": null,
+        "apuestas_con_cuota": 0,
+        "baseline_favorito_mercado": null,
+        "baseline_favorito_partidos": 0,
+        "ece": null
+      },
+      "SELECT": {
+        "partidos": 0,
+        "aciertos": 0,
+        "fallos": 0,
+        "acierto": null,
+        "intervalo_confianza_95_acierto": null,
+        "brier": null,
+        "log_loss": null,
+        "unidades_net": null,
+        "roi_pct": null,
+        "cuota_media": null,
+        "apuestas_con_cuota": 0,
+        "baseline_favorito_mercado": null,
+        "baseline_favorito_partidos": 0,
+        "ece": null
+      },
+      "PREMIUM": {
+        "partidos": 0,
+        "aciertos": 0,
+        "fallos": 0,
+        "acierto": null,
+        "intervalo_confianza_95_acierto": null,
+        "brier": null,
+        "log_loss": null,
+        "unidades_net": null,
+        "roi_pct": null,
+        "cuota_media": null,
+        "apuestas_con_cuota": 0,
+        "baseline_favorito_mercado": null,
+        "baseline_favorito_partidos": 0,
+        "ece": null
+      }
+    },
+    "top_15_ligas": {
+      "directa_1x2": {
+        "IA_PARTIDOS": [],
+        "SELECT": [],
+        "PREMIUM": []
+      },
+      "doble_oportunidad": {
+        "IA_PARTIDOS": [],
+        "SELECT": [],
+        "PREMIUM": []
+      },
+      "ambos_marcan": {
+        "IA_PARTIDOS": [],
+        "SELECT": [],
+        "PREMIUM": []
+      }
+    },
+    "porcentaje_favorito": {
+      "IA_PARTIDOS": {
+        "35% AL 40%": {
+          "partidos": 0,
+          "aciertos": 0,
+          "fallos": 0,
+          "acierto": null,
+          "intervalo_confianza_95_acierto": null,
+          "brier": null,
+          "log_loss": null,
+          "unidades_net": null,
+          "roi_pct": null,
+          "cuota_media": null,
+          "apuestas_con_cuota": 0
+        },
+        "40% AL 45%": {
+          "partidos": 0,
+          "aciertos": 0,
+          "fallos": 0,
+          "acierto": null,
+          "intervalo_confianza_95_acierto": null,
+          "brier": null,
+          "log_loss": null,
+          "unidades_net": null,
+          "roi_pct": null,
+          "cuota_media": null,
+          "apuestas_con_cuota": 0
+        },
+        "45% AL 50%": {
+          "partidos": 0,
+          "aciertos": 0,
+          "fallos": 0,
+          "acierto": null,
+          "intervalo_confianza_95_acierto": null,
+          "brier": null,
+          "log_loss": null,
+          "unidades_net": null,
+          "roi_pct": null,
+          "cuota_media": null,
+          "apuestas_con_cuota": 0
+        },
+        "50% AL 55%": {
+          "partidos": 0,
+          "aciertos": 0,
+          "fallos": 0,
+          "acierto": null,
+          "intervalo_confianza_95_acierto": null,
+          "brier": null,
+          "log_loss": null,
+          "unidades_net": null,
+          "roi_pct": null,
+          "cuota_media": null,
+          "apuestas_con_cuota": 0
+        },
+        "MAS DE 55%": {
+          "partidos": 0,
+          "aciertos": 0,
+          "fallos": 0,
+          "acierto": null,
+          "intervalo_confianza_95_acierto": null,
+          "brier": null,
+          "log_loss": null,
+          "unidades_net": null,
+          "roi_pct": null,
+          "cuota_media": null,
+          "apuestas_con_cuota": 0
+        }
+      },
+      "SELECT": {
+        "35% AL 40%": {
+          "partidos": 0,
+          "aciertos": 0,
+          "fallos": 0,
+          "acierto": null,
+          "intervalo_confianza_95_acierto": null,
+          "brier": null,
+          "log_loss": null,
+          "unidades_net": null,
+          "roi_pct": null,
+          "cuota_media": null,
+          "apuestas_con_cuota": 0
+        },
+        "40% AL 45%": {
+          "partidos": 0,
+          "aciertos": 0,
+          "fallos": 0,
+          "acierto": null,
+          "intervalo_confianza_95_acierto": null,
+          "brier": null,
+          "log_loss": null,
+          "unidades_net": null,
+          "roi_pct": null,
+          "cuota_media": null,
+          "apuestas_con_cuota": 0
+        },
+        "45% AL 50%": {
+          "partidos": 0,
+          "aciertos": 0,
+          "fallos": 0,
+          "acierto": null,
+          "intervalo_confianza_95_acierto": null,
+          "brier": null,
+          "log_loss": null,
+          "unidades_net": null,
+          "roi_pct": null,
+          "cuota_media": null,
+          "apuestas_con_cuota": 0
+        },
+        "50% AL 55%": {
+          "partidos": 0,
+          "aciertos": 0,
+          "fallos": 0,
+          "acierto": null,
+          "intervalo_confianza_95_acierto": null,
+          "brier": null,
+          "log_loss": null,
+          "unidades_net": null,
+          "roi_pct": null,
+          "cuota_media": null,
+          "apuestas_con_cuota": 0
+        },
+        "MAS DE 55%": {
+          "partidos": 0,
+          "aciertos": 0,
+          "fallos": 0,
+          "acierto": null,
+          "intervalo_confianza_95_acierto": null,
+          "brier": null,
+          "log_loss": null,
+          "unidades_net": null,
+          "roi_pct": null,
+          "cuota_media": null,
+          "apuestas_con_cuota": 0
+        }
+      },
+      "PREMIUM": {
+        "35% AL 40%": {
+          "partidos": 0,
+          "aciertos": 0,
+          "fallos": 0,
+          "acierto": null,
+          "intervalo_confianza_95_acierto": null,
+          "brier": null,
+          "log_loss": null,
+          "unidades_net": null,
+          "roi_pct": null,
+          "cuota_media": null,
+          "apuestas_con_cuota": 0
+        },
+        "40% AL 45%": {
+          "partidos": 0,
+          "aciertos": 0,
+          "fallos": 0,
+          "acierto": null,
+          "intervalo_confianza_95_acierto": null,
+          "brier": null,
+          "log_loss": null,
+          "unidades_net": null,
+          "roi_pct": null,
+          "cuota_media": null,
+          "apuestas_con_cuota": 0
+        },
+        "45% AL 50%": {
+          "partidos": 0,
+          "aciertos": 0,
+          "fallos": 0,
+          "acierto": null,
+          "intervalo_confianza_95_acierto": null,
+          "brier": null,
+          "log_loss": null,
+          "unidades_net": null,
+          "roi_pct": null,
+          "cuota_media": null,
+          "apuestas_con_cuota": 0
+        },
+        "50% AL 55%": {
+          "partidos": 0,
+          "aciertos": 0,
+          "fallos": 0,
+          "acierto": null,
+          "intervalo_confianza_95_acierto": null,
+          "brier": null,
+          "log_loss": null,
+          "unidades_net": null,
+          "roi_pct": null,
+          "cuota_media": null,
+          "apuestas_con_cuota": 0
+        },
+        "MAS DE 55%": {
+          "partidos": 0,
+          "aciertos": 0,
+          "fallos": 0,
+          "acierto": null,
+          "intervalo_confianza_95_acierto": null,
+          "brier": null,
+          "log_loss": null,
+          "unidades_net": null,
+          "roi_pct": null,
+          "cuota_media": null,
+          "apuestas_con_cuota": 0
+        }
+      }
+    },
+    "porcentaje_cuotas": {
+      "IA_PARTIDOS": {
+        "MENOS DE 1.50": {
+          "partidos": 0,
+          "aciertos": 0,
+          "fallos": 0,
+          "acierto": null,
+          "intervalo_confianza_95_acierto": null,
+          "brier": null,
+          "log_loss": null,
+          "unidades_net": null,
+          "roi_pct": null,
+          "cuota_media": null,
+          "apuestas_con_cuota": 0
+        },
+        "1.50 AL 1.70": {
+          "partidos": 0,
+          "aciertos": 0,
+          "fallos": 0,
+          "acierto": null,
+          "intervalo_confianza_95_acierto": null,
+          "brier": null,
+          "log_loss": null,
+          "unidades_net": null,
+          "roi_pct": null,
+          "cuota_media": null,
+          "apuestas_con_cuota": 0
+        },
+        "1.70 AL 1.90": {
+          "partidos": 0,
+          "aciertos": 0,
+          "fallos": 0,
+          "acierto": null,
+          "intervalo_confianza_95_acierto": null,
+          "brier": null,
+          "log_loss": null,
+          "unidades_net": null,
+          "roi_pct": null,
+          "cuota_media": null,
+          "apuestas_con_cuota": 0
+        },
+        "1.90 AL 2.10": {
+          "partidos": 0,
+          "aciertos": 0,
+          "fallos": 0,
+          "acierto": null,
+          "intervalo_confianza_95_acierto": null,
+          "brier": null,
+          "log_loss": null,
+          "unidades_net": null,
+          "roi_pct": null,
+          "cuota_media": null,
+          "apuestas_con_cuota": 0
+        },
+        "2.10 AL 2.30": {
+          "partidos": 0,
+          "aciertos": 0,
+          "fallos": 0,
+          "acierto": null,
+          "intervalo_confianza_95_acierto": null,
+          "brier": null,
+          "log_loss": null,
+          "unidades_net": null,
+          "roi_pct": null,
+          "cuota_media": null,
+          "apuestas_con_cuota": 0
+        },
+        "2.30 AL 2.50": {
+          "partidos": 0,
+          "aciertos": 0,
+          "fallos": 0,
+          "acierto": null,
+          "intervalo_confianza_95_acierto": null,
+          "brier": null,
+          "log_loss": null,
+          "unidades_net": null,
+          "roi_pct": null,
+          "cuota_media": null,
+          "apuestas_con_cuota": 0
+        },
+        "2.50 AL 2.70": {
+          "partidos": 0,
+          "aciertos": 0,
+          "fallos": 0,
+          "acierto": null,
+          "intervalo_confianza_95_acierto": null,
+          "brier": null,
+          "log_loss": null,
+          "unidades_net": null,
+          "roi_pct": null,
+          "cuota_media": null,
+          "apuestas_con_cuota": 0
+        },
+        "2.70 AL 2.90": {
+          "partidos": 0,
+          "aciertos": 0,
+          "fallos": 0,
+          "acierto": null,
+          "intervalo_confianza_95_acierto": null,
+          "brier": null,
+          "log_loss": null,
+          "unidades_net": null,
+          "roi_pct": null,
+          "cuota_media": null,
+          "apuestas_con_cuota": 0
+        },
+        "2.90 AL 3.10": {
+          "partidos": 0,
+          "aciertos": 0,
+          "fallos": 0,
+          "acierto": null,
+          "intervalo_confianza_95_acierto": null,
+          "brier": null,
+          "log_loss": null,
+          "unidades_net": null,
+          "roi_pct": null,
+          "cuota_media": null,
+          "apuestas_con_cuota": 0
+        },
+        "3.10 AL 3.30": {
+          "partidos": 0,
+          "aciertos": 0,
+          "fallos": 0,
+          "acierto": null,
+          "intervalo_confianza_95_acierto": null,
+          "brier": null,
+          "log_loss": null,
+          "unidades_net": null,
+          "roi_pct": null,
+          "cuota_media": null,
+          "apuestas_con_cuota": 0
+        },
+        "3.30 AL 3.50": {
+          "partidos": 0,
+          "aciertos": 0,
+          "fallos": 0,
+          "acierto": null,
+          "intervalo_confianza_95_acierto": null,
+          "brier": null,
+          "log_loss": null,
+          "unidades_net": null,
+          "roi_pct": null,
+          "cuota_media": null,
+          "apuestas_con_cuota": 0
+        },
+        "MAS DE 3.50": {
+          "partidos": 0,
+          "aciertos": 0,
+          "fallos": 0,
+          "acierto": null,
+          "intervalo_confianza_95_acierto": null,
+          "brier": null,
+          "log_loss": null,
+          "unidades_net": null,
+          "roi_pct": null,
+          "cuota_media": null,
+          "apuestas_con_cuota": 0
+        }
+      },
+      "SELECT": {
+        "MENOS DE 1.50": {
+          "partidos": 0,
+          "aciertos": 0,
+          "fallos": 0,
+          "acierto": null,
+          "intervalo_confianza_95_acierto": null,
+          "brier": null,
+          "log_loss": null,
+          "unidades_net": null,
+          "roi_pct": null,
+          "cuota_media": null,
+          "apuestas_con_cuota": 0
+        },
+        "1.50 AL 1.70": {
+          "partidos": 0,
+          "aciertos": 0,
+          "fallos": 0,
+          "acierto": null,
+          "intervalo_confianza_95_acierto": null,
+          "brier": null,
+          "log_loss": null,
+          "unidades_net": null,
+          "roi_pct": null,
+          "cuota_media": null,
+          "apuestas_con_cuota": 0
+        },
+        "1.70 AL 1.90": {
+          "partidos": 0,
+          "aciertos": 0,
+          "fallos": 0,
+          "acierto": null,
+          "intervalo_confianza_95_acierto": null,
+          "brier": null,
+          "log_loss": null,
+          "unidades_net": null,
+          "roi_pct": null,
+          "cuota_media": null,
+          "apuestas_con_cuota": 0
+        },
+        "1.90 AL 2.10": {
+          "partidos": 0,
+          "aciertos": 0,
+          "fallos": 0,
+          "acierto": null,
+          "intervalo_confianza_95_acierto": null,
+          "brier": null,
+          "log_loss": null,
+          "unidades_net": null,
+          "roi_pct": null,
+          "cuota_media": null,
+          "apuestas_con_cuota": 0
+        },
+        "2.10 AL 2.30": {
+          "partidos": 0,
+          "aciertos": 0,
+          "fallos": 0,
+          "acierto": null,
+          "intervalo_confianza_95_acierto": null,
+          "brier": null,
+          "log_loss": null,
+          "unidades_net": null,
+          "roi_pct": null,
+          "cuota_media": null,
+          "apuestas_con_cuota": 0
+        },
+        "2.30 AL 2.50": {
+          "partidos": 0,
+          "aciertos": 0,
+          "fallos": 0,
+          "acierto": null,
+          "intervalo_confianza_95_acierto": null,
+          "brier": null,
+          "log_loss": null,
+          "unidades_net": null,
+          "roi_pct": null,
+          "cuota_media": null,
+          "apuestas_con_cuota": 0
+        },
+        "2.50 AL 2.70": {
+          "partidos": 0,
+          "aciertos": 0,
+          "fallos": 0,
+          "acierto": null,
+          "intervalo_confianza_95_acierto": null,
+          "brier": null,
+          "log_loss": null,
+          "unidades_net": null,
+          "roi_pct": null,
+          "cuota_media": null,
+          "apuestas_con_cuota": 0
+        },
+        "2.70 AL 2.90": {
+          "partidos": 0,
+          "aciertos": 0,
+          "fallos": 0,
+          "acierto": null,
+          "intervalo_confianza_95_acierto": null,
+          "brier": null,
+          "log_loss": null,
+          "unidades_net": null,
+          "roi_pct": null,
+          "cuota_media": null,
+          "apuestas_con_cuota": 0
+        },
+        "2.90 AL 3.10": {
+          "partidos": 0,
+          "aciertos": 0,
+          "fallos": 0,
+          "acierto": null,
+          "intervalo_confianza_95_acierto": null,
+          "brier": null,
+          "log_loss": null,
+          "unidades_net": null,
+          "roi_pct": null,
+          "cuota_media": null,
+          "apuestas_con_cuota": 0
+        },
+        "3.10 AL 3.30": {
+          "partidos": 0,
+          "aciertos": 0,
+          "fallos": 0,
+          "acierto": null,
+          "intervalo_confianza_95_acierto": null,
+          "brier": null,
+          "log_loss": null,
+          "unidades_net": null,
+          "roi_pct": null,
+          "cuota_media": null,
+          "apuestas_con_cuota": 0
+        },
+        "3.30 AL 3.50": {
+          "partidos": 0,
+          "aciertos": 0,
+          "fallos": 0,
+          "acierto": null,
+          "intervalo_confianza_95_acierto": null,
+          "brier": null,
+          "log_loss": null,
+          "unidades_net": null,
+          "roi_pct": null,
+          "cuota_media": null,
+          "apuestas_con_cuota": 0
+        },
+        "MAS DE 3.50": {
+          "partidos": 0,
+          "aciertos": 0,
+          "fallos": 0,
+          "acierto": null,
+          "intervalo_confianza_95_acierto": null,
+          "brier": null,
+          "log_loss": null,
+          "unidades_net": null,
+          "roi_pct": null,
+          "cuota_media": null,
+          "apuestas_con_cuota": 0
+        }
+      },
+      "PREMIUM": {
+        "MENOS DE 1.50": {
+          "partidos": 0,
+          "aciertos": 0,
+          "fallos": 0,
+          "acierto": null,
+          "intervalo_confianza_95_acierto": null,
+          "brier": null,
+          "log_loss": null,
+          "unidades_net": null,
+          "roi_pct": null,
+          "cuota_media": null,
+          "apuestas_con_cuota": 0
+        },
+        "1.50 AL 1.70": {
+          "partidos": 0,
+          "aciertos": 0,
+          "fallos": 0,
+          "acierto": null,
+          "intervalo_confianza_95_acierto": null,
+          "brier": null,
+          "log_loss": null,
+          "unidades_net": null,
+          "roi_pct": null,
+          "cuota_media": null,
+          "apuestas_con_cuota": 0
+        },
+        "1.70 AL 1.90": {
+          "partidos": 0,
+          "aciertos": 0,
+          "fallos": 0,
+          "acierto": null,
+          "intervalo_confianza_95_acierto": null,
+          "brier": null,
+          "log_loss": null,
+          "unidades_net": null,
+          "roi_pct": null,
+          "cuota_media": null,
+          "apuestas_con_cuota": 0
+        },
+        "1.90 AL 2.10": {
+          "partidos": 0,
+          "aciertos": 0,
+          "fallos": 0,
+          "acierto": null,
+          "intervalo_confianza_95_acierto": null,
+          "brier": null,
+          "log_loss": null,
+          "unidades_net": null,
+          "roi_pct": null,
+          "cuota_media": null,
+          "apuestas_con_cuota": 0
+        },
+        "2.10 AL 2.30": {
+          "partidos": 0,
+          "aciertos": 0,
+          "fallos": 0,
+          "acierto": null,
+          "intervalo_confianza_95_acierto": null,
+          "brier": null,
+          "log_loss": null,
+          "unidades_net": null,
+          "roi_pct": null,
+          "cuota_media": null,
+          "apuestas_con_cuota": 0
+        },
+        "2.30 AL 2.50": {
+          "partidos": 0,
+          "aciertos": 0,
+          "fallos": 0,
+          "acierto": null,
+          "intervalo_confianza_95_acierto": null,
+          "brier": null,
+          "log_loss": null,
+          "unidades_net": null,
+          "roi_pct": null,
+          "cuota_media": null,
+          "apuestas_con_cuota": 0
+        },
+        "2.50 AL 2.70": {
+          "partidos": 0,
+          "aciertos": 0,
+          "fallos": 0,
+          "acierto": null,
+          "intervalo_confianza_95_acierto": null,
+          "brier": null,
+          "log_loss": null,
+          "unidades_net": null,
+          "roi_pct": null,
+          "cuota_media": null,
+          "apuestas_con_cuota": 0
+        },
+        "2.70 AL 2.90": {
+          "partidos": 0,
+          "aciertos": 0,
+          "fallos": 0,
+          "acierto": null,
+          "intervalo_confianza_95_acierto": null,
+          "brier": null,
+          "log_loss": null,
+          "unidades_net": null,
+          "roi_pct": null,
+          "cuota_media": null,
+          "apuestas_con_cuota": 0
+        },
+        "2.90 AL 3.10": {
+          "partidos": 0,
+          "aciertos": 0,
+          "fallos": 0,
+          "acierto": null,
+          "intervalo_confianza_95_acierto": null,
+          "brier": null,
+          "log_loss": null,
+          "unidades_net": null,
+          "roi_pct": null,
+          "cuota_media": null,
+          "apuestas_con_cuota": 0
+        },
+        "3.10 AL 3.30": {
+          "partidos": 0,
+          "aciertos": 0,
+          "fallos": 0,
+          "acierto": null,
+          "intervalo_confianza_95_acierto": null,
+          "brier": null,
+          "log_loss": null,
+          "unidades_net": null,
+          "roi_pct": null,
+          "cuota_media": null,
+          "apuestas_con_cuota": 0
+        },
+        "3.30 AL 3.50": {
+          "partidos": 0,
+          "aciertos": 0,
+          "fallos": 0,
+          "acierto": null,
+          "intervalo_confianza_95_acierto": null,
+          "brier": null,
+          "log_loss": null,
+          "unidades_net": null,
+          "roi_pct": null,
+          "cuota_media": null,
+          "apuestas_con_cuota": 0
+        },
+        "MAS DE 3.50": {
+          "partidos": 0,
+          "aciertos": 0,
+          "fallos": 0,
+          "acierto": null,
+          "intervalo_confianza_95_acierto": null,
+          "brier": null,
+          "log_loss": null,
+          "unidades_net": null,
+          "roi_pct": null,
+          "cuota_media": null,
+          "apuestas_con_cuota": 0
+        }
+      }
+    }
+  }
 }
