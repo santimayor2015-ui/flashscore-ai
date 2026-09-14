@@ -1,1883 +1,5 @@
 [
     {
-        "fecha": "2026-09-13",
-        "hora": "20:15",
-        "local": "Cúcuta",
-        "visitante": "Millonarios",
-        "cuota_local": 4.5,
-        "cuota_empate": 3.55,
-        "cuota_visitante": 1.87,
-        "link": "https://www.flashscore.co/partido/futbol/cucuta-zs0leK3r/millonarios-OWsQjdID/?mid=YLg6MKA5",
-        "logo_local": "https://static.flashscore.com/res/image/data/IcgRTYAr-hCmseTFa.png",
-        "logo_visitante": "https://static.flashscore.com/res/image/data/COAjhCg5-6kduDy6P.png",
-        "pais": "COLOMBIA",
-        "liga": "PRIMERA A - CLAUSURA - JORNADA 10",
-        "h2h": {
-            "LOCAL10": [
-                {
-                    "fecha": "05.09.26",
-                    "local": "Cúcuta",
-                    "visitante": "Dep. Pasto",
-                    "goles_local": "2",
-                    "goles_visitante": "2"
-                },
-                {
-                    "fecha": "31.08.26",
-                    "local": "Tolima",
-                    "visitante": "Cúcuta",
-                    "goles_local": "2",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "25.08.26",
-                    "local": "Cúcuta",
-                    "visitante": "Alianza",
-                    "goles_local": "1",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "22.08.26",
-                    "local": "Ind. Medellín",
-                    "visitante": "Cúcuta",
-                    "goles_local": "0",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "19.08.26",
-                    "local": "Cúcuta",
-                    "visitante": "Inter Bogotá",
-                    "goles_local": "1",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "08.08.26",
-                    "local": "Fortaleza",
-                    "visitante": "Cúcuta",
-                    "goles_local": "2",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "03.08.26",
-                    "local": "Atl. Bucaramanga",
-                    "visitante": "Cúcuta",
-                    "goles_local": "1",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "26.07.26",
-                    "local": "Once Caldas",
-                    "visitante": "Cúcuta",
-                    "goles_local": "5",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "02.06.26",
-                    "local": "Ind. Medellín",
-                    "visitante": "Cúcuta",
-                    "goles_local": "2",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "29.05.26",
-                    "local": "Cúcuta",
-                    "visitante": "Fortaleza",
-                    "goles_local": "0",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "16.05.26",
-                    "local": "Cúcuta",
-                    "visitante": "Leones",
-                    "goles_local": "0",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "09.05.26",
-                    "local": "Orsomarso",
-                    "visitante": "Cúcuta",
-                    "goles_local": "1",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "02.05.26",
-                    "local": "Jaguares de Córdoba",
-                    "visitante": "Cúcuta",
-                    "goles_local": "2",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "24.04.26",
-                    "local": "Cúcuta",
-                    "visitante": "Junior",
-                    "goles_local": "1",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "19.04.26",
-                    "local": "Ind. Santa Fe",
-                    "visitante": "Cúcuta",
-                    "goles_local": "5",
-                    "goles_visitante": "0"
-                }
-            ],
-            "VISITANTE10": [
-                {
-                    "fecha": "10.09.26",
-                    "local": "Millonarios",
-                    "visitante": "Deportivo Cali",
-                    "goles_local": "1",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "06.09.26",
-                    "local": "Pereira",
-                    "visitante": "Millonarios",
-                    "goles_local": "1",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "02.09.26",
-                    "local": "Ind. Santa Fe",
-                    "visitante": "Millonarios",
-                    "goles_local": "3",
-                    "goles_visitante": "2"
-                },
-                {
-                    "fecha": "30.08.26",
-                    "local": "Millonarios",
-                    "visitante": "Inter Bogotá",
-                    "goles_local": "0",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "27.08.26",
-                    "local": "Llaneros",
-                    "visitante": "Millonarios",
-                    "goles_local": "0",
-                    "goles_visitante": "2"
-                },
-                {
-                    "fecha": "22.08.26",
-                    "local": "Águilas Doradas",
-                    "visitante": "Millonarios",
-                    "goles_local": "1",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "04.08.26",
-                    "local": "Millonarios",
-                    "visitante": "Dep. Pasto",
-                    "goles_local": "2",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "01.08.26",
-                    "local": "Junior",
-                    "visitante": "Millonarios",
-                    "goles_local": "0",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "25.07.26",
-                    "local": "Millonarios",
-                    "visitante": "Atl. Bucaramanga",
-                    "goles_local": "0",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "18.07.26",
-                    "local": "Millonarios",
-                    "visitante": "Colo Colo",
-                    "goles_local": "0",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "11.07.26",
-                    "local": "Universitario",
-                    "visitante": "Millonarios",
-                    "goles_local": "2",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "29.05.26",
-                    "local": "Atletico F.C.",
-                    "visitante": "Millonarios",
-                    "goles_local": "1",
-                    "goles_visitante": "8"
-                },
-                {
-                    "fecha": "26.05.26",
-                    "local": "Millonarios",
-                    "visitante": "O'Higgins",
-                    "goles_local": "1",
-                    "goles_visitante": "2"
-                },
-                {
-                    "fecha": "23.05.26",
-                    "local": "Millonarios",
-                    "visitante": "Boyacá Chicó",
-                    "goles_local": "2",
-                    "goles_visitante": "2"
-                },
-                {
-                    "fecha": "19.05.26",
-                    "local": "Sao Paulo",
-                    "visitante": "Millonarios",
-                    "goles_local": "1",
-                    "goles_visitante": "1"
-                }
-            ],
-            "H2H": [
-                {
-                    "fecha": "09.03.26",
-                    "local": "Millonarios",
-                    "visitante": "Cúcuta",
-                    "goles_local": "2",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "05.11.23",
-                    "local": "Cúcuta",
-                    "visitante": "Millonarios",
-                    "goles_local": "1",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "02.11.23",
-                    "local": "Millonarios",
-                    "visitante": "Cúcuta",
-                    "goles_local": "1",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "30.01.20",
-                    "local": "Cúcuta",
-                    "visitante": "Millonarios",
-                    "goles_local": "1",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "02.10.19",
-                    "local": "Cúcuta",
-                    "visitante": "Millonarios",
-                    "goles_local": "3",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "07.04.19",
-                    "local": "Millonarios",
-                    "visitante": "Cúcuta",
-                    "goles_local": "1",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "31.07.15",
-                    "local": "Cúcuta",
-                    "visitante": "Millonarios",
-                    "goles_local": "1",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "14.02.15",
-                    "local": "Millonarios",
-                    "visitante": "Cúcuta",
-                    "goles_local": "3",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "28.08.13",
-                    "local": "Cúcuta",
-                    "visitante": "Millonarios",
-                    "goles_local": "0",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "17.03.13",
-                    "local": "Millonarios",
-                    "visitante": "Cúcuta",
-                    "goles_local": "2",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "06.10.12",
-                    "local": "Millonarios",
-                    "visitante": "Cúcuta",
-                    "goles_local": "1",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "22.04.12",
-                    "local": "Cúcuta",
-                    "visitante": "Millonarios",
-                    "goles_local": "2",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "01.09.11",
-                    "local": "Millonarios",
-                    "visitante": "Cúcuta",
-                    "goles_local": "1",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "13.02.11",
-                    "local": "Cúcuta",
-                    "visitante": "Millonarios",
-                    "goles_local": "0",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "23.09.10",
-                    "local": "Cúcuta",
-                    "visitante": "Millonarios",
-                    "goles_local": "0",
-                    "goles_visitante": "1"
-                }
-            ]
-        },
-        "analisis": {
-            "motor": "Motor_analitico",
-            "version": "4.0",
-            "partido": {
-                "local": "Cúcuta",
-                "visitante": "Millonarios"
-            },
-            "analisis_final": {
-                "1X2": {
-                    "Local": 26.89,
-                    "Empate": 29.85,
-                    "Visitante": 43.26
-                },
-                "recomendacion": {
-                    "mercado": "X2",
-                    "probabilidad": 73.11,
-                    "estado": "DOBLE",
-                    "motivo": "El 1X2 directo no supera el filtro; se conserva cobertura.",
-                    "cuota": 1.85
-                },
-                "marcadores": [
-                    {
-                        "marcador": "1-1",
-                        "probabilidad": 14.59
-                    },
-                    {
-                        "marcador": "0-0",
-                        "probabilidad": 11.41
-                    }
-                ],
-                "btts": {
-                    "resultado": "SI",
-                    "probabilidad": 51.76
-                },
-                "over_under": {
-                    "mercado": "Over 1.5",
-                    "probabilidad": 68.1
-                },
-                "confianza": {
-                    "score": 75.87,
-                    "nivel": "ALTA"
-                },
-                "riesgo": {
-                    "score": 60.62,
-                    "nivel": "MEDIO"
-                },
-                "consistencia": {
-                    "estado": "MODERADAMENTE CONSISTENTE",
-                    "diferencia_maxima_puntos": 2.72,
-                    "detalle": "Poisson y Monte Carlo presentan pequeñas diferencias de estimación."
-                },
-                "consenso_modelos": {
-                    "poisson": {
-                        "resultado": "1",
-                        "nombre": "Cúcuta",
-                        "probabilidad": 36.01
-                    },
-                    "monte_carlo": {
-                        "resultado": "1",
-                        "nombre": "Cúcuta",
-                        "probabilidad": 37.49
-                    },
-                    "coinciden": true,
-                    "resultado_consenso": "1",
-                    "nombre_consenso": "Cúcuta",
-                    "probabilidad_consenso": 36.75,
-                    "diferencia_puntos": 1.48,
-                    "marcador_1": {
-                        "marcador": "1-1",
-                        "resultado": "X",
-                        "confirma_consenso": false
-                    },
-                    "marcador_2": {
-                        "marcador": "0-0",
-                        "resultado": "X",
-                        "confirma_consenso": false
-                    }
-                },
-                "muestra": {
-                    "local": 15,
-                    "local_objetivo": 15,
-                    "visitante": 15,
-                    "visitante_objetivo": 15,
-                    "h2h": 15
-                },
-                "value": {
-                    "hay_valor": true,
-                    "mercado": "Local",
-                    "edge": 6.58,
-                    "ev": 27.73,
-                    "cuota": 4.75
-                }
-            },
-            "select": {
-                "activo": false,
-                "motivo": "Hay consenso entre modelos, pero el marcador 1 no confirma la recomendación.",
-                "mercado_principal": "X2",
-                "probabilidad": 73.11,
-                "marcador_1": "1-1",
-                "probabilidad_marcador_1": 14.59,
-                "marcador_2": "0-0",
-                "probabilidad_marcador_2": 11.41,
-                "btts": "SI",
-                "probabilidad_btts": 51.76,
-                "over_under": "Over 1.5",
-                "probabilidad_over_under": 68.1,
-                "confianza": 75.87,
-                "riesgo": 60.62,
-                "edge": 6.58,
-                "resultado": "1",
-                "recomendacion": "Cúcuta",
-                "probabilidad_consenso": 36.75,
-                "consenso": true,
-                "poisson": {
-                    "resultado": "1",
-                    "nombre": "Cúcuta",
-                    "probabilidad": 36.01
-                },
-                "monte_carlo": {
-                    "resultado": "1",
-                    "nombre": "Cúcuta",
-                    "probabilidad": 37.49
-                },
-                "confirma_marcador_1": false
-            },
-            "premium": {
-                "activo": false,
-                "motivo": "El marcador 1 no confirma la recomendación del consenso.",
-                "mercado_principal": "X2",
-                "probabilidad": 73.11,
-                "marcador_1": "1-1",
-                "probabilidad_marcador_1": 14.59,
-                "marcador_2": "0-0",
-                "probabilidad_marcador_2": 11.41,
-                "btts": "SI",
-                "probabilidad_btts": 51.76,
-                "over_under": "Over 1.5",
-                "probabilidad_over_under": 68.1,
-                "confianza": 75.87,
-                "riesgo": 60.62,
-                "edge": 6.58,
-                "resultado": "1",
-                "recomendacion": "Cúcuta",
-                "probabilidad_consenso": 36.75,
-                "consenso": true,
-                "poisson": {
-                    "resultado": "1",
-                    "nombre": "Cúcuta",
-                    "probabilidad": 36.01
-                },
-                "monte_carlo": {
-                    "resultado": "1",
-                    "nombre": "Cúcuta",
-                    "probabilidad": 37.49
-                },
-                "confirma_marcador_1": false,
-                "confirma_marcador_2": false
-            }
-        }
-    },
-    {
-        "fecha": "2026-09-13",
-        "hora": "20:00",
-        "local": "San Diego FC",
-        "visitante": "Philadelphia Union",
-        "cuota_local": 2.64,
-        "cuota_empate": 3.85,
-        "cuota_visitante": 2.38,
-        "link": "https://www.flashscore.co/partido/futbol/philadelphia-union-Szrwix67/san-diego-fc-EuGkBf33/?mid=dl3nPp7j",
-        "logo_local": "https://static.flashscore.com/res/image/data/pQjpOMWg-b7NYdTs6.png",
-        "logo_visitante": "https://static.flashscore.com/res/image/data/WhcH7sZg-juuH5vx4.png",
-        "pais": "ESTADOS UNIDOS",
-        "liga": "MLS",
-        "h2h": {
-            "LOCAL10": [
-                {
-                    "fecha": "09.09.26",
-                    "local": "San Diego FC",
-                    "visitante": "San Jose Earthquakes",
-                    "goles_local": "2",
-                    "goles_visitante": "3"
-                },
-                {
-                    "fecha": "05.09.26",
-                    "local": "Orlando City",
-                    "visitante": "San Diego FC",
-                    "goles_local": "1",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "29.08.26",
-                    "local": "San Diego FC",
-                    "visitante": "Los Angeles Galaxy",
-                    "goles_local": "3",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "22.08.26",
-                    "local": "San Diego FC",
-                    "visitante": "Colorado Rapids",
-                    "goles_local": "3",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "19.08.26",
-                    "local": "Portland Timbers",
-                    "visitante": "San Diego FC",
-                    "goles_local": "3",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "15.08.26",
-                    "local": "Los Angeles FC",
-                    "visitante": "San Diego FC",
-                    "goles_local": "0",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "12.08.26",
-                    "local": "San Diego FC",
-                    "visitante": "Puebla",
-                    "goles_local": "3",
-                    "goles_visitante": "2"
-                },
-                {
-                    "fecha": "09.08.26",
-                    "local": "San Diego FC",
-                    "visitante": "Tijuana",
-                    "goles_local": "1",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "06.08.26",
-                    "local": "Club América",
-                    "visitante": "San Diego FC",
-                    "goles_local": "3",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "01.08.26",
-                    "local": "Minnesota United",
-                    "visitante": "San Diego FC",
-                    "goles_local": "1",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "25.07.26",
-                    "local": "San Diego FC",
-                    "visitante": "FC Dallas",
-                    "goles_local": "1",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "22.07.26",
-                    "local": "Colorado Rapids",
-                    "visitante": "San Diego FC",
-                    "goles_local": "1",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "23.05.26",
-                    "local": "San Diego FC",
-                    "visitante": "Vancouver Whitecaps",
-                    "goles_local": "2",
-                    "goles_visitante": "4"
-                },
-                {
-                    "fecha": "16.05.26",
-                    "local": "San Diego FC",
-                    "visitante": "Cincinnati",
-                    "goles_local": "3",
-                    "goles_visitante": "3"
-                },
-                {
-                    "fecha": "13.05.26",
-                    "local": "San Diego FC",
-                    "visitante": "Austin FC",
-                    "goles_local": "5",
-                    "goles_visitante": "0"
-                }
-            ],
-            "VISITANTE10": [
-                {
-                    "fecha": "09.09.26",
-                    "local": "Philadelphia Union",
-                    "visitante": "Cincinnati",
-                    "goles_local": "5",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "05.09.26",
-                    "local": "Philadelphia Union",
-                    "visitante": "CF Montreal",
-                    "goles_local": "2",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "29.08.26",
-                    "local": "New York Red Bulls",
-                    "visitante": "Philadelphia Union",
-                    "goles_local": "1",
-                    "goles_visitante": "3"
-                },
-                {
-                    "fecha": "22.08.26",
-                    "local": "Austin FC",
-                    "visitante": "Philadelphia Union",
-                    "goles_local": "1",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "19.08.26",
-                    "local": "Philadelphia Union",
-                    "visitante": "Inter Miami",
-                    "goles_local": "2",
-                    "goles_visitante": "2"
-                },
-                {
-                    "fecha": "16.08.26",
-                    "local": "New York City",
-                    "visitante": "Philadelphia Union",
-                    "goles_local": "2",
-                    "goles_visitante": "3"
-                },
-                {
-                    "fecha": "13.08.26",
-                    "local": "Philadelphia Union",
-                    "visitante": "Santos Laguna",
-                    "goles_local": "0",
-                    "goles_visitante": "2"
-                },
-                {
-                    "fecha": "09.08.26",
-                    "local": "Philadelphia Union",
-                    "visitante": "Necaxa",
-                    "goles_local": "3",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "06.08.26",
-                    "local": "Cruz Azul",
-                    "visitante": "Philadelphia Union",
-                    "goles_local": "1",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "01.08.26",
-                    "local": "Philadelphia Union",
-                    "visitante": "Atlanta Utd",
-                    "goles_local": "3",
-                    "goles_visitante": "2"
-                },
-                {
-                    "fecha": "25.07.26",
-                    "local": "Philadelphia Union",
-                    "visitante": "Seattle Sounders",
-                    "goles_local": "1",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "22.07.26",
-                    "local": "Philadelphia Union",
-                    "visitante": "New York Red Bulls",
-                    "goles_local": "3",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "24.05.26",
-                    "local": "Inter Miami",
-                    "visitante": "Philadelphia Union",
-                    "goles_local": "6",
-                    "goles_visitante": "4"
-                },
-                {
-                    "fecha": "16.05.26",
-                    "local": "Philadelphia Union",
-                    "visitante": "Columbus Crew",
-                    "goles_local": "1",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "13.05.26",
-                    "local": "Orlando City",
-                    "visitante": "Philadelphia Union",
-                    "goles_local": "4",
-                    "goles_visitante": "3"
-                }
-            ],
-            "H2H": []
-        },
-        "analisis": {
-            "motor": "Motor_analitico",
-            "version": "4.0",
-            "partido": {
-                "local": "San Diego FC",
-                "visitante": "Philadelphia Union"
-            },
-            "analisis_final": {
-                "1X2": {
-                    "Local": 42.17,
-                    "Empate": 25.09,
-                    "Visitante": 32.75
-                },
-                "recomendacion": {
-                    "mercado": "12",
-                    "probabilidad": 74.92,
-                    "estado": "DOBLE",
-                    "motivo": "El 1X2 directo no supera el filtro; se conserva cobertura.",
-                    "cuota": 2.52
-                },
-                "marcadores": [
-                    {
-                        "marcador": "1-1",
-                        "probabilidad": 12.13
-                    },
-                    {
-                        "marcador": "2-1",
-                        "probabilidad": 9.37
-                    }
-                ],
-                "btts": {
-                    "resultado": "SI",
-                    "probabilidad": 58.91
-                },
-                "over_under": {
-                    "mercado": "Over 1.5",
-                    "probabilidad": 81.04
-                },
-                "confianza": {
-                    "score": 62.92,
-                    "nivel": "MEDIA"
-                },
-                "riesgo": {
-                    "score": 68.86,
-                    "nivel": "ALTO"
-                },
-                "consistencia": {
-                    "estado": "MODERADAMENTE CONSISTENTE",
-                    "diferencia_maxima_puntos": 2.33,
-                    "detalle": "Poisson y Monte Carlo presentan pequeñas diferencias de estimación."
-                },
-                "consenso_modelos": {
-                    "poisson": {
-                        "resultado": "1",
-                        "nombre": "San Diego FC",
-                        "probabilidad": 45.92
-                    },
-                    "monte_carlo": {
-                        "resultado": "1",
-                        "nombre": "San Diego FC",
-                        "probabilidad": 47.17
-                    },
-                    "coinciden": true,
-                    "resultado_consenso": "1",
-                    "nombre_consenso": "San Diego FC",
-                    "probabilidad_consenso": 46.55,
-                    "diferencia_puntos": 1.25,
-                    "marcador_1": {
-                        "marcador": "1-1",
-                        "resultado": "X",
-                        "confirma_consenso": false
-                    },
-                    "marcador_2": {
-                        "marcador": "2-1",
-                        "resultado": "1",
-                        "confirma_consenso": true
-                    }
-                },
-                "muestra": {
-                    "local": 15,
-                    "local_objetivo": 15,
-                    "visitante": 15,
-                    "visitante_objetivo": 15,
-                    "h2h": 0
-                },
-                "value": {
-                    "hay_valor": true,
-                    "mercado": "Local",
-                    "edge": 4.72,
-                    "ev": 6.27,
-                    "cuota": 2.52
-                }
-            },
-            "select": {
-                "activo": false,
-                "motivo": "Hay consenso entre modelos, pero el marcador 1 no confirma la recomendación.",
-                "mercado_principal": "12",
-                "probabilidad": 74.92,
-                "marcador_1": "1-1",
-                "probabilidad_marcador_1": 12.13,
-                "marcador_2": "2-1",
-                "probabilidad_marcador_2": 9.37,
-                "btts": "SI",
-                "probabilidad_btts": 58.91,
-                "over_under": "Over 1.5",
-                "probabilidad_over_under": 81.04,
-                "confianza": 62.92,
-                "riesgo": 68.86,
-                "edge": 4.72,
-                "resultado": "1",
-                "recomendacion": "San Diego FC",
-                "probabilidad_consenso": 46.55,
-                "consenso": true,
-                "poisson": {
-                    "resultado": "1",
-                    "nombre": "San Diego FC",
-                    "probabilidad": 45.92
-                },
-                "monte_carlo": {
-                    "resultado": "1",
-                    "nombre": "San Diego FC",
-                    "probabilidad": 47.17
-                },
-                "confirma_marcador_1": false
-            },
-            "premium": {
-                "activo": false,
-                "motivo": "El marcador 1 no confirma la recomendación del consenso.",
-                "mercado_principal": "12",
-                "probabilidad": 74.92,
-                "marcador_1": "1-1",
-                "probabilidad_marcador_1": 12.13,
-                "marcador_2": "2-1",
-                "probabilidad_marcador_2": 9.37,
-                "btts": "SI",
-                "probabilidad_btts": 58.91,
-                "over_under": "Over 1.5",
-                "probabilidad_over_under": 81.04,
-                "confianza": 62.92,
-                "riesgo": 68.86,
-                "edge": 4.72,
-                "resultado": "1",
-                "recomendacion": "San Diego FC",
-                "probabilidad_consenso": 46.55,
-                "consenso": true,
-                "poisson": {
-                    "resultado": "1",
-                    "nombre": "San Diego FC",
-                    "probabilidad": 45.92
-                },
-                "monte_carlo": {
-                    "resultado": "1",
-                    "nombre": "San Diego FC",
-                    "probabilidad": 47.17
-                },
-                "confirma_marcador_1": false,
-                "confirma_marcador_2": true
-            }
-        }
-    },
-    {
-        "fecha": "2026-09-13",
-        "hora": "20:00",
-        "local": "Santos Laguna",
-        "visitante": "Juárez",
-        "cuota_local": 1.98,
-        "cuota_empate": 3.7,
-        "cuota_visitante": 3.5,
-        "link": "https://www.flashscore.co/partido/futbol/juarez-2wZp8NAh/santos-laguna-EBPEFrRQ/?mid=lpC1RJV9",
-        "logo_local": "https://static.flashscore.com/res/image/data/foFgA8Cr-bmPslben.png",
-        "logo_visitante": "https://static.flashscore.com/res/image/data/EyCbOdXg-OSiYNR3p.png",
-        "pais": "MÉXICO",
-        "liga": "LIGA MX - APERTURA - JORNADA 8",
-        "h2h": {
-            "LOCAL10": [
-                {
-                    "fecha": "06.09.26",
-                    "local": "Cruz Azul",
-                    "visitante": "Santos Laguna",
-                    "goles_local": "1",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "29.08.26",
-                    "local": "Santos Laguna",
-                    "visitante": "Tigres UANL",
-                    "goles_local": "0",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "22.08.26",
-                    "local": "Puebla",
-                    "visitante": "Santos Laguna",
-                    "goles_local": "3",
-                    "goles_visitante": "2"
-                },
-                {
-                    "fecha": "16.08.26",
-                    "local": "Santos Laguna",
-                    "visitante": "Guadalajara",
-                    "goles_local": "0",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "13.08.26",
-                    "local": "Philadelphia Union",
-                    "visitante": "Santos Laguna",
-                    "goles_local": "0",
-                    "goles_visitante": "2"
-                },
-                {
-                    "fecha": "09.08.26",
-                    "local": "Chicago Fire",
-                    "visitante": "Santos Laguna",
-                    "goles_local": "3",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "06.08.26",
-                    "local": "New York City",
-                    "visitante": "Santos Laguna",
-                    "goles_local": "2",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "02.08.26",
-                    "local": "Club América",
-                    "visitante": "Santos Laguna",
-                    "goles_local": "3",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "25.07.26",
-                    "local": "Santos Laguna",
-                    "visitante": "Atlas",
-                    "goles_local": "0",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "18.07.26",
-                    "local": "Monterrey",
-                    "visitante": "Santos Laguna",
-                    "goles_local": "3",
-                    "goles_visitante": "2"
-                },
-                {
-                    "fecha": "09.07.26",
-                    "local": "Santos Laguna",
-                    "visitante": "América de Cali",
-                    "goles_local": "0",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "28.06.26",
-                    "local": "New York Cosmos",
-                    "visitante": "Santos Laguna",
-                    "goles_local": "1",
-                    "goles_visitante": "2"
-                },
-                {
-                    "fecha": "23.06.26",
-                    "local": "Annapolis Blues",
-                    "visitante": "Santos Laguna",
-                    "goles_local": "0",
-                    "goles_visitante": "2"
-                },
-                {
-                    "fecha": "26.04.26",
-                    "local": "Santos Laguna",
-                    "visitante": "Monterrey",
-                    "goles_local": "3",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "22.04.26",
-                    "local": "Atlético de San Luis",
-                    "visitante": "Santos Laguna",
-                    "goles_local": "2",
-                    "goles_visitante": "0"
-                }
-            ],
-            "VISITANTE10": [
-                {
-                    "fecha": "04.09.26",
-                    "local": "Juárez",
-                    "visitante": "Pachuca",
-                    "goles_local": "0",
-                    "goles_visitante": "2"
-                },
-                {
-                    "fecha": "30.08.26",
-                    "local": "Toluca",
-                    "visitante": "Juárez",
-                    "goles_local": "4",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "21.08.26",
-                    "local": "Juárez",
-                    "visitante": "Club América",
-                    "goles_local": "1",
-                    "goles_visitante": "2"
-                },
-                {
-                    "fecha": "15.08.26",
-                    "local": "Monterrey",
-                    "visitante": "Juárez",
-                    "goles_local": "6",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "11.08.26",
-                    "local": "Real Salt Lake",
-                    "visitante": "Juárez",
-                    "goles_local": "3",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "07.08.26",
-                    "local": "Vancouver Whitecaps",
-                    "visitante": "Juárez",
-                    "goles_local": "1",
-                    "goles_visitante": "3"
-                },
-                {
-                    "fecha": "04.08.26",
-                    "local": "Minnesota United",
-                    "visitante": "Juárez",
-                    "goles_local": "1",
-                    "goles_visitante": "2"
-                },
-                {
-                    "fecha": "31.07.26",
-                    "local": "Juárez",
-                    "visitante": "Pumas UNAM",
-                    "goles_local": "1",
-                    "goles_visitante": "5"
-                },
-                {
-                    "fecha": "25.07.26",
-                    "local": "Guadalajara",
-                    "visitante": "Juárez",
-                    "goles_local": "1",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "17.07.26",
-                    "local": "Juárez",
-                    "visitante": "Puebla",
-                    "goles_local": "0",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "09.07.26",
-                    "local": "Colorado Rapids",
-                    "visitante": "Juárez",
-                    "goles_local": "1",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "04.07.26",
-                    "local": "Mineros",
-                    "visitante": "Juárez",
-                    "goles_local": "1",
-                    "goles_visitante": "3"
-                },
-                {
-                    "fecha": "01.07.26",
-                    "local": "Juárez",
-                    "visitante": "Atl. La Paz",
-                    "goles_local": "2",
-                    "goles_visitante": "2"
-                },
-                {
-                    "fecha": "27.06.26",
-                    "local": "Juárez",
-                    "visitante": "Atlante",
-                    "goles_local": "2",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "25.04.26",
-                    "local": "Juárez",
-                    "visitante": "Atlético de San Luis",
-                    "goles_local": "2",
-                    "goles_visitante": "1"
-                }
-            ],
-            "H2H": [
-                {
-                    "fecha": "18.01.26",
-                    "local": "Santos Laguna",
-                    "visitante": "Juárez",
-                    "goles_local": "2",
-                    "goles_visitante": "2"
-                },
-                {
-                    "fecha": "22.08.25",
-                    "local": "Juárez",
-                    "visitante": "Santos Laguna",
-                    "goles_local": "2",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "29.01.25",
-                    "local": "Juárez",
-                    "visitante": "Santos Laguna",
-                    "goles_local": "1",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "06.10.24",
-                    "local": "Santos Laguna",
-                    "visitante": "Juárez",
-                    "goles_local": "0",
-                    "goles_visitante": "2"
-                },
-                {
-                    "fecha": "31.03.24",
-                    "local": "Juárez",
-                    "visitante": "Santos Laguna",
-                    "goles_local": "2",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "29.10.23",
-                    "local": "Santos Laguna",
-                    "visitante": "Juárez",
-                    "goles_local": "5",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "11.02.23",
-                    "local": "Juárez",
-                    "visitante": "Santos Laguna",
-                    "goles_local": "3",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "18.09.22",
-                    "local": "Santos Laguna",
-                    "visitante": "Juárez",
-                    "goles_local": "2",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "18.02.22",
-                    "local": "Juárez",
-                    "visitante": "Santos Laguna",
-                    "goles_local": "0",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "29.08.21",
-                    "local": "Santos Laguna",
-                    "visitante": "Juárez",
-                    "goles_local": "2",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "28.02.21",
-                    "local": "Santos Laguna",
-                    "visitante": "Juárez",
-                    "goles_local": "3",
-                    "goles_visitante": "2"
-                },
-                {
-                    "fecha": "04.09.20",
-                    "local": "Juárez",
-                    "visitante": "Santos Laguna",
-                    "goles_local": "1",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "23.02.20",
-                    "local": "Juárez",
-                    "visitante": "Santos Laguna",
-                    "goles_local": "1",
-                    "goles_visitante": "2"
-                },
-                {
-                    "fecha": "28.07.19",
-                    "local": "Santos Laguna",
-                    "visitante": "Juárez",
-                    "goles_local": "3",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "13.09.17",
-                    "local": "Juárez",
-                    "visitante": "Santos Laguna",
-                    "goles_local": "0",
-                    "goles_visitante": "3"
-                }
-            ]
-        },
-        "analisis": {
-            "motor": "Motor_analitico",
-            "version": "4.0",
-            "partido": {
-                "local": "Santos Laguna",
-                "visitante": "Juárez"
-            },
-            "analisis_final": {
-                "1X2": {
-                    "Local": 45.48,
-                    "Empate": 27.5,
-                    "Visitante": 27.01
-                },
-                "recomendacion": {
-                    "mercado": "1X",
-                    "probabilidad": 72.98,
-                    "estado": "DOBLE",
-                    "motivo": "El 1X2 directo no supera el filtro; se conserva cobertura.",
-                    "cuota": 1.98
-                },
-                "marcadores": [
-                    {
-                        "marcador": "1-1",
-                        "probabilidad": 14.38
-                    },
-                    {
-                        "marcador": "1-0",
-                        "probabilidad": 13.45
-                    }
-                ],
-                "btts": {
-                    "resultado": "NO",
-                    "probabilidad": 42.39
-                },
-                "over_under": {
-                    "mercado": "Over 1.5",
-                    "probabilidad": 64.31
-                },
-                "confianza": {
-                    "score": 83.16,
-                    "nivel": "ALTA"
-                },
-                "riesgo": {
-                    "score": 59.7,
-                    "nivel": "MEDIO"
-                },
-                "consistencia": {
-                    "estado": "MODERADAMENTE CONSISTENTE",
-                    "diferencia_maxima_puntos": 2.65,
-                    "detalle": "Poisson y Monte Carlo presentan pequeñas diferencias de estimación."
-                },
-                "consenso_modelos": {
-                    "poisson": {
-                        "resultado": "1",
-                        "nombre": "Santos Laguna",
-                        "probabilidad": 43.47
-                    },
-                    "monte_carlo": {
-                        "resultado": "1",
-                        "nombre": "Santos Laguna",
-                        "probabilidad": 44.89
-                    },
-                    "coinciden": true,
-                    "resultado_consenso": "1",
-                    "nombre_consenso": "Santos Laguna",
-                    "probabilidad_consenso": 44.18,
-                    "diferencia_puntos": 1.42,
-                    "marcador_1": {
-                        "marcador": "1-1",
-                        "resultado": "X",
-                        "confirma_consenso": false
-                    },
-                    "marcador_2": {
-                        "marcador": "1-0",
-                        "resultado": "1",
-                        "confirma_consenso": true
-                    }
-                },
-                "muestra": {
-                    "local": 15,
-                    "local_objetivo": 15,
-                    "visitante": 15,
-                    "visitante_objetivo": 15,
-                    "h2h": 15
-                },
-                "value": {
-                    "hay_valor": true,
-                    "mercado": "Empate",
-                    "edge": 3.31,
-                    "ev": 7.25,
-                    "cuota": 3.9
-                }
-            },
-            "select": {
-                "activo": false,
-                "motivo": "Hay consenso entre modelos, pero el marcador 1 no confirma la recomendación.",
-                "mercado_principal": "1X",
-                "probabilidad": 72.98,
-                "marcador_1": "1-1",
-                "probabilidad_marcador_1": 14.38,
-                "marcador_2": "1-0",
-                "probabilidad_marcador_2": 13.45,
-                "btts": "NO",
-                "probabilidad_btts": 42.39,
-                "over_under": "Over 1.5",
-                "probabilidad_over_under": 64.31,
-                "confianza": 83.16,
-                "riesgo": 59.7,
-                "edge": 3.31,
-                "resultado": "1",
-                "recomendacion": "Santos Laguna",
-                "probabilidad_consenso": 44.18,
-                "consenso": true,
-                "poisson": {
-                    "resultado": "1",
-                    "nombre": "Santos Laguna",
-                    "probabilidad": 43.47
-                },
-                "monte_carlo": {
-                    "resultado": "1",
-                    "nombre": "Santos Laguna",
-                    "probabilidad": 44.89
-                },
-                "confirma_marcador_1": false
-            },
-            "premium": {
-                "activo": false,
-                "motivo": "El marcador 1 no confirma la recomendación del consenso.",
-                "mercado_principal": "1X",
-                "probabilidad": 72.98,
-                "marcador_1": "1-1",
-                "probabilidad_marcador_1": 14.38,
-                "marcador_2": "1-0",
-                "probabilidad_marcador_2": 13.45,
-                "btts": "NO",
-                "probabilidad_btts": 42.39,
-                "over_under": "Over 1.5",
-                "probabilidad_over_under": 64.31,
-                "confianza": 83.16,
-                "riesgo": 59.7,
-                "edge": 3.31,
-                "resultado": "1",
-                "recomendacion": "Santos Laguna",
-                "probabilidad_consenso": 44.18,
-                "consenso": true,
-                "poisson": {
-                    "resultado": "1",
-                    "nombre": "Santos Laguna",
-                    "probabilidad": 43.47
-                },
-                "monte_carlo": {
-                    "resultado": "1",
-                    "nombre": "Santos Laguna",
-                    "probabilidad": 44.89
-                },
-                "confirma_marcador_1": false,
-                "confirma_marcador_2": true
-            }
-        }
-    },
-    {
-        "fecha": "2026-09-13",
-        "hora": "20:07",
-        "local": "Guadalajara",
-        "visitante": "Pumas UNAM",
-        "cuota_local": 1.5,
-        "cuota_empate": 4.4,
-        "cuota_visitante": 6.2,
-        "link": "https://www.flashscore.co/partido/futbol/guadalajara-Y5TaMKY6/u-n-a-m-UB73mIXI/?mid=McA9Pc0M",
-        "logo_local": "https://static.flashscore.com/res/image/data/ro844CyS-lEs0thDm.png",
-        "logo_visitante": "https://static.flashscore.com/res/image/data/2mlyLKEG-pEQGCKC1.png",
-        "pais": "MÉXICO",
-        "liga": "LIGA MX - APERTURA - JORNADA 8",
-        "h2h": {
-            "LOCAL10": [
-                {
-                    "fecha": "05.09.26",
-                    "local": "Atlético de San Luis",
-                    "visitante": "Guadalajara",
-                    "goles_local": "0",
-                    "goles_visitante": "3"
-                },
-                {
-                    "fecha": "29.08.26",
-                    "local": "Pachuca",
-                    "visitante": "Guadalajara",
-                    "goles_local": "1",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "22.08.26",
-                    "local": "Guadalajara",
-                    "visitante": "Tijuana",
-                    "goles_local": "5",
-                    "goles_visitante": "2"
-                },
-                {
-                    "fecha": "16.08.26",
-                    "local": "Santos Laguna",
-                    "visitante": "Guadalajara",
-                    "goles_local": "0",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "12.08.26",
-                    "local": "Seattle Sounders",
-                    "visitante": "Guadalajara",
-                    "goles_local": "1",
-                    "goles_visitante": "2"
-                },
-                {
-                    "fecha": "08.08.26",
-                    "local": "Guadalajara",
-                    "visitante": "FC Dallas",
-                    "goles_local": "0",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "05.08.26\nTras pen.",
-                    "local": "Los Angeles FC",
-                    "visitante": "Guadalajara",
-                    "goles_local": "1\n(5)",
-                    "goles_visitante": "1\n(4)"
-                },
-                {
-                    "fecha": "31.07.26",
-                    "local": "Puebla",
-                    "visitante": "Guadalajara",
-                    "goles_local": "1",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "25.07.26",
-                    "local": "Guadalajara",
-                    "visitante": "Juárez",
-                    "goles_local": "1",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "18.07.26",
-                    "local": "Guadalajara",
-                    "visitante": "Toluca",
-                    "goles_local": "0",
-                    "goles_visitante": "2"
-                },
-                {
-                    "fecha": "03.07.26",
-                    "local": "Correcaminos U.A.T.",
-                    "visitante": "Guadalajara",
-                    "goles_local": "0",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "16.05.26",
-                    "local": "Guadalajara",
-                    "visitante": "Cruz Azul",
-                    "goles_local": "1",
-                    "goles_visitante": "2"
-                },
-                {
-                    "fecha": "13.05.26",
-                    "local": "Cruz Azul",
-                    "visitante": "Guadalajara",
-                    "goles_local": "2",
-                    "goles_visitante": "2"
-                },
-                {
-                    "fecha": "09.05.26",
-                    "local": "Guadalajara",
-                    "visitante": "Tigres UANL",
-                    "goles_local": "2",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "02.05.26",
-                    "local": "Tigres UANL",
-                    "visitante": "Guadalajara",
-                    "goles_local": "3",
-                    "goles_visitante": "1"
-                }
-            ],
-            "VISITANTE10": [
-                {
-                    "fecha": "10.09.26",
-                    "local": "Pumas UNAM",
-                    "visitante": "León",
-                    "goles_local": "3",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "28.08.26",
-                    "local": "Tijuana",
-                    "visitante": "Pumas UNAM",
-                    "goles_local": "2",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "23.08.26",
-                    "local": "Pumas UNAM",
-                    "visitante": "Necaxa",
-                    "goles_local": "1",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "16.08.26",
-                    "local": "Pumas UNAM",
-                    "visitante": "Querétaro",
-                    "goles_local": "0",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "11.08.26\nTras pen.",
-                    "local": "Columbus Crew",
-                    "visitante": "Pumas UNAM",
-                    "goles_local": "1\n(3)",
-                    "goles_visitante": "1\n(2)"
-                },
-                {
-                    "fecha": "07.08.26",
-                    "local": "Cincinnati",
-                    "visitante": "Pumas UNAM",
-                    "goles_local": "2",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "04.08.26",
-                    "local": "Charlotte",
-                    "visitante": "Pumas UNAM",
-                    "goles_local": "3",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "31.07.26",
-                    "local": "Juárez",
-                    "visitante": "Pumas UNAM",
-                    "goles_local": "1",
-                    "goles_visitante": "5"
-                },
-                {
-                    "fecha": "21.07.26",
-                    "local": "Toluca",
-                    "visitante": "Pumas UNAM",
-                    "goles_local": "1",
-                    "goles_visitante": "2"
-                },
-                {
-                    "fecha": "18.07.26",
-                    "local": "Pumas UNAM",
-                    "visitante": "Pachuca",
-                    "goles_local": "0",
-                    "goles_visitante": "3"
-                },
-                {
-                    "fecha": "12.07.26",
-                    "local": "Pumas UNAM",
-                    "visitante": "América de Cali",
-                    "goles_local": "0",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "04.07.26",
-                    "local": "Cancun",
-                    "visitante": "Pumas UNAM",
-                    "goles_local": "0",
-                    "goles_visitante": "3"
-                },
-                {
-                    "fecha": "24.05.26",
-                    "local": "Pumas UNAM",
-                    "visitante": "Cruz Azul",
-                    "goles_local": "1",
-                    "goles_visitante": "2"
-                },
-                {
-                    "fecha": "21.05.26",
-                    "local": "Cruz Azul",
-                    "visitante": "Pumas UNAM",
-                    "goles_local": "0",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "17.05.26",
-                    "local": "Pumas UNAM",
-                    "visitante": "Pachuca",
-                    "goles_local": "1",
-                    "goles_visitante": "0"
-                }
-            ],
-            "H2H": [
-                {
-                    "fecha": "05.04.26",
-                    "local": "Guadalajara",
-                    "visitante": "Pumas UNAM",
-                    "goles_local": "2",
-                    "goles_visitante": "2"
-                },
-                {
-                    "fecha": "05.10.25",
-                    "local": "Pumas UNAM",
-                    "visitante": "Guadalajara",
-                    "goles_local": "1",
-                    "goles_visitante": "2"
-                },
-                {
-                    "fecha": "01.03.25",
-                    "local": "Pumas UNAM",
-                    "visitante": "Guadalajara",
-                    "goles_local": "0",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "02.11.24",
-                    "local": "Guadalajara",
-                    "visitante": "Pumas UNAM",
-                    "goles_local": "0",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "24.02.24",
-                    "local": "Guadalajara",
-                    "visitante": "Pumas UNAM",
-                    "goles_local": "3",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "03.12.23",
-                    "local": "Pumas UNAM",
-                    "visitante": "Guadalajara",
-                    "goles_local": "3",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "30.11.23",
-                    "local": "Guadalajara",
-                    "visitante": "Pumas UNAM",
-                    "goles_local": "1",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "11.11.23",
-                    "local": "Pumas UNAM",
-                    "visitante": "Guadalajara",
-                    "goles_local": "1",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "18.02.23",
-                    "local": "Pumas UNAM",
-                    "visitante": "Guadalajara",
-                    "goles_local": "1",
-                    "goles_visitante": "2"
-                },
-                {
-                    "fecha": "27.08.22",
-                    "local": "Guadalajara",
-                    "visitante": "Pumas UNAM",
-                    "goles_local": "3",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "08.05.22",
-                    "local": "Guadalajara",
-                    "visitante": "Pumas UNAM",
-                    "goles_local": "4",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "23.04.22",
-                    "local": "Guadalajara",
-                    "visitante": "Pumas UNAM",
-                    "goles_local": "3",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "12.09.21",
-                    "local": "Pumas UNAM",
-                    "visitante": "Guadalajara",
-                    "goles_local": "0",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "28.02.21",
-                    "local": "Guadalajara",
-                    "visitante": "Pumas UNAM",
-                    "goles_local": "2",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "31.10.20",
-                    "local": "Pumas UNAM",
-                    "visitante": "Guadalajara",
-                    "goles_local": "2",
-                    "goles_visitante": "2"
-                }
-            ]
-        },
-        "analisis": {
-            "motor": "Motor_analitico",
-            "version": "4.0",
-            "partido": {
-                "local": "Guadalajara",
-                "visitante": "Pumas UNAM"
-            },
-            "analisis_final": {
-                "1X2": {
-                    "Local": 54.56,
-                    "Empate": 24.81,
-                    "Visitante": 20.63
-                },
-                "recomendacion": {
-                    "mercado": "1X",
-                    "probabilidad": 79.37,
-                    "estado": "DOBLE",
-                    "motivo": "El 1X2 directo no supera el filtro; se conserva cobertura.",
-                    "cuota": 1.52
-                },
-                "marcadores": [
-                    {
-                        "marcador": "1-1",
-                        "probabilidad": 13.0
-                    },
-                    {
-                        "marcador": "1-0",
-                        "probabilidad": 9.74
-                    }
-                ],
-                "btts": {
-                    "resultado": "NO",
-                    "probabilidad": 48.29
-                },
-                "over_under": {
-                    "mercado": "Over 1.5",
-                    "probabilidad": 76.1
-                },
-                "confianza": {
-                    "score": 81.77,
-                    "nivel": "ALTA"
-                },
-                "riesgo": {
-                    "score": 61.67,
-                    "nivel": "MEDIO"
-                },
-                "consistencia": {
-                    "estado": "MODERADAMENTE CONSISTENTE",
-                    "diferencia_maxima_puntos": 2.22,
-                    "detalle": "Poisson y Monte Carlo presentan pequeñas diferencias de estimación."
-                },
-                "consenso_modelos": {
-                    "poisson": {
-                        "resultado": "1",
-                        "nombre": "Guadalajara",
-                        "probabilidad": 48.35
-                    },
-                    "monte_carlo": {
-                        "resultado": "1",
-                        "nombre": "Guadalajara",
-                        "probabilidad": 49.47
-                    },
-                    "coinciden": true,
-                    "resultado_consenso": "1",
-                    "nombre_consenso": "Guadalajara",
-                    "probabilidad_consenso": 48.91,
-                    "diferencia_puntos": 1.12,
-                    "marcador_1": {
-                        "marcador": "1-1",
-                        "resultado": "X",
-                        "confirma_consenso": false
-                    },
-                    "marcador_2": {
-                        "marcador": "1-0",
-                        "resultado": "1",
-                        "confirma_consenso": true
-                    }
-                },
-                "muestra": {
-                    "local": 14,
-                    "local_objetivo": 15,
-                    "visitante": 14,
-                    "visitante_objetivo": 15,
-                    "h2h": 15
-                },
-                "value": {
-                    "hay_valor": true,
-                    "mercado": "Visitante",
-                    "edge": 4.33,
-                    "ev": 19.65,
-                    "cuota": 5.8
-                }
-            },
-            "select": {
-                "activo": false,
-                "motivo": "Hay consenso entre modelos, pero el marcador 1 no confirma la recomendación.",
-                "mercado_principal": "1X",
-                "probabilidad": 79.37,
-                "marcador_1": "1-1",
-                "probabilidad_marcador_1": 13.0,
-                "marcador_2": "1-0",
-                "probabilidad_marcador_2": 9.74,
-                "btts": "NO",
-                "probabilidad_btts": 48.29,
-                "over_under": "Over 1.5",
-                "probabilidad_over_under": 76.1,
-                "confianza": 81.77,
-                "riesgo": 61.67,
-                "edge": 4.33,
-                "resultado": "1",
-                "recomendacion": "Guadalajara",
-                "probabilidad_consenso": 48.91,
-                "consenso": true,
-                "poisson": {
-                    "resultado": "1",
-                    "nombre": "Guadalajara",
-                    "probabilidad": 48.35
-                },
-                "monte_carlo": {
-                    "resultado": "1",
-                    "nombre": "Guadalajara",
-                    "probabilidad": 49.47
-                },
-                "confirma_marcador_1": false
-            },
-            "premium": {
-                "activo": false,
-                "motivo": "El marcador 1 no confirma la recomendación del consenso.",
-                "mercado_principal": "1X",
-                "probabilidad": 79.37,
-                "marcador_1": "1-1",
-                "probabilidad_marcador_1": 13.0,
-                "marcador_2": "1-0",
-                "probabilidad_marcador_2": 9.74,
-                "btts": "NO",
-                "probabilidad_btts": 48.29,
-                "over_under": "Over 1.5",
-                "probabilidad_over_under": 76.1,
-                "confianza": 81.77,
-                "riesgo": 61.67,
-                "edge": 4.33,
-                "resultado": "1",
-                "recomendacion": "Guadalajara",
-                "probabilidad_consenso": 48.91,
-                "consenso": true,
-                "poisson": {
-                    "resultado": "1",
-                    "nombre": "Guadalajara",
-                    "probabilidad": 48.35
-                },
-                "monte_carlo": {
-                    "resultado": "1",
-                    "nombre": "Guadalajara",
-                    "probabilidad": 49.47
-                },
-                "confirma_marcador_1": false,
-                "confirma_marcador_2": true
-            }
-        }
-    },
-    {
         "fecha": "2026-09-14",
         "hora": "15:00",
         "local": "Portland Timbers 2",
@@ -6229,7 +4351,7 @@
         "visitante": "Lanús",
         "cuota_local": 3.05,
         "cuota_empate": 2.7,
-        "cuota_visitante": 2.76,
+        "cuota_visitante": 2.75,
         "link": "https://www.flashscore.co/partido/futbol/deportivo-riestra-2iZ4q0z6/lanus-Y9yh1J7G/?mid=EXJnmN26",
         "logo_local": "https://static.flashscore.com/res/image/data/Wr1x3UWg-rRNfwvij.png",
         "logo_visitante": "https://static.flashscore.com/res/image/data/h4Xuyuf5-rRPTjfbN.png",
@@ -6646,9 +4768,9 @@
         "hora": "19:15",
         "local": "Instituto",
         "visitante": "Estudiantes Rio Cuarto",
-        "cuota_local": 1.4,
-        "cuota_empate": 3.95,
-        "cuota_visitante": 10.5,
+        "cuota_local": 1.46,
+        "cuota_empate": 3.9,
+        "cuota_visitante": 8.4,
         "link": "https://www.flashscore.co/partido/futbol/estudiantes-rio-cuarto-llpcIYF2/inst-cordoba-8G45bXRA/?mid=h4j5zpJ0",
         "logo_local": "https://static.flashscore.com/res/image/data/Y9hE69g5-ImUFDktI.png",
         "logo_visitante": "https://static.flashscore.com/res/image/data/2Ft4YCf5-jesEVRhB.png",
@@ -8691,9 +6813,9 @@
         "hora": "18:00",
         "local": "Bahia",
         "visitante": "Remo",
-        "cuota_local": 1.43,
+        "cuota_local": 1.44,
         "cuota_empate": 4.55,
-        "cuota_visitante": 7.2,
+        "cuota_visitante": 7.0,
         "link": "https://www.flashscore.co/partido/futbol/bahia-UeD7XtzM/remo-2i0B6Zul/?mid=OIkFkwhR",
         "logo_local": "https://static.flashscore.com/res/image/data/f5V5z1Cr-dKUmd286.png",
         "logo_visitante": "https://static.flashscore.com/res/image/data/dWTc9iBr-vsDPUWUH.png",
@@ -10019,7 +8141,7 @@
         "local": "Avaí",
         "visitante": "Vila Nova",
         "cuota_local": 2.6,
-        "cuota_empate": 3.1,
+        "cuota_empate": 3.05,
         "cuota_visitante": 2.78,
         "link": "https://www.flashscore.co/partido/futbol/avai-rPzY7fWt/vila-nova-Y3E1Lrj3/?mid=plcaZZZ1",
         "logo_local": "https://static.flashscore.com/res/image/data/tGpYsdYg-tOGtU4eT.png",
@@ -10996,7 +9118,7 @@
         "hora": "09:45",
         "local": "Hebar",
         "visitante": "Etar",
-        "cuota_local": 1.98,
+        "cuota_local": 1.95,
         "cuota_empate": 3.5,
         "cuota_visitante": 3.1,
         "link": "https://www.flashscore.co/partido/futbol/etar-OICsE7P8/hebar-IwK3Sxle/?mid=AVj7jsO9",
@@ -11876,8 +9998,8 @@
         "hora": "12:00",
         "local": "Krasava",
         "visitante": "Aris Limassol",
-        "cuota_local": 4.33,
-        "cuota_empate": 3.7,
+        "cuota_local": 4.2,
+        "cuota_empate": 3.75,
         "cuota_visitante": 1.68,
         "link": "https://www.flashscore.co/partido/futbol/aris-tINNchXL/krasava-fw137af7/?mid=6wUXJe6r",
         "logo_local": "https://static.flashscore.com/res/image/data/OSN9b9h5-zwjwOleQ.png",
@@ -14294,7 +12416,7 @@
         "local": "Ceramica Cleopatra",
         "visitante": "National Bank Egypt",
         "cuota_local": 2.62,
-        "cuota_empate": 2.88,
+        "cuota_empate": 2.86,
         "cuota_visitante": 2.78,
         "link": "https://www.flashscore.co/partido/futbol/ceramica-cleopatra-ATasWtPS/national-bank-egypt-Gx9ImdAm/?mid=6igr6thL",
         "logo_local": "https://static.flashscore.com/res/image/data/U10spnGG-jFZNeE0K.png",
@@ -15622,7 +13744,7 @@
         "visitante": "VPS",
         "cuota_local": 1.67,
         "cuota_empate": 3.55,
-        "cuota_visitante": 4.75,
+        "cuota_visitante": 4.7,
         "link": "https://www.flashscore.co/partido/futbol/inter-turku-QwkNUoNH/vps-8GveH5dA/?mid=WOw7oVyf",
         "logo_local": "https://static.flashscore.com/res/image/data/25XF6X9r-xpBmN8u1.png",
         "logo_visitante": "https://static.flashscore.com/res/image/data/bcIjLOZA-WYtEUtB2.png",
@@ -16612,9 +14734,9 @@
         "hora": "08:00",
         "local": "Panionios",
         "visitante": "Kalamaria",
-        "cuota_local": 1.22,
-        "cuota_empate": 4.33,
-        "cuota_visitante": 13.0,
+        "cuota_local": 1.25,
+        "cuota_empate": 4.2,
+        "cuota_visitante": 12.0,
         "link": "https://www.flashscore.co/partido/futbol/apollon-kalamaria-4M7wLRZh/panionios-M1Q9temj/?mid=4pMl3LQ0",
         "logo_local": "https://static.flashscore.com/res/image/data/fm2ysxDa-2yjBUpzG.png",
         "logo_visitante": "https://static.flashscore.com/res/image/data/GnEzAZwS-0SR3RTfG.png",
@@ -18570,7 +16692,7 @@
         "visitante": "H. Tel-Aviv",
         "cuota_local": 2.14,
         "cuota_empate": 3.5,
-        "cuota_visitante": 2.98,
+        "cuota_visitante": 2.96,
         "link": "https://www.flashscore.co/partido/futbol/h-tel-aviv-jigstDrf/m-tel-aviv-req5XE5Q/?mid=Cl4X2Vs9",
         "logo_local": "https://static.flashscore.com/res/image/data/GGBSZmil-EgfVDm2G.png",
         "logo_visitante": "https://static.flashscore.com/res/image/data/dYr5gCCr-UeZOJs03.png",
@@ -21914,9 +20036,9 @@
         "hora": "12:45",
         "local": "Rio Ave",
         "visitante": "Estrela",
-        "cuota_local": 2.64,
-        "cuota_empate": 3.35,
-        "cuota_visitante": 2.64,
+        "cuota_local": 2.66,
+        "cuota_empate": 3.25,
+        "cuota_visitante": 2.66,
         "link": "https://www.flashscore.co/partido/futbol/estrela-da-amadora-hrYABE5k/rio-ave-jPzXLi4l/?mid=KSG0qXQF",
         "logo_local": "https://static.flashscore.com/res/image/data/xUzHRdeM-pjxqSmk4.png",
         "logo_visitante": "https://static.flashscore.com/res/image/data/GGgeTGwS-OtN6V8lD.png",
@@ -22410,8 +20532,8 @@
         "hora": "14:15",
         "local": "Moreirense",
         "visitante": "Marítimo",
-        "cuota_local": 2.54,
-        "cuota_empate": 3.2,
+        "cuota_local": 2.55,
+        "cuota_empate": 3.15,
         "cuota_visitante": 2.84,
         "link": "https://www.flashscore.co/partido/futbol/maritimo-noguvetP/moreirense-8d9NGt9H/?mid=nPL6Nk4d",
         "logo_local": "https://static.flashscore.com/res/image/data/feze6NXg-xjC3FA5b.png",
@@ -24766,7 +22888,7 @@
         "visitante": "Petrolul",
         "cuota_local": 1.39,
         "cuota_empate": 4.3,
-        "cuota_visitante": 7.25,
+        "cuota_visitante": 7.3,
         "link": "https://www.flashscore.co/partido/futbol/fcsb-Gv2kjDpN/petrolul-dhnNlCE9/?mid=pCJCHsN9",
         "logo_local": "https://static.flashscore.com/res/image/data/pY1jOEZA-SCh1iPaa.png",
         "logo_visitante": "https://static.flashscore.com/res/image/data/SbmaaEg5-pMdWmvh1.png",
@@ -30926,7 +29048,7 @@
         "local": "Dundalk",
         "visitante": "St. Patricks",
         "cuota_local": 3.05,
-        "cuota_empate": 3.55,
+        "cuota_empate": 3.5,
         "cuota_visitante": 2.18,
         "link": "https://www.flashscore.co/partido/futbol/dundalk-4pzGI6GG/st-patricks-hhPUKlHi/?mid=lOkLRSrf",
         "logo_local": "https://static.flashscore.com/res/image/data/Es6dz7hl-lYZ4hM32.png",
@@ -33397,829 +31519,6 @@
                 },
                 "confirma_marcador_1": false,
                 "confirma_marcador_2": false
-            }
-        }
-    },
-    {
-        "fecha": "2026-09-13",
-        "hora": "20:00",
-        "local": "Municipal",
-        "visitante": "Malacateco",
-        "cuota_local": 1.25,
-        "cuota_empate": 4.5,
-        "cuota_visitante": 12.0,
-        "link": "https://www.flashscore.co/partido/futbol/malacateco-0AiC6BNB/municipal-r5ooNVip/?mid=ryHeYfcB",
-        "logo_local": "https://static.flashscore.com/res/image/data/MZYiJsf5-vTLj5hDm.png",
-        "logo_visitante": "https://static.flashscore.com/res/image/data/4AklNJh5-Kd6FFBdj.png",
-        "pais": "GUATEMALA",
-        "liga": "LIGA NACIONAL - APERTURA - JORNADA 9",
-        "h2h": {
-            "LOCAL10": [
-                {
-                    "fecha": "10.09.26",
-                    "local": "Aurora F.C.",
-                    "visitante": "Municipal",
-                    "goles_local": "1",
-                    "goles_visitante": "2"
-                },
-                {
-                    "fecha": "06.09.26",
-                    "local": "Municipal",
-                    "visitante": "Deportivo San Pedro",
-                    "goles_local": "0",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "29.08.26",
-                    "local": "Comunicaciones",
-                    "visitante": "Municipal",
-                    "goles_local": "0",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "25.08.26",
-                    "local": "Municipal",
-                    "visitante": "Motagua",
-                    "goles_local": "1",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "22.08.26",
-                    "local": "Municipal",
-                    "visitante": "Xelajú",
-                    "goles_local": "2",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "19.08.26",
-                    "local": "FAS",
-                    "visitante": "Municipal",
-                    "goles_local": "1",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "15.08.26",
-                    "local": "Guastatoya",
-                    "visitante": "Municipal",
-                    "goles_local": "1",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "09.08.26",
-                    "local": "Municipal",
-                    "visitante": "Cobán Imperial",
-                    "goles_local": "2",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "06.08.26",
-                    "local": "Verdes",
-                    "visitante": "Municipal",
-                    "goles_local": "0",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "02.08.26",
-                    "local": "Marquense",
-                    "visitante": "Municipal",
-                    "goles_local": "1",
-                    "goles_visitante": "2"
-                },
-                {
-                    "fecha": "30.07.26",
-                    "local": "Municipal",
-                    "visitante": "Cartaginés",
-                    "goles_local": "1",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "24.07.26",
-                    "local": "Municipal",
-                    "visitante": "Deportivo Mixco",
-                    "goles_local": "2",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "23.05.26",
-                    "local": "Xelajú",
-                    "visitante": "Municipal",
-                    "goles_local": "1",
-                    "goles_visitante": "2"
-                },
-                {
-                    "fecha": "16.05.26",
-                    "local": "Municipal",
-                    "visitante": "Xelajú",
-                    "goles_local": "4",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "09.05.26",
-                    "local": "Municipal",
-                    "visitante": "Deportivo Mixco",
-                    "goles_local": "5",
-                    "goles_visitante": "0"
-                }
-            ],
-            "VISITANTE10": [
-                {
-                    "fecha": "10.09.26",
-                    "local": "Malacateco",
-                    "visitante": "Antigua",
-                    "goles_local": "0",
-                    "goles_visitante": "2"
-                },
-                {
-                    "fecha": "05.09.26",
-                    "local": "Malacateco",
-                    "visitante": "Suchitepéquez",
-                    "goles_local": "2",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "30.08.26",
-                    "local": "Aurora F.C.",
-                    "visitante": "Malacateco",
-                    "goles_local": "1",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "23.08.26",
-                    "local": "Malacateco",
-                    "visitante": "Deportivo San Pedro",
-                    "goles_local": "2",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "15.08.26",
-                    "local": "Comunicaciones",
-                    "visitante": "Malacateco",
-                    "goles_local": "4",
-                    "goles_visitante": "2"
-                },
-                {
-                    "fecha": "07.08.26",
-                    "local": "Malacateco",
-                    "visitante": "Xelajú",
-                    "goles_local": "2",
-                    "goles_visitante": "2"
-                },
-                {
-                    "fecha": "01.08.26",
-                    "local": "Guastatoya",
-                    "visitante": "Malacateco",
-                    "goles_local": "4",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "25.07.26",
-                    "local": "Malacateco",
-                    "visitante": "Cobán Imperial",
-                    "goles_local": "1",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "26.04.26",
-                    "local": "Malacateco",
-                    "visitante": "Comunicaciones",
-                    "goles_local": "1",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "19.04.26",
-                    "local": "Antigua",
-                    "visitante": "Malacateco",
-                    "goles_local": "2",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "16.04.26",
-                    "local": "Malacateco",
-                    "visitante": "Cobán Imperial",
-                    "goles_local": "2",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "12.04.26",
-                    "local": "Deportivo Achuapa",
-                    "visitante": "Malacateco",
-                    "goles_local": "1",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "05.04.26",
-                    "local": "Xelajú",
-                    "visitante": "Malacateco",
-                    "goles_local": "1",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "02.04.26",
-                    "local": "Malacateco",
-                    "visitante": "Guastatoya",
-                    "goles_local": "1",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "28.03.26",
-                    "local": "Municipal",
-                    "visitante": "Malacateco",
-                    "goles_local": "1",
-                    "goles_visitante": "0"
-                }
-            ],
-            "H2H": [
-                {
-                    "fecha": "28.03.26",
-                    "local": "Municipal",
-                    "visitante": "Malacateco",
-                    "goles_local": "1",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "06.02.26",
-                    "local": "Malacateco",
-                    "visitante": "Municipal",
-                    "goles_local": "1",
-                    "goles_visitante": "3"
-                },
-                {
-                    "fecha": "25.10.25",
-                    "local": "Municipal",
-                    "visitante": "Malacateco",
-                    "goles_local": "4",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "16.08.25",
-                    "local": "Malacateco",
-                    "visitante": "Municipal",
-                    "goles_local": "2",
-                    "goles_visitante": "3"
-                },
-                {
-                    "fecha": "06.04.25",
-                    "local": "Malacateco",
-                    "visitante": "Municipal",
-                    "goles_local": "0",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "01.02.25",
-                    "local": "Municipal",
-                    "visitante": "Malacateco",
-                    "goles_local": "4",
-                    "goles_visitante": "2"
-                },
-                {
-                    "fecha": "26.10.24",
-                    "local": "Malacateco",
-                    "visitante": "Municipal",
-                    "goles_local": "4",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "11.08.24",
-                    "local": "Municipal",
-                    "visitante": "Malacateco",
-                    "goles_local": "0",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "28.04.24",
-                    "local": "Municipal",
-                    "visitante": "Malacateco",
-                    "goles_local": "4",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "25.04.24",
-                    "local": "Malacateco",
-                    "visitante": "Municipal",
-                    "goles_local": "3",
-                    "goles_visitante": "2"
-                },
-                {
-                    "fecha": "10.04.24",
-                    "local": "Municipal",
-                    "visitante": "Malacateco",
-                    "goles_local": "3",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "04.10.23",
-                    "local": "Malacateco",
-                    "visitante": "Municipal",
-                    "goles_local": "1",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "19.04.23",
-                    "local": "Municipal",
-                    "visitante": "Malacateco",
-                    "goles_local": "2",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "22.02.23",
-                    "local": "Malacateco",
-                    "visitante": "Municipal",
-                    "goles_local": "2",
-                    "goles_visitante": "2"
-                },
-                {
-                    "fecha": "03.12.22",
-                    "local": "Malacateco",
-                    "visitante": "Municipal",
-                    "goles_local": "1",
-                    "goles_visitante": "0"
-                }
-            ]
-        },
-        "analisis": {
-            "motor": "Motor_analitico",
-            "version": "4.0",
-            "partido": {
-                "local": "Municipal",
-                "visitante": "Malacateco"
-            },
-            "analisis_final": {
-                "1X2": {
-                    "Local": 66.65,
-                    "Empate": 21.93,
-                    "Visitante": 11.42
-                },
-                "recomendacion": {
-                    "mercado": "Municipal",
-                    "probabilidad": 66.65,
-                    "estado": "PICK",
-                    "motivo": "Probabilidad, separación y riesgo compatibles.",
-                    "cuota": 1.29
-                },
-                "marcadores": [
-                    {
-                        "marcador": "2-0",
-                        "probabilidad": 12.84
-                    },
-                    {
-                        "marcador": "1-0",
-                        "probabilidad": 12.73
-                    }
-                ],
-                "btts": {
-                    "resultado": "NO",
-                    "probabilidad": 40.11
-                },
-                "over_under": {
-                    "mercado": "Over 1.5",
-                    "probabilidad": 74.45
-                },
-                "confianza": {
-                    "score": 81.73,
-                    "nivel": "ALTA"
-                },
-                "riesgo": {
-                    "score": 59.35,
-                    "nivel": "MEDIO"
-                },
-                "consistencia": {
-                    "estado": "MODERADAMENTE CONSISTENTE",
-                    "diferencia_maxima_puntos": 2.03,
-                    "detalle": "Poisson y Monte Carlo presentan pequeñas diferencias de estimación."
-                },
-                "consenso_modelos": {
-                    "poisson": {
-                        "resultado": "1",
-                        "nombre": "Municipal",
-                        "probabilidad": 63.14
-                    },
-                    "monte_carlo": {
-                        "resultado": "1",
-                        "nombre": "Municipal",
-                        "probabilidad": 64.22
-                    },
-                    "coinciden": true,
-                    "resultado_consenso": "1",
-                    "nombre_consenso": "Municipal",
-                    "probabilidad_consenso": 63.68,
-                    "diferencia_puntos": 1.08,
-                    "marcador_1": {
-                        "marcador": "2-0",
-                        "resultado": "1",
-                        "confirma_consenso": true
-                    },
-                    "marcador_2": {
-                        "marcador": "1-0",
-                        "resultado": "1",
-                        "confirma_consenso": true
-                    }
-                },
-                "muestra": {
-                    "local": 15,
-                    "local_objetivo": 15,
-                    "visitante": 15,
-                    "visitante_objetivo": 15,
-                    "h2h": 15
-                },
-                "value": {
-                    "hay_valor": true,
-                    "mercado": "Visitante",
-                    "edge": 1.83,
-                    "ev": 8.49,
-                    "cuota": 9.5
-                }
-            },
-            "select": {
-                "activo": true,
-                "motivo": "Poisson y Monte Carlo coinciden y el marcador 1 confirma la recomendación.",
-                "mercado_principal": "Municipal",
-                "probabilidad": 66.65,
-                "marcador_1": "2-0",
-                "probabilidad_marcador_1": 12.84,
-                "marcador_2": "1-0",
-                "probabilidad_marcador_2": 12.73,
-                "btts": "NO",
-                "probabilidad_btts": 40.11,
-                "over_under": "Over 1.5",
-                "probabilidad_over_under": 74.45,
-                "confianza": 81.73,
-                "riesgo": 59.35,
-                "edge": 2.13,
-                "resultado": "1",
-                "recomendacion": "Municipal",
-                "probabilidad_consenso": 63.68,
-                "consenso": true,
-                "poisson": {
-                    "resultado": "1",
-                    "nombre": "Municipal",
-                    "probabilidad": 63.14
-                },
-                "monte_carlo": {
-                    "resultado": "1",
-                    "nombre": "Municipal",
-                    "probabilidad": 64.22
-                },
-                "confirma_marcador_1": true
-            },
-            "premium": {
-                "activo": true,
-                "motivo": "Poisson y Monte Carlo coinciden y ambos marcadores confirman la recomendación.",
-                "mercado_principal": "Municipal",
-                "probabilidad": 66.65,
-                "marcador_1": "2-0",
-                "probabilidad_marcador_1": 12.84,
-                "marcador_2": "1-0",
-                "probabilidad_marcador_2": 12.73,
-                "btts": "NO",
-                "probabilidad_btts": 40.11,
-                "over_under": "Over 1.5",
-                "probabilidad_over_under": 74.45,
-                "confianza": 81.73,
-                "riesgo": 59.35,
-                "edge": 2.13,
-                "resultado": "1",
-                "recomendacion": "Municipal",
-                "probabilidad_consenso": 63.68,
-                "consenso": true,
-                "poisson": {
-                    "resultado": "1",
-                    "nombre": "Municipal",
-                    "probabilidad": 63.14
-                },
-                "monte_carlo": {
-                    "resultado": "1",
-                    "nombre": "Municipal",
-                    "probabilidad": 64.22
-                },
-                "confirma_marcador_1": true,
-                "confirma_marcador_2": true
-            }
-        }
-    },
-    {
-        "fecha": "2026-09-13",
-        "hora": "20:30",
-        "local": "Atletico Independiente",
-        "visitante": "Juticalpa",
-        "cuota_local": 1.67,
-        "cuota_empate": 3.65,
-        "cuota_visitante": 4.33,
-        "link": "https://www.flashscore.co/partido/futbol/atletico-independiente-xUrewyNe/juticalpa-SUJOXqvc/?mid=j3wchqeo",
-        "logo_local": "https://static.flashscore.com/res/image/data/Q97mfKHG-M5pVan7T.png",
-        "logo_visitante": "https://static.flashscore.com/res/image/data/MkKgIMWg-dtnFGY4p.png",
-        "pais": "HONDURAS",
-        "liga": "LIGA NACIONAL - APERTURA - JORNADA 7",
-        "h2h": {
-            "LOCAL10": [
-                {
-                    "fecha": "05.09.26",
-                    "local": "Atletico Independiente",
-                    "visitante": "Motagua",
-                    "goles_local": "0",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "29.08.26",
-                    "local": "Platense",
-                    "visitante": "Atletico Independiente",
-                    "goles_local": "2",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "22.08.26",
-                    "local": "Atletico Independiente",
-                    "visitante": "Genesis",
-                    "goles_local": "1",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "15.08.26",
-                    "local": "Real España",
-                    "visitante": "Atletico Independiente",
-                    "goles_local": "1",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "09.08.26",
-                    "local": "Atletico Independiente",
-                    "visitante": "Choloma",
-                    "goles_local": "2",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "03.08.26",
-                    "local": "Marathón",
-                    "visitante": "Atletico Independiente",
-                    "goles_local": "1",
-                    "goles_visitante": "0"
-                }
-            ],
-            "VISITANTE10": [
-                {
-                    "fecha": "06.09.26",
-                    "local": "Juticalpa",
-                    "visitante": "Genesis",
-                    "goles_local": "0",
-                    "goles_visitante": "3"
-                },
-                {
-                    "fecha": "28.08.26",
-                    "local": "Juticalpa",
-                    "visitante": "Lobos UPNFM",
-                    "goles_local": "1",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "22.08.26",
-                    "local": "Estrella Roja",
-                    "visitante": "Juticalpa",
-                    "goles_local": "5",
-                    "goles_visitante": "2"
-                },
-                {
-                    "fecha": "16.08.26",
-                    "local": "Olancho",
-                    "visitante": "Juticalpa",
-                    "goles_local": "1",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "09.08.26",
-                    "local": "Juticalpa",
-                    "visitante": "Olimpia",
-                    "goles_local": "1",
-                    "goles_visitante": "3"
-                },
-                {
-                    "fecha": "02.08.26",
-                    "local": "Juticalpa",
-                    "visitante": "Motagua",
-                    "goles_local": "0",
-                    "goles_visitante": "3"
-                },
-                {
-                    "fecha": "26.04.26",
-                    "local": "Juticalpa",
-                    "visitante": "Lobos UPNFM",
-                    "goles_local": "1",
-                    "goles_visitante": "0"
-                },
-                {
-                    "fecha": "22.04.26",
-                    "local": "Victoria",
-                    "visitante": "Juticalpa",
-                    "goles_local": "2",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "19.04.26",
-                    "local": "Motagua",
-                    "visitante": "Juticalpa",
-                    "goles_local": "2",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "15.04.26",
-                    "local": "Juticalpa",
-                    "visitante": "Platense",
-                    "goles_local": "1",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "09.04.26",
-                    "local": "Juticalpa",
-                    "visitante": "Olancho",
-                    "goles_local": "0",
-                    "goles_visitante": "4"
-                },
-                {
-                    "fecha": "06.04.26",
-                    "local": "Real España",
-                    "visitante": "Juticalpa",
-                    "goles_local": "1",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "02.04.26",
-                    "local": "Genesis",
-                    "visitante": "Juticalpa",
-                    "goles_local": "0",
-                    "goles_visitante": "1"
-                },
-                {
-                    "fecha": "22.03.26",
-                    "local": "Juticalpa",
-                    "visitante": "Olimpia",
-                    "goles_local": "1",
-                    "goles_visitante": "6"
-                },
-                {
-                    "fecha": "18.03.26",
-                    "local": "Juticalpa",
-                    "visitante": "Marathón",
-                    "goles_local": "0",
-                    "goles_visitante": "4"
-                }
-            ],
-            "H2H": []
-        },
-        "analisis": {
-            "motor": "Motor_analitico",
-            "version": "4.0",
-            "partido": {
-                "local": "Atletico Independiente",
-                "visitante": "Juticalpa"
-            },
-            "analisis_final": {
-                "1X2": {
-                    "Local": 53.25,
-                    "Empate": 26.38,
-                    "Visitante": 20.37
-                },
-                "recomendacion": {
-                    "mercado": "1X",
-                    "probabilidad": 79.63,
-                    "estado": "DOBLE",
-                    "motivo": "El 1X2 directo no supera el filtro; se conserva cobertura.",
-                    "cuota": 1.55
-                },
-                "marcadores": [
-                    {
-                        "marcador": "1-1",
-                        "probabilidad": 13.93
-                    },
-                    {
-                        "marcador": "1-0",
-                        "probabilidad": 13.36
-                    }
-                ],
-                "btts": {
-                    "resultado": "SI",
-                    "probabilidad": 50.87
-                },
-                "over_under": {
-                    "mercado": "Over 1.5",
-                    "probabilidad": 66.77
-                },
-                "confianza": {
-                    "score": 73.52,
-                    "nivel": "ALTA"
-                },
-                "riesgo": {
-                    "score": 57.37,
-                    "nivel": "MEDIO"
-                },
-                "consistencia": {
-                    "estado": "MODERADAMENTE CONSISTENTE",
-                    "diferencia_maxima_puntos": 2.53,
-                    "detalle": "Poisson y Monte Carlo presentan pequeñas diferencias de estimación."
-                },
-                "consenso_modelos": {
-                    "poisson": {
-                        "resultado": "1",
-                        "nombre": "Atletico Independiente",
-                        "probabilidad": 47.46
-                    },
-                    "monte_carlo": {
-                        "resultado": "1",
-                        "nombre": "Atletico Independiente",
-                        "probabilidad": 48.89
-                    },
-                    "coinciden": true,
-                    "resultado_consenso": "1",
-                    "nombre_consenso": "Atletico Independiente",
-                    "probabilidad_consenso": 48.17,
-                    "diferencia_puntos": 1.43,
-                    "marcador_1": {
-                        "marcador": "1-1",
-                        "resultado": "X",
-                        "confirma_consenso": false
-                    },
-                    "marcador_2": {
-                        "marcador": "1-0",
-                        "resultado": "1",
-                        "confirma_consenso": true
-                    }
-                },
-                "muestra": {
-                    "local": 6,
-                    "local_objetivo": 15,
-                    "visitante": 15,
-                    "visitante_objetivo": 15,
-                    "h2h": 0
-                },
-                "value": {
-                    "hay_valor": true,
-                    "mercado": "Empate",
-                    "edge": 3.55,
-                    "ev": 5.52,
-                    "cuota": 4.0
-                }
-            },
-            "select": {
-                "activo": false,
-                "motivo": "Hay consenso entre modelos, pero el marcador 1 no confirma la recomendación.",
-                "mercado_principal": "1X",
-                "probabilidad": 79.63,
-                "marcador_1": "1-1",
-                "probabilidad_marcador_1": 13.93,
-                "marcador_2": "1-0",
-                "probabilidad_marcador_2": 13.36,
-                "btts": "SI",
-                "probabilidad_btts": 50.87,
-                "over_under": "Over 1.5",
-                "probabilidad_over_under": 66.77,
-                "confianza": 73.52,
-                "riesgo": 57.37,
-                "edge": 3.55,
-                "resultado": "1",
-                "recomendacion": "Atletico Independiente",
-                "probabilidad_consenso": 48.17,
-                "consenso": true,
-                "poisson": {
-                    "resultado": "1",
-                    "nombre": "Atletico Independiente",
-                    "probabilidad": 47.46
-                },
-                "monte_carlo": {
-                    "resultado": "1",
-                    "nombre": "Atletico Independiente",
-                    "probabilidad": 48.89
-                },
-                "confirma_marcador_1": false
-            },
-            "premium": {
-                "activo": false,
-                "motivo": "El marcador 1 no confirma la recomendación del consenso.",
-                "mercado_principal": "1X",
-                "probabilidad": 79.63,
-                "marcador_1": "1-1",
-                "probabilidad_marcador_1": 13.93,
-                "marcador_2": "1-0",
-                "probabilidad_marcador_2": 13.36,
-                "btts": "SI",
-                "probabilidad_btts": 50.87,
-                "over_under": "Over 1.5",
-                "probabilidad_over_under": 66.77,
-                "confianza": 73.52,
-                "riesgo": 57.37,
-                "edge": 3.55,
-                "resultado": "1",
-                "recomendacion": "Atletico Independiente",
-                "probabilidad_consenso": 48.17,
-                "consenso": true,
-                "poisson": {
-                    "resultado": "1",
-                    "nombre": "Atletico Independiente",
-                    "probabilidad": 47.46
-                },
-                "monte_carlo": {
-                    "resultado": "1",
-                    "nombre": "Atletico Independiente",
-                    "probabilidad": 48.89
-                },
-                "confirma_marcador_1": false,
-                "confirma_marcador_2": true
             }
         }
     },
@@ -37355,9 +34654,9 @@
         "hora": "02:00",
         "local": "China Taipei F",
         "visitante": "Vietnam F",
-        "cuota_local": 3.25,
-        "cuota_empate": 3.0,
-        "cuota_visitante": 2.1,
+        "cuota_local": 3.4,
+        "cuota_empate": 3.1,
+        "cuota_visitante": 2.0,
         "link": "https://www.flashscore.co/partido/futbol/china-taipei-lpqZiIj1/vietnam-8I9Z6Cti/?mid=CQyYq80B",
         "logo_local": "https://static.flashscore.com/res/image/data/6Dsfqthl-Iu66xHEi.png",
         "logo_visitante": "https://static.flashscore.com/res/image/data/jilBtfFG-0xLZRP53.png",
@@ -39937,8 +37236,8 @@
         "hora": "11:30",
         "local": "Hap. Ramat Gan",
         "visitante": "Netanya",
-        "cuota_local": 4.3,
-        "cuota_empate": 4.0,
+        "cuota_local": 4.2,
+        "cuota_empate": 4.1,
         "cuota_visitante": 1.65,
         "link": "https://www.flashscore.co/partido/futbol/hapoel-ramat-gan-xdPX7jSa/netanya-raBlviD6/?mid=dxAQi5Z7",
         "logo_local": "https://static.flashscore.com/res/image/data/fPGxXbFG-MmLF6hQi.png",
@@ -48103,9 +45402,9 @@
         "hora": "07:15",
         "local": "Beijing Guoan (Chn)",
         "visitante": "Pohang (Kor)",
-        "cuota_local": 1.97,
-        "cuota_empate": 3.6,
-        "cuota_visitante": 3.55,
+        "cuota_local": 1.9,
+        "cuota_empate": 3.65,
+        "cuota_visitante": 3.7,
         "link": "https://www.flashscore.co/partido/futbol/beijing-guoan-WSLjVBLN/pohang-KIIIipI5/?mid=0ElNDZbl",
         "logo_local": "https://static.flashscore.com/res/image/data/jy16BaFa-0WVkf0ET.png",
         "logo_visitante": "https://static.flashscore.com/res/image/data/S8Lo4nCr-lG6iYHm8.png",
@@ -48942,7 +46241,7 @@
         "local": "Al-Hilal (Sau)",
         "visitante": "Al-Gharafa (Qat)",
         "cuota_local": 1.11,
-        "cuota_empate": 8.25,
+        "cuota_empate": 8.2,
         "cuota_visitante": 22.0,
         "link": "https://www.flashscore.co/partido/futbol/al-gharafa-SQrTeoKd/al-hilal-hxxcePl9/?mid=SbJ7lgkJ",
         "logo_local": "https://static.flashscore.com/res/image/data/8YrWgbEG-joUWHZ1t.png",
@@ -80010,8 +77309,8 @@
         "local": "Landskrona",
         "visitante": "Sundsvall",
         "cuota_local": 1.44,
-        "cuota_empate": 4.33,
-        "cuota_visitante": 7.2,
+        "cuota_empate": 4.4,
+        "cuota_visitante": 7.0,
         "link": "https://www.flashscore.co/partido/futbol/landskrona-YPU3LPlp/sundsvall-fmfHDVDc/?mid=KUbDmboS",
         "logo_local": "https://static.flashscore.com/res/image/data/QmfDaGGG-8MQIUsm4.png",
         "logo_visitante": "https://static.flashscore.com/res/image/data/IgVxFSAr-rFwxlpm5.png",
@@ -84380,9 +81679,9 @@
         "hora": "12:45",
         "local": "Barra Mansa",
         "visitante": "7 de Abril",
-        "cuota_local": 1.93,
+        "cuota_local": 1.85,
         "cuota_empate": 3.6,
-        "cuota_visitante": 3.2,
+        "cuota_visitante": 3.4,
         "link": "https://www.flashscore.co/partido/futbol/7-de-abril-Emo5tcqS/barra-mansa-xQtkhjgq/?mid=zwlLDEel",
         "logo_local": "https://static.flashscore.com/res/image/data/dGd6BSf5-8QAZLN7k.png",
         "logo_visitante": "https://static.flashscore.com/res/image/data/KbVrDCYg-fksPvtuJ.png",
@@ -86755,8 +84054,8 @@
         "hora": "10:00",
         "local": "Torpedo Kutaisi",
         "visitante": "Samgurali",
-        "cuota_local": 1.98,
-        "cuota_empate": 3.3,
+        "cuota_local": 1.91,
+        "cuota_empate": 3.45,
         "cuota_visitante": 3.3,
         "link": "https://www.flashscore.co/partido/futbol/samgurali-UVbdPPp5/torpedo-kutaisi-UHabwVgn/?mid=OAotB1Ws",
         "logo_local": "https://static.flashscore.com/res/image/data/SIDHR7e5-EB9OaO1J.png",
@@ -87252,8 +84551,8 @@
         "local": "Dinamo Tbilisi",
         "visitante": "Gagra",
         "cuota_local": 1.65,
-        "cuota_empate": 3.5,
-        "cuota_visitante": 4.6,
+        "cuota_empate": 3.45,
+        "cuota_visitante": 4.65,
         "link": "https://www.flashscore.co/partido/futbol/din-tbilisi-I7RM1rTm/gagra-dYj1Mrtj/?mid=IXOEftn1",
         "logo_local": "https://static.flashscore.com/res/image/data/nqvU0pXg-MqwiOmp3.png",
         "logo_visitante": "https://static.flashscore.com/res/image/data/t2sqAkEa-zF9VPma8.png",
@@ -93891,9 +91190,9 @@
         "hora": "09:00",
         "local": "RFS 2",
         "visitante": "Skanste",
-        "cuota_local": 2.33,
-        "cuota_empate": 3.85,
-        "cuota_visitante": 2.33,
+        "cuota_local": 2.2,
+        "cuota_empate": 3.9,
+        "cuota_visitante": 2.45,
         "link": "https://www.flashscore.co/partido/futbol/rfs-4U5WZ11k/skanste-vw4sVHOR/?mid=Uimj6Aqo",
         "logo_local": "https://static.flashscore.com/res/image/data/SlQ4g9hl-ryejTjJA.png",
         "logo_visitante": "https://static.flashscore.com/res/image/data/bczeXOyS-pGPbWALc.png",
@@ -94799,9 +92098,9 @@
         "hora": "09:00",
         "local": "Shkendija Haracine",
         "visitante": "FK Skopje",
-        "cuota_local": 1.45,
-        "cuota_empate": 3.8,
-        "cuota_visitante": 6.4,
+        "cuota_local": 1.62,
+        "cuota_empate": 3.55,
+        "cuota_visitante": 4.8,
         "link": "https://www.flashscore.co/partido/futbol/fk-skopje-zZIXVuai/shkendija-haracine-EZnLXz45/?mid=KOW0NCRE",
         "logo_local": "https://static.flashscore.com/res/image/data/nD1gn6Br-W8NE6Ooc.png",
         "logo_visitante": "https://static.flashscore.com/res/image/data/lx2nm6FG-OxgxDRSa.png",
@@ -95658,9 +92957,9 @@
         "hora": "19:00",
         "local": "Toluca F",
         "visitante": "Tijuana F",
-        "cuota_local": 1.55,
-        "cuota_empate": 4.5,
-        "cuota_visitante": 5.0,
+        "cuota_local": 1.54,
+        "cuota_empate": 4.35,
+        "cuota_visitante": 5.25,
         "link": "https://www.flashscore.co/partido/futbol/club-tijuana-zsGcWCUm/toluca-dnXZML8p/?mid=0UlgdWsn",
         "logo_local": "https://static.flashscore.com/res/image/data/2H1L5oe5-vyGZIh6S.png",
         "logo_visitante": "https://static.flashscore.com/res/image/data/nyQiQ3il-vTwfVAOb.png",
@@ -96650,9 +93949,9 @@
         "hora": "10:00",
         "local": "Mladost DG",
         "visitante": "Buducnost",
-        "cuota_local": 2.75,
+        "cuota_local": 2.7,
         "cuota_empate": 3.0,
-        "cuota_visitante": 2.55,
+        "cuota_visitante": 2.4,
         "link": "https://www.flashscore.co/partido/futbol/buducnost-rPokfmEU/mladost-dg-2a4QUPt3/?mid=4jgSwMOr",
         "logo_local": "https://static.flashscore.com/res/image/data/pOTo4ogl-WdVjEXps.png",
         "logo_visitante": "https://static.flashscore.com/res/image/data/hfaFRjCa-hOkOiBHQ.png",
@@ -98096,9 +95395,9 @@
         "hora": "10:00",
         "local": "Åsane 2",
         "visitante": "Brann 2",
-        "cuota_local": 2.32,
-        "cuota_empate": 4.25,
-        "cuota_visitante": 2.27,
+        "cuota_local": 2.1,
+        "cuota_empate": 4.0,
+        "cuota_visitante": 2.5,
         "link": "https://www.flashscore.co/partido/futbol/asane-jc0apnYe/brann-OCKq9RY4/?mid=6BIG46yS",
         "logo_local": "https://static.flashscore.com/res/image/data/rXpWdhFG-n7EmWSqU.png",
         "logo_visitante": "https://static.flashscore.com/res/image/data/j5oN0Lhl-vomm7XFJ.png",
@@ -103443,8 +100742,8 @@
         "local": "Connah's Q.",
         "visitante": "Airbus",
         "cuota_local": 1.44,
-        "cuota_empate": 4.2,
-        "cuota_visitante": 6.0,
+        "cuota_empate": 4.1,
+        "cuota_visitante": 6.25,
         "link": "https://www.flashscore.co/partido/futbol/airbus-0hRd6c1g/connah-s-q-ncsr4F0I/?mid=UietifVG",
         "logo_local": "https://static.flashscore.com/res/image/data/rueJMXh5-nwFtJ6d4.png",
         "logo_visitante": "https://static.flashscore.com/res/image/data/As1ctVzB-SY7hNqon.png",
@@ -113971,9 +111270,9 @@
         "hora": "10:00",
         "local": "Johvi Phoenix",
         "visitante": "Tallinna Kalev Sub-21",
-        "cuota_local": 1.53,
-        "cuota_empate": 4.55,
-        "cuota_visitante": 4.15,
+        "cuota_local": 1.5,
+        "cuota_empate": 4.75,
+        "cuota_visitante": 4.1,
         "link": "https://www.flashscore.co/partido/futbol/johvi-phoenix-YmBskpV9/tallinna-kalev-I5BFeY63/?mid=0vC0Nfup",
         "logo_local": "https://static.flashscore.com/res/image/data/2mL5V5Fa-WhmQ8a6A.png",
         "logo_visitante": "https://static.flashscore.com/res/image/data/AyDZ0LEG-IsLk5d1t.png",
@@ -114880,8 +112179,8 @@
         "local": "Molynes",
         "visitante": "Treasure Beach",
         "cuota_local": 1.91,
-        "cuota_empate": 3.0,
-        "cuota_visitante": 4.35,
+        "cuota_empate": 2.95,
+        "cuota_visitante": 4.4,
         "link": "https://www.flashscore.co/partido/futbol/molynes-united-EqamFmnd/treasure-beach-ETwdWBmB/?mid=WGT9xbZI",
         "logo_local": "https://static.flashscore.com/res/image/data/dIRB4DzS-2iAG2f0F.png",
         "logo_visitante": "https://static.flashscore.com/res/image/data/0f8rsFYA-YLwNQMl4.png",
@@ -115731,7 +113030,7 @@
         "hora": "11:00",
         "local": "Aalesund 2",
         "visitante": "Spjelkavik",
-        "cuota_local": 2.55,
+        "cuota_local": 2.52,
         "cuota_empate": 4.15,
         "cuota_visitante": 2.1,
         "link": "https://www.flashscore.co/partido/futbol/aalesund-6qIINjoJ/spjelkavik-GxY6B9Zu/?mid=zmWzme0d",
@@ -116206,9 +113505,9 @@
         "hora": "10:00",
         "local": "Fauske Sprint",
         "visitante": "Strømsgodset 2",
-        "cuota_local": 2.5,
+        "cuota_local": 2.4,
         "cuota_empate": 4.2,
-        "cuota_visitante": 2.12,
+        "cuota_visitante": 2.15,
         "link": "https://www.flashscore.co/partido/futbol/fauske-sprint-GdYtNrmN/str-msgodset-8OzT85Nl/?mid=faJgn6Pi",
         "logo_local": "https://static.flashscore.com/res/image/data/0GaiqPyS-fyn8H9GH.png",
         "logo_visitante": "https://static.flashscore.com/res/image/data/bJXW1gGG-OEf0YHXq.png",
@@ -132000,7 +129299,7 @@
         "hora": "12:00",
         "local": "Ghazl El Mahallah",
         "visitante": "Zamalek",
-        "cuota_local": 5.3,
+        "cuota_local": 5.25,
         "cuota_empate": 3.35,
         "cuota_visitante": 1.66,
         "link": "https://www.flashscore.co/partido/futbol/ghazl-el-mahallah-WYauVS3c/zamalek-Qk0VR4IS/?mid=Mst1ByU0",
