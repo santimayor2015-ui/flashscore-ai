@@ -1,6 +1,6 @@
 {
     "version": 2,
-    "ultima_actualizacion": "2026-09-13T21:37:08",
+    "ultima_actualizacion": "2026-09-13T22:31:03",
     "cantidad": 2274,
     "partidos": [
         {
@@ -181630,12 +181630,13 @@
                 "SELECT": {}
             },
             "resultado": {
-                "estado": "PENDIENTE",
-                "goles_local": null,
-                "goles_visitante": null,
-                "marcador": null,
-                "resultado_1x2": null,
-                "fecha_resultado": null
+                "estado": "FINALIZADO",
+                "goles_local": 1,
+                "goles_visitante": 2,
+                "marcador": "1-2",
+                "resultado_1x2": "2",
+                "fecha_resultado": "2026-09-13T22:31:41-05:00",
+                "estado_flashscore": "FINALIZADO"
             }
         },
         {
@@ -219058,12 +219059,13 @@
                 "SELECT": {}
             },
             "resultado": {
-                "estado": "PENDIENTE",
-                "goles_local": null,
-                "goles_visitante": null,
-                "marcador": null,
-                "resultado_1x2": null,
-                "fecha_resultado": null
+                "estado": "FINALIZADO",
+                "goles_local": 0,
+                "goles_visitante": 5,
+                "marcador": "0-5",
+                "resultado_1x2": "2",
+                "fecha_resultado": "2026-09-13T22:31:47-05:00",
+                "estado_flashscore": "FINALIZADO"
             }
         },
         {
@@ -231787,12 +231789,13 @@
                 "SELECT": {}
             },
             "resultado": {
-                "estado": "PENDIENTE",
-                "goles_local": null,
-                "goles_visitante": null,
-                "marcador": null,
-                "resultado_1x2": null,
-                "fecha_resultado": null
+                "estado": "FINALIZADO",
+                "goles_local": 2,
+                "goles_visitante": 1,
+                "marcador": "2-1",
+                "resultado_1x2": "1",
+                "fecha_resultado": "2026-09-13T22:01:19-05:00",
+                "estado_flashscore": "FINALIZADO"
             }
         },
         {
@@ -231976,12 +231979,13 @@
                 "SELECT": {}
             },
             "resultado": {
-                "estado": "PENDIENTE",
-                "goles_local": null,
-                "goles_visitante": null,
-                "marcador": null,
-                "resultado_1x2": null,
-                "fecha_resultado": null
+                "estado": "FINALIZADO",
+                "goles_local": 3,
+                "goles_visitante": 0,
+                "marcador": "3-0",
+                "resultado_1x2": "1",
+                "fecha_resultado": "2026-09-13T22:31:50-05:00",
+                "estado_flashscore": "FINALIZADO"
             }
         },
         {
@@ -341342,12 +341346,13 @@
                 "SELECT": {}
             },
             "resultado": {
-                "estado": "PENDIENTE",
-                "goles_local": null,
-                "goles_visitante": null,
-                "marcador": null,
-                "resultado_1x2": null,
-                "fecha_resultado": null
+                "estado": "FINALIZADO",
+                "goles_local": 2,
+                "goles_visitante": 2,
+                "marcador": "2-2",
+                "resultado_1x2": "X",
+                "fecha_resultado": "2026-09-13T22:32:19-05:00",
+                "estado_flashscore": "FINALIZADO"
             }
         },
         {
@@ -341911,12 +341916,13 @@
                 "SELECT": {}
             },
             "resultado": {
-                "estado": "PENDIENTE",
-                "goles_local": null,
-                "goles_visitante": null,
-                "marcador": null,
-                "resultado_1x2": null,
-                "fecha_resultado": null
+                "estado": "FINALIZADO",
+                "goles_local": 2,
+                "goles_visitante": 1,
+                "marcador": "2-1",
+                "resultado_1x2": "1",
+                "fecha_resultado": "2026-09-13T22:32:23-05:00",
+                "estado_flashscore": "FINALIZADO"
             }
         },
         {
@@ -431719,5 +431725,5 @@
             }
         }
     ],
-    "ultima_actualizacion_resultados": "2026-09-13T21:38:57-05:00"
+    "ultima_actualizacion_resultados": "2026-09-13T22:32:28-05:00"
 }
