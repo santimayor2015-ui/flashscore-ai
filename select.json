@@ -1,6 +1,6 @@
 {
-    "fecha_generacion": "2026-09-13",
-    "cantidad": 18,
+    "fecha_generacion": "2026-09-14",
+    "cantidad": 23,
     "partidos": [
         {
             "fecha": "2026-09-14",
@@ -787,203 +787,6 @@
                     },
                     "confirma_marcador_1": true,
                     "confirma_marcador_2": true
-                }
-            }
-        },
-        {
-            "fecha": "2026-09-14",
-            "hora": "09:00",
-            "local": "El Gaish",
-            "visitante": "Smouha",
-            "pais": "EGIPTO",
-            "liga": "PREMIER LEAGUE - JORNADA 5",
-            "link": "https://www.flashscore.co/partido/futbol/el-gaish-rRAQSp3M/smouha-t6WUYDaO/?mid=Ywez82N8",
-            "fuente_datos": "Flashscore",
-            "logolocal": "https://static.flashscore.com/res/image/data/MiskvO9r-zcdwYkPa.png",
-            "logovisitante": "https://static.flashscore.com/res/image/data/ChzRwiAr-Y1Z3w2bI.png",
-            "favorito": "El Gaish",
-            "probabilidad_favorito": 39.86,
-            "nofavorito": "Smouha",
-            "probabilidad_nofavorito": 25.43,
-            "probabilidad_empate": 34.71,
-            "marcador_probable": "1-0",
-            "ultimo_resultado_favorito": "",
-            "ultimo_resultado_nofavorito": "",
-            "ultimo_enfrentamiento": {
-                "fecha": "09.08.25",
-                "local": "Smouha",
-                "visitante": "El Gaish",
-                "goles_local": "1",
-                "goles_visitante": "1"
-            },
-            "ambos_marcan_probabilidad": 31.71,
-            "condiciones": {
-                "motivo": "Poisson y Monte Carlo coinciden y el marcador 1 confirma la recomendación."
-            },
-            "pick": "1",
-            "probabilidad": 39.86,
-            "motivo": "Poisson y Monte Carlo coinciden y el marcador 1 confirma la recomendación.",
-            "mercado": "NO APUESTA",
-            "marcador_1": "1-0",
-            "marcador_2": "1-1",
-            "select": true,
-            "analisis": {
-                "motor": "Motor_analitico",
-                "version": "4.0",
-                "partido": {
-                    "local": "El Gaish",
-                    "visitante": "Smouha"
-                },
-                "analisis_final": {
-                    "1X2": {
-                        "Local": 39.86,
-                        "Empate": 34.71,
-                        "Visitante": 25.43
-                    },
-                    "recomendacion": {
-                        "mercado": "NO APUESTA",
-                        "probabilidad": 39.86,
-                        "estado": "NO_APOSTAR",
-                        "motivo": "Evidencia insuficiente o riesgo demasiado alto.",
-                        "cuota": 2.8
-                    },
-                    "marcadores": [
-                        {
-                            "marcador": "1-0",
-                            "probabilidad": 14.73
-                        },
-                        {
-                            "marcador": "1-1",
-                            "probabilidad": 13.97
-                        }
-                    ],
-                    "btts": {
-                        "resultado": "NO",
-                        "probabilidad": 31.71
-                    },
-                    "over_under": {
-                        "mercado": "Over 1.5",
-                        "probabilidad": 63.28
-                    },
-                    "confianza": {
-                        "score": 57.44,
-                        "nivel": "MEDIA"
-                    },
-                    "riesgo": {
-                        "score": 87.21,
-                        "nivel": "ALTO"
-                    },
-                    "consistencia": {
-                        "estado": "MODERADAMENTE CONSISTENTE",
-                        "diferencia_maxima_puntos": 2.46,
-                        "detalle": "Poisson y Monte Carlo presentan pequeñas diferencias de estimación."
-                    },
-                    "consenso_modelos": {
-                        "poisson": {
-                            "resultado": "1",
-                            "nombre": "El Gaish",
-                            "probabilidad": 47.36
-                        },
-                        "monte_carlo": {
-                            "resultado": "1",
-                            "nombre": "El Gaish",
-                            "probabilidad": 48.84
-                        },
-                        "coinciden": true,
-                        "resultado_consenso": "1",
-                        "nombre_consenso": "El Gaish",
-                        "probabilidad_consenso": 48.1,
-                        "diferencia_puntos": 1.48,
-                        "marcador_1": {
-                            "marcador": "1-0",
-                            "resultado": "1",
-                            "confirma_consenso": true
-                        },
-                        "marcador_2": {
-                            "marcador": "1-1",
-                            "resultado": "X",
-                            "confirma_consenso": false
-                        }
-                    },
-                    "muestra": {
-                        "local": 15,
-                        "local_objetivo": 15,
-                        "visitante": 15,
-                        "visitante_objetivo": 15,
-                        "h2h": 15
-                    },
-                    "value": {
-                        "hay_valor": true,
-                        "mercado": "Local",
-                        "edge": 7.09,
-                        "ev": 11.61,
-                        "cuota": 2.8
-                    }
-                },
-                "select": {
-                    "activo": true,
-                    "motivo": "Poisson y Monte Carlo coinciden y el marcador 1 confirma la recomendación.",
-                    "mercado_principal": "NO APUESTA",
-                    "probabilidad": 39.86,
-                    "marcador_1": "1-0",
-                    "probabilidad_marcador_1": 14.73,
-                    "marcador_2": "1-1",
-                    "probabilidad_marcador_2": 13.97,
-                    "btts": "NO",
-                    "probabilidad_btts": 31.71,
-                    "over_under": "Over 1.5",
-                    "probabilidad_over_under": 63.28,
-                    "confianza": 57.44,
-                    "riesgo": 87.21,
-                    "edge": 7.09,
-                    "resultado": "1",
-                    "recomendacion": "El Gaish",
-                    "probabilidad_consenso": 48.1,
-                    "consenso": true,
-                    "poisson": {
-                        "resultado": "1",
-                        "nombre": "El Gaish",
-                        "probabilidad": 47.36
-                    },
-                    "monte_carlo": {
-                        "resultado": "1",
-                        "nombre": "El Gaish",
-                        "probabilidad": 48.84
-                    },
-                    "confirma_marcador_1": true
-                },
-                "premium": {
-                    "activo": false,
-                    "motivo": "El marcador 2 no confirma la recomendación del consenso.",
-                    "mercado_principal": "NO APUESTA",
-                    "probabilidad": 39.86,
-                    "marcador_1": "1-0",
-                    "probabilidad_marcador_1": 14.73,
-                    "marcador_2": "1-1",
-                    "probabilidad_marcador_2": 13.97,
-                    "btts": "NO",
-                    "probabilidad_btts": 31.71,
-                    "over_under": "Over 1.5",
-                    "probabilidad_over_under": 63.28,
-                    "confianza": 57.44,
-                    "riesgo": 87.21,
-                    "edge": 7.09,
-                    "resultado": "1",
-                    "recomendacion": "El Gaish",
-                    "probabilidad_consenso": 48.1,
-                    "consenso": true,
-                    "poisson": {
-                        "resultado": "1",
-                        "nombre": "El Gaish",
-                        "probabilidad": 47.36
-                    },
-                    "monte_carlo": {
-                        "resultado": "1",
-                        "nombre": "El Gaish",
-                        "probabilidad": 48.84
-                    },
-                    "confirma_marcador_1": true,
-                    "confirma_marcador_2": false
                 }
             }
         },
@@ -2761,203 +2564,6 @@
             }
         },
         {
-            "fecha": "2026-09-14",
-            "hora": "06:30",
-            "local": "Geylang",
-            "visitante": "Tanjong Pagar",
-            "pais": "SINGAPUR",
-            "liga": "PREMIER LEAGUE - JORNADA 1",
-            "link": "https://www.flashscore.co/partido/futbol/geylang-SGUUj41C/tanjong-pagar-tKuMJ4Mc/?mid=GCRJUNLs",
-            "fuente_datos": "Flashscore",
-            "logolocal": "https://static.flashscore.com/res/image/data/bmJLoTCr-61YIFp8q.png",
-            "logovisitante": "https://static.flashscore.com/res/image/data/bVqHhDWg-8KNUIuLO.png",
-            "favorito": "Geylang",
-            "probabilidad_favorito": 62.17,
-            "nofavorito": "Tanjong Pagar",
-            "probabilidad_nofavorito": 15.08,
-            "probabilidad_empate": 22.75,
-            "marcador_probable": "1-0",
-            "ultimo_resultado_favorito": "",
-            "ultimo_resultado_nofavorito": "",
-            "ultimo_enfrentamiento": {
-                "fecha": "19.04.26",
-                "local": "Geylang",
-                "visitante": "Tanjong Pagar",
-                "goles_local": "2",
-                "goles_visitante": "1"
-            },
-            "ambos_marcan_probabilidad": 51.56,
-            "condiciones": {
-                "motivo": "Poisson y Monte Carlo coinciden y el marcador 1 confirma la recomendación."
-            },
-            "pick": "1",
-            "probabilidad": 62.17,
-            "motivo": "Poisson y Monte Carlo coinciden y el marcador 1 confirma la recomendación.",
-            "mercado": "Geylang",
-            "marcador_1": "1-0",
-            "marcador_2": "1-1",
-            "select": true,
-            "analisis": {
-                "motor": "Motor_analitico",
-                "version": "4.0",
-                "partido": {
-                    "local": "Geylang",
-                    "visitante": "Tanjong Pagar"
-                },
-                "analisis_final": {
-                    "1X2": {
-                        "Local": 62.17,
-                        "Empate": 22.75,
-                        "Visitante": 15.08
-                    },
-                    "recomendacion": {
-                        "mercado": "Geylang",
-                        "probabilidad": 62.17,
-                        "estado": "PICK",
-                        "motivo": "Probabilidad, separación y riesgo compatibles.",
-                        "cuota": 1.33
-                    },
-                    "marcadores": [
-                        {
-                            "marcador": "1-0",
-                            "probabilidad": 13.34
-                        },
-                        {
-                            "marcador": "1-1",
-                            "probabilidad": 12.53
-                        }
-                    ],
-                    "btts": {
-                        "resultado": "SI",
-                        "probabilidad": 51.56
-                    },
-                    "over_under": {
-                        "mercado": "Over 1.5",
-                        "probabilidad": 70.9
-                    },
-                    "confianza": {
-                        "score": 86.19,
-                        "nivel": "ALTA"
-                    },
-                    "riesgo": {
-                        "score": 58.23,
-                        "nivel": "MEDIO"
-                    },
-                    "consistencia": {
-                        "estado": "MODERADAMENTE CONSISTENTE",
-                        "diferencia_maxima_puntos": 2.23,
-                        "detalle": "Poisson y Monte Carlo presentan pequeñas diferencias de estimación."
-                    },
-                    "consenso_modelos": {
-                        "poisson": {
-                            "resultado": "1",
-                            "nombre": "Geylang",
-                            "probabilidad": 56.59
-                        },
-                        "monte_carlo": {
-                            "resultado": "1",
-                            "nombre": "Geylang",
-                            "probabilidad": 57.77
-                        },
-                        "coinciden": true,
-                        "resultado_consenso": "1",
-                        "nombre_consenso": "Geylang",
-                        "probabilidad_consenso": 57.18,
-                        "diferencia_puntos": 1.18,
-                        "marcador_1": {
-                            "marcador": "1-0",
-                            "resultado": "1",
-                            "confirma_consenso": true
-                        },
-                        "marcador_2": {
-                            "marcador": "1-1",
-                            "resultado": "X",
-                            "confirma_consenso": false
-                        }
-                    },
-                    "muestra": {
-                        "local": 15,
-                        "local_objetivo": 15,
-                        "visitante": 15,
-                        "visitante_objetivo": 15,
-                        "h2h": 15
-                    },
-                    "value": {
-                        "hay_valor": true,
-                        "mercado": "Empate",
-                        "edge": 4.48,
-                        "ev": 13.75,
-                        "cuota": 5.0
-                    }
-                },
-                "select": {
-                    "activo": true,
-                    "motivo": "Poisson y Monte Carlo coinciden y el marcador 1 confirma la recomendación.",
-                    "mercado_principal": "Geylang",
-                    "probabilidad": 62.17,
-                    "marcador_1": "1-0",
-                    "probabilidad_marcador_1": 13.34,
-                    "marcador_2": "1-1",
-                    "probabilidad_marcador_2": 12.53,
-                    "btts": "SI",
-                    "probabilidad_btts": 51.56,
-                    "over_under": "Over 1.5",
-                    "probabilidad_over_under": 70.9,
-                    "confianza": 86.19,
-                    "riesgo": 58.23,
-                    "edge": 4.48,
-                    "resultado": "1",
-                    "recomendacion": "Geylang",
-                    "probabilidad_consenso": 57.18,
-                    "consenso": true,
-                    "poisson": {
-                        "resultado": "1",
-                        "nombre": "Geylang",
-                        "probabilidad": 56.59
-                    },
-                    "monte_carlo": {
-                        "resultado": "1",
-                        "nombre": "Geylang",
-                        "probabilidad": 57.77
-                    },
-                    "confirma_marcador_1": true
-                },
-                "premium": {
-                    "activo": false,
-                    "motivo": "El marcador 2 no confirma la recomendación del consenso.",
-                    "mercado_principal": "Geylang",
-                    "probabilidad": 62.17,
-                    "marcador_1": "1-0",
-                    "probabilidad_marcador_1": 13.34,
-                    "marcador_2": "1-1",
-                    "probabilidad_marcador_2": 12.53,
-                    "btts": "SI",
-                    "probabilidad_btts": 51.56,
-                    "over_under": "Over 1.5",
-                    "probabilidad_over_under": 70.9,
-                    "confianza": 86.19,
-                    "riesgo": 58.23,
-                    "edge": 4.48,
-                    "resultado": "1",
-                    "recomendacion": "Geylang",
-                    "probabilidad_consenso": 57.18,
-                    "consenso": true,
-                    "poisson": {
-                        "resultado": "1",
-                        "nombre": "Geylang",
-                        "probabilidad": 56.59
-                    },
-                    "monte_carlo": {
-                        "resultado": "1",
-                        "nombre": "Geylang",
-                        "probabilidad": 57.77
-                    },
-                    "confirma_marcador_1": true,
-                    "confirma_marcador_2": false
-                }
-            }
-        },
-        {
             "fecha": "2026-09-15",
             "hora": "13:45",
             "local": "Penybont",
@@ -3542,6 +3148,1379 @@
                         "resultado": "1",
                         "nombre": "Kidderminster",
                         "probabilidad": 64.61
+                    },
+                    "confirma_marcador_1": true,
+                    "confirma_marcador_2": true
+                }
+            }
+        },
+        {
+            "fecha": "2026-09-15",
+            "hora": "08:00",
+            "local": "Villa",
+            "visitante": "Kigezi HomeBoyz",
+            "pais": "UGANDA",
+            "liga": "PREMIER LEAGUE - JORNADA 4",
+            "link": "https://www.flashscore.co/partido/futbol/kigezi-homeboyz-25tTRfd0/villa-ALztxK6e/?mid=bV5krYom",
+            "fuente_datos": "Flashscore",
+            "logolocal": "https://static.flashscore.com/res/image/data/GAeoAFg5-OGu3TpGo.png",
+            "logovisitante": "https://static.flashscore.com/res/image/data/YL1JqIWg-WUrr9Eeb.png",
+            "favorito": "Villa",
+            "probabilidad_favorito": 61.85,
+            "nofavorito": "Kigezi HomeBoyz",
+            "probabilidad_nofavorito": 13.75,
+            "probabilidad_empate": 24.4,
+            "marcador_probable": "2-0",
+            "ultimo_resultado_favorito": "",
+            "ultimo_resultado_nofavorito": "",
+            "ultimo_enfrentamiento": false,
+            "ambos_marcan_probabilidad": 37.36,
+            "condiciones": {
+                "motivo": "Poisson y Monte Carlo coinciden y el marcador 1 confirma la recomendación."
+            },
+            "pick": "1",
+            "probabilidad": 61.85,
+            "motivo": "Poisson y Monte Carlo coinciden y el marcador 1 confirma la recomendación.",
+            "mercado": "Villa",
+            "marcador_1": "2-0",
+            "marcador_2": "1-0",
+            "select": true,
+            "analisis": {
+                "motor": "Motor_analitico",
+                "version": "4.0",
+                "partido": {
+                    "local": "Villa",
+                    "visitante": "Kigezi HomeBoyz"
+                },
+                "analisis_final": {
+                    "1X2": {
+                        "Local": 61.85,
+                        "Empate": 24.4,
+                        "Visitante": 13.75
+                    },
+                    "recomendacion": {
+                        "mercado": "Villa",
+                        "probabilidad": 61.85,
+                        "estado": "PICK",
+                        "motivo": "Probabilidad, separación y riesgo compatibles.",
+                        "cuota": 1.47
+                    },
+                    "marcadores": [
+                        {
+                            "marcador": "2-0",
+                            "probabilidad": 12.52
+                        },
+                        {
+                            "marcador": "1-0",
+                            "probabilidad": 12.49
+                        }
+                    ],
+                    "btts": {
+                        "resultado": "NO",
+                        "probabilidad": 37.36
+                    },
+                    "over_under": {
+                        "mercado": "Over 1.5",
+                        "probabilidad": 74.6
+                    },
+                    "confianza": {
+                        "score": 78.63,
+                        "nivel": "ALTA"
+                    },
+                    "riesgo": {
+                        "score": 59.84,
+                        "nivel": "MEDIO"
+                    },
+                    "consistencia": {
+                        "estado": "MODERADAMENTE CONSISTENTE",
+                        "diferencia_maxima_puntos": 1.83,
+                        "detalle": "Poisson y Monte Carlo presentan pequeñas diferencias de estimación."
+                    },
+                    "consenso_modelos": {
+                        "poisson": {
+                            "resultado": "1",
+                            "nombre": "Villa",
+                            "probabilidad": 62.13
+                        },
+                        "monte_carlo": {
+                            "resultado": "1",
+                            "nombre": "Villa",
+                            "probabilidad": 63.19
+                        },
+                        "coinciden": true,
+                        "resultado_consenso": "1",
+                        "nombre_consenso": "Villa",
+                        "probabilidad_consenso": 62.66,
+                        "diferencia_puntos": 1.06,
+                        "marcador_1": {
+                            "marcador": "2-0",
+                            "resultado": "1",
+                            "confirma_consenso": true
+                        },
+                        "marcador_2": {
+                            "marcador": "1-0",
+                            "resultado": "1",
+                            "confirma_consenso": true
+                        }
+                    },
+                    "muestra": {
+                        "local": 15,
+                        "local_objetivo": 15,
+                        "visitante": 15,
+                        "visitante_objetivo": 15,
+                        "h2h": 0
+                    },
+                    "value": {
+                        "hay_valor": false,
+                        "mercado": "Local",
+                        "edge": 0.33,
+                        "ev": -9.08,
+                        "cuota": 1.47
+                    }
+                },
+                "select": {
+                    "activo": true,
+                    "motivo": "Poisson y Monte Carlo coinciden y el marcador 1 confirma la recomendación.",
+                    "mercado_principal": "Villa",
+                    "probabilidad": 61.85,
+                    "marcador_1": "2-0",
+                    "probabilidad_marcador_1": 12.52,
+                    "marcador_2": "1-0",
+                    "probabilidad_marcador_2": 12.49,
+                    "btts": "NO",
+                    "probabilidad_btts": 37.36,
+                    "over_under": "Over 1.5",
+                    "probabilidad_over_under": 74.6,
+                    "confianza": 78.63,
+                    "riesgo": 59.84,
+                    "edge": 0.33,
+                    "resultado": "1",
+                    "recomendacion": "Villa",
+                    "probabilidad_consenso": 62.66,
+                    "consenso": true,
+                    "poisson": {
+                        "resultado": "1",
+                        "nombre": "Villa",
+                        "probabilidad": 62.13
+                    },
+                    "monte_carlo": {
+                        "resultado": "1",
+                        "nombre": "Villa",
+                        "probabilidad": 63.19
+                    },
+                    "confirma_marcador_1": true
+                },
+                "premium": {
+                    "activo": true,
+                    "motivo": "Poisson y Monte Carlo coinciden y ambos marcadores confirman la recomendación.",
+                    "mercado_principal": "Villa",
+                    "probabilidad": 61.85,
+                    "marcador_1": "2-0",
+                    "probabilidad_marcador_1": 12.52,
+                    "marcador_2": "1-0",
+                    "probabilidad_marcador_2": 12.49,
+                    "btts": "NO",
+                    "probabilidad_btts": 37.36,
+                    "over_under": "Over 1.5",
+                    "probabilidad_over_under": 74.6,
+                    "confianza": 78.63,
+                    "riesgo": 59.84,
+                    "edge": 0.33,
+                    "resultado": "1",
+                    "recomendacion": "Villa",
+                    "probabilidad_consenso": 62.66,
+                    "consenso": true,
+                    "poisson": {
+                        "resultado": "1",
+                        "nombre": "Villa",
+                        "probabilidad": 62.13
+                    },
+                    "monte_carlo": {
+                        "resultado": "1",
+                        "nombre": "Villa",
+                        "probabilidad": 63.19
+                    },
+                    "confirma_marcador_1": true,
+                    "confirma_marcador_2": true
+                }
+            }
+        },
+        {
+            "fecha": "2026-09-16",
+            "hora": "12:00",
+            "local": "Fortuna Köln",
+            "visitante": "Wehen",
+            "pais": "ALEMANIA",
+            "liga": "3. LIGA - JORNADA 6",
+            "link": "https://www.flashscore.co/partido/futbol/fortuna-koln-rgXMAZDK/wehen-ObxFt3lm/?mid=Iejl0fzf",
+            "fuente_datos": "Flashscore",
+            "logolocal": "https://static.flashscore.com/res/image/data/za7bufg5-4vL7JG21.png",
+            "logovisitante": "https://static.flashscore.com/res/image/data/zNBt0YeM-QmM3Kdme.png",
+            "favorito": "Fortuna Köln",
+            "probabilidad_favorito": 50.13,
+            "nofavorito": "Wehen",
+            "probabilidad_nofavorito": 23.53,
+            "probabilidad_empate": 26.34,
+            "marcador_probable": "1-0",
+            "ultimo_resultado_favorito": "",
+            "ultimo_resultado_nofavorito": "",
+            "ultimo_enfrentamiento": {
+                "fecha": "11.01.20",
+                "local": "Wehen",
+                "visitante": "Fortuna Köln",
+                "goles_local": "3",
+                "goles_visitante": "0"
+            },
+            "ambos_marcan_probabilidad": 45.4,
+            "condiciones": {
+                "motivo": "Poisson y Monte Carlo coinciden y el marcador 1 confirma la recomendación."
+            },
+            "pick": "1",
+            "probabilidad": 76.47,
+            "motivo": "Poisson y Monte Carlo coinciden y el marcador 1 confirma la recomendación.",
+            "mercado": "1X",
+            "marcador_1": "1-0",
+            "marcador_2": "2-0",
+            "select": true,
+            "analisis": {
+                "motor": "Motor_analitico",
+                "version": "4.0",
+                "partido": {
+                    "local": "Fortuna Köln",
+                    "visitante": "Wehen"
+                },
+                "analisis_final": {
+                    "1X2": {
+                        "Local": 50.13,
+                        "Empate": 26.34,
+                        "Visitante": 23.53
+                    },
+                    "recomendacion": {
+                        "mercado": "1X",
+                        "probabilidad": 76.47,
+                        "estado": "DOBLE",
+                        "motivo": "El 1X2 directo no supera el filtro; se conserva cobertura.",
+                        "cuota": 2.55
+                    },
+                    "marcadores": [
+                        {
+                            "marcador": "1-0",
+                            "probabilidad": 13.35
+                        },
+                        {
+                            "marcador": "2-0",
+                            "probabilidad": 12.84
+                        }
+                    ],
+                    "btts": {
+                        "resultado": "NO",
+                        "probabilidad": 45.4
+                    },
+                    "over_under": {
+                        "mercado": "Over 1.5",
+                        "probabilidad": 72.63
+                    },
+                    "confianza": {
+                        "score": 90.92,
+                        "nivel": "ALTA"
+                    },
+                    "riesgo": {
+                        "score": 66.89,
+                        "nivel": "MEDIO"
+                    },
+                    "consistencia": {
+                        "estado": "MODERADAMENTE CONSISTENTE",
+                        "diferencia_maxima_puntos": 2.23,
+                        "detalle": "Poisson y Monte Carlo presentan pequeñas diferencias de estimación."
+                    },
+                    "consenso_modelos": {
+                        "poisson": {
+                            "resultado": "1",
+                            "nombre": "Fortuna Köln",
+                            "probabilidad": 61.4
+                        },
+                        "monte_carlo": {
+                            "resultado": "1",
+                            "nombre": "Fortuna Köln",
+                            "probabilidad": 62.53
+                        },
+                        "coinciden": true,
+                        "resultado_consenso": "1",
+                        "nombre_consenso": "Fortuna Köln",
+                        "probabilidad_consenso": 61.97,
+                        "diferencia_puntos": 1.13,
+                        "marcador_1": {
+                            "marcador": "1-0",
+                            "resultado": "1",
+                            "confirma_consenso": true
+                        },
+                        "marcador_2": {
+                            "marcador": "2-0",
+                            "resultado": "1",
+                            "confirma_consenso": true
+                        }
+                    },
+                    "muestra": {
+                        "local": 15,
+                        "local_objetivo": 15,
+                        "visitante": 15,
+                        "visitante_objetivo": 15,
+                        "h2h": 12
+                    },
+                    "value": {
+                        "hay_valor": true,
+                        "mercado": "Local",
+                        "edge": 13.51,
+                        "ev": 27.83,
+                        "cuota": 2.55
+                    }
+                },
+                "select": {
+                    "activo": true,
+                    "motivo": "Poisson y Monte Carlo coinciden y el marcador 1 confirma la recomendación.",
+                    "mercado_principal": "1X",
+                    "probabilidad": 76.47,
+                    "marcador_1": "1-0",
+                    "probabilidad_marcador_1": 13.35,
+                    "marcador_2": "2-0",
+                    "probabilidad_marcador_2": 12.84,
+                    "btts": "NO",
+                    "probabilidad_btts": 45.4,
+                    "over_under": "Over 1.5",
+                    "probabilidad_over_under": 72.63,
+                    "confianza": 90.92,
+                    "riesgo": 66.89,
+                    "edge": 13.51,
+                    "resultado": "1",
+                    "recomendacion": "Fortuna Köln",
+                    "probabilidad_consenso": 61.97,
+                    "consenso": true,
+                    "poisson": {
+                        "resultado": "1",
+                        "nombre": "Fortuna Köln",
+                        "probabilidad": 61.4
+                    },
+                    "monte_carlo": {
+                        "resultado": "1",
+                        "nombre": "Fortuna Köln",
+                        "probabilidad": 62.53
+                    },
+                    "confirma_marcador_1": true
+                },
+                "premium": {
+                    "activo": true,
+                    "motivo": "Poisson y Monte Carlo coinciden y ambos marcadores confirman la recomendación.",
+                    "mercado_principal": "1X",
+                    "probabilidad": 76.47,
+                    "marcador_1": "1-0",
+                    "probabilidad_marcador_1": 13.35,
+                    "marcador_2": "2-0",
+                    "probabilidad_marcador_2": 12.84,
+                    "btts": "NO",
+                    "probabilidad_btts": 45.4,
+                    "over_under": "Over 1.5",
+                    "probabilidad_over_under": 72.63,
+                    "confianza": 90.92,
+                    "riesgo": 66.89,
+                    "edge": 13.51,
+                    "resultado": "1",
+                    "recomendacion": "Fortuna Köln",
+                    "probabilidad_consenso": 61.97,
+                    "consenso": true,
+                    "poisson": {
+                        "resultado": "1",
+                        "nombre": "Fortuna Köln",
+                        "probabilidad": 61.4
+                    },
+                    "monte_carlo": {
+                        "resultado": "1",
+                        "nombre": "Fortuna Köln",
+                        "probabilidad": 62.53
+                    },
+                    "confirma_marcador_1": true,
+                    "confirma_marcador_2": true
+                }
+            }
+        },
+        {
+            "fecha": "2026-09-16",
+            "hora": "11:30",
+            "local": "Latina",
+            "visitante": "Guidonia",
+            "pais": "ITALIA",
+            "liga": "SERIE C - GRUPO B - JORNADA 5",
+            "link": "https://www.flashscore.co/partido/futbol/guidonia-1937-O44quWxq/latina-CrARgwBF/?mid=SMRJgToo",
+            "fuente_datos": "Flashscore",
+            "logolocal": "https://static.flashscore.com/res/image/data/WMOEXWg5-8j2Mq7Nm.png",
+            "logovisitante": "https://static.flashscore.com/res/image/data/IVKn05e5-zFFGIwi8.png",
+            "favorito": "Latina",
+            "probabilidad_favorito": 44.39,
+            "nofavorito": "Guidonia",
+            "probabilidad_nofavorito": 26.22,
+            "probabilidad_empate": 29.39,
+            "marcador_probable": "1-0",
+            "ultimo_resultado_favorito": "",
+            "ultimo_resultado_nofavorito": "",
+            "ultimo_enfrentamiento": {
+                "fecha": "09.08.25",
+                "local": "Latina",
+                "visitante": "Guidonia",
+                "goles_local": "0",
+                "goles_visitante": "0"
+            },
+            "ambos_marcan_probabilidad": 49.52,
+            "condiciones": {
+                "motivo": "Poisson y Monte Carlo coinciden y el marcador 1 confirma la recomendación."
+            },
+            "pick": "1",
+            "probabilidad": 73.78,
+            "motivo": "Poisson y Monte Carlo coinciden y el marcador 1 confirma la recomendación.",
+            "mercado": "1X",
+            "marcador_1": "1-0",
+            "marcador_2": "1-1",
+            "select": true,
+            "analisis": {
+                "motor": "Motor_analitico",
+                "version": "4.0",
+                "partido": {
+                    "local": "Latina",
+                    "visitante": "Guidonia"
+                },
+                "analisis_final": {
+                    "1X2": {
+                        "Local": 44.39,
+                        "Empate": 29.39,
+                        "Visitante": 26.22
+                    },
+                    "recomendacion": {
+                        "mercado": "1X",
+                        "probabilidad": 73.78,
+                        "estado": "DOBLE",
+                        "motivo": "El 1X2 directo no supera el filtro; se conserva cobertura.",
+                        "cuota": 2.5
+                    },
+                    "marcadores": [
+                        {
+                            "marcador": "1-0",
+                            "probabilidad": 13.65
+                        },
+                        {
+                            "marcador": "1-1",
+                            "probabilidad": 13.43
+                        }
+                    ],
+                    "btts": {
+                        "resultado": "NO",
+                        "probabilidad": 49.52
+                    },
+                    "over_under": {
+                        "mercado": "Over 1.5",
+                        "probabilidad": 67.95
+                    },
+                    "confianza": {
+                        "score": 78.86,
+                        "nivel": "ALTA"
+                    },
+                    "riesgo": {
+                        "score": 69.52,
+                        "nivel": "ALTO"
+                    },
+                    "consistencia": {
+                        "estado": "MODERADAMENTE CONSISTENTE",
+                        "diferencia_maxima_puntos": 2.38,
+                        "detalle": "Poisson y Monte Carlo presentan pequeñas diferencias de estimación."
+                    },
+                    "consenso_modelos": {
+                        "poisson": {
+                            "resultado": "1",
+                            "nombre": "Latina",
+                            "probabilidad": 51.29
+                        },
+                        "monte_carlo": {
+                            "resultado": "1",
+                            "nombre": "Latina",
+                            "probabilidad": 52.58
+                        },
+                        "coinciden": true,
+                        "resultado_consenso": "1",
+                        "nombre_consenso": "Latina",
+                        "probabilidad_consenso": 51.94,
+                        "diferencia_puntos": 1.29,
+                        "marcador_1": {
+                            "marcador": "1-0",
+                            "resultado": "1",
+                            "confirma_consenso": true
+                        },
+                        "marcador_2": {
+                            "marcador": "1-1",
+                            "resultado": "X",
+                            "confirma_consenso": false
+                        }
+                    },
+                    "muestra": {
+                        "local": 14,
+                        "local_objetivo": 15,
+                        "visitante": 15,
+                        "visitante_objetivo": 15,
+                        "h2h": 1
+                    },
+                    "value": {
+                        "hay_valor": true,
+                        "mercado": "Local",
+                        "edge": 7.31,
+                        "ev": 10.98,
+                        "cuota": 2.5
+                    }
+                },
+                "select": {
+                    "activo": true,
+                    "motivo": "Poisson y Monte Carlo coinciden y el marcador 1 confirma la recomendación.",
+                    "mercado_principal": "1X",
+                    "probabilidad": 73.78,
+                    "marcador_1": "1-0",
+                    "probabilidad_marcador_1": 13.65,
+                    "marcador_2": "1-1",
+                    "probabilidad_marcador_2": 13.43,
+                    "btts": "NO",
+                    "probabilidad_btts": 49.52,
+                    "over_under": "Over 1.5",
+                    "probabilidad_over_under": 67.95,
+                    "confianza": 78.86,
+                    "riesgo": 69.52,
+                    "edge": 7.31,
+                    "resultado": "1",
+                    "recomendacion": "Latina",
+                    "probabilidad_consenso": 51.94,
+                    "consenso": true,
+                    "poisson": {
+                        "resultado": "1",
+                        "nombre": "Latina",
+                        "probabilidad": 51.29
+                    },
+                    "monte_carlo": {
+                        "resultado": "1",
+                        "nombre": "Latina",
+                        "probabilidad": 52.58
+                    },
+                    "confirma_marcador_1": true
+                },
+                "premium": {
+                    "activo": false,
+                    "motivo": "El marcador 2 no confirma la recomendación del consenso.",
+                    "mercado_principal": "1X",
+                    "probabilidad": 73.78,
+                    "marcador_1": "1-0",
+                    "probabilidad_marcador_1": 13.65,
+                    "marcador_2": "1-1",
+                    "probabilidad_marcador_2": 13.43,
+                    "btts": "NO",
+                    "probabilidad_btts": 49.52,
+                    "over_under": "Over 1.5",
+                    "probabilidad_over_under": 67.95,
+                    "confianza": 78.86,
+                    "riesgo": 69.52,
+                    "edge": 7.31,
+                    "resultado": "1",
+                    "recomendacion": "Latina",
+                    "probabilidad_consenso": 51.94,
+                    "consenso": true,
+                    "poisson": {
+                        "resultado": "1",
+                        "nombre": "Latina",
+                        "probabilidad": 51.29
+                    },
+                    "monte_carlo": {
+                        "resultado": "1",
+                        "nombre": "Latina",
+                        "probabilidad": 52.58
+                    },
+                    "confirma_marcador_1": true,
+                    "confirma_marcador_2": false
+                }
+            }
+        },
+        {
+            "fecha": "2026-09-17",
+            "hora": "12:00",
+            "local": "Real Betis",
+            "visitante": "Getafe",
+            "pais": "ESPAÑA",
+            "liga": "LALIGA EA SPORTS - JORNADA 6",
+            "link": "https://www.flashscore.co/partido/futbol/getafe-cf-dboeiWOt/real-betis-vJbTeCGP/?mid=l0jpbLho",
+            "fuente_datos": "Flashscore",
+            "logolocal": "https://static.flashscore.com/res/image/data/hvyaw5HG-zkU5wiAr.png",
+            "logovisitante": "https://static.flashscore.com/res/image/data/OjieMlGG-YmCZKGcR.png",
+            "favorito": "Real Betis",
+            "probabilidad_favorito": 55.82,
+            "nofavorito": "Getafe",
+            "probabilidad_nofavorito": 17.35,
+            "probabilidad_empate": 26.83,
+            "marcador_probable": "1-0",
+            "ultimo_resultado_favorito": "",
+            "ultimo_resultado_nofavorito": "",
+            "ultimo_enfrentamiento": {
+                "fecha": "08.03.26",
+                "local": "Getafe",
+                "visitante": "Real Betis",
+                "goles_local": "2",
+                "goles_visitante": "0"
+            },
+            "ambos_marcan_probabilidad": 46.22,
+            "condiciones": {
+                "motivo": "Poisson y Monte Carlo coinciden y el marcador 1 confirma la recomendación."
+            },
+            "pick": "1",
+            "probabilidad": 55.82,
+            "motivo": "Poisson y Monte Carlo coinciden y el marcador 1 confirma la recomendación.",
+            "mercado": "Real Betis",
+            "marcador_1": "1-0",
+            "marcador_2": "1-1",
+            "select": true,
+            "analisis": {
+                "motor": "Motor_analitico",
+                "version": "4.0",
+                "partido": {
+                    "local": "Real Betis",
+                    "visitante": "Getafe"
+                },
+                "analisis_final": {
+                    "1X2": {
+                        "Local": 55.82,
+                        "Empate": 26.83,
+                        "Visitante": 17.35
+                    },
+                    "recomendacion": {
+                        "mercado": "Real Betis",
+                        "probabilidad": 55.82,
+                        "estado": "PICK",
+                        "motivo": "Probabilidad, separación y riesgo compatibles.",
+                        "cuota": 1.78
+                    },
+                    "marcadores": [
+                        {
+                            "marcador": "1-0",
+                            "probabilidad": 13.1
+                        },
+                        {
+                            "marcador": "1-1",
+                            "probabilidad": 12.4
+                        }
+                    ],
+                    "btts": {
+                        "resultado": "NO",
+                        "probabilidad": 46.22
+                    },
+                    "over_under": {
+                        "mercado": "Over 1.5",
+                        "probabilidad": 71.65
+                    },
+                    "confianza": {
+                        "score": 80.18,
+                        "nivel": "ALTA"
+                    },
+                    "riesgo": {
+                        "score": 60.44,
+                        "nivel": "MEDIO"
+                    },
+                    "consistencia": {
+                        "estado": "MODERADAMENTE CONSISTENTE",
+                        "diferencia_maxima_puntos": 2.27,
+                        "detalle": "Poisson y Monte Carlo presentan pequeñas diferencias de estimación."
+                    },
+                    "consenso_modelos": {
+                        "poisson": {
+                            "resultado": "1",
+                            "nombre": "Real Betis",
+                            "probabilidad": 57.22
+                        },
+                        "monte_carlo": {
+                            "resultado": "1",
+                            "nombre": "Real Betis",
+                            "probabilidad": 58.37
+                        },
+                        "coinciden": true,
+                        "resultado_consenso": "1",
+                        "nombre_consenso": "Real Betis",
+                        "probabilidad_consenso": 57.8,
+                        "diferencia_puntos": 1.15,
+                        "marcador_1": {
+                            "marcador": "1-0",
+                            "resultado": "1",
+                            "confirma_consenso": true
+                        },
+                        "marcador_2": {
+                            "marcador": "1-1",
+                            "resultado": "X",
+                            "confirma_consenso": false
+                        }
+                    },
+                    "muestra": {
+                        "local": 15,
+                        "local_objetivo": 15,
+                        "visitante": 15,
+                        "visitante_objetivo": 15,
+                        "h2h": 15
+                    },
+                    "value": {
+                        "hay_valor": false,
+                        "mercado": "Local",
+                        "edge": 1.7,
+                        "ev": -0.64,
+                        "cuota": 1.78
+                    }
+                },
+                "select": {
+                    "activo": true,
+                    "motivo": "Poisson y Monte Carlo coinciden y el marcador 1 confirma la recomendación.",
+                    "mercado_principal": "Real Betis",
+                    "probabilidad": 55.82,
+                    "marcador_1": "1-0",
+                    "probabilidad_marcador_1": 13.1,
+                    "marcador_2": "1-1",
+                    "probabilidad_marcador_2": 12.4,
+                    "btts": "NO",
+                    "probabilidad_btts": 46.22,
+                    "over_under": "Over 1.5",
+                    "probabilidad_over_under": 71.65,
+                    "confianza": 80.18,
+                    "riesgo": 60.44,
+                    "edge": 1.7,
+                    "resultado": "1",
+                    "recomendacion": "Real Betis",
+                    "probabilidad_consenso": 57.8,
+                    "consenso": true,
+                    "poisson": {
+                        "resultado": "1",
+                        "nombre": "Real Betis",
+                        "probabilidad": 57.22
+                    },
+                    "monte_carlo": {
+                        "resultado": "1",
+                        "nombre": "Real Betis",
+                        "probabilidad": 58.37
+                    },
+                    "confirma_marcador_1": true
+                },
+                "premium": {
+                    "activo": false,
+                    "motivo": "El marcador 2 no confirma la recomendación del consenso.",
+                    "mercado_principal": "Real Betis",
+                    "probabilidad": 55.82,
+                    "marcador_1": "1-0",
+                    "probabilidad_marcador_1": 13.1,
+                    "marcador_2": "1-1",
+                    "probabilidad_marcador_2": 12.4,
+                    "btts": "NO",
+                    "probabilidad_btts": 46.22,
+                    "over_under": "Over 1.5",
+                    "probabilidad_over_under": 71.65,
+                    "confianza": 80.18,
+                    "riesgo": 60.44,
+                    "edge": 1.7,
+                    "resultado": "1",
+                    "recomendacion": "Real Betis",
+                    "probabilidad_consenso": 57.8,
+                    "consenso": true,
+                    "poisson": {
+                        "resultado": "1",
+                        "nombre": "Real Betis",
+                        "probabilidad": 57.22
+                    },
+                    "monte_carlo": {
+                        "resultado": "1",
+                        "nombre": "Real Betis",
+                        "probabilidad": 58.37
+                    },
+                    "confirma_marcador_1": true,
+                    "confirma_marcador_2": false
+                }
+            }
+        },
+        {
+            "fecha": "2026-09-17",
+            "hora": "14:00",
+            "local": "Beşiktaş",
+            "visitante": "Marsella",
+            "pais": "EUROPA",
+            "liga": "EUROPA LEAGUE - FASE DE LIGA - JORNADA 1",
+            "link": "https://www.flashscore.co/partido/futbol/besiktas-IDmErJCR/marsella-SblU3Hee/?mid=SGlk19Jl",
+            "fuente_datos": "Flashscore",
+            "logolocal": "https://static.flashscore.com/res/image/data/W0HRCIjl-OnrtpsZ9.png",
+            "logovisitante": "https://static.flashscore.com/res/image/data/AwlBhPfM-AcP8ZdxL.png",
+            "favorito": "Beşiktaş",
+            "probabilidad_favorito": 59.19,
+            "nofavorito": "Marsella",
+            "probabilidad_nofavorito": 17.78,
+            "probabilidad_empate": 23.02,
+            "marcador_probable": "2-0",
+            "ultimo_resultado_favorito": "",
+            "ultimo_resultado_nofavorito": "",
+            "ultimo_enfrentamiento": {
+                "fecha": "28.11.07",
+                "local": "Beşiktaş",
+                "visitante": "Marsella",
+                "goles_local": "2",
+                "goles_visitante": "1"
+            },
+            "ambos_marcan_probabilidad": 40.45,
+            "condiciones": {
+                "motivo": "Poisson y Monte Carlo coinciden y el marcador 1 confirma la recomendación."
+            },
+            "pick": "1",
+            "probabilidad": 59.19,
+            "motivo": "Poisson y Monte Carlo coinciden y el marcador 1 confirma la recomendación.",
+            "mercado": "Beşiktaş",
+            "marcador_1": "2-0",
+            "marcador_2": "1-0",
+            "select": true,
+            "analisis": {
+                "motor": "Motor_analitico",
+                "version": "4.0",
+                "partido": {
+                    "local": "Beşiktaş",
+                    "visitante": "Marsella"
+                },
+                "analisis_final": {
+                    "1X2": {
+                        "Local": 59.19,
+                        "Empate": 23.02,
+                        "Visitante": 17.78
+                    },
+                    "recomendacion": {
+                        "mercado": "Beşiktaş",
+                        "probabilidad": 59.19,
+                        "estado": "PICK",
+                        "motivo": "Probabilidad, separación y riesgo compatibles.",
+                        "cuota": 1.76
+                    },
+                    "marcadores": [
+                        {
+                            "marcador": "2-0",
+                            "probabilidad": 12.61
+                        },
+                        {
+                            "marcador": "1-0",
+                            "probabilidad": 12.14
+                        }
+                    ],
+                    "btts": {
+                        "resultado": "NO",
+                        "probabilidad": 40.45
+                    },
+                    "over_under": {
+                        "mercado": "Over 1.5",
+                        "probabilidad": 75.81
+                    },
+                    "confianza": {
+                        "score": 85.12,
+                        "nivel": "ALTA"
+                    },
+                    "riesgo": {
+                        "score": 61.18,
+                        "nivel": "MEDIO"
+                    },
+                    "consistencia": {
+                        "estado": "MODERADAMENTE CONSISTENTE",
+                        "diferencia_maxima_puntos": 2.01,
+                        "detalle": "Poisson y Monte Carlo presentan pequeñas diferencias de estimación."
+                    },
+                    "consenso_modelos": {
+                        "poisson": {
+                            "resultado": "1",
+                            "nombre": "Beşiktaş",
+                            "probabilidad": 63.73
+                        },
+                        "monte_carlo": {
+                            "resultado": "1",
+                            "nombre": "Beşiktaş",
+                            "probabilidad": 64.79
+                        },
+                        "coinciden": true,
+                        "resultado_consenso": "1",
+                        "nombre_consenso": "Beşiktaş",
+                        "probabilidad_consenso": 64.26,
+                        "diferencia_puntos": 1.06,
+                        "marcador_1": {
+                            "marcador": "2-0",
+                            "resultado": "1",
+                            "confirma_consenso": true
+                        },
+                        "marcador_2": {
+                            "marcador": "1-0",
+                            "resultado": "1",
+                            "confirma_consenso": true
+                        }
+                    },
+                    "muestra": {
+                        "local": 15,
+                        "local_objetivo": 15,
+                        "visitante": 15,
+                        "visitante_objetivo": 15,
+                        "h2h": 2
+                    },
+                    "value": {
+                        "hay_valor": true,
+                        "mercado": "Local",
+                        "edge": 5.4,
+                        "ev": 4.17,
+                        "cuota": 1.76
+                    }
+                },
+                "select": {
+                    "activo": true,
+                    "motivo": "Poisson y Monte Carlo coinciden y el marcador 1 confirma la recomendación.",
+                    "mercado_principal": "Beşiktaş",
+                    "probabilidad": 59.19,
+                    "marcador_1": "2-0",
+                    "probabilidad_marcador_1": 12.61,
+                    "marcador_2": "1-0",
+                    "probabilidad_marcador_2": 12.14,
+                    "btts": "NO",
+                    "probabilidad_btts": 40.45,
+                    "over_under": "Over 1.5",
+                    "probabilidad_over_under": 75.81,
+                    "confianza": 85.12,
+                    "riesgo": 61.18,
+                    "edge": 5.4,
+                    "resultado": "1",
+                    "recomendacion": "Beşiktaş",
+                    "probabilidad_consenso": 64.26,
+                    "consenso": true,
+                    "poisson": {
+                        "resultado": "1",
+                        "nombre": "Beşiktaş",
+                        "probabilidad": 63.73
+                    },
+                    "monte_carlo": {
+                        "resultado": "1",
+                        "nombre": "Beşiktaş",
+                        "probabilidad": 64.79
+                    },
+                    "confirma_marcador_1": true
+                },
+                "premium": {
+                    "activo": true,
+                    "motivo": "Poisson y Monte Carlo coinciden y ambos marcadores confirman la recomendación.",
+                    "mercado_principal": "Beşiktaş",
+                    "probabilidad": 59.19,
+                    "marcador_1": "2-0",
+                    "probabilidad_marcador_1": 12.61,
+                    "marcador_2": "1-0",
+                    "probabilidad_marcador_2": 12.14,
+                    "btts": "NO",
+                    "probabilidad_btts": 40.45,
+                    "over_under": "Over 1.5",
+                    "probabilidad_over_under": 75.81,
+                    "confianza": 85.12,
+                    "riesgo": 61.18,
+                    "edge": 5.4,
+                    "resultado": "1",
+                    "recomendacion": "Beşiktaş",
+                    "probabilidad_consenso": 64.26,
+                    "consenso": true,
+                    "poisson": {
+                        "resultado": "1",
+                        "nombre": "Beşiktaş",
+                        "probabilidad": 63.73
+                    },
+                    "monte_carlo": {
+                        "resultado": "1",
+                        "nombre": "Beşiktaş",
+                        "probabilidad": 64.79
+                    },
+                    "confirma_marcador_1": true,
+                    "confirma_marcador_2": true
+                }
+            }
+        },
+        {
+            "fecha": "2026-09-17",
+            "hora": "19:30",
+            "local": "Bolívar",
+            "visitante": "GV San Jose",
+            "pais": "BOLIVIA",
+            "liga": "DIVISIÓN PROFESIONAL - JORNADA 20",
+            "link": "https://www.flashscore.co/partido/futbol/bolivar-WImzpcSF/gv-san-jose-Ch7Q7a9K/?mid=YRU5DX6k",
+            "fuente_datos": "Flashscore",
+            "logolocal": "https://static.flashscore.com/res/image/data/GENsXszB-ULrHhAjS.png",
+            "logovisitante": "https://static.flashscore.com/res/image/data/tba5eHwS-4rTQguij.png",
+            "favorito": "Bolívar",
+            "probabilidad_favorito": 72.49,
+            "nofavorito": "GV San Jose",
+            "probabilidad_nofavorito": 10.41,
+            "probabilidad_empate": 17.09,
+            "marcador_probable": "2-0",
+            "ultimo_resultado_favorito": "",
+            "ultimo_resultado_nofavorito": "",
+            "ultimo_enfrentamiento": {
+                "fecha": "02.09.26",
+                "local": "GV San Jose",
+                "visitante": "Bolívar",
+                "goles_local": "0",
+                "goles_visitante": "1"
+            },
+            "ambos_marcan_probabilidad": 58.52,
+            "condiciones": {
+                "motivo": "Poisson y Monte Carlo coinciden y el marcador 1 confirma la recomendación."
+            },
+            "pick": "1",
+            "probabilidad": 72.49,
+            "motivo": "Poisson y Monte Carlo coinciden y el marcador 1 confirma la recomendación.",
+            "mercado": "Bolívar",
+            "marcador_1": "2-0",
+            "marcador_2": "1-1",
+            "select": true,
+            "analisis": {
+                "motor": "Motor_analitico",
+                "version": "4.0",
+                "partido": {
+                    "local": "Bolívar",
+                    "visitante": "GV San Jose"
+                },
+                "analisis_final": {
+                    "1X2": {
+                        "Local": 72.49,
+                        "Empate": 17.09,
+                        "Visitante": 10.41
+                    },
+                    "recomendacion": {
+                        "mercado": "Bolívar",
+                        "probabilidad": 72.49,
+                        "estado": "PICK",
+                        "motivo": "Probabilidad, separación y riesgo compatibles.",
+                        "cuota": 1.13
+                    },
+                    "marcadores": [
+                        {
+                            "marcador": "2-0",
+                            "probabilidad": 11.03
+                        },
+                        {
+                            "marcador": "1-1",
+                            "probabilidad": 10.34
+                        }
+                    ],
+                    "btts": {
+                        "resultado": "SI",
+                        "probabilidad": 58.52
+                    },
+                    "over_under": {
+                        "mercado": "Over 1.5",
+                        "probabilidad": 80.95
+                    },
+                    "confianza": {
+                        "score": 86.8,
+                        "nivel": "ALTA"
+                    },
+                    "riesgo": {
+                        "score": 58.67,
+                        "nivel": "MEDIO"
+                    },
+                    "consistencia": {
+                        "estado": "MODERADAMENTE CONSISTENTE",
+                        "diferencia_maxima_puntos": 1.79,
+                        "detalle": "Poisson y Monte Carlo presentan pequeñas diferencias de estimación."
+                    },
+                    "consenso_modelos": {
+                        "poisson": {
+                            "resultado": "1",
+                            "nombre": "Bolívar",
+                            "probabilidad": 64.2
+                        },
+                        "monte_carlo": {
+                            "resultado": "1",
+                            "nombre": "Bolívar",
+                            "probabilidad": 65.09
+                        },
+                        "coinciden": true,
+                        "resultado_consenso": "1",
+                        "nombre_consenso": "Bolívar",
+                        "probabilidad_consenso": 64.65,
+                        "diferencia_puntos": 0.89,
+                        "marcador_1": {
+                            "marcador": "2-0",
+                            "resultado": "1",
+                            "confirma_consenso": true
+                        },
+                        "marcador_2": {
+                            "marcador": "1-1",
+                            "resultado": "X",
+                            "confirma_consenso": false
+                        }
+                    },
+                    "muestra": {
+                        "local": 15,
+                        "local_objetivo": 15,
+                        "visitante": 15,
+                        "visitante_objetivo": 15,
+                        "h2h": 10
+                    },
+                    "value": {
+                        "hay_valor": true,
+                        "mercado": "Visitante",
+                        "edge": 3.83,
+                        "ev": 45.74,
+                        "cuota": 14.0
+                    }
+                },
+                "select": {
+                    "activo": true,
+                    "motivo": "Poisson y Monte Carlo coinciden y el marcador 1 confirma la recomendación.",
+                    "mercado_principal": "Bolívar",
+                    "probabilidad": 72.49,
+                    "marcador_1": "2-0",
+                    "probabilidad_marcador_1": 11.03,
+                    "marcador_2": "1-1",
+                    "probabilidad_marcador_2": 10.34,
+                    "btts": "SI",
+                    "probabilidad_btts": 58.52,
+                    "over_under": "Over 1.5",
+                    "probabilidad_over_under": 80.95,
+                    "confianza": 86.8,
+                    "riesgo": 58.67,
+                    "edge": 5.13,
+                    "resultado": "1",
+                    "recomendacion": "Bolívar",
+                    "probabilidad_consenso": 64.65,
+                    "consenso": true,
+                    "poisson": {
+                        "resultado": "1",
+                        "nombre": "Bolívar",
+                        "probabilidad": 64.2
+                    },
+                    "monte_carlo": {
+                        "resultado": "1",
+                        "nombre": "Bolívar",
+                        "probabilidad": 65.09
+                    },
+                    "confirma_marcador_1": true
+                },
+                "premium": {
+                    "activo": false,
+                    "motivo": "El marcador 2 no confirma la recomendación del consenso.",
+                    "mercado_principal": "Bolívar",
+                    "probabilidad": 72.49,
+                    "marcador_1": "2-0",
+                    "probabilidad_marcador_1": 11.03,
+                    "marcador_2": "1-1",
+                    "probabilidad_marcador_2": 10.34,
+                    "btts": "SI",
+                    "probabilidad_btts": 58.52,
+                    "over_under": "Over 1.5",
+                    "probabilidad_over_under": 80.95,
+                    "confianza": 86.8,
+                    "riesgo": 58.67,
+                    "edge": 5.13,
+                    "resultado": "1",
+                    "recomendacion": "Bolívar",
+                    "probabilidad_consenso": 64.65,
+                    "consenso": true,
+                    "poisson": {
+                        "resultado": "1",
+                        "nombre": "Bolívar",
+                        "probabilidad": 64.2
+                    },
+                    "monte_carlo": {
+                        "resultado": "1",
+                        "nombre": "Bolívar",
+                        "probabilidad": 65.09
+                    },
+                    "confirma_marcador_1": true,
+                    "confirma_marcador_2": false
+                }
+            }
+        },
+        {
+            "fecha": "2026-09-17",
+            "hora": "11:30",
+            "local": "Rayon Sport",
+            "visitante": "Sunrise",
+            "pais": "RUANDA",
+            "liga": "PREMIER LEAGUE - JORNADA 3",
+            "link": "https://www.flashscore.co/partido/futbol/rayon-sport-A7FS3VKA/sunrise-rmHfzdlN/?mid=rFP0ffEi",
+            "fuente_datos": "Flashscore",
+            "logolocal": "https://static.flashscore.com/res/image/data/jND0TICa-bDYixleJ.png",
+            "logovisitante": "https://static.flashscore.com/res/image/data/d0i5oyFG-WCHAXU8Q.png",
+            "favorito": "Rayon Sport",
+            "probabilidad_favorito": 57.39,
+            "nofavorito": "Sunrise",
+            "probabilidad_nofavorito": 16.83,
+            "probabilidad_empate": 25.79,
+            "marcador_probable": "1-0",
+            "ultimo_resultado_favorito": "",
+            "ultimo_resultado_nofavorito": "",
+            "ultimo_enfrentamiento": {
+                "fecha": "03.03.24",
+                "local": "Sunrise",
+                "visitante": "Rayon Sport",
+                "goles_local": "0",
+                "goles_visitante": "2"
+            },
+            "ambos_marcan_probabilidad": 41.0,
+            "condiciones": {
+                "motivo": "Poisson y Monte Carlo coinciden y el marcador 1 confirma la recomendación."
+            },
+            "pick": "1",
+            "probabilidad": 57.39,
+            "motivo": "Poisson y Monte Carlo coinciden y el marcador 1 confirma la recomendación.",
+            "mercado": "Rayon Sport",
+            "marcador_1": "1-0",
+            "marcador_2": "2-0",
+            "select": true,
+            "analisis": {
+                "motor": "Motor_analitico",
+                "version": "4.0",
+                "partido": {
+                    "local": "Rayon Sport",
+                    "visitante": "Sunrise"
+                },
+                "analisis_final": {
+                    "1X2": {
+                        "Local": 57.39,
+                        "Empate": 25.79,
+                        "Visitante": 16.83
+                    },
+                    "recomendacion": {
+                        "mercado": "Rayon Sport",
+                        "probabilidad": 57.39,
+                        "estado": "PICK",
+                        "motivo": "Probabilidad, separación y riesgo compatibles.",
+                        "cuota": 1.57
+                    },
+                    "marcadores": [
+                        {
+                            "marcador": "1-0",
+                            "probabilidad": 14.88
+                        },
+                        {
+                            "marcador": "2-0",
+                            "probabilidad": 12.68
+                        }
+                    ],
+                    "btts": {
+                        "resultado": "NO",
+                        "probabilidad": 41.0
+                    },
+                    "over_under": {
+                        "mercado": "Over 1.5",
+                        "probabilidad": 67.86
+                    },
+                    "confianza": {
+                        "score": 79.18,
+                        "nivel": "ALTA"
+                    },
+                    "riesgo": {
+                        "score": 57.87,
+                        "nivel": "MEDIO"
+                    },
+                    "consistencia": {
+                        "estado": "MODERADAMENTE CONSISTENTE",
+                        "diferencia_maxima_puntos": 2.11,
+                        "detalle": "Poisson y Monte Carlo presentan pequeñas diferencias de estimación."
+                    },
+                    "consenso_modelos": {
+                        "poisson": {
+                            "resultado": "1",
+                            "nombre": "Rayon Sport",
+                            "probabilidad": 57.27
+                        },
+                        "monte_carlo": {
+                            "resultado": "1",
+                            "nombre": "Rayon Sport",
+                            "probabilidad": 58.39
+                        },
+                        "coinciden": true,
+                        "resultado_consenso": "1",
+                        "nombre_consenso": "Rayon Sport",
+                        "probabilidad_consenso": 57.83,
+                        "diferencia_puntos": 1.12,
+                        "marcador_1": {
+                            "marcador": "1-0",
+                            "resultado": "1",
+                            "confirma_consenso": true
+                        },
+                        "marcador_2": {
+                            "marcador": "2-0",
+                            "resultado": "1",
+                            "confirma_consenso": true
+                        }
+                    },
+                    "muestra": {
+                        "local": 13,
+                        "local_objetivo": 15,
+                        "visitante": 15,
+                        "visitante_objetivo": 15,
+                        "h2h": 15
+                    },
+                    "value": {
+                        "hay_valor": false,
+                        "mercado": "Empate",
+                        "edge": 1.38,
+                        "ev": -4.58,
+                        "cuota": 3.7
+                    }
+                },
+                "select": {
+                    "activo": true,
+                    "motivo": "Poisson y Monte Carlo coinciden y el marcador 1 confirma la recomendación.",
+                    "mercado_principal": "Rayon Sport",
+                    "probabilidad": 57.39,
+                    "marcador_1": "1-0",
+                    "probabilidad_marcador_1": 14.88,
+                    "marcador_2": "2-0",
+                    "probabilidad_marcador_2": 12.68,
+                    "btts": "NO",
+                    "probabilidad_btts": 41.0,
+                    "over_under": "Over 1.5",
+                    "probabilidad_over_under": 67.86,
+                    "confianza": 79.18,
+                    "riesgo": 57.87,
+                    "edge": 1.38,
+                    "resultado": "1",
+                    "recomendacion": "Rayon Sport",
+                    "probabilidad_consenso": 57.83,
+                    "consenso": true,
+                    "poisson": {
+                        "resultado": "1",
+                        "nombre": "Rayon Sport",
+                        "probabilidad": 57.27
+                    },
+                    "monte_carlo": {
+                        "resultado": "1",
+                        "nombre": "Rayon Sport",
+                        "probabilidad": 58.39
+                    },
+                    "confirma_marcador_1": true
+                },
+                "premium": {
+                    "activo": true,
+                    "motivo": "Poisson y Monte Carlo coinciden y ambos marcadores confirman la recomendación.",
+                    "mercado_principal": "Rayon Sport",
+                    "probabilidad": 57.39,
+                    "marcador_1": "1-0",
+                    "probabilidad_marcador_1": 14.88,
+                    "marcador_2": "2-0",
+                    "probabilidad_marcador_2": 12.68,
+                    "btts": "NO",
+                    "probabilidad_btts": 41.0,
+                    "over_under": "Over 1.5",
+                    "probabilidad_over_under": 67.86,
+                    "confianza": 79.18,
+                    "riesgo": 57.87,
+                    "edge": 1.38,
+                    "resultado": "1",
+                    "recomendacion": "Rayon Sport",
+                    "probabilidad_consenso": 57.83,
+                    "consenso": true,
+                    "poisson": {
+                        "resultado": "1",
+                        "nombre": "Rayon Sport",
+                        "probabilidad": 57.27
+                    },
+                    "monte_carlo": {
+                        "resultado": "1",
+                        "nombre": "Rayon Sport",
+                        "probabilidad": 58.39
                     },
                     "confirma_marcador_1": true,
                     "confirma_marcador_2": true
