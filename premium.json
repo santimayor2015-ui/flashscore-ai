@@ -1,195 +1,7 @@
 {
     "fecha_generacion": "2026-09-15",
-    "cantidad": 11,
+    "cantidad": 10,
     "partidos": [
-        {
-            "fecha": "2026-09-15",
-            "hora": "11:30",
-            "pais": "ITALIA",
-            "liga": "SERIE C - GRUPO C - JORNADA 5",
-            "link": "https://www.flashscore.co/partido/futbol/catania-4rwnnbnB/picerno-Ee7aFeEG/?mid=hWHpiIug",
-            "fuente_datos": "Flashscore",
-            "local": "Picerno",
-            "visitante": "Catania",
-            "logolocal": "https://static.flashscore.com/res/image/data/EPSGjzHG-bVwIsq6I.png",
-            "logovisitante": "https://static.flashscore.com/res/image/data/SK0fVTjl-hnnCjjcF.png",
-            "favorito": "Picerno",
-            "probabilidad_favorito": 43.68,
-            "nofavorito": "Catania",
-            "probabilidad_nofavorito": 26.91,
-            "probabilidad_empate": 29.41,
-            "mercado": "NO APUESTA",
-            "probabilidad": 43.68,
-            "marcador_1": "1-0",
-            "marcador_2": "2-0",
-            "ultimo_resultado_favorito": "",
-            "ultimo_resultado_nofavorito": "",
-            "condiciones": {
-                "motivo": "Poisson y Monte Carlo coinciden y ambos marcadores confirman la recomendación."
-            },
-            "motivo": "Poisson y Monte Carlo coinciden y ambos marcadores confirman la recomendación.",
-            "pick": "1",
-            "premium": true,
-            "analisis": {
-                "motor": "Motor_analitico",
-                "version": "4.0",
-                "partido": {
-                    "local": "Picerno",
-                    "visitante": "Catania"
-                },
-                "analisis_final": {
-                    "1X2": {
-                        "Local": 43.68,
-                        "Empate": 29.41,
-                        "Visitante": 26.91
-                    },
-                    "recomendacion": {
-                        "mercado": "NO APUESTA",
-                        "probabilidad": 43.68,
-                        "estado": "NO_APOSTAR",
-                        "motivo": "Evidencia insuficiente o riesgo demasiado alto.",
-                        "cuota": 3.65
-                    },
-                    "marcadores": [
-                        {
-                            "marcador": "1-0",
-                            "probabilidad": 13.43
-                        },
-                        {
-                            "marcador": "2-0",
-                            "probabilidad": 12.48
-                        }
-                    ],
-                    "btts": {
-                        "resultado": "SI",
-                        "probabilidad": 50.02
-                    },
-                    "over_under": {
-                        "mercado": "Over 1.5",
-                        "probabilidad": 71.76
-                    },
-                    "confianza": {
-                        "score": 79.23,
-                        "nivel": "ALTA"
-                    },
-                    "riesgo": {
-                        "score": 76.13,
-                        "nivel": "ALTO"
-                    },
-                    "consistencia": {
-                        "estado": "MODERADAMENTE CONSISTENTE",
-                        "diferencia_maxima_puntos": 1.97,
-                        "detalle": "Poisson y Monte Carlo presentan pequeñas diferencias de estimación."
-                    },
-                    "consenso_modelos": {
-                        "poisson": {
-                            "resultado": "1",
-                            "nombre": "Picerno",
-                            "probabilidad": 59.42
-                        },
-                        "monte_carlo": {
-                            "resultado": "1",
-                            "nombre": "Picerno",
-                            "probabilidad": 60.45
-                        },
-                        "coinciden": true,
-                        "resultado_consenso": "1",
-                        "nombre_consenso": "Picerno",
-                        "probabilidad_consenso": 59.94,
-                        "diferencia_puntos": 1.03,
-                        "marcador_1": {
-                            "marcador": "1-0",
-                            "resultado": "1",
-                            "confirma_consenso": true
-                        },
-                        "marcador_2": {
-                            "marcador": "2-0",
-                            "resultado": "1",
-                            "confirma_consenso": true
-                        }
-                    },
-                    "muestra": {
-                        "local": 14,
-                        "local_objetivo": 15,
-                        "visitante": 14,
-                        "visitante_objetivo": 15,
-                        "h2h": 11
-                    },
-                    "value": {
-                        "hay_valor": true,
-                        "mercado": "Local",
-                        "edge": 18.41,
-                        "ev": 59.43,
-                        "cuota": 3.65
-                    }
-                },
-                "select": {
-                    "activo": true,
-                    "motivo": "Poisson y Monte Carlo coinciden y el marcador 1 confirma la recomendación.",
-                    "mercado_principal": "NO APUESTA",
-                    "probabilidad": 43.68,
-                    "marcador_1": "1-0",
-                    "probabilidad_marcador_1": 13.43,
-                    "marcador_2": "2-0",
-                    "probabilidad_marcador_2": 12.48,
-                    "btts": "SI",
-                    "probabilidad_btts": 50.02,
-                    "over_under": "Over 1.5",
-                    "probabilidad_over_under": 71.76,
-                    "confianza": 79.23,
-                    "riesgo": 76.13,
-                    "edge": 18.41,
-                    "resultado": "1",
-                    "recomendacion": "Picerno",
-                    "probabilidad_consenso": 59.94,
-                    "consenso": true,
-                    "poisson": {
-                        "resultado": "1",
-                        "nombre": "Picerno",
-                        "probabilidad": 59.42
-                    },
-                    "monte_carlo": {
-                        "resultado": "1",
-                        "nombre": "Picerno",
-                        "probabilidad": 60.45
-                    },
-                    "confirma_marcador_1": true
-                },
-                "premium": {
-                    "activo": true,
-                    "motivo": "Poisson y Monte Carlo coinciden y ambos marcadores confirman la recomendación.",
-                    "mercado_principal": "NO APUESTA",
-                    "probabilidad": 43.68,
-                    "marcador_1": "1-0",
-                    "probabilidad_marcador_1": 13.43,
-                    "marcador_2": "2-0",
-                    "probabilidad_marcador_2": 12.48,
-                    "btts": "SI",
-                    "probabilidad_btts": 50.02,
-                    "over_under": "Over 1.5",
-                    "probabilidad_over_under": 71.76,
-                    "confianza": 79.23,
-                    "riesgo": 76.13,
-                    "edge": 18.41,
-                    "resultado": "1",
-                    "recomendacion": "Picerno",
-                    "probabilidad_consenso": 59.94,
-                    "consenso": true,
-                    "poisson": {
-                        "resultado": "1",
-                        "nombre": "Picerno",
-                        "probabilidad": 59.42
-                    },
-                    "monte_carlo": {
-                        "resultado": "1",
-                        "nombre": "Picerno",
-                        "probabilidad": 60.45
-                    },
-                    "confirma_marcador_1": true,
-                    "confirma_marcador_2": true
-                }
-            }
-        },
         {
             "fecha": "2026-09-15",
             "hora": "13:45",
@@ -497,6 +309,14 @@
                         "edge": 4.9,
                         "ev": 2.03,
                         "cuota": 1.72
+                    },
+                    "pronostico_adicionales": {
+                        "Local_marcan": "6 de 15",
+                        "Visitante_marcan": "10 de 14",
+                        "Local_Partidos_sinmarcar": "2 de 15",
+                        "Visitante_Partidos_sinmarcar": "3 de 14",
+                        "local_gol_ajustada": 1.73,
+                        "visitante_gol_ajustada": 1.0
                     }
                 },
                 "select": {
@@ -529,7 +349,15 @@
                         "nombre": "Kidderminster",
                         "probabilidad": 64.61
                     },
-                    "confirma_marcador_1": true
+                    "confirma_marcador_1": true,
+                    "pronostico_adicionales": {
+                        "Local_marcan": "6 de 15",
+                        "Visitante_marcan": "10 de 14",
+                        "Local_Partidos_sinmarcar": "2 de 15",
+                        "Visitante_Partidos_sinmarcar": "3 de 14",
+                        "local_gol_ajustada": 1.73,
+                        "visitante_gol_ajustada": 1.0
+                    }
                 },
                 "premium": {
                     "activo": true,
@@ -562,7 +390,15 @@
                         "probabilidad": 64.61
                     },
                     "confirma_marcador_1": true,
-                    "confirma_marcador_2": true
+                    "confirma_marcador_2": true,
+                    "pronostico_adicionales": {
+                        "Local_marcan": "6 de 15",
+                        "Visitante_marcan": "10 de 14",
+                        "Local_Partidos_sinmarcar": "2 de 15",
+                        "Visitante_Partidos_sinmarcar": "3 de 14",
+                        "local_gol_ajustada": 1.73,
+                        "visitante_gol_ajustada": 1.0
+                    }
                 }
             }
         },
@@ -685,6 +521,14 @@
                         "edge": 13.51,
                         "ev": 27.83,
                         "cuota": 2.55
+                    },
+                    "pronostico_adicionales": {
+                        "Local_marcan": "9 de 15",
+                        "Visitante_marcan": "6 de 15",
+                        "Local_Partidos_sinmarcar": "2 de 15",
+                        "Visitante_Partidos_sinmarcar": "6 de 15",
+                        "local_gol_ajustada": 1.67,
+                        "visitante_gol_ajustada": 0.93
                     }
                 },
                 "select": {
@@ -717,7 +561,15 @@
                         "nombre": "Fortuna Köln",
                         "probabilidad": 62.53
                     },
-                    "confirma_marcador_1": true
+                    "confirma_marcador_1": true,
+                    "pronostico_adicionales": {
+                        "Local_marcan": "9 de 15",
+                        "Visitante_marcan": "6 de 15",
+                        "Local_Partidos_sinmarcar": "2 de 15",
+                        "Visitante_Partidos_sinmarcar": "6 de 15",
+                        "local_gol_ajustada": 1.67,
+                        "visitante_gol_ajustada": 0.93
+                    }
                 },
                 "premium": {
                     "activo": true,
@@ -750,7 +602,15 @@
                         "probabilidad": 62.53
                     },
                     "confirma_marcador_1": true,
-                    "confirma_marcador_2": true
+                    "confirma_marcador_2": true,
+                    "pronostico_adicionales": {
+                        "Local_marcan": "9 de 15",
+                        "Visitante_marcan": "6 de 15",
+                        "Local_Partidos_sinmarcar": "2 de 15",
+                        "Visitante_Partidos_sinmarcar": "6 de 15",
+                        "local_gol_ajustada": 1.67,
+                        "visitante_gol_ajustada": 0.93
+                    }
                 }
             }
         },
@@ -873,6 +733,14 @@
                         "edge": 5.4,
                         "ev": 4.17,
                         "cuota": 1.76
+                    },
+                    "pronostico_adicionales": {
+                        "Local_marcan": "4 de 15",
+                        "Visitante_marcan": "7 de 15",
+                        "Local_Partidos_sinmarcar": "4 de 15",
+                        "Visitante_Partidos_sinmarcar": "5 de 15",
+                        "local_gol_ajustada": 1.27,
+                        "visitante_gol_ajustada": 1.33
                     }
                 },
                 "select": {
@@ -905,7 +773,15 @@
                         "nombre": "Beşiktaş",
                         "probabilidad": 64.79
                     },
-                    "confirma_marcador_1": true
+                    "confirma_marcador_1": true,
+                    "pronostico_adicionales": {
+                        "Local_marcan": "4 de 15",
+                        "Visitante_marcan": "7 de 15",
+                        "Local_Partidos_sinmarcar": "4 de 15",
+                        "Visitante_Partidos_sinmarcar": "5 de 15",
+                        "local_gol_ajustada": 1.27,
+                        "visitante_gol_ajustada": 1.33
+                    }
                 },
                 "premium": {
                     "activo": true,
@@ -938,7 +814,15 @@
                         "probabilidad": 64.79
                     },
                     "confirma_marcador_1": true,
-                    "confirma_marcador_2": true
+                    "confirma_marcador_2": true,
+                    "pronostico_adicionales": {
+                        "Local_marcan": "4 de 15",
+                        "Visitante_marcan": "7 de 15",
+                        "Local_Partidos_sinmarcar": "4 de 15",
+                        "Visitante_Partidos_sinmarcar": "5 de 15",
+                        "local_gol_ajustada": 1.27,
+                        "visitante_gol_ajustada": 1.33
+                    }
                 }
             }
         },
@@ -1061,6 +945,14 @@
                         "edge": 1.38,
                         "ev": -4.58,
                         "cuota": 3.7
+                    },
+                    "pronostico_adicionales": {
+                        "Local_marcan": "6 de 13",
+                        "Visitante_marcan": "5 de 15",
+                        "Local_Partidos_sinmarcar": "3 de 13",
+                        "Visitante_Partidos_sinmarcar": "9 de 15",
+                        "local_gol_ajustada": 1.23,
+                        "visitante_gol_ajustada": 0.87
                     }
                 },
                 "select": {
@@ -1093,7 +985,15 @@
                         "nombre": "Rayon Sport",
                         "probabilidad": 58.39
                     },
-                    "confirma_marcador_1": true
+                    "confirma_marcador_1": true,
+                    "pronostico_adicionales": {
+                        "Local_marcan": "6 de 13",
+                        "Visitante_marcan": "5 de 15",
+                        "Local_Partidos_sinmarcar": "3 de 13",
+                        "Visitante_Partidos_sinmarcar": "9 de 15",
+                        "local_gol_ajustada": 1.23,
+                        "visitante_gol_ajustada": 0.87
+                    }
                 },
                 "premium": {
                     "activo": true,
@@ -1126,7 +1026,15 @@
                         "probabilidad": 58.39
                     },
                     "confirma_marcador_1": true,
-                    "confirma_marcador_2": true
+                    "confirma_marcador_2": true,
+                    "pronostico_adicionales": {
+                        "Local_marcan": "6 de 13",
+                        "Visitante_marcan": "5 de 15",
+                        "Local_Partidos_sinmarcar": "3 de 13",
+                        "Visitante_Partidos_sinmarcar": "9 de 15",
+                        "local_gol_ajustada": 1.23,
+                        "visitante_gol_ajustada": 0.87
+                    }
                 }
             }
         },
