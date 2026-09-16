@@ -1,195 +1,7 @@
 {
     "fecha_generacion": "2026-09-15",
-    "cantidad": 10,
+    "cantidad": 9,
     "partidos": [
-        {
-            "fecha": "2026-09-15",
-            "hora": "13:45",
-            "pais": "GALES",
-            "liga": "CYMRU PREMIER - JORNADA 9",
-            "link": "https://www.flashscore.co/partido/futbol/flint-town-rDPLzGkF/tns-lGMtZWUH/?mid=nBzE5gpA",
-            "fuente_datos": "Flashscore",
-            "local": "TNS",
-            "visitante": "Flint",
-            "logolocal": "https://static.flashscore.com/res/image/data/pQcOYVAr-zcb1Gz6r.png",
-            "logovisitante": "https://static.flashscore.com/res/image/data/dCtBamg5-KbixPda2.png",
-            "favorito": "TNS",
-            "probabilidad_favorito": 71.26,
-            "nofavorito": "Flint",
-            "probabilidad_nofavorito": 10.08,
-            "probabilidad_empate": 18.66,
-            "mercado": "TNS",
-            "probabilidad": 71.26,
-            "marcador_1": "2-0",
-            "marcador_2": "1-0",
-            "ultimo_resultado_favorito": "",
-            "ultimo_resultado_nofavorito": "",
-            "condiciones": {
-                "motivo": "Poisson y Monte Carlo coinciden y ambos marcadores confirman la recomendación."
-            },
-            "motivo": "Poisson y Monte Carlo coinciden y ambos marcadores confirman la recomendación.",
-            "pick": "1",
-            "premium": true,
-            "analisis": {
-                "motor": "Motor_analitico",
-                "version": "4.0",
-                "partido": {
-                    "local": "TNS",
-                    "visitante": "Flint"
-                },
-                "analisis_final": {
-                    "1X2": {
-                        "Local": 71.26,
-                        "Empate": 18.66,
-                        "Visitante": 10.08
-                    },
-                    "recomendacion": {
-                        "mercado": "TNS",
-                        "probabilidad": 71.26,
-                        "estado": "PICK",
-                        "motivo": "Probabilidad, separación y riesgo compatibles.",
-                        "cuota": 1.13
-                    },
-                    "marcadores": [
-                        {
-                            "marcador": "2-0",
-                            "probabilidad": 12.48
-                        },
-                        {
-                            "marcador": "1-0",
-                            "probabilidad": 12.11
-                        }
-                    ],
-                    "btts": {
-                        "resultado": "NO",
-                        "probabilidad": 46.91
-                    },
-                    "over_under": {
-                        "mercado": "Over 1.5",
-                        "probabilidad": 75.65
-                    },
-                    "confianza": {
-                        "score": 86.57,
-                        "nivel": "ALTA"
-                    },
-                    "riesgo": {
-                        "score": 57.71,
-                        "nivel": "MEDIO"
-                    },
-                    "consistencia": {
-                        "estado": "MODERADAMENTE CONSISTENTE",
-                        "diferencia_maxima_puntos": 1.87,
-                        "detalle": "Poisson y Monte Carlo presentan pequeñas diferencias de estimación."
-                    },
-                    "consenso_modelos": {
-                        "poisson": {
-                            "resultado": "1",
-                            "nombre": "TNS",
-                            "probabilidad": 63.06
-                        },
-                        "monte_carlo": {
-                            "resultado": "1",
-                            "nombre": "TNS",
-                            "probabilidad": 64.05
-                        },
-                        "coinciden": true,
-                        "resultado_consenso": "1",
-                        "nombre_consenso": "TNS",
-                        "probabilidad_consenso": 63.55,
-                        "diferencia_puntos": 0.99,
-                        "marcador_1": {
-                            "marcador": "2-0",
-                            "resultado": "1",
-                            "confirma_consenso": true
-                        },
-                        "marcador_2": {
-                            "marcador": "1-0",
-                            "resultado": "1",
-                            "confirma_consenso": true
-                        }
-                    },
-                    "muestra": {
-                        "local": 14,
-                        "local_objetivo": 15,
-                        "visitante": 15,
-                        "visitante_objetivo": 15,
-                        "h2h": 14
-                    },
-                    "value": {
-                        "hay_valor": true,
-                        "mercado": "Visitante",
-                        "edge": 3.61,
-                        "ev": 41.12,
-                        "cuota": 14.0
-                    }
-                },
-                "select": {
-                    "activo": true,
-                    "motivo": "Poisson y Monte Carlo coinciden y el marcador 1 confirma la recomendación.",
-                    "mercado_principal": "TNS",
-                    "probabilidad": 71.26,
-                    "marcador_1": "2-0",
-                    "probabilidad_marcador_1": 12.48,
-                    "marcador_2": "1-0",
-                    "probabilidad_marcador_2": 12.11,
-                    "btts": "NO",
-                    "probabilidad_btts": 46.91,
-                    "over_under": "Over 1.5",
-                    "probabilidad_over_under": 75.65,
-                    "confianza": 86.57,
-                    "riesgo": 57.71,
-                    "edge": 5.33,
-                    "resultado": "1",
-                    "recomendacion": "TNS",
-                    "probabilidad_consenso": 63.55,
-                    "consenso": true,
-                    "poisson": {
-                        "resultado": "1",
-                        "nombre": "TNS",
-                        "probabilidad": 63.06
-                    },
-                    "monte_carlo": {
-                        "resultado": "1",
-                        "nombre": "TNS",
-                        "probabilidad": 64.05
-                    },
-                    "confirma_marcador_1": true
-                },
-                "premium": {
-                    "activo": true,
-                    "motivo": "Poisson y Monte Carlo coinciden y ambos marcadores confirman la recomendación.",
-                    "mercado_principal": "TNS",
-                    "probabilidad": 71.26,
-                    "marcador_1": "2-0",
-                    "probabilidad_marcador_1": 12.48,
-                    "marcador_2": "1-0",
-                    "probabilidad_marcador_2": 12.11,
-                    "btts": "NO",
-                    "probabilidad_btts": 46.91,
-                    "over_under": "Over 1.5",
-                    "probabilidad_over_under": 75.65,
-                    "confianza": 86.57,
-                    "riesgo": 57.71,
-                    "edge": 5.33,
-                    "resultado": "1",
-                    "recomendacion": "TNS",
-                    "probabilidad_consenso": 63.55,
-                    "consenso": true,
-                    "poisson": {
-                        "resultado": "1",
-                        "nombre": "TNS",
-                        "probabilidad": 63.06
-                    },
-                    "monte_carlo": {
-                        "resultado": "1",
-                        "nombre": "TNS",
-                        "probabilidad": 64.05
-                    },
-                    "confirma_marcador_1": true,
-                    "confirma_marcador_2": true
-                }
-            }
-        },
         {
             "fecha": "2026-09-16",
             "hora": "13:45",
@@ -1039,218 +851,6 @@
             }
         },
         {
-            "fecha": "2026-09-15",
-            "hora": "13:45",
-            "pais": "ESCOCIA",
-            "liga": "CHALLENGE CUP - JORNADA 4",
-            "link": "https://www.flashscore.co/partido/futbol/east-fife-Y5sGF857/motherwell-CCtJzVN9/?mid=2Zrs8erg",
-            "fuente_datos": "Flashscore",
-            "local": "East Fife",
-            "visitante": "Motherwell B",
-            "logolocal": "https://static.flashscore.com/res/image/data/Cf7Y62yB-GYKwgq56.png",
-            "logovisitante": "https://static.flashscore.com/res/image/data/MFi79sdM-8b4Nf0bk.png",
-            "favorito": "East Fife",
-            "probabilidad_favorito": 69.21,
-            "nofavorito": "Motherwell B",
-            "probabilidad_nofavorito": 10.86,
-            "probabilidad_empate": 19.93,
-            "mercado": "East Fife",
-            "probabilidad": 69.21,
-            "marcador_1": "1-0",
-            "marcador_2": "2-0",
-            "ultimo_resultado_favorito": "",
-            "ultimo_resultado_nofavorito": "",
-            "condiciones": {
-                "motivo": "Poisson y Monte Carlo coinciden y ambos marcadores confirman la recomendación."
-            },
-            "motivo": "Poisson y Monte Carlo coinciden y ambos marcadores confirman la recomendación.",
-            "pick": "1",
-            "premium": true,
-            "analisis": {
-                "motor": "Motor_analitico",
-                "version": "4.0",
-                "partido": {
-                    "local": "East Fife",
-                    "visitante": "Motherwell B"
-                },
-                "analisis_final": {
-                    "1X2": {
-                        "Local": 69.21,
-                        "Empate": 19.93,
-                        "Visitante": 10.86
-                    },
-                    "recomendacion": {
-                        "mercado": "East Fife",
-                        "probabilidad": 69.21,
-                        "estado": "PICK",
-                        "motivo": "Probabilidad, separación y riesgo compatibles.",
-                        "cuota": 1.14
-                    },
-                    "marcadores": [
-                        {
-                            "marcador": "1-0",
-                            "probabilidad": 12.17
-                        },
-                        {
-                            "marcador": "2-0",
-                            "probabilidad": 11.9
-                        }
-                    ],
-                    "btts": {
-                        "resultado": "NO",
-                        "probabilidad": 47.94
-                    },
-                    "over_under": {
-                        "mercado": "Over 1.5",
-                        "probabilidad": 74.47
-                    },
-                    "confianza": {
-                        "score": 83.18,
-                        "nivel": "ALTA"
-                    },
-                    "riesgo": {
-                        "score": 57.69,
-                        "nivel": "MEDIO"
-                    },
-                    "consistencia": {
-                        "estado": "MODERADAMENTE CONSISTENTE",
-                        "diferencia_maxima_puntos": 2.15,
-                        "detalle": "Poisson y Monte Carlo presentan pequeñas diferencias de estimación."
-                    },
-                    "consenso_modelos": {
-                        "poisson": {
-                            "resultado": "1",
-                            "nombre": "East Fife",
-                            "probabilidad": 59.69
-                        },
-                        "monte_carlo": {
-                            "resultado": "1",
-                            "nombre": "East Fife",
-                            "probabilidad": 60.72
-                        },
-                        "coinciden": true,
-                        "resultado_consenso": "1",
-                        "nombre_consenso": "East Fife",
-                        "probabilidad_consenso": 60.2,
-                        "diferencia_puntos": 1.03,
-                        "marcador_1": {
-                            "marcador": "1-0",
-                            "resultado": "1",
-                            "confirma_consenso": true
-                        },
-                        "marcador_2": {
-                            "marcador": "2-0",
-                            "resultado": "1",
-                            "confirma_consenso": true
-                        }
-                    },
-                    "muestra": {
-                        "local": 13,
-                        "local_objetivo": 15,
-                        "visitante": 11,
-                        "visitante_objetivo": 15,
-                        "h2h": 0
-                    },
-                    "pronostico_adicionales": {
-                        "Local_marcan": "7 de 13",
-                        "Visitante_marcan": "4 de 11",
-                        "Local_Partidos_sinmarcar": "4 de 13",
-                        "Visitante_Partidos_sinmarcar": "7 de 11",
-                        "local_gol_ajustada": 1.38,
-                        "visitante_gol_ajustada": 0.55
-                    },
-                    "value": {
-                        "hay_valor": true,
-                        "mercado": "Visitante",
-                        "edge": 4.8,
-                        "ev": 62.9,
-                        "cuota": 15.0
-                    }
-                },
-                "select": {
-                    "activo": true,
-                    "motivo": "Poisson y Monte Carlo coinciden y el marcador 1 confirma la recomendación.",
-                    "mercado_principal": "East Fife",
-                    "probabilidad": 69.21,
-                    "marcador_1": "1-0",
-                    "probabilidad_marcador_1": 12.17,
-                    "marcador_2": "2-0",
-                    "probabilidad_marcador_2": 11.9,
-                    "btts": "NO",
-                    "probabilidad_btts": 47.94,
-                    "over_under": "Over 1.5",
-                    "probabilidad_over_under": 74.47,
-                    "confianza": 83.18,
-                    "riesgo": 57.69,
-                    "edge": 5.73,
-                    "pronostico_adicionales": {
-                        "Local_marcan": "7 de 13",
-                        "Visitante_marcan": "4 de 11",
-                        "Local_Partidos_sinmarcar": "4 de 13",
-                        "Visitante_Partidos_sinmarcar": "7 de 11",
-                        "local_gol_ajustada": 1.38,
-                        "visitante_gol_ajustada": 0.55
-                    },
-                    "resultado": "1",
-                    "recomendacion": "East Fife",
-                    "probabilidad_consenso": 60.2,
-                    "consenso": true,
-                    "poisson": {
-                        "resultado": "1",
-                        "nombre": "East Fife",
-                        "probabilidad": 59.69
-                    },
-                    "monte_carlo": {
-                        "resultado": "1",
-                        "nombre": "East Fife",
-                        "probabilidad": 60.72
-                    },
-                    "confirma_marcador_1": true
-                },
-                "premium": {
-                    "activo": true,
-                    "motivo": "Poisson y Monte Carlo coinciden y ambos marcadores confirman la recomendación.",
-                    "mercado_principal": "East Fife",
-                    "probabilidad": 69.21,
-                    "marcador_1": "1-0",
-                    "probabilidad_marcador_1": 12.17,
-                    "marcador_2": "2-0",
-                    "probabilidad_marcador_2": 11.9,
-                    "btts": "NO",
-                    "probabilidad_btts": 47.94,
-                    "over_under": "Over 1.5",
-                    "probabilidad_over_under": 74.47,
-                    "confianza": 83.18,
-                    "riesgo": 57.69,
-                    "edge": 5.73,
-                    "pronostico_adicionales": {
-                        "Local_marcan": "7 de 13",
-                        "Visitante_marcan": "4 de 11",
-                        "Local_Partidos_sinmarcar": "4 de 13",
-                        "Visitante_Partidos_sinmarcar": "7 de 11",
-                        "local_gol_ajustada": 1.38,
-                        "visitante_gol_ajustada": 0.55
-                    },
-                    "resultado": "1",
-                    "recomendacion": "East Fife",
-                    "probabilidad_consenso": 60.2,
-                    "consenso": true,
-                    "poisson": {
-                        "resultado": "1",
-                        "nombre": "East Fife",
-                        "probabilidad": 59.69
-                    },
-                    "monte_carlo": {
-                        "resultado": "1",
-                        "nombre": "East Fife",
-                        "probabilidad": 60.72
-                    },
-                    "confirma_marcador_1": true,
-                    "confirma_marcador_2": true
-                }
-            }
-        },
-        {
             "fecha": "2026-09-18",
             "hora": "17:30",
             "pais": "BRASIL",
@@ -2092,6 +1692,218 @@
                         "resultado": "1",
                         "nombre": "Bandirmaspor",
                         "probabilidad": 61.49
+                    },
+                    "confirma_marcador_1": true,
+                    "confirma_marcador_2": true
+                }
+            }
+        },
+        {
+            "fecha": "2026-09-16",
+            "hora": "09:30",
+            "pais": "ITALIA",
+            "liga": "SERIE D - GRUPO I - JORNADA 3",
+            "link": "https://www.flashscore.co/partido/futbol/nissa-OrB4N6Bt/trapani-WKvNghE4/?mid=SOGjkEtm",
+            "fuente_datos": "Flashscore",
+            "local": "Nissa",
+            "visitante": "Trapani",
+            "logolocal": "https://static.flashscore.com/res/image/data/zwrppWg5-00Hzg0o3.png",
+            "logovisitante": "https://static.flashscore.com/res/image/data/GM1gO4h5-v97byQ4c.png",
+            "favorito": "Nissa",
+            "probabilidad_favorito": 57.51,
+            "nofavorito": "Trapani",
+            "probabilidad_nofavorito": 17.85,
+            "probabilidad_empate": 24.63,
+            "mercado": "Nissa",
+            "probabilidad": 57.51,
+            "marcador_1": "2-0",
+            "marcador_2": "1-0",
+            "ultimo_resultado_favorito": "",
+            "ultimo_resultado_nofavorito": "",
+            "condiciones": {
+                "motivo": "Poisson y Monte Carlo coinciden y ambos marcadores confirman la recomendación."
+            },
+            "motivo": "Poisson y Monte Carlo coinciden y ambos marcadores confirman la recomendación.",
+            "pick": "1",
+            "premium": true,
+            "analisis": {
+                "motor": "Motor_analitico",
+                "version": "4.0",
+                "partido": {
+                    "local": "Nissa",
+                    "visitante": "Trapani"
+                },
+                "analisis_final": {
+                    "1X2": {
+                        "Local": 57.51,
+                        "Empate": 24.63,
+                        "Visitante": 17.85
+                    },
+                    "recomendacion": {
+                        "mercado": "Nissa",
+                        "probabilidad": 57.51,
+                        "estado": "PICK",
+                        "motivo": "Probabilidad, separación y riesgo compatibles.",
+                        "cuota": 1.9
+                    },
+                    "marcadores": [
+                        {
+                            "marcador": "2-0",
+                            "probabilidad": 13.5
+                        },
+                        {
+                            "marcador": "1-0",
+                            "probabilidad": 13.12
+                        }
+                    ],
+                    "btts": {
+                        "resultado": "NO",
+                        "probabilidad": 48.69
+                    },
+                    "over_under": {
+                        "mercado": "Over 1.5",
+                        "probabilidad": 74.41
+                    },
+                    "confianza": {
+                        "score": 92.04,
+                        "nivel": "ALTA"
+                    },
+                    "riesgo": {
+                        "score": 57.55,
+                        "nivel": "MEDIO"
+                    },
+                    "consistencia": {
+                        "estado": "MODERADAMENTE CONSISTENTE",
+                        "diferencia_maxima_puntos": 2.06,
+                        "detalle": "Poisson y Monte Carlo presentan pequeñas diferencias de estimación."
+                    },
+                    "consenso_modelos": {
+                        "poisson": {
+                            "resultado": "1",
+                            "nombre": "Nissa",
+                            "probabilidad": 65.39
+                        },
+                        "monte_carlo": {
+                            "resultado": "1",
+                            "nombre": "Nissa",
+                            "probabilidad": 66.56
+                        },
+                        "coinciden": true,
+                        "resultado_consenso": "1",
+                        "nombre_consenso": "Nissa",
+                        "probabilidad_consenso": 65.97,
+                        "diferencia_puntos": 1.17,
+                        "marcador_1": {
+                            "marcador": "2-0",
+                            "resultado": "1",
+                            "confirma_consenso": true
+                        },
+                        "marcador_2": {
+                            "marcador": "1-0",
+                            "resultado": "1",
+                            "confirma_consenso": true
+                        }
+                    },
+                    "muestra": {
+                        "local": 15,
+                        "local_objetivo": 15,
+                        "visitante": 15,
+                        "visitante_objetivo": 15,
+                        "h2h": 0
+                    },
+                    "pronostico_adicionales": {
+                        "Local_marcan": "8 de 15",
+                        "Visitante_marcan": "8 de 15",
+                        "Local_Partidos_sinmarcar": "2 de 15",
+                        "Visitante_Partidos_sinmarcar": "6 de 15",
+                        "local_gol_ajustada": 1.53,
+                        "visitante_gol_ajustada": 0.87
+                    },
+                    "value": {
+                        "hay_valor": true,
+                        "mercado": "Local",
+                        "edge": 9.49,
+                        "ev": 9.27,
+                        "cuota": 1.9
+                    }
+                },
+                "select": {
+                    "activo": true,
+                    "motivo": "Poisson y Monte Carlo coinciden y el marcador 1 confirma la recomendación.",
+                    "mercado_principal": "Nissa",
+                    "probabilidad": 57.51,
+                    "marcador_1": "2-0",
+                    "probabilidad_marcador_1": 13.5,
+                    "marcador_2": "1-0",
+                    "probabilidad_marcador_2": 13.12,
+                    "btts": "NO",
+                    "probabilidad_btts": 48.69,
+                    "over_under": "Over 1.5",
+                    "probabilidad_over_under": 74.41,
+                    "confianza": 92.04,
+                    "riesgo": 57.55,
+                    "edge": 9.49,
+                    "pronostico_adicionales": {
+                        "Local_marcan": "8 de 15",
+                        "Visitante_marcan": "8 de 15",
+                        "Local_Partidos_sinmarcar": "2 de 15",
+                        "Visitante_Partidos_sinmarcar": "6 de 15",
+                        "local_gol_ajustada": 1.53,
+                        "visitante_gol_ajustada": 0.87
+                    },
+                    "resultado": "1",
+                    "recomendacion": "Nissa",
+                    "probabilidad_consenso": 65.97,
+                    "consenso": true,
+                    "poisson": {
+                        "resultado": "1",
+                        "nombre": "Nissa",
+                        "probabilidad": 65.39
+                    },
+                    "monte_carlo": {
+                        "resultado": "1",
+                        "nombre": "Nissa",
+                        "probabilidad": 66.56
+                    },
+                    "confirma_marcador_1": true
+                },
+                "premium": {
+                    "activo": true,
+                    "motivo": "Poisson y Monte Carlo coinciden y ambos marcadores confirman la recomendación.",
+                    "mercado_principal": "Nissa",
+                    "probabilidad": 57.51,
+                    "marcador_1": "2-0",
+                    "probabilidad_marcador_1": 13.5,
+                    "marcador_2": "1-0",
+                    "probabilidad_marcador_2": 13.12,
+                    "btts": "NO",
+                    "probabilidad_btts": 48.69,
+                    "over_under": "Over 1.5",
+                    "probabilidad_over_under": 74.41,
+                    "confianza": 92.04,
+                    "riesgo": 57.55,
+                    "edge": 9.49,
+                    "pronostico_adicionales": {
+                        "Local_marcan": "8 de 15",
+                        "Visitante_marcan": "8 de 15",
+                        "Local_Partidos_sinmarcar": "2 de 15",
+                        "Visitante_Partidos_sinmarcar": "6 de 15",
+                        "local_gol_ajustada": 1.53,
+                        "visitante_gol_ajustada": 0.87
+                    },
+                    "resultado": "1",
+                    "recomendacion": "Nissa",
+                    "probabilidad_consenso": 65.97,
+                    "consenso": true,
+                    "poisson": {
+                        "resultado": "1",
+                        "nombre": "Nissa",
+                        "probabilidad": 65.39
+                    },
+                    "monte_carlo": {
+                        "resultado": "1",
+                        "nombre": "Nissa",
+                        "probabilidad": 66.56
                     },
                     "confirma_marcador_1": true,
                     "confirma_marcador_2": true
