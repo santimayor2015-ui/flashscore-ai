@@ -1,6 +1,6 @@
 {
     "fecha_generacion": "2026-09-17",
-    "cantidad": 8,
+    "cantidad": 26,
     "partidos": [
         {
             "fecha": "2026-09-17",
@@ -1692,6 +1692,3822 @@
                         "resultado": "1",
                         "nombre": "Alga",
                         "probabilidad": 61.01
+                    },
+                    "confirma_marcador_1": true,
+                    "confirma_marcador_2": true
+                }
+            }
+        },
+        {
+            "fecha": "2026-09-18",
+            "hora": "13:00",
+            "pais": "ARGELIA",
+            "liga": "LIGUE 1 - JORNADA 3",
+            "link": "https://www.flashscore.co/partido/futbol/mc-alger-tnY2Lfcp/rouisset-hGHHy7Am/?mid=xnSGxv6b",
+            "fuente_datos": "Flashscore",
+            "local": "MC Alger",
+            "visitante": "Rouisset",
+            "logolocal": "https://static.flashscore.com/res/image/data/bsA97kAr-jwbJzKoA.png",
+            "logovisitante": "https://static.flashscore.com/res/image/data/nw7kf1hl-2wF033pH.png",
+            "favorito": "MC Alger",
+            "probabilidad_favorito": 65.09,
+            "nofavorito": "Rouisset",
+            "probabilidad_nofavorito": 11.56,
+            "probabilidad_empate": 23.35,
+            "mercado": "MC Alger",
+            "probabilidad": 65.09,
+            "marcador_1": "2-0",
+            "marcador_2": "1-0",
+            "ultimo_resultado_favorito": "",
+            "ultimo_resultado_nofavorito": "",
+            "condiciones": {
+                "motivo": "Poisson y Monte Carlo coinciden y ambos marcadores confirman la recomendación."
+            },
+            "motivo": "Poisson y Monte Carlo coinciden y ambos marcadores confirman la recomendación.",
+            "pick": "1",
+            "premium": true,
+            "analisis": {
+                "motor": "Motor_analitico",
+                "version": "4.0",
+                "partido": {
+                    "local": "MC Alger",
+                    "visitante": "Rouisset"
+                },
+                "analisis_final": {
+                    "1X2": {
+                        "Local": 65.09,
+                        "Empate": 23.35,
+                        "Visitante": 11.56
+                    },
+                    "recomendacion": {
+                        "mercado": "MC Alger",
+                        "probabilidad": 65.09,
+                        "estado": "PICK",
+                        "motivo": "Probabilidad, separación y riesgo compatibles.",
+                        "cuota": 1.33
+                    },
+                    "marcadores": [
+                        {
+                            "marcador": "2-0",
+                            "probabilidad": 12.19
+                        },
+                        {
+                            "marcador": "1-0",
+                            "probabilidad": 12.0
+                        }
+                    ],
+                    "btts": {
+                        "resultado": "NO",
+                        "probabilidad": 48.48
+                    },
+                    "over_under": {
+                        "mercado": "Over 1.5",
+                        "probabilidad": 75.51
+                    },
+                    "confianza": {
+                        "score": 81.63,
+                        "nivel": "ALTA"
+                    },
+                    "riesgo": {
+                        "score": 60.4,
+                        "nivel": "MEDIO"
+                    },
+                    "consistencia": {
+                        "estado": "MODERADAMENTE CONSISTENTE",
+                        "diferencia_maxima_puntos": 2.07,
+                        "detalle": "Poisson y Monte Carlo presentan pequeñas diferencias de estimación."
+                    },
+                    "consenso_modelos": {
+                        "poisson": {
+                            "resultado": "1",
+                            "nombre": "MC Alger",
+                            "probabilidad": 61.86
+                        },
+                        "monte_carlo": {
+                            "resultado": "1",
+                            "nombre": "MC Alger",
+                            "probabilidad": 62.94
+                        },
+                        "coinciden": true,
+                        "resultado_consenso": "1",
+                        "nombre_consenso": "MC Alger",
+                        "probabilidad_consenso": 62.4,
+                        "diferencia_puntos": 1.08,
+                        "marcador_1": {
+                            "marcador": "2-0",
+                            "resultado": "1",
+                            "confirma_consenso": true
+                        },
+                        "marcador_2": {
+                            "marcador": "1-0",
+                            "resultado": "1",
+                            "confirma_consenso": true
+                        }
+                    },
+                    "muestra": {
+                        "local": 15,
+                        "local_objetivo": 15,
+                        "visitante": 15,
+                        "visitante_objetivo": 15,
+                        "h2h": 2
+                    },
+                    "pronostico_adicionales": {
+                        "Local_marcan": "6 de 15",
+                        "Visitante_marcan": "10 de 15",
+                        "Local_Partidos_sinmarcar": "3 de 15",
+                        "Visitante_Partidos_sinmarcar": "2 de 15",
+                        "local_gol_ajustada": 1.27,
+                        "visitante_gol_ajustada": 1.07
+                    },
+                    "value": {
+                        "hay_valor": true,
+                        "mercado": "Visitante",
+                        "edge": 2.64,
+                        "ev": 18.49,
+                        "cuota": 10.25
+                    }
+                },
+                "select": {
+                    "activo": true,
+                    "motivo": "Poisson y Monte Carlo coinciden y el marcador 1 confirma la recomendación.",
+                    "mercado_principal": "MC Alger",
+                    "probabilidad": 65.09,
+                    "marcador_1": "2-0",
+                    "probabilidad_marcador_1": 12.19,
+                    "marcador_2": "1-0",
+                    "probabilidad_marcador_2": 12.0,
+                    "btts": "NO",
+                    "probabilidad_btts": 48.48,
+                    "over_under": "Over 1.5",
+                    "probabilidad_over_under": 75.51,
+                    "confianza": 81.63,
+                    "riesgo": 60.4,
+                    "edge": 2.64,
+                    "pronostico_adicionales": {
+                        "Local_marcan": "6 de 15",
+                        "Visitante_marcan": "10 de 15",
+                        "Local_Partidos_sinmarcar": "3 de 15",
+                        "Visitante_Partidos_sinmarcar": "2 de 15",
+                        "local_gol_ajustada": 1.27,
+                        "visitante_gol_ajustada": 1.07
+                    },
+                    "resultado": "1",
+                    "recomendacion": "MC Alger",
+                    "probabilidad_consenso": 62.4,
+                    "consenso": true,
+                    "poisson": {
+                        "resultado": "1",
+                        "nombre": "MC Alger",
+                        "probabilidad": 61.86
+                    },
+                    "monte_carlo": {
+                        "resultado": "1",
+                        "nombre": "MC Alger",
+                        "probabilidad": 62.94
+                    },
+                    "confirma_marcador_1": true
+                },
+                "premium": {
+                    "activo": true,
+                    "motivo": "Poisson y Monte Carlo coinciden y ambos marcadores confirman la recomendación.",
+                    "mercado_principal": "MC Alger",
+                    "probabilidad": 65.09,
+                    "marcador_1": "2-0",
+                    "probabilidad_marcador_1": 12.19,
+                    "marcador_2": "1-0",
+                    "probabilidad_marcador_2": 12.0,
+                    "btts": "NO",
+                    "probabilidad_btts": 48.48,
+                    "over_under": "Over 1.5",
+                    "probabilidad_over_under": 75.51,
+                    "confianza": 81.63,
+                    "riesgo": 60.4,
+                    "edge": 2.64,
+                    "pronostico_adicionales": {
+                        "Local_marcan": "6 de 15",
+                        "Visitante_marcan": "10 de 15",
+                        "Local_Partidos_sinmarcar": "3 de 15",
+                        "Visitante_Partidos_sinmarcar": "2 de 15",
+                        "local_gol_ajustada": 1.27,
+                        "visitante_gol_ajustada": 1.07
+                    },
+                    "resultado": "1",
+                    "recomendacion": "MC Alger",
+                    "probabilidad_consenso": 62.4,
+                    "consenso": true,
+                    "poisson": {
+                        "resultado": "1",
+                        "nombre": "MC Alger",
+                        "probabilidad": 61.86
+                    },
+                    "monte_carlo": {
+                        "resultado": "1",
+                        "nombre": "MC Alger",
+                        "probabilidad": 62.94
+                    },
+                    "confirma_marcador_1": true,
+                    "confirma_marcador_2": true
+                }
+            }
+        },
+        {
+            "fecha": "2026-09-18",
+            "hora": "10:00",
+            "pais": "ARGELIA",
+            "liga": "LIGUE 2 - JORNADA 1",
+            "link": "https://www.flashscore.co/partido/futbol/mo-bejaia-QkjUWanK/mo-constantine-UcqOqc1D/?mid=zTnHzGfD",
+            "fuente_datos": "Flashscore",
+            "local": "MO Bejaia",
+            "visitante": "MO Constantine",
+            "logolocal": "https://static.flashscore.com/res/image/data/IeLLaOf5-UVsmIYOi.png",
+            "logovisitante": "https://static.flashscore.com/res/image/data/GIvrJWdM-46whCS8a.png",
+            "favorito": "MO Bejaia",
+            "probabilidad_favorito": 62.98,
+            "nofavorito": "MO Constantine",
+            "probabilidad_nofavorito": 12.32,
+            "probabilidad_empate": 24.69,
+            "mercado": "MO Bejaia",
+            "probabilidad": 62.98,
+            "marcador_1": "1-0",
+            "marcador_2": "2-0",
+            "ultimo_resultado_favorito": "",
+            "ultimo_resultado_nofavorito": "",
+            "condiciones": {
+                "motivo": "Poisson y Monte Carlo coinciden y ambos marcadores confirman la recomendación."
+            },
+            "motivo": "Poisson y Monte Carlo coinciden y ambos marcadores confirman la recomendación.",
+            "pick": "1",
+            "premium": true,
+            "analisis": {
+                "motor": "Motor_analitico",
+                "version": "4.0",
+                "partido": {
+                    "local": "MO Bejaia",
+                    "visitante": "MO Constantine"
+                },
+                "analisis_final": {
+                    "1X2": {
+                        "Local": 62.98,
+                        "Empate": 24.69,
+                        "Visitante": 12.32
+                    },
+                    "recomendacion": {
+                        "mercado": "MO Bejaia",
+                        "probabilidad": 62.98,
+                        "estado": "PICK",
+                        "motivo": "Probabilidad, separación y riesgo compatibles.",
+                        "cuota": 1.42
+                    },
+                    "marcadores": [
+                        {
+                            "marcador": "1-0",
+                            "probabilidad": 15.17
+                        },
+                        {
+                            "marcador": "2-0",
+                            "probabilidad": 14.0
+                        }
+                    ],
+                    "btts": {
+                        "resultado": "NO",
+                        "probabilidad": 32.25
+                    },
+                    "over_under": {
+                        "mercado": "Over 1.5",
+                        "probabilidad": 69.44
+                    },
+                    "confianza": {
+                        "score": 79.53,
+                        "nivel": "ALTA"
+                    },
+                    "riesgo": {
+                        "score": 58.84,
+                        "nivel": "MEDIO"
+                    },
+                    "consistencia": {
+                        "estado": "MODERADAMENTE CONSISTENTE",
+                        "diferencia_maxima_puntos": 2.01,
+                        "detalle": "Poisson y Monte Carlo presentan pequeñas diferencias de estimación."
+                    },
+                    "consenso_modelos": {
+                        "poisson": {
+                            "resultado": "1",
+                            "nombre": "MO Bejaia",
+                            "probabilidad": 62.66
+                        },
+                        "monte_carlo": {
+                            "resultado": "1",
+                            "nombre": "MO Bejaia",
+                            "probabilidad": 63.71
+                        },
+                        "coinciden": true,
+                        "resultado_consenso": "1",
+                        "nombre_consenso": "MO Bejaia",
+                        "probabilidad_consenso": 63.19,
+                        "diferencia_puntos": 1.05,
+                        "marcador_1": {
+                            "marcador": "1-0",
+                            "resultado": "1",
+                            "confirma_consenso": true
+                        },
+                        "marcador_2": {
+                            "marcador": "2-0",
+                            "resultado": "1",
+                            "confirma_consenso": true
+                        }
+                    },
+                    "muestra": {
+                        "local": 15,
+                        "local_objetivo": 15,
+                        "visitante": 15,
+                        "visitante_objetivo": 15,
+                        "h2h": 15
+                    },
+                    "pronostico_adicionales": {
+                        "Local_marcan": "5 de 15",
+                        "Visitante_marcan": "5 de 15",
+                        "Local_Partidos_sinmarcar": "3 de 15",
+                        "Visitante_Partidos_sinmarcar": "8 de 15",
+                        "local_gol_ajustada": 1.27,
+                        "visitante_gol_ajustada": 0.67
+                    },
+                    "value": {
+                        "hay_valor": false,
+                        "mercado": "Empate",
+                        "edge": 0.37,
+                        "ev": -8.65,
+                        "cuota": 3.7
+                    }
+                },
+                "select": {
+                    "activo": true,
+                    "motivo": "Poisson y Monte Carlo coinciden y el marcador 1 confirma la recomendación.",
+                    "mercado_principal": "MO Bejaia",
+                    "probabilidad": 62.98,
+                    "marcador_1": "1-0",
+                    "probabilidad_marcador_1": 15.17,
+                    "marcador_2": "2-0",
+                    "probabilidad_marcador_2": 14.0,
+                    "btts": "NO",
+                    "probabilidad_btts": 32.25,
+                    "over_under": "Over 1.5",
+                    "probabilidad_over_under": 69.44,
+                    "confianza": 79.53,
+                    "riesgo": 58.84,
+                    "edge": 0.37,
+                    "pronostico_adicionales": {
+                        "Local_marcan": "5 de 15",
+                        "Visitante_marcan": "5 de 15",
+                        "Local_Partidos_sinmarcar": "3 de 15",
+                        "Visitante_Partidos_sinmarcar": "8 de 15",
+                        "local_gol_ajustada": 1.27,
+                        "visitante_gol_ajustada": 0.67
+                    },
+                    "resultado": "1",
+                    "recomendacion": "MO Bejaia",
+                    "probabilidad_consenso": 63.19,
+                    "consenso": true,
+                    "poisson": {
+                        "resultado": "1",
+                        "nombre": "MO Bejaia",
+                        "probabilidad": 62.66
+                    },
+                    "monte_carlo": {
+                        "resultado": "1",
+                        "nombre": "MO Bejaia",
+                        "probabilidad": 63.71
+                    },
+                    "confirma_marcador_1": true
+                },
+                "premium": {
+                    "activo": true,
+                    "motivo": "Poisson y Monte Carlo coinciden y ambos marcadores confirman la recomendación.",
+                    "mercado_principal": "MO Bejaia",
+                    "probabilidad": 62.98,
+                    "marcador_1": "1-0",
+                    "probabilidad_marcador_1": 15.17,
+                    "marcador_2": "2-0",
+                    "probabilidad_marcador_2": 14.0,
+                    "btts": "NO",
+                    "probabilidad_btts": 32.25,
+                    "over_under": "Over 1.5",
+                    "probabilidad_over_under": 69.44,
+                    "confianza": 79.53,
+                    "riesgo": 58.84,
+                    "edge": 0.37,
+                    "pronostico_adicionales": {
+                        "Local_marcan": "5 de 15",
+                        "Visitante_marcan": "5 de 15",
+                        "Local_Partidos_sinmarcar": "3 de 15",
+                        "Visitante_Partidos_sinmarcar": "8 de 15",
+                        "local_gol_ajustada": 1.27,
+                        "visitante_gol_ajustada": 0.67
+                    },
+                    "resultado": "1",
+                    "recomendacion": "MO Bejaia",
+                    "probabilidad_consenso": 63.19,
+                    "consenso": true,
+                    "poisson": {
+                        "resultado": "1",
+                        "nombre": "MO Bejaia",
+                        "probabilidad": 62.66
+                    },
+                    "monte_carlo": {
+                        "resultado": "1",
+                        "nombre": "MO Bejaia",
+                        "probabilidad": 63.71
+                    },
+                    "confirma_marcador_1": true,
+                    "confirma_marcador_2": true
+                }
+            }
+        },
+        {
+            "fecha": "2026-09-18",
+            "hora": "10:00",
+            "pais": "ARGELIA",
+            "liga": "LIGUE 2 - JORNADA 1",
+            "link": "https://www.flashscore.co/partido/futbol/beni-oulbane-hdnmDXCa/us-chaouia-pYZgYcYG/?mid=YL1ztBWh",
+            "fuente_datos": "Flashscore",
+            "local": "US Chaouia",
+            "visitante": "Beni Oulbane",
+            "logolocal": "https://static.flashscore.com/res/image/data/dr6yd6Ar-0n2iZoEQ.png",
+            "logovisitante": "https://static.flashscore.com/res/image/data/69WKrdg5-219Jrzr4.png",
+            "favorito": "US Chaouia",
+            "probabilidad_favorito": 66.78,
+            "nofavorito": "Beni Oulbane",
+            "probabilidad_nofavorito": 10.58,
+            "probabilidad_empate": 22.64,
+            "mercado": "US Chaouia",
+            "probabilidad": 66.78,
+            "marcador_1": "2-0",
+            "marcador_2": "1-0",
+            "ultimo_resultado_favorito": "",
+            "ultimo_resultado_nofavorito": "",
+            "condiciones": {
+                "motivo": "Poisson y Monte Carlo coinciden y ambos marcadores confirman la recomendación."
+            },
+            "motivo": "Poisson y Monte Carlo coinciden y ambos marcadores confirman la recomendación.",
+            "pick": "1",
+            "premium": true,
+            "analisis": {
+                "motor": "Motor_analitico",
+                "version": "4.0",
+                "partido": {
+                    "local": "US Chaouia",
+                    "visitante": "Beni Oulbane"
+                },
+                "analisis_final": {
+                    "1X2": {
+                        "Local": 66.78,
+                        "Empate": 22.64,
+                        "Visitante": 10.58
+                    },
+                    "recomendacion": {
+                        "mercado": "US Chaouia",
+                        "probabilidad": 66.78,
+                        "estado": "PICK",
+                        "motivo": "Probabilidad, separación y riesgo compatibles.",
+                        "cuota": 1.3
+                    },
+                    "marcadores": [
+                        {
+                            "marcador": "2-0",
+                            "probabilidad": 13.04
+                        },
+                        {
+                            "marcador": "1-0",
+                            "probabilidad": 12.59
+                        }
+                    ],
+                    "btts": {
+                        "resultado": "NO",
+                        "probabilidad": 38.99
+                    },
+                    "over_under": {
+                        "mercado": "Over 1.5",
+                        "probabilidad": 75.18
+                    },
+                    "confianza": {
+                        "score": 79.4,
+                        "nivel": "ALTA"
+                    },
+                    "riesgo": {
+                        "score": 61.56,
+                        "nivel": "MEDIO"
+                    },
+                    "consistencia": {
+                        "estado": "MODERADAMENTE CONSISTENTE",
+                        "diferencia_maxima_puntos": 1.94,
+                        "detalle": "Poisson y Monte Carlo presentan pequeñas diferencias de estimación."
+                    },
+                    "consenso_modelos": {
+                        "poisson": {
+                            "resultado": "1",
+                            "nombre": "US Chaouia",
+                            "probabilidad": 64.58
+                        },
+                        "monte_carlo": {
+                            "resultado": "1",
+                            "nombre": "US Chaouia",
+                            "probabilidad": 65.66
+                        },
+                        "coinciden": true,
+                        "resultado_consenso": "1",
+                        "nombre_consenso": "US Chaouia",
+                        "probabilidad_consenso": 65.12,
+                        "diferencia_puntos": 1.08,
+                        "marcador_1": {
+                            "marcador": "2-0",
+                            "resultado": "1",
+                            "confirma_consenso": true
+                        },
+                        "marcador_2": {
+                            "marcador": "1-0",
+                            "resultado": "1",
+                            "confirma_consenso": true
+                        }
+                    },
+                    "muestra": {
+                        "local": 15,
+                        "local_objetivo": 15,
+                        "visitante": 15,
+                        "visitante_objetivo": 15,
+                        "h2h": 2
+                    },
+                    "pronostico_adicionales": {
+                        "Local_marcan": "6 de 15",
+                        "Visitante_marcan": "4 de 15",
+                        "Local_Partidos_sinmarcar": "4 de 15",
+                        "Visitante_Partidos_sinmarcar": "7 de 15",
+                        "local_gol_ajustada": 1.53,
+                        "visitante_gol_ajustada": 0.87
+                    },
+                    "value": {
+                        "hay_valor": true,
+                        "mercado": "Visitante",
+                        "edge": 1.8,
+                        "ev": 8.45,
+                        "cuota": 10.25
+                    }
+                },
+                "select": {
+                    "activo": true,
+                    "motivo": "Poisson y Monte Carlo coinciden y el marcador 1 confirma la recomendación.",
+                    "mercado_principal": "US Chaouia",
+                    "probabilidad": 66.78,
+                    "marcador_1": "2-0",
+                    "probabilidad_marcador_1": 13.04,
+                    "marcador_2": "1-0",
+                    "probabilidad_marcador_2": 12.59,
+                    "btts": "NO",
+                    "probabilidad_btts": 38.99,
+                    "over_under": "Over 1.5",
+                    "probabilidad_over_under": 75.18,
+                    "confianza": 79.4,
+                    "riesgo": 61.56,
+                    "edge": 1.8,
+                    "pronostico_adicionales": {
+                        "Local_marcan": "6 de 15",
+                        "Visitante_marcan": "4 de 15",
+                        "Local_Partidos_sinmarcar": "4 de 15",
+                        "Visitante_Partidos_sinmarcar": "7 de 15",
+                        "local_gol_ajustada": 1.53,
+                        "visitante_gol_ajustada": 0.87
+                    },
+                    "resultado": "1",
+                    "recomendacion": "US Chaouia",
+                    "probabilidad_consenso": 65.12,
+                    "consenso": true,
+                    "poisson": {
+                        "resultado": "1",
+                        "nombre": "US Chaouia",
+                        "probabilidad": 64.58
+                    },
+                    "monte_carlo": {
+                        "resultado": "1",
+                        "nombre": "US Chaouia",
+                        "probabilidad": 65.66
+                    },
+                    "confirma_marcador_1": true
+                },
+                "premium": {
+                    "activo": true,
+                    "motivo": "Poisson y Monte Carlo coinciden y ambos marcadores confirman la recomendación.",
+                    "mercado_principal": "US Chaouia",
+                    "probabilidad": 66.78,
+                    "marcador_1": "2-0",
+                    "probabilidad_marcador_1": 13.04,
+                    "marcador_2": "1-0",
+                    "probabilidad_marcador_2": 12.59,
+                    "btts": "NO",
+                    "probabilidad_btts": 38.99,
+                    "over_under": "Over 1.5",
+                    "probabilidad_over_under": 75.18,
+                    "confianza": 79.4,
+                    "riesgo": 61.56,
+                    "edge": 1.8,
+                    "pronostico_adicionales": {
+                        "Local_marcan": "6 de 15",
+                        "Visitante_marcan": "4 de 15",
+                        "Local_Partidos_sinmarcar": "4 de 15",
+                        "Visitante_Partidos_sinmarcar": "7 de 15",
+                        "local_gol_ajustada": 1.53,
+                        "visitante_gol_ajustada": 0.87
+                    },
+                    "resultado": "1",
+                    "recomendacion": "US Chaouia",
+                    "probabilidad_consenso": 65.12,
+                    "consenso": true,
+                    "poisson": {
+                        "resultado": "1",
+                        "nombre": "US Chaouia",
+                        "probabilidad": 64.58
+                    },
+                    "monte_carlo": {
+                        "resultado": "1",
+                        "nombre": "US Chaouia",
+                        "probabilidad": 65.66
+                    },
+                    "confirma_marcador_1": true,
+                    "confirma_marcador_2": true
+                }
+            }
+        },
+        {
+            "fecha": "2026-09-18",
+            "hora": "05:30",
+            "pais": "ASIA",
+            "liga": "JUEGOS ASIÁTICOS - JORNADA 2",
+            "link": "https://www.flashscore.co/partido/futbol/arabia-saudi-ULvtOuns/catar-GEEuPVTi/?mid=ljmhSrZ8",
+            "fuente_datos": "Flashscore",
+            "local": "Arabia Saudí Sub-23",
+            "visitante": "Catar Sub-23",
+            "logolocal": "https://static.flashscore.com/res/image/data/6ifmg1FG-ddddz9FK.png",
+            "logovisitante": "https://static.flashscore.com/res/image/data/QXUbAsYg-xdsSUnwr.png",
+            "favorito": "Arabia Saudí Sub-23",
+            "probabilidad_favorito": 59.5,
+            "nofavorito": "Catar Sub-23",
+            "probabilidad_nofavorito": 15.56,
+            "probabilidad_empate": 24.94,
+            "mercado": "Arabia Saudí Sub-23",
+            "probabilidad": 59.5,
+            "marcador_1": "1-0",
+            "marcador_2": "2-0",
+            "ultimo_resultado_favorito": "",
+            "ultimo_resultado_nofavorito": "",
+            "condiciones": {
+                "motivo": "Poisson y Monte Carlo coinciden y ambos marcadores confirman la recomendación."
+            },
+            "motivo": "Poisson y Monte Carlo coinciden y ambos marcadores confirman la recomendación.",
+            "pick": "1",
+            "premium": true,
+            "analisis": {
+                "motor": "Motor_analitico",
+                "version": "4.0",
+                "partido": {
+                    "local": "Arabia Saudí Sub-23",
+                    "visitante": "Catar Sub-23"
+                },
+                "analisis_final": {
+                    "1X2": {
+                        "Local": 59.5,
+                        "Empate": 24.94,
+                        "Visitante": 15.56
+                    },
+                    "recomendacion": {
+                        "mercado": "Arabia Saudí Sub-23",
+                        "probabilidad": 59.5,
+                        "estado": "PICK",
+                        "motivo": "Probabilidad, separación y riesgo compatibles.",
+                        "cuota": 1.52
+                    },
+                    "marcadores": [
+                        {
+                            "marcador": "1-0",
+                            "probabilidad": 14.03
+                        },
+                        {
+                            "marcador": "2-0",
+                            "probabilidad": 12.79
+                        }
+                    ],
+                    "btts": {
+                        "resultado": "NO",
+                        "probabilidad": 43.52
+                    },
+                    "over_under": {
+                        "mercado": "Over 1.5",
+                        "probabilidad": 70.55
+                    },
+                    "confianza": {
+                        "score": 79.03,
+                        "nivel": "ALTA"
+                    },
+                    "riesgo": {
+                        "score": 58.67,
+                        "nivel": "MEDIO"
+                    },
+                    "consistencia": {
+                        "estado": "MODERADAMENTE CONSISTENTE",
+                        "diferencia_maxima_puntos": 2.24,
+                        "detalle": "Poisson y Monte Carlo presentan pequeñas diferencias de estimación."
+                    },
+                    "consenso_modelos": {
+                        "poisson": {
+                            "resultado": "1",
+                            "nombre": "Arabia Saudí Sub-23",
+                            "probabilidad": 59.52
+                        },
+                        "monte_carlo": {
+                            "resultado": "1",
+                            "nombre": "Arabia Saudí Sub-23",
+                            "probabilidad": 60.69
+                        },
+                        "coinciden": true,
+                        "resultado_consenso": "1",
+                        "nombre_consenso": "Arabia Saudí Sub-23",
+                        "probabilidad_consenso": 60.11,
+                        "diferencia_puntos": 1.17,
+                        "marcador_1": {
+                            "marcador": "1-0",
+                            "resultado": "1",
+                            "confirma_consenso": true
+                        },
+                        "marcador_2": {
+                            "marcador": "2-0",
+                            "resultado": "1",
+                            "confirma_consenso": true
+                        }
+                    },
+                    "muestra": {
+                        "local": 15,
+                        "local_objetivo": 15,
+                        "visitante": 14,
+                        "visitante_objetivo": 15,
+                        "h2h": 8
+                    },
+                    "pronostico_adicionales": {
+                        "Local_marcan": "5 de 15",
+                        "Visitante_marcan": "8 de 14",
+                        "Local_Partidos_sinmarcar": "2 de 15",
+                        "Visitante_Partidos_sinmarcar": "6 de 14",
+                        "local_gol_ajustada": 1.53,
+                        "visitante_gol_ajustada": 0.79
+                    },
+                    "value": {
+                        "hay_valor": false,
+                        "mercado": "Empate",
+                        "edge": 0.84,
+                        "ev": -6.47,
+                        "cuota": 3.75
+                    }
+                },
+                "select": {
+                    "activo": true,
+                    "motivo": "Poisson y Monte Carlo coinciden y el marcador 1 confirma la recomendación.",
+                    "mercado_principal": "Arabia Saudí Sub-23",
+                    "probabilidad": 59.5,
+                    "marcador_1": "1-0",
+                    "probabilidad_marcador_1": 14.03,
+                    "marcador_2": "2-0",
+                    "probabilidad_marcador_2": 12.79,
+                    "btts": "NO",
+                    "probabilidad_btts": 43.52,
+                    "over_under": "Over 1.5",
+                    "probabilidad_over_under": 70.55,
+                    "confianza": 79.03,
+                    "riesgo": 58.67,
+                    "edge": 0.84,
+                    "pronostico_adicionales": {
+                        "Local_marcan": "5 de 15",
+                        "Visitante_marcan": "8 de 14",
+                        "Local_Partidos_sinmarcar": "2 de 15",
+                        "Visitante_Partidos_sinmarcar": "6 de 14",
+                        "local_gol_ajustada": 1.53,
+                        "visitante_gol_ajustada": 0.79
+                    },
+                    "resultado": "1",
+                    "recomendacion": "Arabia Saudí Sub-23",
+                    "probabilidad_consenso": 60.11,
+                    "consenso": true,
+                    "poisson": {
+                        "resultado": "1",
+                        "nombre": "Arabia Saudí Sub-23",
+                        "probabilidad": 59.52
+                    },
+                    "monte_carlo": {
+                        "resultado": "1",
+                        "nombre": "Arabia Saudí Sub-23",
+                        "probabilidad": 60.69
+                    },
+                    "confirma_marcador_1": true
+                },
+                "premium": {
+                    "activo": true,
+                    "motivo": "Poisson y Monte Carlo coinciden y ambos marcadores confirman la recomendación.",
+                    "mercado_principal": "Arabia Saudí Sub-23",
+                    "probabilidad": 59.5,
+                    "marcador_1": "1-0",
+                    "probabilidad_marcador_1": 14.03,
+                    "marcador_2": "2-0",
+                    "probabilidad_marcador_2": 12.79,
+                    "btts": "NO",
+                    "probabilidad_btts": 43.52,
+                    "over_under": "Over 1.5",
+                    "probabilidad_over_under": 70.55,
+                    "confianza": 79.03,
+                    "riesgo": 58.67,
+                    "edge": 0.84,
+                    "pronostico_adicionales": {
+                        "Local_marcan": "5 de 15",
+                        "Visitante_marcan": "8 de 14",
+                        "Local_Partidos_sinmarcar": "2 de 15",
+                        "Visitante_Partidos_sinmarcar": "6 de 14",
+                        "local_gol_ajustada": 1.53,
+                        "visitante_gol_ajustada": 0.79
+                    },
+                    "resultado": "1",
+                    "recomendacion": "Arabia Saudí Sub-23",
+                    "probabilidad_consenso": 60.11,
+                    "consenso": true,
+                    "poisson": {
+                        "resultado": "1",
+                        "nombre": "Arabia Saudí Sub-23",
+                        "probabilidad": 59.52
+                    },
+                    "monte_carlo": {
+                        "resultado": "1",
+                        "nombre": "Arabia Saudí Sub-23",
+                        "probabilidad": 60.69
+                    },
+                    "confirma_marcador_1": true,
+                    "confirma_marcador_2": true
+                }
+            }
+        },
+        {
+            "fecha": "2026-09-18",
+            "hora": "08:00",
+            "pais": "SUDÁFRICA",
+            "liga": "MOTSEPE FOUNDATION CHAMPIONSHIP - JORNADA 5",
+            "link": "https://www.flashscore.co/partido/futbol/real-native-vXSqpa1T/venda-hOI4aTL6/?mid=SxhjNJse",
+            "fuente_datos": "Flashscore",
+            "local": "Real Native",
+            "visitante": "Venda",
+            "logolocal": "https://static.flashscore.com/res/image/data/Sd6kfbg5-A5VSKhzb.png",
+            "logovisitante": "https://static.flashscore.com/res/image/data/jkSdgxCa-Ymvu6oHm.png",
+            "favorito": "Real Native",
+            "probabilidad_favorito": 58.53,
+            "nofavorito": "Venda",
+            "probabilidad_nofavorito": 15.07,
+            "probabilidad_empate": 26.39,
+            "mercado": "Real Native",
+            "probabilidad": 58.53,
+            "marcador_1": "1-0",
+            "marcador_2": "2-0",
+            "ultimo_resultado_favorito": "",
+            "ultimo_resultado_nofavorito": "",
+            "condiciones": {
+                "motivo": "Poisson y Monte Carlo coinciden y ambos marcadores confirman la recomendación."
+            },
+            "motivo": "Poisson y Monte Carlo coinciden y ambos marcadores confirman la recomendación.",
+            "pick": "1",
+            "premium": true,
+            "analisis": {
+                "motor": "Motor_analitico",
+                "version": "4.0",
+                "partido": {
+                    "local": "Real Native",
+                    "visitante": "Venda"
+                },
+                "analisis_final": {
+                    "1X2": {
+                        "Local": 58.53,
+                        "Empate": 26.39,
+                        "Visitante": 15.07
+                    },
+                    "recomendacion": {
+                        "mercado": "Real Native",
+                        "probabilidad": 58.53,
+                        "estado": "PICK",
+                        "motivo": "Probabilidad, separación y riesgo compatibles.",
+                        "cuota": 1.6
+                    },
+                    "marcadores": [
+                        {
+                            "marcador": "1-0",
+                            "probabilidad": 13.41
+                        },
+                        {
+                            "marcador": "2-0",
+                            "probabilidad": 12.65
+                        }
+                    ],
+                    "btts": {
+                        "resultado": "NO",
+                        "probabilidad": 45.28
+                    },
+                    "over_under": {
+                        "mercado": "Over 1.5",
+                        "probabilidad": 72.14
+                    },
+                    "confianza": {
+                        "score": 82.35,
+                        "nivel": "ALTA"
+                    },
+                    "riesgo": {
+                        "score": 58.61,
+                        "nivel": "MEDIO"
+                    },
+                    "consistencia": {
+                        "estado": "MODERADAMENTE CONSISTENTE",
+                        "diferencia_maxima_puntos": 2.08,
+                        "detalle": "Poisson y Monte Carlo presentan pequeñas diferencias de estimación."
+                    },
+                    "consenso_modelos": {
+                        "poisson": {
+                            "resultado": "1",
+                            "nombre": "Real Native",
+                            "probabilidad": 60.32
+                        },
+                        "monte_carlo": {
+                            "resultado": "1",
+                            "nombre": "Real Native",
+                            "probabilidad": 61.46
+                        },
+                        "coinciden": true,
+                        "resultado_consenso": "1",
+                        "nombre_consenso": "Real Native",
+                        "probabilidad_consenso": 60.89,
+                        "diferencia_puntos": 1.14,
+                        "marcador_1": {
+                            "marcador": "1-0",
+                            "resultado": "1",
+                            "confirma_consenso": true
+                        },
+                        "marcador_2": {
+                            "marcador": "2-0",
+                            "resultado": "1",
+                            "confirma_consenso": true
+                        }
+                    },
+                    "muestra": {
+                        "local": 15,
+                        "local_objetivo": 15,
+                        "visitante": 15,
+                        "visitante_objetivo": 15,
+                        "h2h": 8
+                    },
+                    "pronostico_adicionales": {
+                        "Local_marcan": "7 de 15",
+                        "Visitante_marcan": "7 de 15",
+                        "Local_Partidos_sinmarcar": "2 de 15",
+                        "Visitante_Partidos_sinmarcar": "5 de 15",
+                        "local_gol_ajustada": 1.47,
+                        "visitante_gol_ajustada": 0.87
+                    },
+                    "value": {
+                        "hay_valor": false,
+                        "mercado": "Local",
+                        "edge": 2.13,
+                        "ev": -6.35,
+                        "cuota": 1.6
+                    }
+                },
+                "select": {
+                    "activo": true,
+                    "motivo": "Poisson y Monte Carlo coinciden y el marcador 1 confirma la recomendación.",
+                    "mercado_principal": "Real Native",
+                    "probabilidad": 58.53,
+                    "marcador_1": "1-0",
+                    "probabilidad_marcador_1": 13.41,
+                    "marcador_2": "2-0",
+                    "probabilidad_marcador_2": 12.65,
+                    "btts": "NO",
+                    "probabilidad_btts": 45.28,
+                    "over_under": "Over 1.5",
+                    "probabilidad_over_under": 72.14,
+                    "confianza": 82.35,
+                    "riesgo": 58.61,
+                    "edge": 2.13,
+                    "pronostico_adicionales": {
+                        "Local_marcan": "7 de 15",
+                        "Visitante_marcan": "7 de 15",
+                        "Local_Partidos_sinmarcar": "2 de 15",
+                        "Visitante_Partidos_sinmarcar": "5 de 15",
+                        "local_gol_ajustada": 1.47,
+                        "visitante_gol_ajustada": 0.87
+                    },
+                    "resultado": "1",
+                    "recomendacion": "Real Native",
+                    "probabilidad_consenso": 60.89,
+                    "consenso": true,
+                    "poisson": {
+                        "resultado": "1",
+                        "nombre": "Real Native",
+                        "probabilidad": 60.32
+                    },
+                    "monte_carlo": {
+                        "resultado": "1",
+                        "nombre": "Real Native",
+                        "probabilidad": 61.46
+                    },
+                    "confirma_marcador_1": true
+                },
+                "premium": {
+                    "activo": true,
+                    "motivo": "Poisson y Monte Carlo coinciden y ambos marcadores confirman la recomendación.",
+                    "mercado_principal": "Real Native",
+                    "probabilidad": 58.53,
+                    "marcador_1": "1-0",
+                    "probabilidad_marcador_1": 13.41,
+                    "marcador_2": "2-0",
+                    "probabilidad_marcador_2": 12.65,
+                    "btts": "NO",
+                    "probabilidad_btts": 45.28,
+                    "over_under": "Over 1.5",
+                    "probabilidad_over_under": 72.14,
+                    "confianza": 82.35,
+                    "riesgo": 58.61,
+                    "edge": 2.13,
+                    "pronostico_adicionales": {
+                        "Local_marcan": "7 de 15",
+                        "Visitante_marcan": "7 de 15",
+                        "Local_Partidos_sinmarcar": "2 de 15",
+                        "Visitante_Partidos_sinmarcar": "5 de 15",
+                        "local_gol_ajustada": 1.47,
+                        "visitante_gol_ajustada": 0.87
+                    },
+                    "resultado": "1",
+                    "recomendacion": "Real Native",
+                    "probabilidad_consenso": 60.89,
+                    "consenso": true,
+                    "poisson": {
+                        "resultado": "1",
+                        "nombre": "Real Native",
+                        "probabilidad": 60.32
+                    },
+                    "monte_carlo": {
+                        "resultado": "1",
+                        "nombre": "Real Native",
+                        "probabilidad": 61.46
+                    },
+                    "confirma_marcador_1": true,
+                    "confirma_marcador_2": true
+                }
+            }
+        },
+        {
+            "fecha": "2026-09-18",
+            "hora": "12:30",
+            "pais": "SUECIA",
+            "liga": "DIVISION 2 - NORRA GÖTALAND - JORNADA 22",
+            "link": "https://www.flashscore.co/partido/futbol/herrestads-aif-xl7u6LSM/kumla-viAzuiK0/?mid=jNAYrc0S",
+            "fuente_datos": "Flashscore",
+            "local": "Herrestads AIF",
+            "visitante": "Kumla",
+            "logolocal": "https://static.flashscore.com/res/image/data/jV2u94yS-bR54g5xh.png",
+            "logovisitante": "https://static.flashscore.com/res/image/data/zThtYpf5-pMhT4VM5.png",
+            "favorito": "Herrestads AIF",
+            "probabilidad_favorito": 56.73,
+            "nofavorito": "Kumla",
+            "probabilidad_nofavorito": 19.51,
+            "probabilidad_empate": 23.75,
+            "mercado": "Herrestads AIF",
+            "probabilidad": 56.73,
+            "marcador_1": "2-0",
+            "marcador_2": "1-0",
+            "ultimo_resultado_favorito": "",
+            "ultimo_resultado_nofavorito": "",
+            "condiciones": {
+                "motivo": "Poisson y Monte Carlo coinciden y ambos marcadores confirman la recomendación."
+            },
+            "motivo": "Poisson y Monte Carlo coinciden y ambos marcadores confirman la recomendación.",
+            "pick": "1",
+            "premium": true,
+            "analisis": {
+                "motor": "Motor_analitico",
+                "version": "4.0",
+                "partido": {
+                    "local": "Herrestads AIF",
+                    "visitante": "Kumla"
+                },
+                "analisis_final": {
+                    "1X2": {
+                        "Local": 56.73,
+                        "Empate": 23.75,
+                        "Visitante": 19.51
+                    },
+                    "recomendacion": {
+                        "mercado": "Herrestads AIF",
+                        "probabilidad": 56.73,
+                        "estado": "PICK",
+                        "motivo": "Probabilidad, separación y riesgo compatibles.",
+                        "cuota": 1.85
+                    },
+                    "marcadores": [
+                        {
+                            "marcador": "2-0",
+                            "probabilidad": 12.29
+                        },
+                        {
+                            "marcador": "1-0",
+                            "probabilidad": 11.81
+                        }
+                    ],
+                    "btts": {
+                        "resultado": "SI",
+                        "probabilidad": 52.85
+                    },
+                    "over_under": {
+                        "mercado": "Over 1.5",
+                        "probabilidad": 76.23
+                    },
+                    "confianza": {
+                        "score": 88.98,
+                        "nivel": "ALTA"
+                    },
+                    "riesgo": {
+                        "score": 60.49,
+                        "nivel": "MEDIO"
+                    },
+                    "consistencia": {
+                        "estado": "MODERADAMENTE CONSISTENTE",
+                        "diferencia_maxima_puntos": 2.06,
+                        "detalle": "Poisson y Monte Carlo presentan pequeñas diferencias de estimación."
+                    },
+                    "consenso_modelos": {
+                        "poisson": {
+                            "resultado": "1",
+                            "nombre": "Herrestads AIF",
+                            "probabilidad": 63.0
+                        },
+                        "monte_carlo": {
+                            "resultado": "1",
+                            "nombre": "Herrestads AIF",
+                            "probabilidad": 64.11
+                        },
+                        "coinciden": true,
+                        "resultado_consenso": "1",
+                        "nombre_consenso": "Herrestads AIF",
+                        "probabilidad_consenso": 63.55,
+                        "diferencia_puntos": 1.11,
+                        "marcador_1": {
+                            "marcador": "2-0",
+                            "resultado": "1",
+                            "confirma_consenso": true
+                        },
+                        "marcador_2": {
+                            "marcador": "1-0",
+                            "resultado": "1",
+                            "confirma_consenso": true
+                        }
+                    },
+                    "muestra": {
+                        "local": 15,
+                        "local_objetivo": 15,
+                        "visitante": 15,
+                        "visitante_objetivo": 15,
+                        "h2h": 7
+                    },
+                    "pronostico_adicionales": {
+                        "Local_marcan": "9 de 15",
+                        "Visitante_marcan": "8 de 15",
+                        "Local_Partidos_sinmarcar": "2 de 15",
+                        "Visitante_Partidos_sinmarcar": "6 de 15",
+                        "local_gol_ajustada": 1.6,
+                        "visitante_gol_ajustada": 0.73
+                    },
+                    "value": {
+                        "hay_valor": true,
+                        "mercado": "Local",
+                        "edge": 7.59,
+                        "ev": 4.95,
+                        "cuota": 1.85
+                    }
+                },
+                "select": {
+                    "activo": true,
+                    "motivo": "Poisson y Monte Carlo coinciden y el marcador 1 confirma la recomendación.",
+                    "mercado_principal": "Herrestads AIF",
+                    "probabilidad": 56.73,
+                    "marcador_1": "2-0",
+                    "probabilidad_marcador_1": 12.29,
+                    "marcador_2": "1-0",
+                    "probabilidad_marcador_2": 11.81,
+                    "btts": "SI",
+                    "probabilidad_btts": 52.85,
+                    "over_under": "Over 1.5",
+                    "probabilidad_over_under": 76.23,
+                    "confianza": 88.98,
+                    "riesgo": 60.49,
+                    "edge": 7.59,
+                    "pronostico_adicionales": {
+                        "Local_marcan": "9 de 15",
+                        "Visitante_marcan": "8 de 15",
+                        "Local_Partidos_sinmarcar": "2 de 15",
+                        "Visitante_Partidos_sinmarcar": "6 de 15",
+                        "local_gol_ajustada": 1.6,
+                        "visitante_gol_ajustada": 0.73
+                    },
+                    "resultado": "1",
+                    "recomendacion": "Herrestads AIF",
+                    "probabilidad_consenso": 63.55,
+                    "consenso": true,
+                    "poisson": {
+                        "resultado": "1",
+                        "nombre": "Herrestads AIF",
+                        "probabilidad": 63.0
+                    },
+                    "monte_carlo": {
+                        "resultado": "1",
+                        "nombre": "Herrestads AIF",
+                        "probabilidad": 64.11
+                    },
+                    "confirma_marcador_1": true
+                },
+                "premium": {
+                    "activo": true,
+                    "motivo": "Poisson y Monte Carlo coinciden y ambos marcadores confirman la recomendación.",
+                    "mercado_principal": "Herrestads AIF",
+                    "probabilidad": 56.73,
+                    "marcador_1": "2-0",
+                    "probabilidad_marcador_1": 12.29,
+                    "marcador_2": "1-0",
+                    "probabilidad_marcador_2": 11.81,
+                    "btts": "SI",
+                    "probabilidad_btts": 52.85,
+                    "over_under": "Over 1.5",
+                    "probabilidad_over_under": 76.23,
+                    "confianza": 88.98,
+                    "riesgo": 60.49,
+                    "edge": 7.59,
+                    "pronostico_adicionales": {
+                        "Local_marcan": "9 de 15",
+                        "Visitante_marcan": "8 de 15",
+                        "Local_Partidos_sinmarcar": "2 de 15",
+                        "Visitante_Partidos_sinmarcar": "6 de 15",
+                        "local_gol_ajustada": 1.6,
+                        "visitante_gol_ajustada": 0.73
+                    },
+                    "resultado": "1",
+                    "recomendacion": "Herrestads AIF",
+                    "probabilidad_consenso": 63.55,
+                    "consenso": true,
+                    "poisson": {
+                        "resultado": "1",
+                        "nombre": "Herrestads AIF",
+                        "probabilidad": 63.0
+                    },
+                    "monte_carlo": {
+                        "resultado": "1",
+                        "nombre": "Herrestads AIF",
+                        "probabilidad": 64.11
+                    },
+                    "confirma_marcador_1": true,
+                    "confirma_marcador_2": true
+                }
+            }
+        },
+        {
+            "fecha": "2026-09-19",
+            "hora": "12:00",
+            "pais": "ARGENTINA",
+            "liga": "PRIMERA B - JORNADA 36",
+            "link": "https://www.flashscore.co/partido/futbol/deportivo-armenio-hniCbg6M/deportivo-camioneros-lEyJ6qzO/?mid=fk24vwCC",
+            "fuente_datos": "Flashscore",
+            "local": "Deportivo Camioneros",
+            "visitante": "Deportivo Armenio",
+            "logolocal": "https://static.flashscore.com/res/image/data/jVVmF9h5-0EUja05U.png",
+            "logovisitante": "https://static.flashscore.com/res/image/data/SpZn6Ng5-6c0AtNOP.png",
+            "favorito": "Deportivo Camioneros",
+            "probabilidad_favorito": 56.77,
+            "nofavorito": "Deportivo Armenio",
+            "probabilidad_nofavorito": 15.94,
+            "probabilidad_empate": 27.3,
+            "mercado": "Deportivo Camioneros",
+            "probabilidad": 56.77,
+            "marcador_1": "1-0",
+            "marcador_2": "2-0",
+            "ultimo_resultado_favorito": "",
+            "ultimo_resultado_nofavorito": "",
+            "condiciones": {
+                "motivo": "Poisson y Monte Carlo coinciden y ambos marcadores confirman la recomendación."
+            },
+            "motivo": "Poisson y Monte Carlo coinciden y ambos marcadores confirman la recomendación.",
+            "pick": "1",
+            "premium": true,
+            "analisis": {
+                "motor": "Motor_analitico",
+                "version": "4.0",
+                "partido": {
+                    "local": "Deportivo Camioneros",
+                    "visitante": "Deportivo Armenio"
+                },
+                "analisis_final": {
+                    "1X2": {
+                        "Local": 56.77,
+                        "Empate": 27.3,
+                        "Visitante": 15.94
+                    },
+                    "recomendacion": {
+                        "mercado": "Deportivo Camioneros",
+                        "probabilidad": 56.77,
+                        "estado": "PICK",
+                        "motivo": "Probabilidad, separación y riesgo compatibles.",
+                        "cuota": 1.67
+                    },
+                    "marcadores": [
+                        {
+                            "marcador": "1-0",
+                            "probabilidad": 13.38
+                        },
+                        {
+                            "marcador": "2-0",
+                            "probabilidad": 12.23
+                        }
+                    ],
+                    "btts": {
+                        "resultado": "NO",
+                        "probabilidad": 38.99
+                    },
+                    "over_under": {
+                        "mercado": "Over 1.5",
+                        "probabilidad": 71.45
+                    },
+                    "confianza": {
+                        "score": 82.0,
+                        "nivel": "ALTA"
+                    },
+                    "riesgo": {
+                        "score": 58.49,
+                        "nivel": "MEDIO"
+                    },
+                    "consistencia": {
+                        "estado": "MODERADAMENTE CONSISTENTE",
+                        "diferencia_maxima_puntos": 2.18,
+                        "detalle": "Poisson y Monte Carlo presentan pequeñas diferencias de estimación."
+                    },
+                    "consenso_modelos": {
+                        "poisson": {
+                            "resultado": "1",
+                            "nombre": "Deportivo Camioneros",
+                            "probabilidad": 58.27
+                        },
+                        "monte_carlo": {
+                            "resultado": "1",
+                            "nombre": "Deportivo Camioneros",
+                            "probabilidad": 59.51
+                        },
+                        "coinciden": true,
+                        "resultado_consenso": "1",
+                        "nombre_consenso": "Deportivo Camioneros",
+                        "probabilidad_consenso": 58.89,
+                        "diferencia_puntos": 1.24,
+                        "marcador_1": {
+                            "marcador": "1-0",
+                            "resultado": "1",
+                            "confirma_consenso": true
+                        },
+                        "marcador_2": {
+                            "marcador": "2-0",
+                            "resultado": "1",
+                            "confirma_consenso": true
+                        }
+                    },
+                    "muestra": {
+                        "local": 15,
+                        "local_objetivo": 15,
+                        "visitante": 15,
+                        "visitante_objetivo": 15,
+                        "h2h": 1
+                    },
+                    "pronostico_adicionales": {
+                        "Local_marcan": "5 de 15",
+                        "Visitante_marcan": "7 de 15",
+                        "Local_Partidos_sinmarcar": "2 de 15",
+                        "Visitante_Partidos_sinmarcar": "4 de 15",
+                        "local_gol_ajustada": 1.2,
+                        "visitante_gol_ajustada": 1.0
+                    },
+                    "value": {
+                        "hay_valor": false,
+                        "mercado": "Local",
+                        "edge": 1.83,
+                        "ev": -5.19,
+                        "cuota": 1.67
+                    }
+                },
+                "select": {
+                    "activo": true,
+                    "motivo": "Poisson y Monte Carlo coinciden y el marcador 1 confirma la recomendación.",
+                    "mercado_principal": "Deportivo Camioneros",
+                    "probabilidad": 56.77,
+                    "marcador_1": "1-0",
+                    "probabilidad_marcador_1": 13.38,
+                    "marcador_2": "2-0",
+                    "probabilidad_marcador_2": 12.23,
+                    "btts": "NO",
+                    "probabilidad_btts": 38.99,
+                    "over_under": "Over 1.5",
+                    "probabilidad_over_under": 71.45,
+                    "confianza": 82.0,
+                    "riesgo": 58.49,
+                    "edge": 1.83,
+                    "pronostico_adicionales": {
+                        "Local_marcan": "5 de 15",
+                        "Visitante_marcan": "7 de 15",
+                        "Local_Partidos_sinmarcar": "2 de 15",
+                        "Visitante_Partidos_sinmarcar": "4 de 15",
+                        "local_gol_ajustada": 1.2,
+                        "visitante_gol_ajustada": 1.0
+                    },
+                    "resultado": "1",
+                    "recomendacion": "Deportivo Camioneros",
+                    "probabilidad_consenso": 58.89,
+                    "consenso": true,
+                    "poisson": {
+                        "resultado": "1",
+                        "nombre": "Deportivo Camioneros",
+                        "probabilidad": 58.27
+                    },
+                    "monte_carlo": {
+                        "resultado": "1",
+                        "nombre": "Deportivo Camioneros",
+                        "probabilidad": 59.51
+                    },
+                    "confirma_marcador_1": true
+                },
+                "premium": {
+                    "activo": true,
+                    "motivo": "Poisson y Monte Carlo coinciden y ambos marcadores confirman la recomendación.",
+                    "mercado_principal": "Deportivo Camioneros",
+                    "probabilidad": 56.77,
+                    "marcador_1": "1-0",
+                    "probabilidad_marcador_1": 13.38,
+                    "marcador_2": "2-0",
+                    "probabilidad_marcador_2": 12.23,
+                    "btts": "NO",
+                    "probabilidad_btts": 38.99,
+                    "over_under": "Over 1.5",
+                    "probabilidad_over_under": 71.45,
+                    "confianza": 82.0,
+                    "riesgo": 58.49,
+                    "edge": 1.83,
+                    "pronostico_adicionales": {
+                        "Local_marcan": "5 de 15",
+                        "Visitante_marcan": "7 de 15",
+                        "Local_Partidos_sinmarcar": "2 de 15",
+                        "Visitante_Partidos_sinmarcar": "4 de 15",
+                        "local_gol_ajustada": 1.2,
+                        "visitante_gol_ajustada": 1.0
+                    },
+                    "resultado": "1",
+                    "recomendacion": "Deportivo Camioneros",
+                    "probabilidad_consenso": 58.89,
+                    "consenso": true,
+                    "poisson": {
+                        "resultado": "1",
+                        "nombre": "Deportivo Camioneros",
+                        "probabilidad": 58.27
+                    },
+                    "monte_carlo": {
+                        "resultado": "1",
+                        "nombre": "Deportivo Camioneros",
+                        "probabilidad": 59.51
+                    },
+                    "confirma_marcador_1": true,
+                    "confirma_marcador_2": true
+                }
+            }
+        },
+        {
+            "fecha": "2026-09-19",
+            "hora": "10:45",
+            "pais": "AZERBAIYÁN",
+            "liga": "PREMIER LEAGUE - JORNADA 6",
+            "link": "https://www.flashscore.co/partido/futbol/imisli-fk-KAl0A5P2/sabah-baku-fNGcxbyr/?mid=tIDO194Q",
+            "fuente_datos": "Flashscore",
+            "local": "Sabah Baku",
+            "visitante": "Imisli FK",
+            "logolocal": "https://static.flashscore.com/res/image/data/QaG2tPEG-O8TAkqbq.png",
+            "logovisitante": "https://static.flashscore.com/res/image/data/dnsfNof5-nBMoDid9.png",
+            "favorito": "Sabah Baku",
+            "probabilidad_favorito": 70.11,
+            "nofavorito": "Imisli FK",
+            "probabilidad_nofavorito": 9.8,
+            "probabilidad_empate": 20.09,
+            "mercado": "Sabah Baku",
+            "probabilidad": 70.11,
+            "marcador_1": "1-0",
+            "marcador_2": "2-0",
+            "ultimo_resultado_favorito": "",
+            "ultimo_resultado_nofavorito": "",
+            "condiciones": {
+                "motivo": "Poisson y Monte Carlo coinciden y ambos marcadores confirman la recomendación."
+            },
+            "motivo": "Poisson y Monte Carlo coinciden y ambos marcadores confirman la recomendación.",
+            "pick": "1",
+            "premium": true,
+            "analisis": {
+                "motor": "Motor_analitico",
+                "version": "4.0",
+                "partido": {
+                    "local": "Sabah Baku",
+                    "visitante": "Imisli FK"
+                },
+                "analisis_final": {
+                    "1X2": {
+                        "Local": 70.11,
+                        "Empate": 20.09,
+                        "Visitante": 9.8
+                    },
+                    "recomendacion": {
+                        "mercado": "Sabah Baku",
+                        "probabilidad": 70.11,
+                        "estado": "PICK",
+                        "motivo": "Probabilidad, separación y riesgo compatibles.",
+                        "cuota": 1.17
+                    },
+                    "marcadores": [
+                        {
+                            "marcador": "1-0",
+                            "probabilidad": 12.96
+                        },
+                        {
+                            "marcador": "2-0",
+                            "probabilidad": 12.8
+                        }
+                    ],
+                    "btts": {
+                        "resultado": "NO",
+                        "probabilidad": 40.14
+                    },
+                    "over_under": {
+                        "mercado": "Over 1.5",
+                        "probabilidad": 73.73
+                    },
+                    "confianza": {
+                        "score": 84.8,
+                        "nivel": "ALTA"
+                    },
+                    "riesgo": {
+                        "score": 60.37,
+                        "nivel": "MEDIO"
+                    },
+                    "consistencia": {
+                        "estado": "MODERADAMENTE CONSISTENTE",
+                        "diferencia_maxima_puntos": 2.25,
+                        "detalle": "Poisson y Monte Carlo presentan pequeñas diferencias de estimación."
+                    },
+                    "consenso_modelos": {
+                        "poisson": {
+                            "resultado": "1",
+                            "nombre": "Sabah Baku",
+                            "probabilidad": 62.29
+                        },
+                        "monte_carlo": {
+                            "resultado": "1",
+                            "nombre": "Sabah Baku",
+                            "probabilidad": 63.51
+                        },
+                        "coinciden": true,
+                        "resultado_consenso": "1",
+                        "nombre_consenso": "Sabah Baku",
+                        "probabilidad_consenso": 62.9,
+                        "diferencia_puntos": 1.22,
+                        "marcador_1": {
+                            "marcador": "1-0",
+                            "resultado": "1",
+                            "confirma_consenso": true
+                        },
+                        "marcador_2": {
+                            "marcador": "2-0",
+                            "resultado": "1",
+                            "confirma_consenso": true
+                        }
+                    },
+                    "muestra": {
+                        "local": 15,
+                        "local_objetivo": 15,
+                        "visitante": 15,
+                        "visitante_objetivo": 15,
+                        "h2h": 7
+                    },
+                    "pronostico_adicionales": {
+                        "Local_marcan": "6 de 15",
+                        "Visitante_marcan": "5 de 15",
+                        "Local_Partidos_sinmarcar": "1 de 15",
+                        "Visitante_Partidos_sinmarcar": "6 de 15",
+                        "local_gol_ajustada": 1.6,
+                        "visitante_gol_ajustada": 0.67
+                    },
+                    "value": {
+                        "hay_valor": true,
+                        "mercado": "Visitante",
+                        "edge": 3.86,
+                        "ev": 51.9,
+                        "cuota": 15.5
+                    }
+                },
+                "select": {
+                    "activo": true,
+                    "motivo": "Poisson y Monte Carlo coinciden y el marcador 1 confirma la recomendación.",
+                    "mercado_principal": "Sabah Baku",
+                    "probabilidad": 70.11,
+                    "marcador_1": "1-0",
+                    "probabilidad_marcador_1": 12.96,
+                    "marcador_2": "2-0",
+                    "probabilidad_marcador_2": 12.8,
+                    "btts": "NO",
+                    "probabilidad_btts": 40.14,
+                    "over_under": "Over 1.5",
+                    "probabilidad_over_under": 73.73,
+                    "confianza": 84.8,
+                    "riesgo": 60.37,
+                    "edge": 4.74,
+                    "pronostico_adicionales": {
+                        "Local_marcan": "6 de 15",
+                        "Visitante_marcan": "5 de 15",
+                        "Local_Partidos_sinmarcar": "1 de 15",
+                        "Visitante_Partidos_sinmarcar": "6 de 15",
+                        "local_gol_ajustada": 1.6,
+                        "visitante_gol_ajustada": 0.67
+                    },
+                    "resultado": "1",
+                    "recomendacion": "Sabah Baku",
+                    "probabilidad_consenso": 62.9,
+                    "consenso": true,
+                    "poisson": {
+                        "resultado": "1",
+                        "nombre": "Sabah Baku",
+                        "probabilidad": 62.29
+                    },
+                    "monte_carlo": {
+                        "resultado": "1",
+                        "nombre": "Sabah Baku",
+                        "probabilidad": 63.51
+                    },
+                    "confirma_marcador_1": true
+                },
+                "premium": {
+                    "activo": true,
+                    "motivo": "Poisson y Monte Carlo coinciden y ambos marcadores confirman la recomendación.",
+                    "mercado_principal": "Sabah Baku",
+                    "probabilidad": 70.11,
+                    "marcador_1": "1-0",
+                    "probabilidad_marcador_1": 12.96,
+                    "marcador_2": "2-0",
+                    "probabilidad_marcador_2": 12.8,
+                    "btts": "NO",
+                    "probabilidad_btts": 40.14,
+                    "over_under": "Over 1.5",
+                    "probabilidad_over_under": 73.73,
+                    "confianza": 84.8,
+                    "riesgo": 60.37,
+                    "edge": 4.74,
+                    "pronostico_adicionales": {
+                        "Local_marcan": "6 de 15",
+                        "Visitante_marcan": "5 de 15",
+                        "Local_Partidos_sinmarcar": "1 de 15",
+                        "Visitante_Partidos_sinmarcar": "6 de 15",
+                        "local_gol_ajustada": 1.6,
+                        "visitante_gol_ajustada": 0.67
+                    },
+                    "resultado": "1",
+                    "recomendacion": "Sabah Baku",
+                    "probabilidad_consenso": 62.9,
+                    "consenso": true,
+                    "poisson": {
+                        "resultado": "1",
+                        "nombre": "Sabah Baku",
+                        "probabilidad": 62.29
+                    },
+                    "monte_carlo": {
+                        "resultado": "1",
+                        "nombre": "Sabah Baku",
+                        "probabilidad": 63.51
+                    },
+                    "confirma_marcador_1": true,
+                    "confirma_marcador_2": true
+                }
+            }
+        },
+        {
+            "fecha": "2026-09-19",
+            "hora": "11:30",
+            "pais": "BOSNIA Y HERZEGOVINA",
+            "liga": "WWIN LIGA BIH - JORNADA 8",
+            "link": "https://www.flashscore.co/partido/futbol/velez-mostar-Q7LPqcLQ/zrinjski-0C6tPiIc/?mid=zgUUFl2b",
+            "fuente_datos": "Flashscore",
+            "local": "Zrinjski",
+            "visitante": "Velez Mostar",
+            "logolocal": "https://static.flashscore.com/res/image/data/4Qe3YdwS-UDxTrxzU.png",
+            "logovisitante": "https://static.flashscore.com/res/image/data/bZ7cpTjl-6XE3AtXB.png",
+            "favorito": "Zrinjski",
+            "probabilidad_favorito": 65.54,
+            "nofavorito": "Velez Mostar",
+            "probabilidad_nofavorito": 12.45,
+            "probabilidad_empate": 22.01,
+            "mercado": "Zrinjski",
+            "probabilidad": 65.54,
+            "marcador_1": "2-0",
+            "marcador_2": "1-0",
+            "ultimo_resultado_favorito": "",
+            "ultimo_resultado_nofavorito": "",
+            "condiciones": {
+                "motivo": "Poisson y Monte Carlo coinciden y ambos marcadores confirman la recomendación."
+            },
+            "motivo": "Poisson y Monte Carlo coinciden y ambos marcadores confirman la recomendación.",
+            "pick": "1",
+            "premium": true,
+            "analisis": {
+                "motor": "Motor_analitico",
+                "version": "4.0",
+                "partido": {
+                    "local": "Zrinjski",
+                    "visitante": "Velez Mostar"
+                },
+                "analisis_final": {
+                    "1X2": {
+                        "Local": 65.54,
+                        "Empate": 22.01,
+                        "Visitante": 12.45
+                    },
+                    "recomendacion": {
+                        "mercado": "Zrinjski",
+                        "probabilidad": 65.54,
+                        "estado": "PICK",
+                        "motivo": "Probabilidad, separación y riesgo compatibles.",
+                        "cuota": 1.37
+                    },
+                    "marcadores": [
+                        {
+                            "marcador": "2-0",
+                            "probabilidad": 11.97
+                        },
+                        {
+                            "marcador": "1-0",
+                            "probabilidad": 10.91
+                        }
+                    ],
+                    "btts": {
+                        "resultado": "NO",
+                        "probabilidad": 48.95
+                    },
+                    "over_under": {
+                        "mercado": "Over 1.5",
+                        "probabilidad": 78.38
+                    },
+                    "confianza": {
+                        "score": 79.86,
+                        "nivel": "ALTA"
+                    },
+                    "riesgo": {
+                        "score": 59.32,
+                        "nivel": "MEDIO"
+                    },
+                    "consistencia": {
+                        "estado": "MODERADAMENTE CONSISTENTE",
+                        "diferencia_maxima_puntos": 2.17,
+                        "detalle": "Poisson y Monte Carlo presentan pequeñas diferencias de estimación."
+                    },
+                    "consenso_modelos": {
+                        "poisson": {
+                            "resultado": "1",
+                            "nombre": "Zrinjski",
+                            "probabilidad": 64.38
+                        },
+                        "monte_carlo": {
+                            "resultado": "1",
+                            "nombre": "Zrinjski",
+                            "probabilidad": 65.54
+                        },
+                        "coinciden": true,
+                        "resultado_consenso": "1",
+                        "nombre_consenso": "Zrinjski",
+                        "probabilidad_consenso": 64.96,
+                        "diferencia_puntos": 1.16,
+                        "marcador_1": {
+                            "marcador": "2-0",
+                            "resultado": "1",
+                            "confirma_consenso": true
+                        },
+                        "marcador_2": {
+                            "marcador": "1-0",
+                            "resultado": "1",
+                            "confirma_consenso": true
+                        }
+                    },
+                    "muestra": {
+                        "local": 15,
+                        "local_objetivo": 15,
+                        "visitante": 15,
+                        "visitante_objetivo": 15,
+                        "h2h": 15
+                    },
+                    "pronostico_adicionales": {
+                        "Local_marcan": "8 de 15",
+                        "Visitante_marcan": "7 de 15",
+                        "Local_Partidos_sinmarcar": "2 de 15",
+                        "Visitante_Partidos_sinmarcar": "5 de 15",
+                        "local_gol_ajustada": 1.8,
+                        "visitante_gol_ajustada": 1.0
+                    },
+                    "value": {
+                        "hay_valor": false,
+                        "mercado": "Visitante",
+                        "edge": 0.86,
+                        "ev": -1.64,
+                        "cuota": 7.9
+                    }
+                },
+                "select": {
+                    "activo": true,
+                    "motivo": "Poisson y Monte Carlo coinciden y el marcador 1 confirma la recomendación.",
+                    "mercado_principal": "Zrinjski",
+                    "probabilidad": 65.54,
+                    "marcador_1": "2-0",
+                    "probabilidad_marcador_1": 11.97,
+                    "marcador_2": "1-0",
+                    "probabilidad_marcador_2": 10.91,
+                    "btts": "NO",
+                    "probabilidad_btts": 48.95,
+                    "over_under": "Over 1.5",
+                    "probabilidad_over_under": 78.38,
+                    "confianza": 79.86,
+                    "riesgo": 59.32,
+                    "edge": 0.86,
+                    "pronostico_adicionales": {
+                        "Local_marcan": "8 de 15",
+                        "Visitante_marcan": "7 de 15",
+                        "Local_Partidos_sinmarcar": "2 de 15",
+                        "Visitante_Partidos_sinmarcar": "5 de 15",
+                        "local_gol_ajustada": 1.8,
+                        "visitante_gol_ajustada": 1.0
+                    },
+                    "resultado": "1",
+                    "recomendacion": "Zrinjski",
+                    "probabilidad_consenso": 64.96,
+                    "consenso": true,
+                    "poisson": {
+                        "resultado": "1",
+                        "nombre": "Zrinjski",
+                        "probabilidad": 64.38
+                    },
+                    "monte_carlo": {
+                        "resultado": "1",
+                        "nombre": "Zrinjski",
+                        "probabilidad": 65.54
+                    },
+                    "confirma_marcador_1": true
+                },
+                "premium": {
+                    "activo": true,
+                    "motivo": "Poisson y Monte Carlo coinciden y ambos marcadores confirman la recomendación.",
+                    "mercado_principal": "Zrinjski",
+                    "probabilidad": 65.54,
+                    "marcador_1": "2-0",
+                    "probabilidad_marcador_1": 11.97,
+                    "marcador_2": "1-0",
+                    "probabilidad_marcador_2": 10.91,
+                    "btts": "NO",
+                    "probabilidad_btts": 48.95,
+                    "over_under": "Over 1.5",
+                    "probabilidad_over_under": 78.38,
+                    "confianza": 79.86,
+                    "riesgo": 59.32,
+                    "edge": 0.86,
+                    "pronostico_adicionales": {
+                        "Local_marcan": "8 de 15",
+                        "Visitante_marcan": "7 de 15",
+                        "Local_Partidos_sinmarcar": "2 de 15",
+                        "Visitante_Partidos_sinmarcar": "5 de 15",
+                        "local_gol_ajustada": 1.8,
+                        "visitante_gol_ajustada": 1.0
+                    },
+                    "resultado": "1",
+                    "recomendacion": "Zrinjski",
+                    "probabilidad_consenso": 64.96,
+                    "consenso": true,
+                    "poisson": {
+                        "resultado": "1",
+                        "nombre": "Zrinjski",
+                        "probabilidad": 64.38
+                    },
+                    "monte_carlo": {
+                        "resultado": "1",
+                        "nombre": "Zrinjski",
+                        "probabilidad": 65.54
+                    },
+                    "confirma_marcador_1": true,
+                    "confirma_marcador_2": true
+                }
+            }
+        },
+        {
+            "fecha": "2026-09-19",
+            "hora": "09:00",
+            "pais": "ESCOCIA",
+            "liga": "LEAGUE ONE - JORNADA 8",
+            "link": "https://www.flashscore.co/partido/futbol/hamilton-4QLusDEd/queen-of-south-zaL44fyG/?mid=OKyo1scB",
+            "fuente_datos": "Flashscore",
+            "local": "Hamilton",
+            "visitante": "Queen of South",
+            "logolocal": "https://static.flashscore.com/res/image/data/OhmAN8FG-tYZ13jc5.png",
+            "logovisitante": "https://static.flashscore.com/res/image/data/Y3vPNqWg-vLBOqDG6.png",
+            "favorito": "Hamilton",
+            "probabilidad_favorito": 66.21,
+            "nofavorito": "Queen of South",
+            "probabilidad_nofavorito": 12.91,
+            "probabilidad_empate": 20.88,
+            "mercado": "Hamilton",
+            "probabilidad": 66.21,
+            "marcador_1": "2-0",
+            "marcador_2": "1-0",
+            "ultimo_resultado_favorito": "",
+            "ultimo_resultado_nofavorito": "",
+            "condiciones": {
+                "motivo": "Poisson y Monte Carlo coinciden y ambos marcadores confirman la recomendación."
+            },
+            "motivo": "Poisson y Monte Carlo coinciden y ambos marcadores confirman la recomendación.",
+            "pick": "1",
+            "premium": true,
+            "analisis": {
+                "motor": "Motor_analitico",
+                "version": "4.0",
+                "partido": {
+                    "local": "Hamilton",
+                    "visitante": "Queen of South"
+                },
+                "analisis_final": {
+                    "1X2": {
+                        "Local": 66.21,
+                        "Empate": 20.88,
+                        "Visitante": 12.91
+                    },
+                    "recomendacion": {
+                        "mercado": "Hamilton",
+                        "probabilidad": 66.21,
+                        "estado": "PICK",
+                        "motivo": "Probabilidad, separación y riesgo compatibles.",
+                        "cuota": 1.3
+                    },
+                    "marcadores": [
+                        {
+                            "marcador": "2-0",
+                            "probabilidad": 12.01
+                        },
+                        {
+                            "marcador": "1-0",
+                            "probabilidad": 11.21
+                        }
+                    ],
+                    "btts": {
+                        "resultado": "NO",
+                        "probabilidad": 39.87
+                    },
+                    "over_under": {
+                        "mercado": "Over 1.5",
+                        "probabilidad": 77.57
+                    },
+                    "confianza": {
+                        "score": 79.23,
+                        "nivel": "ALTA"
+                    },
+                    "riesgo": {
+                        "score": 60.76,
+                        "nivel": "MEDIO"
+                    },
+                    "consistencia": {
+                        "estado": "MODERADAMENTE CONSISTENTE",
+                        "diferencia_maxima_puntos": 1.75,
+                        "detalle": "Poisson y Monte Carlo presentan pequeñas diferencias de estimación."
+                    },
+                    "consenso_modelos": {
+                        "poisson": {
+                            "resultado": "1",
+                            "nombre": "Hamilton",
+                            "probabilidad": 63.53
+                        },
+                        "monte_carlo": {
+                            "resultado": "1",
+                            "nombre": "Hamilton",
+                            "probabilidad": 64.5
+                        },
+                        "coinciden": true,
+                        "resultado_consenso": "1",
+                        "nombre_consenso": "Hamilton",
+                        "probabilidad_consenso": 64.02,
+                        "diferencia_puntos": 0.97,
+                        "marcador_1": {
+                            "marcador": "2-0",
+                            "resultado": "1",
+                            "confirma_consenso": true
+                        },
+                        "marcador_2": {
+                            "marcador": "1-0",
+                            "resultado": "1",
+                            "confirma_consenso": true
+                        }
+                    },
+                    "muestra": {
+                        "local": 14,
+                        "local_objetivo": 15,
+                        "visitante": 14,
+                        "visitante_objetivo": 15,
+                        "h2h": 15
+                    },
+                    "pronostico_adicionales": {
+                        "Local_marcan": "2 de 14",
+                        "Visitante_marcan": "8 de 14",
+                        "Local_Partidos_sinmarcar": "3 de 14",
+                        "Visitante_Partidos_sinmarcar": "3 de 14",
+                        "local_gol_ajustada": 1.21,
+                        "visitante_gol_ajustada": 1.0
+                    },
+                    "value": {
+                        "hay_valor": false,
+                        "mercado": "Empate",
+                        "edge": 2.13,
+                        "ev": 0.22,
+                        "cuota": 4.8
+                    }
+                },
+                "select": {
+                    "activo": true,
+                    "motivo": "Poisson y Monte Carlo coinciden y el marcador 1 confirma la recomendación.",
+                    "mercado_principal": "Hamilton",
+                    "probabilidad": 66.21,
+                    "marcador_1": "2-0",
+                    "probabilidad_marcador_1": 12.01,
+                    "marcador_2": "1-0",
+                    "probabilidad_marcador_2": 11.21,
+                    "btts": "NO",
+                    "probabilidad_btts": 39.87,
+                    "over_under": "Over 1.5",
+                    "probabilidad_over_under": 77.57,
+                    "confianza": 79.23,
+                    "riesgo": 60.76,
+                    "edge": 2.13,
+                    "pronostico_adicionales": {
+                        "Local_marcan": "2 de 14",
+                        "Visitante_marcan": "8 de 14",
+                        "Local_Partidos_sinmarcar": "3 de 14",
+                        "Visitante_Partidos_sinmarcar": "3 de 14",
+                        "local_gol_ajustada": 1.21,
+                        "visitante_gol_ajustada": 1.0
+                    },
+                    "resultado": "1",
+                    "recomendacion": "Hamilton",
+                    "probabilidad_consenso": 64.02,
+                    "consenso": true,
+                    "poisson": {
+                        "resultado": "1",
+                        "nombre": "Hamilton",
+                        "probabilidad": 63.53
+                    },
+                    "monte_carlo": {
+                        "resultado": "1",
+                        "nombre": "Hamilton",
+                        "probabilidad": 64.5
+                    },
+                    "confirma_marcador_1": true
+                },
+                "premium": {
+                    "activo": true,
+                    "motivo": "Poisson y Monte Carlo coinciden y ambos marcadores confirman la recomendación.",
+                    "mercado_principal": "Hamilton",
+                    "probabilidad": 66.21,
+                    "marcador_1": "2-0",
+                    "probabilidad_marcador_1": 12.01,
+                    "marcador_2": "1-0",
+                    "probabilidad_marcador_2": 11.21,
+                    "btts": "NO",
+                    "probabilidad_btts": 39.87,
+                    "over_under": "Over 1.5",
+                    "probabilidad_over_under": 77.57,
+                    "confianza": 79.23,
+                    "riesgo": 60.76,
+                    "edge": 2.13,
+                    "pronostico_adicionales": {
+                        "Local_marcan": "2 de 14",
+                        "Visitante_marcan": "8 de 14",
+                        "Local_Partidos_sinmarcar": "3 de 14",
+                        "Visitante_Partidos_sinmarcar": "3 de 14",
+                        "local_gol_ajustada": 1.21,
+                        "visitante_gol_ajustada": 1.0
+                    },
+                    "resultado": "1",
+                    "recomendacion": "Hamilton",
+                    "probabilidad_consenso": 64.02,
+                    "consenso": true,
+                    "poisson": {
+                        "resultado": "1",
+                        "nombre": "Hamilton",
+                        "probabilidad": 63.53
+                    },
+                    "monte_carlo": {
+                        "resultado": "1",
+                        "nombre": "Hamilton",
+                        "probabilidad": 64.5
+                    },
+                    "confirma_marcador_1": true,
+                    "confirma_marcador_2": true
+                }
+            }
+        },
+        {
+            "fecha": "2026-09-19",
+            "hora": "09:30",
+            "pais": "ESPAÑA",
+            "liga": "PRIMERA FEDERACIÓN - GRUPO 2 - JORNADA 4",
+            "link": "https://www.flashscore.co/partido/futbol/ce-europa-UkEeaAlL/real-murcia-YqQG18wC/?mid=dUoqMHlK",
+            "fuente_datos": "Flashscore",
+            "local": "Real Murcia",
+            "visitante": "CE Europa",
+            "logolocal": "https://static.flashscore.com/res/image/data/EX6tKhdM-SARwoBEf.png",
+            "logovisitante": "https://static.flashscore.com/res/image/data/K8vcg6zB-GOXvtNAh.png",
+            "favorito": "Real Murcia",
+            "probabilidad_favorito": 59.22,
+            "nofavorito": "CE Europa",
+            "probabilidad_nofavorito": 16.05,
+            "probabilidad_empate": 24.73,
+            "mercado": "Real Murcia",
+            "probabilidad": 59.22,
+            "marcador_1": "1-0",
+            "marcador_2": "2-0",
+            "ultimo_resultado_favorito": "",
+            "ultimo_resultado_nofavorito": "",
+            "condiciones": {
+                "motivo": "Poisson y Monte Carlo coinciden y ambos marcadores confirman la recomendación."
+            },
+            "motivo": "Poisson y Monte Carlo coinciden y ambos marcadores confirman la recomendación.",
+            "pick": "1",
+            "premium": true,
+            "analisis": {
+                "motor": "Motor_analitico",
+                "version": "4.0",
+                "partido": {
+                    "local": "Real Murcia",
+                    "visitante": "CE Europa"
+                },
+                "analisis_final": {
+                    "1X2": {
+                        "Local": 59.22,
+                        "Empate": 24.73,
+                        "Visitante": 16.05
+                    },
+                    "recomendacion": {
+                        "mercado": "Real Murcia",
+                        "probabilidad": 59.22,
+                        "estado": "PICK",
+                        "motivo": "Probabilidad, separación y riesgo compatibles.",
+                        "cuota": 1.62
+                    },
+                    "marcadores": [
+                        {
+                            "marcador": "1-0",
+                            "probabilidad": 13.02
+                        },
+                        {
+                            "marcador": "2-0",
+                            "probabilidad": 12.71
+                        }
+                    ],
+                    "btts": {
+                        "resultado": "SI",
+                        "probabilidad": 50.0
+                    },
+                    "over_under": {
+                        "mercado": "Over 1.5",
+                        "probabilidad": 73.37
+                    },
+                    "confianza": {
+                        "score": 81.85,
+                        "nivel": "ALTA"
+                    },
+                    "riesgo": {
+                        "score": 58.91,
+                        "nivel": "MEDIO"
+                    },
+                    "consistencia": {
+                        "estado": "MODERADAMENTE CONSISTENTE",
+                        "diferencia_maxima_puntos": 1.97,
+                        "detalle": "Poisson y Monte Carlo presentan pequeñas diferencias de estimación."
+                    },
+                    "consenso_modelos": {
+                        "poisson": {
+                            "resultado": "1",
+                            "nombre": "Real Murcia",
+                            "probabilidad": 61.61
+                        },
+                        "monte_carlo": {
+                            "resultado": "1",
+                            "nombre": "Real Murcia",
+                            "probabilidad": 62.71
+                        },
+                        "coinciden": true,
+                        "resultado_consenso": "1",
+                        "nombre_consenso": "Real Murcia",
+                        "probabilidad_consenso": 62.16,
+                        "diferencia_puntos": 1.1,
+                        "marcador_1": {
+                            "marcador": "1-0",
+                            "resultado": "1",
+                            "confirma_consenso": true
+                        },
+                        "marcador_2": {
+                            "marcador": "2-0",
+                            "resultado": "1",
+                            "confirma_consenso": true
+                        }
+                    },
+                    "muestra": {
+                        "local": 15,
+                        "local_objetivo": 15,
+                        "visitante": 14,
+                        "visitante_objetivo": 15,
+                        "h2h": 2
+                    },
+                    "pronostico_adicionales": {
+                        "Local_marcan": "9 de 15",
+                        "Visitante_marcan": "8 de 14",
+                        "Local_Partidos_sinmarcar": "2 de 15",
+                        "Visitante_Partidos_sinmarcar": "6 de 14",
+                        "local_gol_ajustada": 1.73,
+                        "visitante_gol_ajustada": 0.93
+                    },
+                    "value": {
+                        "hay_valor": false,
+                        "mercado": "Local",
+                        "edge": 2.85,
+                        "ev": -4.06,
+                        "cuota": 1.62
+                    }
+                },
+                "select": {
+                    "activo": true,
+                    "motivo": "Poisson y Monte Carlo coinciden y el marcador 1 confirma la recomendación.",
+                    "mercado_principal": "Real Murcia",
+                    "probabilidad": 59.22,
+                    "marcador_1": "1-0",
+                    "probabilidad_marcador_1": 13.02,
+                    "marcador_2": "2-0",
+                    "probabilidad_marcador_2": 12.71,
+                    "btts": "SI",
+                    "probabilidad_btts": 50.0,
+                    "over_under": "Over 1.5",
+                    "probabilidad_over_under": 73.37,
+                    "confianza": 81.85,
+                    "riesgo": 58.91,
+                    "edge": 2.85,
+                    "pronostico_adicionales": {
+                        "Local_marcan": "9 de 15",
+                        "Visitante_marcan": "8 de 14",
+                        "Local_Partidos_sinmarcar": "2 de 15",
+                        "Visitante_Partidos_sinmarcar": "6 de 14",
+                        "local_gol_ajustada": 1.73,
+                        "visitante_gol_ajustada": 0.93
+                    },
+                    "resultado": "1",
+                    "recomendacion": "Real Murcia",
+                    "probabilidad_consenso": 62.16,
+                    "consenso": true,
+                    "poisson": {
+                        "resultado": "1",
+                        "nombre": "Real Murcia",
+                        "probabilidad": 61.61
+                    },
+                    "monte_carlo": {
+                        "resultado": "1",
+                        "nombre": "Real Murcia",
+                        "probabilidad": 62.71
+                    },
+                    "confirma_marcador_1": true
+                },
+                "premium": {
+                    "activo": true,
+                    "motivo": "Poisson y Monte Carlo coinciden y ambos marcadores confirman la recomendación.",
+                    "mercado_principal": "Real Murcia",
+                    "probabilidad": 59.22,
+                    "marcador_1": "1-0",
+                    "probabilidad_marcador_1": 13.02,
+                    "marcador_2": "2-0",
+                    "probabilidad_marcador_2": 12.71,
+                    "btts": "SI",
+                    "probabilidad_btts": 50.0,
+                    "over_under": "Over 1.5",
+                    "probabilidad_over_under": 73.37,
+                    "confianza": 81.85,
+                    "riesgo": 58.91,
+                    "edge": 2.85,
+                    "pronostico_adicionales": {
+                        "Local_marcan": "9 de 15",
+                        "Visitante_marcan": "8 de 14",
+                        "Local_Partidos_sinmarcar": "2 de 15",
+                        "Visitante_Partidos_sinmarcar": "6 de 14",
+                        "local_gol_ajustada": 1.73,
+                        "visitante_gol_ajustada": 0.93
+                    },
+                    "resultado": "1",
+                    "recomendacion": "Real Murcia",
+                    "probabilidad_consenso": 62.16,
+                    "consenso": true,
+                    "poisson": {
+                        "resultado": "1",
+                        "nombre": "Real Murcia",
+                        "probabilidad": 61.61
+                    },
+                    "monte_carlo": {
+                        "resultado": "1",
+                        "nombre": "Real Murcia",
+                        "probabilidad": 62.71
+                    },
+                    "confirma_marcador_1": true,
+                    "confirma_marcador_2": true
+                }
+            }
+        },
+        {
+            "fecha": "2026-09-19",
+            "hora": "11:30",
+            "pais": "INGLATERRA",
+            "liga": "WSL - JORNADA 3",
+            "link": "https://www.flashscore.co/partido/futbol/arsenal-8CKOoQdn/manchester-utd-4EeCFcxJ/?mid=vJU4FR26",
+            "fuente_datos": "Flashscore",
+            "local": "Arsenal F",
+            "visitante": "Manchester Utd F",
+            "logolocal": "https://static.flashscore.com/res/image/data/WbvWGBEG-QmAvFdvS.png",
+            "logovisitante": "https://static.flashscore.com/res/image/data/4OKbjNXg-pIOoEbPr.png",
+            "favorito": "Arsenal F",
+            "probabilidad_favorito": 65.05,
+            "nofavorito": "Manchester Utd F",
+            "probabilidad_nofavorito": 12.5,
+            "probabilidad_empate": 22.45,
+            "mercado": "Arsenal F",
+            "probabilidad": 65.05,
+            "marcador_1": "1-0",
+            "marcador_2": "2-0",
+            "ultimo_resultado_favorito": "",
+            "ultimo_resultado_nofavorito": "",
+            "condiciones": {
+                "motivo": "Poisson y Monte Carlo coinciden y ambos marcadores confirman la recomendación."
+            },
+            "motivo": "Poisson y Monte Carlo coinciden y ambos marcadores confirman la recomendación.",
+            "pick": "1",
+            "premium": true,
+            "analisis": {
+                "motor": "Motor_analitico",
+                "version": "4.0",
+                "partido": {
+                    "local": "Arsenal F",
+                    "visitante": "Manchester Utd F"
+                },
+                "analisis_final": {
+                    "1X2": {
+                        "Local": 65.05,
+                        "Empate": 22.45,
+                        "Visitante": 12.5
+                    },
+                    "recomendacion": {
+                        "mercado": "Arsenal F",
+                        "probabilidad": 65.05,
+                        "estado": "PICK",
+                        "motivo": "Probabilidad, separación y riesgo compatibles.",
+                        "cuota": 1.36
+                    },
+                    "marcadores": [
+                        {
+                            "marcador": "1-0",
+                            "probabilidad": 13.65
+                        },
+                        {
+                            "marcador": "2-0",
+                            "probabilidad": 13.32
+                        }
+                    ],
+                    "btts": {
+                        "resultado": "NO",
+                        "probabilidad": 44.19
+                    },
+                    "over_under": {
+                        "mercado": "Over 1.5",
+                        "probabilidad": 72.6
+                    },
+                    "confianza": {
+                        "score": 81.81,
+                        "nivel": "ALTA"
+                    },
+                    "riesgo": {
+                        "score": 58.77,
+                        "nivel": "MEDIO"
+                    },
+                    "consistencia": {
+                        "estado": "MODERADAMENTE CONSISTENTE",
+                        "diferencia_maxima_puntos": 2.02,
+                        "detalle": "Poisson y Monte Carlo presentan pequeñas diferencias de estimación."
+                    },
+                    "consenso_modelos": {
+                        "poisson": {
+                            "resultado": "1",
+                            "nombre": "Arsenal F",
+                            "probabilidad": 63.03
+                        },
+                        "monte_carlo": {
+                            "resultado": "1",
+                            "nombre": "Arsenal F",
+                            "probabilidad": 64.15
+                        },
+                        "coinciden": true,
+                        "resultado_consenso": "1",
+                        "nombre_consenso": "Arsenal F",
+                        "probabilidad_consenso": 63.59,
+                        "diferencia_puntos": 1.12,
+                        "marcador_1": {
+                            "marcador": "1-0",
+                            "resultado": "1",
+                            "confirma_consenso": true
+                        },
+                        "marcador_2": {
+                            "marcador": "2-0",
+                            "resultado": "1",
+                            "confirma_consenso": true
+                        }
+                    },
+                    "muestra": {
+                        "local": 15,
+                        "local_objetivo": 15,
+                        "visitante": 15,
+                        "visitante_objetivo": 15,
+                        "h2h": 15
+                    },
+                    "pronostico_adicionales": {
+                        "Local_marcan": "7 de 15",
+                        "Visitante_marcan": "7 de 15",
+                        "Local_Partidos_sinmarcar": "3 de 15",
+                        "Visitante_Partidos_sinmarcar": "7 de 15",
+                        "local_gol_ajustada": 1.6,
+                        "visitante_gol_ajustada": 0.73
+                    },
+                    "value": {
+                        "hay_valor": false,
+                        "mercado": "Empate",
+                        "edge": 1.86,
+                        "ev": -0.1,
+                        "cuota": 4.45
+                    }
+                },
+                "select": {
+                    "activo": true,
+                    "motivo": "Poisson y Monte Carlo coinciden y el marcador 1 confirma la recomendación.",
+                    "mercado_principal": "Arsenal F",
+                    "probabilidad": 65.05,
+                    "marcador_1": "1-0",
+                    "probabilidad_marcador_1": 13.65,
+                    "marcador_2": "2-0",
+                    "probabilidad_marcador_2": 13.32,
+                    "btts": "NO",
+                    "probabilidad_btts": 44.19,
+                    "over_under": "Over 1.5",
+                    "probabilidad_over_under": 72.6,
+                    "confianza": 81.81,
+                    "riesgo": 58.77,
+                    "edge": 1.86,
+                    "pronostico_adicionales": {
+                        "Local_marcan": "7 de 15",
+                        "Visitante_marcan": "7 de 15",
+                        "Local_Partidos_sinmarcar": "3 de 15",
+                        "Visitante_Partidos_sinmarcar": "7 de 15",
+                        "local_gol_ajustada": 1.6,
+                        "visitante_gol_ajustada": 0.73
+                    },
+                    "resultado": "1",
+                    "recomendacion": "Arsenal F",
+                    "probabilidad_consenso": 63.59,
+                    "consenso": true,
+                    "poisson": {
+                        "resultado": "1",
+                        "nombre": "Arsenal F",
+                        "probabilidad": 63.03
+                    },
+                    "monte_carlo": {
+                        "resultado": "1",
+                        "nombre": "Arsenal F",
+                        "probabilidad": 64.15
+                    },
+                    "confirma_marcador_1": true
+                },
+                "premium": {
+                    "activo": true,
+                    "motivo": "Poisson y Monte Carlo coinciden y ambos marcadores confirman la recomendación.",
+                    "mercado_principal": "Arsenal F",
+                    "probabilidad": 65.05,
+                    "marcador_1": "1-0",
+                    "probabilidad_marcador_1": 13.65,
+                    "marcador_2": "2-0",
+                    "probabilidad_marcador_2": 13.32,
+                    "btts": "NO",
+                    "probabilidad_btts": 44.19,
+                    "over_under": "Over 1.5",
+                    "probabilidad_over_under": 72.6,
+                    "confianza": 81.81,
+                    "riesgo": 58.77,
+                    "edge": 1.86,
+                    "pronostico_adicionales": {
+                        "Local_marcan": "7 de 15",
+                        "Visitante_marcan": "7 de 15",
+                        "Local_Partidos_sinmarcar": "3 de 15",
+                        "Visitante_Partidos_sinmarcar": "7 de 15",
+                        "local_gol_ajustada": 1.6,
+                        "visitante_gol_ajustada": 0.73
+                    },
+                    "resultado": "1",
+                    "recomendacion": "Arsenal F",
+                    "probabilidad_consenso": 63.59,
+                    "consenso": true,
+                    "poisson": {
+                        "resultado": "1",
+                        "nombre": "Arsenal F",
+                        "probabilidad": 63.03
+                    },
+                    "monte_carlo": {
+                        "resultado": "1",
+                        "nombre": "Arsenal F",
+                        "probabilidad": 64.15
+                    },
+                    "confirma_marcador_1": true,
+                    "confirma_marcador_2": true
+                }
+            }
+        },
+        {
+            "fecha": "2026-09-19",
+            "hora": "05:00",
+            "pais": "JAPÓN",
+            "liga": "J1 LEAGUE - JORNADA 8",
+            "link": "https://www.flashscore.co/partido/futbol/nagoya-6BeXoaup/tokyo-8zCQQGg2/?mid=6m7W9106",
+            "fuente_datos": "Flashscore",
+            "local": "Tokyo",
+            "visitante": "Nagoya",
+            "logolocal": "https://static.flashscore.com/res/image/data/pMhqxbXg-xndxtsaN.png",
+            "logovisitante": "https://static.flashscore.com/res/image/data/zaouHIXg-n9XchkvQ.png",
+            "favorito": "Tokyo",
+            "probabilidad_favorito": 57.09,
+            "nofavorito": "Nagoya",
+            "probabilidad_nofavorito": 19.04,
+            "probabilidad_empate": 23.86,
+            "mercado": "Tokyo",
+            "probabilidad": 57.09,
+            "marcador_1": "2-0",
+            "marcador_2": "1-0",
+            "ultimo_resultado_favorito": "",
+            "ultimo_resultado_nofavorito": "",
+            "condiciones": {
+                "motivo": "Poisson y Monte Carlo coinciden y ambos marcadores confirman la recomendación."
+            },
+            "motivo": "Poisson y Monte Carlo coinciden y ambos marcadores confirman la recomendación.",
+            "pick": "1",
+            "premium": true,
+            "analisis": {
+                "motor": "Motor_analitico",
+                "version": "4.0",
+                "partido": {
+                    "local": "Tokyo",
+                    "visitante": "Nagoya"
+                },
+                "analisis_final": {
+                    "1X2": {
+                        "Local": 57.09,
+                        "Empate": 23.86,
+                        "Visitante": 19.04
+                    },
+                    "recomendacion": {
+                        "mercado": "Tokyo",
+                        "probabilidad": 57.09,
+                        "estado": "PICK",
+                        "motivo": "Probabilidad, separación y riesgo compatibles.",
+                        "cuota": 1.75
+                    },
+                    "marcadores": [
+                        {
+                            "marcador": "2-0",
+                            "probabilidad": 11.74
+                        },
+                        {
+                            "marcador": "1-0",
+                            "probabilidad": 11.72
+                        }
+                    ],
+                    "btts": {
+                        "resultado": "SI",
+                        "probabilidad": 51.65
+                    },
+                    "over_under": {
+                        "mercado": "Over 1.5",
+                        "probabilidad": 75.57
+                    },
+                    "confianza": {
+                        "score": 82.37,
+                        "nivel": "ALTA"
+                    },
+                    "riesgo": {
+                        "score": 59.94,
+                        "nivel": "MEDIO"
+                    },
+                    "consistencia": {
+                        "estado": "MODERADAMENTE CONSISTENTE",
+                        "diferencia_maxima_puntos": 2.13,
+                        "detalle": "Poisson y Monte Carlo presentan pequeñas diferencias de estimación."
+                    },
+                    "consenso_modelos": {
+                        "poisson": {
+                            "resultado": "1",
+                            "nombre": "Tokyo",
+                            "probabilidad": 60.22
+                        },
+                        "monte_carlo": {
+                            "resultado": "1",
+                            "nombre": "Tokyo",
+                            "probabilidad": 61.33
+                        },
+                        "coinciden": true,
+                        "resultado_consenso": "1",
+                        "nombre_consenso": "Tokyo",
+                        "probabilidad_consenso": 60.77,
+                        "diferencia_puntos": 1.11,
+                        "marcador_1": {
+                            "marcador": "2-0",
+                            "resultado": "1",
+                            "confirma_consenso": true
+                        },
+                        "marcador_2": {
+                            "marcador": "1-0",
+                            "resultado": "1",
+                            "confirma_consenso": true
+                        }
+                    },
+                    "muestra": {
+                        "local": 14,
+                        "local_objetivo": 15,
+                        "visitante": 15,
+                        "visitante_objetivo": 15,
+                        "h2h": 15
+                    },
+                    "pronostico_adicionales": {
+                        "Local_marcan": "7 de 14",
+                        "Visitante_marcan": "10 de 15",
+                        "Local_Partidos_sinmarcar": "2 de 14",
+                        "Visitante_Partidos_sinmarcar": "4 de 15",
+                        "local_gol_ajustada": 1.5,
+                        "visitante_gol_ajustada": 1.13
+                    },
+                    "value": {
+                        "hay_valor": false,
+                        "mercado": "Local",
+                        "edge": 3.77,
+                        "ev": -0.09,
+                        "cuota": 1.75
+                    }
+                },
+                "select": {
+                    "activo": true,
+                    "motivo": "Poisson y Monte Carlo coinciden y el marcador 1 confirma la recomendación.",
+                    "mercado_principal": "Tokyo",
+                    "probabilidad": 57.09,
+                    "marcador_1": "2-0",
+                    "probabilidad_marcador_1": 11.74,
+                    "marcador_2": "1-0",
+                    "probabilidad_marcador_2": 11.72,
+                    "btts": "SI",
+                    "probabilidad_btts": 51.65,
+                    "over_under": "Over 1.5",
+                    "probabilidad_over_under": 75.57,
+                    "confianza": 82.37,
+                    "riesgo": 59.94,
+                    "edge": 3.77,
+                    "pronostico_adicionales": {
+                        "Local_marcan": "7 de 14",
+                        "Visitante_marcan": "10 de 15",
+                        "Local_Partidos_sinmarcar": "2 de 14",
+                        "Visitante_Partidos_sinmarcar": "4 de 15",
+                        "local_gol_ajustada": 1.5,
+                        "visitante_gol_ajustada": 1.13
+                    },
+                    "resultado": "1",
+                    "recomendacion": "Tokyo",
+                    "probabilidad_consenso": 60.77,
+                    "consenso": true,
+                    "poisson": {
+                        "resultado": "1",
+                        "nombre": "Tokyo",
+                        "probabilidad": 60.22
+                    },
+                    "monte_carlo": {
+                        "resultado": "1",
+                        "nombre": "Tokyo",
+                        "probabilidad": 61.33
+                    },
+                    "confirma_marcador_1": true
+                },
+                "premium": {
+                    "activo": true,
+                    "motivo": "Poisson y Monte Carlo coinciden y ambos marcadores confirman la recomendación.",
+                    "mercado_principal": "Tokyo",
+                    "probabilidad": 57.09,
+                    "marcador_1": "2-0",
+                    "probabilidad_marcador_1": 11.74,
+                    "marcador_2": "1-0",
+                    "probabilidad_marcador_2": 11.72,
+                    "btts": "SI",
+                    "probabilidad_btts": 51.65,
+                    "over_under": "Over 1.5",
+                    "probabilidad_over_under": 75.57,
+                    "confianza": 82.37,
+                    "riesgo": 59.94,
+                    "edge": 3.77,
+                    "pronostico_adicionales": {
+                        "Local_marcan": "7 de 14",
+                        "Visitante_marcan": "10 de 15",
+                        "Local_Partidos_sinmarcar": "2 de 14",
+                        "Visitante_Partidos_sinmarcar": "4 de 15",
+                        "local_gol_ajustada": 1.5,
+                        "visitante_gol_ajustada": 1.13
+                    },
+                    "resultado": "1",
+                    "recomendacion": "Tokyo",
+                    "probabilidad_consenso": 60.77,
+                    "consenso": true,
+                    "poisson": {
+                        "resultado": "1",
+                        "nombre": "Tokyo",
+                        "probabilidad": 60.22
+                    },
+                    "monte_carlo": {
+                        "resultado": "1",
+                        "nombre": "Tokyo",
+                        "probabilidad": 61.33
+                    },
+                    "confirma_marcador_1": true,
+                    "confirma_marcador_2": true
+                }
+            }
+        },
+        {
+            "fecha": "2026-09-19",
+            "hora": "06:00",
+            "pais": "SUECIA",
+            "liga": "ALLSVENSKAN - FEMENINA - JORNADA 19",
+            "link": "https://www.flashscore.co/partido/futbol/vaxjo-dff-4nmt4OBG/vittsjo-ANkH9YTp/?mid=th3Id4VA",
+            "fuente_datos": "Flashscore",
+            "local": "Vittsjo F",
+            "visitante": "Vaxjo DFF F",
+            "logolocal": "https://static.flashscore.com/res/image/data/xve3Dff5-nVbqCzkE.png",
+            "logovisitante": "https://static.flashscore.com/res/image/data/MutbICGG-Im2BhShB.png",
+            "favorito": "Vittsjo F",
+            "probabilidad_favorito": 54.79,
+            "nofavorito": "Vaxjo DFF F",
+            "probabilidad_nofavorito": 19.97,
+            "probabilidad_empate": 25.23,
+            "mercado": "1X",
+            "probabilidad": 80.02,
+            "marcador_1": "1-0",
+            "marcador_2": "2-0",
+            "ultimo_resultado_favorito": "",
+            "ultimo_resultado_nofavorito": "",
+            "condiciones": {
+                "motivo": "Poisson y Monte Carlo coinciden y ambos marcadores confirman la recomendación."
+            },
+            "motivo": "Poisson y Monte Carlo coinciden y ambos marcadores confirman la recomendación.",
+            "pick": "1",
+            "premium": true,
+            "analisis": {
+                "motor": "Motor_analitico",
+                "version": "4.0",
+                "partido": {
+                    "local": "Vittsjo F",
+                    "visitante": "Vaxjo DFF F"
+                },
+                "analisis_final": {
+                    "1X2": {
+                        "Local": 54.79,
+                        "Empate": 25.23,
+                        "Visitante": 19.97
+                    },
+                    "recomendacion": {
+                        "mercado": "1X",
+                        "probabilidad": 80.02,
+                        "estado": "DOBLE",
+                        "motivo": "El 1X2 directo no supera el filtro; se conserva cobertura.",
+                        "cuota": 1.78
+                    },
+                    "marcadores": [
+                        {
+                            "marcador": "1-0",
+                            "probabilidad": 13.92
+                        },
+                        {
+                            "marcador": "2-0",
+                            "probabilidad": 12.43
+                        }
+                    ],
+                    "btts": {
+                        "resultado": "NO",
+                        "probabilidad": 42.35
+                    },
+                    "over_under": {
+                        "mercado": "Over 1.5",
+                        "probabilidad": 70.23
+                    },
+                    "confianza": {
+                        "score": 82.28,
+                        "nivel": "ALTA"
+                    },
+                    "riesgo": {
+                        "score": 62.06,
+                        "nivel": "MEDIO"
+                    },
+                    "consistencia": {
+                        "estado": "MODERADAMENTE CONSISTENTE",
+                        "diferencia_maxima_puntos": 2.18,
+                        "detalle": "Poisson y Monte Carlo presentan pequeñas diferencias de estimación."
+                    },
+                    "consenso_modelos": {
+                        "poisson": {
+                            "resultado": "1",
+                            "nombre": "Vittsjo F",
+                            "probabilidad": 58.05
+                        },
+                        "monte_carlo": {
+                            "resultado": "1",
+                            "nombre": "Vittsjo F",
+                            "probabilidad": 59.31
+                        },
+                        "coinciden": true,
+                        "resultado_consenso": "1",
+                        "nombre_consenso": "Vittsjo F",
+                        "probabilidad_consenso": 58.68,
+                        "diferencia_puntos": 1.26,
+                        "marcador_1": {
+                            "marcador": "1-0",
+                            "resultado": "1",
+                            "confirma_consenso": true
+                        },
+                        "marcador_2": {
+                            "marcador": "2-0",
+                            "resultado": "1",
+                            "confirma_consenso": true
+                        }
+                    },
+                    "muestra": {
+                        "local": 15,
+                        "local_objetivo": 15,
+                        "visitante": 15,
+                        "visitante_objetivo": 15,
+                        "h2h": 15
+                    },
+                    "pronostico_adicionales": {
+                        "Local_marcan": "9 de 15",
+                        "Visitante_marcan": "4 de 15",
+                        "Local_Partidos_sinmarcar": "2 de 15",
+                        "Visitante_Partidos_sinmarcar": "8 de 15",
+                        "local_gol_ajustada": 1.27,
+                        "visitante_gol_ajustada": 0.93
+                    },
+                    "value": {
+                        "hay_valor": false,
+                        "mercado": "Local",
+                        "edge": 4.0,
+                        "ev": -2.47,
+                        "cuota": 1.78
+                    }
+                },
+                "select": {
+                    "activo": true,
+                    "motivo": "Poisson y Monte Carlo coinciden y el marcador 1 confirma la recomendación.",
+                    "mercado_principal": "1X",
+                    "probabilidad": 80.02,
+                    "marcador_1": "1-0",
+                    "probabilidad_marcador_1": 13.92,
+                    "marcador_2": "2-0",
+                    "probabilidad_marcador_2": 12.43,
+                    "btts": "NO",
+                    "probabilidad_btts": 42.35,
+                    "over_under": "Over 1.5",
+                    "probabilidad_over_under": 70.23,
+                    "confianza": 82.28,
+                    "riesgo": 62.06,
+                    "edge": 4.0,
+                    "pronostico_adicionales": {
+                        "Local_marcan": "9 de 15",
+                        "Visitante_marcan": "4 de 15",
+                        "Local_Partidos_sinmarcar": "2 de 15",
+                        "Visitante_Partidos_sinmarcar": "8 de 15",
+                        "local_gol_ajustada": 1.27,
+                        "visitante_gol_ajustada": 0.93
+                    },
+                    "resultado": "1",
+                    "recomendacion": "Vittsjo F",
+                    "probabilidad_consenso": 58.68,
+                    "consenso": true,
+                    "poisson": {
+                        "resultado": "1",
+                        "nombre": "Vittsjo F",
+                        "probabilidad": 58.05
+                    },
+                    "monte_carlo": {
+                        "resultado": "1",
+                        "nombre": "Vittsjo F",
+                        "probabilidad": 59.31
+                    },
+                    "confirma_marcador_1": true
+                },
+                "premium": {
+                    "activo": true,
+                    "motivo": "Poisson y Monte Carlo coinciden y ambos marcadores confirman la recomendación.",
+                    "mercado_principal": "1X",
+                    "probabilidad": 80.02,
+                    "marcador_1": "1-0",
+                    "probabilidad_marcador_1": 13.92,
+                    "marcador_2": "2-0",
+                    "probabilidad_marcador_2": 12.43,
+                    "btts": "NO",
+                    "probabilidad_btts": 42.35,
+                    "over_under": "Over 1.5",
+                    "probabilidad_over_under": 70.23,
+                    "confianza": 82.28,
+                    "riesgo": 62.06,
+                    "edge": 4.0,
+                    "pronostico_adicionales": {
+                        "Local_marcan": "9 de 15",
+                        "Visitante_marcan": "4 de 15",
+                        "Local_Partidos_sinmarcar": "2 de 15",
+                        "Visitante_Partidos_sinmarcar": "8 de 15",
+                        "local_gol_ajustada": 1.27,
+                        "visitante_gol_ajustada": 0.93
+                    },
+                    "resultado": "1",
+                    "recomendacion": "Vittsjo F",
+                    "probabilidad_consenso": 58.68,
+                    "consenso": true,
+                    "poisson": {
+                        "resultado": "1",
+                        "nombre": "Vittsjo F",
+                        "probabilidad": 58.05
+                    },
+                    "monte_carlo": {
+                        "resultado": "1",
+                        "nombre": "Vittsjo F",
+                        "probabilidad": 59.31
+                    },
+                    "confirma_marcador_1": true,
+                    "confirma_marcador_2": true
+                }
+            }
+        },
+        {
+            "fecha": "2026-09-19",
+            "hora": "09:00",
+            "pais": "TURQUÍA",
+            "liga": "1. LIG - JORNADA 8",
+            "link": "https://www.flashscore.co/partido/futbol/boluspor-WpwUHfZ0/sariyer-fNtKGmxb/?mid=SKhfgGLH",
+            "fuente_datos": "Flashscore",
+            "local": "Sariyer",
+            "visitante": "Boluspor",
+            "logolocal": "https://static.flashscore.com/res/image/data/ng0CULil-WdqsldXR.png",
+            "logovisitante": "https://static.flashscore.com/res/image/data/2FpKA3yS-Ysc6yg4G.png",
+            "favorito": "Sariyer",
+            "probabilidad_favorito": 70.07,
+            "nofavorito": "Boluspor",
+            "probabilidad_nofavorito": 10.07,
+            "probabilidad_empate": 19.86,
+            "mercado": "Sariyer",
+            "probabilidad": 70.07,
+            "marcador_1": "2-0",
+            "marcador_2": "1-0",
+            "ultimo_resultado_favorito": "",
+            "ultimo_resultado_nofavorito": "",
+            "condiciones": {
+                "motivo": "Poisson y Monte Carlo coinciden y ambos marcadores confirman la recomendación."
+            },
+            "motivo": "Poisson y Monte Carlo coinciden y ambos marcadores confirman la recomendación.",
+            "pick": "1",
+            "premium": true,
+            "analisis": {
+                "motor": "Motor_analitico",
+                "version": "4.0",
+                "partido": {
+                    "local": "Sariyer",
+                    "visitante": "Boluspor"
+                },
+                "analisis_final": {
+                    "1X2": {
+                        "Local": 70.07,
+                        "Empate": 19.86,
+                        "Visitante": 10.07
+                    },
+                    "recomendacion": {
+                        "mercado": "Sariyer",
+                        "probabilidad": 70.07,
+                        "estado": "PICK",
+                        "motivo": "Probabilidad, separación y riesgo compatibles.",
+                        "cuota": 1.24
+                    },
+                    "marcadores": [
+                        {
+                            "marcador": "2-0",
+                            "probabilidad": 14.02
+                        },
+                        {
+                            "marcador": "1-0",
+                            "probabilidad": 13.85
+                        }
+                    ],
+                    "btts": {
+                        "resultado": "NO",
+                        "probabilidad": 39.63
+                    },
+                    "over_under": {
+                        "mercado": "Over 1.5",
+                        "probabilidad": 73.17
+                    },
+                    "confianza": {
+                        "score": 82.3,
+                        "nivel": "ALTA"
+                    },
+                    "riesgo": {
+                        "score": 60.83,
+                        "nivel": "MEDIO"
+                    },
+                    "consistencia": {
+                        "estado": "MODERADAMENTE CONSISTENTE",
+                        "diferencia_maxima_puntos": 2.11,
+                        "detalle": "Poisson y Monte Carlo presentan pequeñas diferencias de estimación."
+                    },
+                    "consenso_modelos": {
+                        "poisson": {
+                            "resultado": "1",
+                            "nombre": "Sariyer",
+                            "probabilidad": 65.91
+                        },
+                        "monte_carlo": {
+                            "resultado": "1",
+                            "nombre": "Sariyer",
+                            "probabilidad": 66.98
+                        },
+                        "coinciden": true,
+                        "resultado_consenso": "1",
+                        "nombre_consenso": "Sariyer",
+                        "probabilidad_consenso": 66.44,
+                        "diferencia_puntos": 1.07,
+                        "marcador_1": {
+                            "marcador": "2-0",
+                            "resultado": "1",
+                            "confirma_consenso": true
+                        },
+                        "marcador_2": {
+                            "marcador": "1-0",
+                            "resultado": "1",
+                            "confirma_consenso": true
+                        }
+                    },
+                    "muestra": {
+                        "local": 15,
+                        "local_objetivo": 15,
+                        "visitante": 15,
+                        "visitante_objetivo": 15,
+                        "h2h": 15
+                    },
+                    "pronostico_adicionales": {
+                        "Local_marcan": "6 de 15",
+                        "Visitante_marcan": "5 de 15",
+                        "Local_Partidos_sinmarcar": "3 de 15",
+                        "Visitante_Partidos_sinmarcar": "9 de 15",
+                        "local_gol_ajustada": 1.27,
+                        "visitante_gol_ajustada": 0.6
+                    },
+                    "value": {
+                        "hay_valor": true,
+                        "mercado": "Empate",
+                        "edge": 3.33,
+                        "ev": 11.22,
+                        "cuota": 5.6
+                    }
+                },
+                "select": {
+                    "activo": true,
+                    "motivo": "Poisson y Monte Carlo coinciden y el marcador 1 confirma la recomendación.",
+                    "mercado_principal": "Sariyer",
+                    "probabilidad": 70.07,
+                    "marcador_1": "2-0",
+                    "probabilidad_marcador_1": 14.02,
+                    "marcador_2": "1-0",
+                    "probabilidad_marcador_2": 13.85,
+                    "btts": "NO",
+                    "probabilidad_btts": 39.63,
+                    "over_under": "Over 1.5",
+                    "probabilidad_over_under": 73.17,
+                    "confianza": 82.3,
+                    "riesgo": 60.83,
+                    "edge": 3.33,
+                    "pronostico_adicionales": {
+                        "Local_marcan": "6 de 15",
+                        "Visitante_marcan": "5 de 15",
+                        "Local_Partidos_sinmarcar": "3 de 15",
+                        "Visitante_Partidos_sinmarcar": "9 de 15",
+                        "local_gol_ajustada": 1.27,
+                        "visitante_gol_ajustada": 0.6
+                    },
+                    "resultado": "1",
+                    "recomendacion": "Sariyer",
+                    "probabilidad_consenso": 66.44,
+                    "consenso": true,
+                    "poisson": {
+                        "resultado": "1",
+                        "nombre": "Sariyer",
+                        "probabilidad": 65.91
+                    },
+                    "monte_carlo": {
+                        "resultado": "1",
+                        "nombre": "Sariyer",
+                        "probabilidad": 66.98
+                    },
+                    "confirma_marcador_1": true
+                },
+                "premium": {
+                    "activo": true,
+                    "motivo": "Poisson y Monte Carlo coinciden y ambos marcadores confirman la recomendación.",
+                    "mercado_principal": "Sariyer",
+                    "probabilidad": 70.07,
+                    "marcador_1": "2-0",
+                    "probabilidad_marcador_1": 14.02,
+                    "marcador_2": "1-0",
+                    "probabilidad_marcador_2": 13.85,
+                    "btts": "NO",
+                    "probabilidad_btts": 39.63,
+                    "over_under": "Over 1.5",
+                    "probabilidad_over_under": 73.17,
+                    "confianza": 82.3,
+                    "riesgo": 60.83,
+                    "edge": 3.33,
+                    "pronostico_adicionales": {
+                        "Local_marcan": "6 de 15",
+                        "Visitante_marcan": "5 de 15",
+                        "Local_Partidos_sinmarcar": "3 de 15",
+                        "Visitante_Partidos_sinmarcar": "9 de 15",
+                        "local_gol_ajustada": 1.27,
+                        "visitante_gol_ajustada": 0.6
+                    },
+                    "resultado": "1",
+                    "recomendacion": "Sariyer",
+                    "probabilidad_consenso": 66.44,
+                    "consenso": true,
+                    "poisson": {
+                        "resultado": "1",
+                        "nombre": "Sariyer",
+                        "probabilidad": 65.91
+                    },
+                    "monte_carlo": {
+                        "resultado": "1",
+                        "nombre": "Sariyer",
+                        "probabilidad": 66.98
+                    },
+                    "confirma_marcador_1": true,
+                    "confirma_marcador_2": true
+                }
+            }
+        },
+        {
+            "fecha": "2026-09-19",
+            "hora": "11:00",
+            "pais": "TURQUÍA",
+            "liga": "2. LIG GRUPO BLANCO - JORNADA 3",
+            "link": "https://www.flashscore.co/partido/futbol/adanademirspor-8AShqI0G/sanliurfaspor-fwpxfQy5/?mid=h4Rx7T1B",
+            "fuente_datos": "Flashscore",
+            "local": "Sanliurfaspor",
+            "visitante": "Adana Demirspor",
+            "logolocal": "https://static.flashscore.com/res/image/data/0jATSzYg-QcZnp2Z2.png",
+            "logovisitante": "https://static.flashscore.com/res/image/data/xGflc2jl-lChJKZ8Q.png",
+            "favorito": "Sanliurfaspor",
+            "probabilidad_favorito": 61.25,
+            "nofavorito": "Adana Demirspor",
+            "probabilidad_nofavorito": 15.95,
+            "probabilidad_empate": 22.8,
+            "mercado": "Sanliurfaspor",
+            "probabilidad": 61.25,
+            "marcador_1": "1-0",
+            "marcador_2": "2-0",
+            "ultimo_resultado_favorito": "",
+            "ultimo_resultado_nofavorito": "",
+            "condiciones": {
+                "motivo": "Poisson y Monte Carlo coinciden y ambos marcadores confirman la recomendación."
+            },
+            "motivo": "Poisson y Monte Carlo coinciden y ambos marcadores confirman la recomendación.",
+            "pick": "1",
+            "premium": true,
+            "analisis": {
+                "motor": "Motor_analitico",
+                "version": "4.0",
+                "partido": {
+                    "local": "Sanliurfaspor",
+                    "visitante": "Adana Demirspor"
+                },
+                "analisis_final": {
+                    "1X2": {
+                        "Local": 61.25,
+                        "Empate": 22.8,
+                        "Visitante": 15.95
+                    },
+                    "recomendacion": {
+                        "mercado": "Sanliurfaspor",
+                        "probabilidad": 61.25,
+                        "estado": "PICK",
+                        "motivo": "Probabilidad, separación y riesgo compatibles.",
+                        "cuota": 1.52
+                    },
+                    "marcadores": [
+                        {
+                            "marcador": "1-0",
+                            "probabilidad": 13.62
+                        },
+                        {
+                            "marcador": "2-0",
+                            "probabilidad": 13.26
+                        }
+                    ],
+                    "btts": {
+                        "resultado": "SI",
+                        "probabilidad": 52.09
+                    },
+                    "over_under": {
+                        "mercado": "Over 1.5",
+                        "probabilidad": 72.59
+                    },
+                    "confianza": {
+                        "score": 82.17,
+                        "nivel": "ALTA"
+                    },
+                    "riesgo": {
+                        "score": 58.28,
+                        "nivel": "MEDIO"
+                    },
+                    "consistencia": {
+                        "estado": "MODERADAMENTE CONSISTENTE",
+                        "diferencia_maxima_puntos": 2.12,
+                        "detalle": "Poisson y Monte Carlo presentan pequeñas diferencias de estimación."
+                    },
+                    "consenso_modelos": {
+                        "poisson": {
+                            "resultado": "1",
+                            "nombre": "Sanliurfaspor",
+                            "probabilidad": 62.81
+                        },
+                        "monte_carlo": {
+                            "resultado": "1",
+                            "nombre": "Sanliurfaspor",
+                            "probabilidad": 63.89
+                        },
+                        "coinciden": true,
+                        "resultado_consenso": "1",
+                        "nombre_consenso": "Sanliurfaspor",
+                        "probabilidad_consenso": 63.35,
+                        "diferencia_puntos": 1.08,
+                        "marcador_1": {
+                            "marcador": "1-0",
+                            "resultado": "1",
+                            "confirma_consenso": true
+                        },
+                        "marcador_2": {
+                            "marcador": "2-0",
+                            "resultado": "1",
+                            "confirma_consenso": true
+                        }
+                    },
+                    "muestra": {
+                        "local": 15,
+                        "local_objetivo": 15,
+                        "visitante": 15,
+                        "visitante_objetivo": 15,
+                        "h2h": 15
+                    },
+                    "pronostico_adicionales": {
+                        "Local_marcan": "10 de 15",
+                        "Visitante_marcan": "7 de 15",
+                        "Local_Partidos_sinmarcar": "4 de 15",
+                        "Visitante_Partidos_sinmarcar": "8 de 15",
+                        "local_gol_ajustada": 1.4,
+                        "visitante_gol_ajustada": 0.6
+                    },
+                    "value": {
+                        "hay_valor": false,
+                        "mercado": "Empate",
+                        "edge": 1.04,
+                        "ev": -5.38,
+                        "cuota": 4.15
+                    }
+                },
+                "select": {
+                    "activo": true,
+                    "motivo": "Poisson y Monte Carlo coinciden y el marcador 1 confirma la recomendación.",
+                    "mercado_principal": "Sanliurfaspor",
+                    "probabilidad": 61.25,
+                    "marcador_1": "1-0",
+                    "probabilidad_marcador_1": 13.62,
+                    "marcador_2": "2-0",
+                    "probabilidad_marcador_2": 13.26,
+                    "btts": "SI",
+                    "probabilidad_btts": 52.09,
+                    "over_under": "Over 1.5",
+                    "probabilidad_over_under": 72.59,
+                    "confianza": 82.17,
+                    "riesgo": 58.28,
+                    "edge": 1.83,
+                    "pronostico_adicionales": {
+                        "Local_marcan": "10 de 15",
+                        "Visitante_marcan": "7 de 15",
+                        "Local_Partidos_sinmarcar": "4 de 15",
+                        "Visitante_Partidos_sinmarcar": "8 de 15",
+                        "local_gol_ajustada": 1.4,
+                        "visitante_gol_ajustada": 0.6
+                    },
+                    "resultado": "1",
+                    "recomendacion": "Sanliurfaspor",
+                    "probabilidad_consenso": 63.35,
+                    "consenso": true,
+                    "poisson": {
+                        "resultado": "1",
+                        "nombre": "Sanliurfaspor",
+                        "probabilidad": 62.81
+                    },
+                    "monte_carlo": {
+                        "resultado": "1",
+                        "nombre": "Sanliurfaspor",
+                        "probabilidad": 63.89
+                    },
+                    "confirma_marcador_1": true
+                },
+                "premium": {
+                    "activo": true,
+                    "motivo": "Poisson y Monte Carlo coinciden y ambos marcadores confirman la recomendación.",
+                    "mercado_principal": "Sanliurfaspor",
+                    "probabilidad": 61.25,
+                    "marcador_1": "1-0",
+                    "probabilidad_marcador_1": 13.62,
+                    "marcador_2": "2-0",
+                    "probabilidad_marcador_2": 13.26,
+                    "btts": "SI",
+                    "probabilidad_btts": 52.09,
+                    "over_under": "Over 1.5",
+                    "probabilidad_over_under": 72.59,
+                    "confianza": 82.17,
+                    "riesgo": 58.28,
+                    "edge": 1.83,
+                    "pronostico_adicionales": {
+                        "Local_marcan": "10 de 15",
+                        "Visitante_marcan": "7 de 15",
+                        "Local_Partidos_sinmarcar": "4 de 15",
+                        "Visitante_Partidos_sinmarcar": "8 de 15",
+                        "local_gol_ajustada": 1.4,
+                        "visitante_gol_ajustada": 0.6
+                    },
+                    "resultado": "1",
+                    "recomendacion": "Sanliurfaspor",
+                    "probabilidad_consenso": 63.35,
+                    "consenso": true,
+                    "poisson": {
+                        "resultado": "1",
+                        "nombre": "Sanliurfaspor",
+                        "probabilidad": 62.81
+                    },
+                    "monte_carlo": {
+                        "resultado": "1",
+                        "nombre": "Sanliurfaspor",
+                        "probabilidad": 63.89
+                    },
+                    "confirma_marcador_1": true,
+                    "confirma_marcador_2": true
+                }
+            }
+        },
+        {
+            "fecha": "2026-09-20",
+            "hora": "14:00",
+            "pais": "ARGENTINA",
+            "liga": "PRIMERA NACIONAL - JORNADA 30",
+            "link": "https://www.flashscore.co/partido/futbol/deportivo-madryn-G4744mrL/racing-de-cordoba-W08WZHui/?mid=ji6RyOeB",
+            "fuente_datos": "Flashscore",
+            "local": "Deportivo Madryn",
+            "visitante": "Racing de Córdoba",
+            "logolocal": "https://static.flashscore.com/res/image/data/ID4E08dM-Uyu9KPIO.png",
+            "logovisitante": "https://static.flashscore.com/res/image/data/rsmlKZg5-EmXlTVY2.png",
+            "favorito": "Deportivo Madryn",
+            "probabilidad_favorito": 59.19,
+            "nofavorito": "Racing de Córdoba",
+            "probabilidad_nofavorito": 15.47,
+            "probabilidad_empate": 25.34,
+            "mercado": "Deportivo Madryn",
+            "probabilidad": 59.19,
+            "marcador_1": "2-0",
+            "marcador_2": "1-0",
+            "ultimo_resultado_favorito": "",
+            "ultimo_resultado_nofavorito": "",
+            "condiciones": {
+                "motivo": "Poisson y Monte Carlo coinciden y ambos marcadores confirman la recomendación."
+            },
+            "motivo": "Poisson y Monte Carlo coinciden y ambos marcadores confirman la recomendación.",
+            "pick": "1",
+            "premium": true,
+            "analisis": {
+                "motor": "Motor_analitico",
+                "version": "4.0",
+                "partido": {
+                    "local": "Deportivo Madryn",
+                    "visitante": "Racing de Córdoba"
+                },
+                "analisis_final": {
+                    "1X2": {
+                        "Local": 59.19,
+                        "Empate": 25.34,
+                        "Visitante": 15.47
+                    },
+                    "recomendacion": {
+                        "mercado": "Deportivo Madryn",
+                        "probabilidad": 59.19,
+                        "estado": "PICK",
+                        "motivo": "Probabilidad, separación y riesgo compatibles.",
+                        "cuota": 1.65
+                    },
+                    "marcadores": [
+                        {
+                            "marcador": "2-0",
+                            "probabilidad": 12.1
+                        },
+                        {
+                            "marcador": "1-0",
+                            "probabilidad": 11.85
+                        }
+                    ],
+                    "btts": {
+                        "resultado": "NO",
+                        "probabilidad": 45.25
+                    },
+                    "over_under": {
+                        "mercado": "Over 1.5",
+                        "probabilidad": 75.82
+                    },
+                    "confianza": {
+                        "score": 83.03,
+                        "nivel": "ALTA"
+                    },
+                    "riesgo": {
+                        "score": 59.69,
+                        "nivel": "MEDIO"
+                    },
+                    "consistencia": {
+                        "estado": "MODERADAMENTE CONSISTENTE",
+                        "diferencia_maxima_puntos": 2.11,
+                        "detalle": "Poisson y Monte Carlo presentan pequeñas diferencias de estimación."
+                    },
+                    "consenso_modelos": {
+                        "poisson": {
+                            "resultado": "1",
+                            "nombre": "Deportivo Madryn",
+                            "probabilidad": 61.85
+                        },
+                        "monte_carlo": {
+                            "resultado": "1",
+                            "nombre": "Deportivo Madryn",
+                            "probabilidad": 63.05
+                        },
+                        "coinciden": true,
+                        "resultado_consenso": "1",
+                        "nombre_consenso": "Deportivo Madryn",
+                        "probabilidad_consenso": 62.45,
+                        "diferencia_puntos": 1.2,
+                        "marcador_1": {
+                            "marcador": "2-0",
+                            "resultado": "1",
+                            "confirma_consenso": true
+                        },
+                        "marcador_2": {
+                            "marcador": "1-0",
+                            "resultado": "1",
+                            "confirma_consenso": true
+                        }
+                    },
+                    "muestra": {
+                        "local": 15,
+                        "local_objetivo": 15,
+                        "visitante": 15,
+                        "visitante_objetivo": 15,
+                        "h2h": 6
+                    },
+                    "pronostico_adicionales": {
+                        "Local_marcan": "7 de 15",
+                        "Visitante_marcan": "6 de 15",
+                        "Local_Partidos_sinmarcar": "4 de 15",
+                        "Visitante_Partidos_sinmarcar": "6 de 15",
+                        "local_gol_ajustada": 1.33,
+                        "visitante_gol_ajustada": 0.87
+                    },
+                    "value": {
+                        "hay_valor": false,
+                        "mercado": "Local",
+                        "edge": 3.18,
+                        "ev": -2.34,
+                        "cuota": 1.65
+                    }
+                },
+                "select": {
+                    "activo": true,
+                    "motivo": "Poisson y Monte Carlo coinciden y el marcador 1 confirma la recomendación.",
+                    "mercado_principal": "Deportivo Madryn",
+                    "probabilidad": 59.19,
+                    "marcador_1": "2-0",
+                    "probabilidad_marcador_1": 12.1,
+                    "marcador_2": "1-0",
+                    "probabilidad_marcador_2": 11.85,
+                    "btts": "NO",
+                    "probabilidad_btts": 45.25,
+                    "over_under": "Over 1.5",
+                    "probabilidad_over_under": 75.82,
+                    "confianza": 83.03,
+                    "riesgo": 59.69,
+                    "edge": 3.18,
+                    "pronostico_adicionales": {
+                        "Local_marcan": "7 de 15",
+                        "Visitante_marcan": "6 de 15",
+                        "Local_Partidos_sinmarcar": "4 de 15",
+                        "Visitante_Partidos_sinmarcar": "6 de 15",
+                        "local_gol_ajustada": 1.33,
+                        "visitante_gol_ajustada": 0.87
+                    },
+                    "resultado": "1",
+                    "recomendacion": "Deportivo Madryn",
+                    "probabilidad_consenso": 62.45,
+                    "consenso": true,
+                    "poisson": {
+                        "resultado": "1",
+                        "nombre": "Deportivo Madryn",
+                        "probabilidad": 61.85
+                    },
+                    "monte_carlo": {
+                        "resultado": "1",
+                        "nombre": "Deportivo Madryn",
+                        "probabilidad": 63.05
+                    },
+                    "confirma_marcador_1": true
+                },
+                "premium": {
+                    "activo": true,
+                    "motivo": "Poisson y Monte Carlo coinciden y ambos marcadores confirman la recomendación.",
+                    "mercado_principal": "Deportivo Madryn",
+                    "probabilidad": 59.19,
+                    "marcador_1": "2-0",
+                    "probabilidad_marcador_1": 12.1,
+                    "marcador_2": "1-0",
+                    "probabilidad_marcador_2": 11.85,
+                    "btts": "NO",
+                    "probabilidad_btts": 45.25,
+                    "over_under": "Over 1.5",
+                    "probabilidad_over_under": 75.82,
+                    "confianza": 83.03,
+                    "riesgo": 59.69,
+                    "edge": 3.18,
+                    "pronostico_adicionales": {
+                        "Local_marcan": "7 de 15",
+                        "Visitante_marcan": "6 de 15",
+                        "Local_Partidos_sinmarcar": "4 de 15",
+                        "Visitante_Partidos_sinmarcar": "6 de 15",
+                        "local_gol_ajustada": 1.33,
+                        "visitante_gol_ajustada": 0.87
+                    },
+                    "resultado": "1",
+                    "recomendacion": "Deportivo Madryn",
+                    "probabilidad_consenso": 62.45,
+                    "consenso": true,
+                    "poisson": {
+                        "resultado": "1",
+                        "nombre": "Deportivo Madryn",
+                        "probabilidad": 61.85
+                    },
+                    "monte_carlo": {
+                        "resultado": "1",
+                        "nombre": "Deportivo Madryn",
+                        "probabilidad": 63.05
+                    },
+                    "confirma_marcador_1": true,
+                    "confirma_marcador_2": true
+                }
+            }
+        },
+        {
+            "fecha": "2026-09-20",
+            "hora": "13:15",
+            "pais": "POLONIA",
+            "liga": "EKSTRAKLASA - JORNADA 9",
+            "link": "https://www.flashscore.co/partido/futbol/lech-OpNH7Ouf/radomiak-radom-zD5nYhAT/?mid=rkMfE9qg",
+            "fuente_datos": "Flashscore",
+            "local": "Lech Poznan",
+            "visitante": "Radomiak Radom",
+            "logolocal": "https://static.flashscore.com/res/image/data/nHGXTKAr-lCvEmFL0.png",
+            "logovisitante": "https://static.flashscore.com/res/image/data/A9i6w2hl-A9opURNC.png",
+            "favorito": "Lech Poznan",
+            "probabilidad_favorito": 69.52,
+            "nofavorito": "Radomiak Radom",
+            "probabilidad_nofavorito": 11.49,
+            "probabilidad_empate": 18.99,
+            "mercado": "Lech Poznan",
+            "probabilidad": 69.52,
+            "marcador_1": "2-0",
+            "marcador_2": "1-0",
+            "ultimo_resultado_favorito": "",
+            "ultimo_resultado_nofavorito": "",
+            "condiciones": {
+                "motivo": "Poisson y Monte Carlo coinciden y ambos marcadores confirman la recomendación."
+            },
+            "motivo": "Poisson y Monte Carlo coinciden y ambos marcadores confirman la recomendación.",
+            "pick": "1",
+            "premium": true,
+            "analisis": {
+                "motor": "Motor_analitico",
+                "version": "4.0",
+                "partido": {
+                    "local": "Lech Poznan",
+                    "visitante": "Radomiak Radom"
+                },
+                "analisis_final": {
+                    "1X2": {
+                        "Local": 69.52,
+                        "Empate": 18.99,
+                        "Visitante": 11.49
+                    },
+                    "recomendacion": {
+                        "mercado": "Lech Poznan",
+                        "probabilidad": 69.52,
+                        "estado": "PICK",
+                        "motivo": "Probabilidad, separación y riesgo compatibles.",
+                        "cuota": 1.3
+                    },
+                    "marcadores": [
+                        {
+                            "marcador": "2-0",
+                            "probabilidad": 13.02
+                        },
+                        {
+                            "marcador": "1-0",
+                            "probabilidad": 11.96
+                        }
+                    ],
+                    "btts": {
+                        "resultado": "SI",
+                        "probabilidad": 50.56
+                    },
+                    "over_under": {
+                        "mercado": "Over 1.5",
+                        "probabilidad": 76.95
+                    },
+                    "confianza": {
+                        "score": 81.9,
+                        "nivel": "ALTA"
+                    },
+                    "riesgo": {
+                        "score": 59.04,
+                        "nivel": "MEDIO"
+                    },
+                    "consistencia": {
+                        "estado": "MODERADAMENTE CONSISTENTE",
+                        "diferencia_maxima_puntos": 1.94,
+                        "detalle": "Poisson y Monte Carlo presentan pequeñas diferencias de estimación."
+                    },
+                    "consenso_modelos": {
+                        "poisson": {
+                            "resultado": "1",
+                            "nombre": "Lech Poznan",
+                            "probabilidad": 66.54
+                        },
+                        "monte_carlo": {
+                            "resultado": "1",
+                            "nombre": "Lech Poznan",
+                            "probabilidad": 67.59
+                        },
+                        "coinciden": true,
+                        "resultado_consenso": "1",
+                        "nombre_consenso": "Lech Poznan",
+                        "probabilidad_consenso": 67.06,
+                        "diferencia_puntos": 1.05,
+                        "marcador_1": {
+                            "marcador": "2-0",
+                            "resultado": "1",
+                            "confirma_consenso": true
+                        },
+                        "marcador_2": {
+                            "marcador": "1-0",
+                            "resultado": "1",
+                            "confirma_consenso": true
+                        }
+                    },
+                    "muestra": {
+                        "local": 14,
+                        "local_objetivo": 15,
+                        "visitante": 15,
+                        "visitante_objetivo": 15,
+                        "h2h": 13
+                    },
+                    "pronostico_adicionales": {
+                        "Local_marcan": "7 de 14",
+                        "Visitante_marcan": "10 de 15",
+                        "Local_Partidos_sinmarcar": "1 de 14",
+                        "Visitante_Partidos_sinmarcar": "4 de 15",
+                        "local_gol_ajustada": 1.86,
+                        "visitante_gol_ajustada": 1.07
+                    },
+                    "value": {
+                        "hay_valor": true,
+                        "mercado": "Empate",
+                        "edge": 2.95,
+                        "ev": 12.04,
+                        "cuota": 5.9
+                    }
+                },
+                "select": {
+                    "activo": true,
+                    "motivo": "Poisson y Monte Carlo coinciden y el marcador 1 confirma la recomendación.",
+                    "mercado_principal": "Lech Poznan",
+                    "probabilidad": 69.52,
+                    "marcador_1": "2-0",
+                    "probabilidad_marcador_1": 13.02,
+                    "marcador_2": "1-0",
+                    "probabilidad_marcador_2": 11.96,
+                    "btts": "SI",
+                    "probabilidad_btts": 50.56,
+                    "over_under": "Over 1.5",
+                    "probabilidad_over_under": 76.95,
+                    "confianza": 81.9,
+                    "riesgo": 59.04,
+                    "edge": 2.95,
+                    "pronostico_adicionales": {
+                        "Local_marcan": "7 de 14",
+                        "Visitante_marcan": "10 de 15",
+                        "Local_Partidos_sinmarcar": "1 de 14",
+                        "Visitante_Partidos_sinmarcar": "4 de 15",
+                        "local_gol_ajustada": 1.86,
+                        "visitante_gol_ajustada": 1.07
+                    },
+                    "resultado": "1",
+                    "recomendacion": "Lech Poznan",
+                    "probabilidad_consenso": 67.06,
+                    "consenso": true,
+                    "poisson": {
+                        "resultado": "1",
+                        "nombre": "Lech Poznan",
+                        "probabilidad": 66.54
+                    },
+                    "monte_carlo": {
+                        "resultado": "1",
+                        "nombre": "Lech Poznan",
+                        "probabilidad": 67.59
+                    },
+                    "confirma_marcador_1": true
+                },
+                "premium": {
+                    "activo": true,
+                    "motivo": "Poisson y Monte Carlo coinciden y ambos marcadores confirman la recomendación.",
+                    "mercado_principal": "Lech Poznan",
+                    "probabilidad": 69.52,
+                    "marcador_1": "2-0",
+                    "probabilidad_marcador_1": 13.02,
+                    "marcador_2": "1-0",
+                    "probabilidad_marcador_2": 11.96,
+                    "btts": "SI",
+                    "probabilidad_btts": 50.56,
+                    "over_under": "Over 1.5",
+                    "probabilidad_over_under": 76.95,
+                    "confianza": 81.9,
+                    "riesgo": 59.04,
+                    "edge": 2.95,
+                    "pronostico_adicionales": {
+                        "Local_marcan": "7 de 14",
+                        "Visitante_marcan": "10 de 15",
+                        "Local_Partidos_sinmarcar": "1 de 14",
+                        "Visitante_Partidos_sinmarcar": "4 de 15",
+                        "local_gol_ajustada": 1.86,
+                        "visitante_gol_ajustada": 1.07
+                    },
+                    "resultado": "1",
+                    "recomendacion": "Lech Poznan",
+                    "probabilidad_consenso": 67.06,
+                    "consenso": true,
+                    "poisson": {
+                        "resultado": "1",
+                        "nombre": "Lech Poznan",
+                        "probabilidad": 66.54
+                    },
+                    "monte_carlo": {
+                        "resultado": "1",
+                        "nombre": "Lech Poznan",
+                        "probabilidad": 67.59
                     },
                     "confirma_marcador_1": true,
                     "confirma_marcador_2": true
