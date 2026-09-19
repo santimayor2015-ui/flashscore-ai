@@ -1,60 +1,61 @@
 {
-  "fecha_generacion": "2026-09-18T21:21:54-05:00",
-  "archivo": "C:\\Flashcore\\Motor 1 09-09-2026\\historico_pronosticos.json",
+  "fecha_generacion": "2026-09-18T23:53:07-05:00",
+  "archivo": "C:\\Flashcore\\Motor 1 09-09-2026\\BACKUP\\historico_pronosticos.json",
   "archivo_canonico": "historico_pronosticos.json",
-  "registros_historicos": 4425,
-  "finalizados": 2976,
-  "pendientes": 1449,
+  "registros_historicos": 4479,
+  "finalizados": 2988,
+  "pendientes": 1491,
   "control_universo": {
     "antes_sincronizacion": {
-      "total": 4425,
-      "finalizados": 2969,
-      "pendientes": 1456,
-      "pendientes_verificables": 34,
-      "pendientes_futuros": 1422,
+      "total": 4494,
+      "finalizados": 2976,
+      "pendientes": 1518,
+      "pendientes_verificables": 29,
+      "pendientes_futuros": 1489,
       "pendientes_sin_fecha_hora": 0,
-      "ahora": "2026-09-18T21:20:50-05:00",
+      "ahora": "2026-09-18T23:51:56-05:00",
       "zona_horaria": "America/Bogota"
     },
     "despues_sincronizacion": {
-      "total": 4425,
-      "finalizados": 2976,
-      "pendientes": 1449,
-      "pendientes_verificables": 27,
-      "pendientes_futuros": 1422,
+      "total": 4479,
+      "finalizados": 2988,
+      "pendientes": 1491,
+      "pendientes_verificables": 2,
+      "pendientes_futuros": 1489,
       "pendientes_sin_fecha_hora": 0,
-      "ahora": "2026-09-18T21:21:54-05:00",
+      "ahora": "2026-09-18T23:53:07-05:00",
       "zona_horaria": "America/Bogota"
     }
   },
   "sincronizacion": {
-    "pendientes_iniciales": 1456,
-    "pendientes_verificables": 34,
-    "pendientes_futuros": 1422,
-    "consultados": 34,
-    "actualizados": 7,
-    "aun_pendientes_verificables": 27,
+    "pendientes_iniciales": 1518,
+    "pendientes_verificables": 29,
+    "pendientes_futuros": 1489,
+    "consultados": 29,
+    "actualizados": 12,
+    "cancelados_eliminados": 15,
+    "aun_pendientes": 1491,
     "errores": 0,
     "sin_link": 0,
     "sin_fecha_hora": 0,
     "control_inicial": {
-      "total": 4425,
-      "finalizados": 2969,
-      "pendientes": 1456,
-      "pendientes_verificables": 34,
-      "pendientes_futuros": 1422,
+      "total": 4494,
+      "finalizados": 2976,
+      "pendientes": 1518,
+      "pendientes_verificables": 29,
+      "pendientes_futuros": 1489,
       "pendientes_sin_fecha_hora": 0,
-      "ahora": "2026-09-18T21:20:50-05:00",
+      "ahora": "2026-09-18T23:51:56-05:00",
       "zona_horaria": "America/Bogota"
     },
     "control_final": {
-      "total": 4425,
-      "finalizados": 2976,
-      "pendientes": 1449,
-      "pendientes_verificables": 27,
-      "pendientes_futuros": 1422,
+      "total": 4479,
+      "finalizados": 2988,
+      "pendientes": 1491,
+      "pendientes_verificables": 2,
+      "pendientes_futuros": 1489,
       "pendientes_sin_fecha_hora": 0,
-      "ahora": "2026-09-18T21:21:54-05:00",
+      "ahora": "2026-09-18T23:53:07-05:00",
       "zona_horaria": "America/Bogota"
     }
   },
@@ -62,6 +63,8 @@
     "solo_finalizados": true,
     "pendientes_no_cuentan_como_fallo": true,
     "pendientes_futuros_no_se_consultan": true,
+    "cancelacion_automatica_despues_horas": 4,
+    "orden_verificacion": "primero_flashscore_despues_cancelacion",
     "pronostico_congelado": true,
     "select_usa_pick_explicito": true,
     "muestra_suficiente_ligas": 10,
@@ -99,25 +102,25 @@
       "mercados": {
         "directa_1x2": {
           "resumen": {
-            "partidos": 2976,
-            "aciertos": 1370,
-            "fallos": 1606,
-            "acierto": 46.03,
+            "partidos": 2988,
+            "aciertos": 1375,
+            "fallos": 1613,
+            "acierto": 46.02,
             "intervalo_confianza_95_acierto": [
-              44.25,
-              47.83
+              44.24,
+              47.81
             ],
             "brier": 0.2421,
             "log_loss": 0.6768,
-            "muestras_con_brier": 2976,
-            "muestras_con_log_loss": 2976,
-            "unidades_net": -215.16,
-            "roi_pct": -7.23,
-            "cuota_media": 2.421,
-            "apuestas_con_cuota": 2976,
-            "baseline_favorito_mercado": 52.79,
-            "baseline_favorito_partidos": 2976,
-            "ece": 0.01613
+            "muestras_con_brier": 2988,
+            "muestras_con_log_loss": 2988,
+            "unidades_net": -217.42,
+            "roi_pct": -7.28,
+            "cuota_media": 2.42,
+            "apuestas_con_cuota": 2988,
+            "baseline_favorito_mercado": 52.81,
+            "baseline_favorito_partidos": 2988,
+            "ece": 0.015862
           },
           "por_liga": {
             "ALBANIA - KATEGORIA E PARË - JORNADA 2": {
@@ -1409,6 +1412,25 @@
               "unidades_net": 1.7,
               "roi_pct": 170.0,
               "cuota_media": 2.7,
+              "apuestas_con_cuota": 1,
+              "muestra_suficiente": false
+            },
+            "AUSTRALIA - VICTORIA PREMIER LEAGUE 2 - ASCENSO - PLAYOFFS - FINAL": {
+              "partidos": 1,
+              "aciertos": 1,
+              "fallos": 0,
+              "acierto": 100.0,
+              "intervalo_confianza_95_acierto": [
+                20.65,
+                100.0
+              ],
+              "brier": 0.2766,
+              "log_loss": 0.7463,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": 1.32,
+              "roi_pct": 132.0,
+              "cuota_media": 2.32,
               "apuestas_con_cuota": 1,
               "muestra_suficiente": false
             },
@@ -3521,6 +3543,25 @@
               "apuestas_con_cuota": 5,
               "muestra_suficiente": false
             },
+            "COSTA RICA - PRIMERA DIVISIÓN - APERTURA - JORNADA 9": {
+              "partidos": 1,
+              "aciertos": 0,
+              "fallos": 1,
+              "acierto": 0.0,
+              "intervalo_confianza_95_acierto": [
+                0.0,
+                79.35
+              ],
+              "brier": 0.1463,
+              "log_loss": 0.4821,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": -1.0,
+              "roi_pct": -100.0,
+              "cuota_media": 3.35,
+              "apuestas_con_cuota": 1,
+              "muestra_suficiente": false
+            },
             "CROACIA - COPA - 1/16 DE FINAL": {
               "partidos": 2,
               "aciertos": 0,
@@ -3860,6 +3901,25 @@
               "unidades_net": -1.0,
               "roi_pct": -100.0,
               "cuota_media": 1.85,
+              "apuestas_con_cuota": 1,
+              "muestra_suficiente": false
+            },
+            "ECUADOR - LIGA PRO - GRUPO DE CAMPEONATO - JORNADA 1": {
+              "partidos": 1,
+              "aciertos": 0,
+              "fallos": 1,
+              "acierto": 0.0,
+              "intervalo_confianza_95_acierto": [
+                0.0,
+                79.35
+              ],
+              "brier": 0.1776,
+              "log_loss": 0.5471,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": -1.0,
+              "roi_pct": -100.0,
+              "cuota_media": 2.0,
               "apuestas_con_cuota": 1,
               "muestra_suficiente": false
             },
@@ -5213,22 +5273,22 @@
               "muestra_suficiente": true
             },
             "ESTADOS UNIDOS - NWSL": {
-              "partidos": 10,
-              "aciertos": 3,
+              "partidos": 11,
+              "aciertos": 4,
               "fallos": 7,
-              "acierto": 30.0,
+              "acierto": 36.36,
               "intervalo_confianza_95_acierto": [
-                10.78,
-                60.32
+                15.17,
+                64.62
               ],
-              "brier": 0.2691,
-              "log_loss": 0.7318,
-              "muestras_con_brier": 10,
-              "muestras_con_log_loss": 10,
-              "unidades_net": -3.72,
-              "roi_pct": -37.2,
-              "cuota_media": 2.205,
-              "apuestas_con_cuota": 10,
+              "brier": 0.2707,
+              "log_loss": 0.7349,
+              "muestras_con_brier": 11,
+              "muestras_con_log_loss": 11,
+              "unidades_net": -2.54,
+              "roi_pct": -23.09,
+              "cuota_media": 2.203,
+              "apuestas_con_cuota": 11,
               "muestra_suficiente": true
             },
             "ESTADOS UNIDOS - US OPEN CUP - SEMIFINALES": {
@@ -6333,6 +6393,25 @@
               "apuestas_con_cuota": 7,
               "muestra_suficiente": false
             },
+            "GUATEMALA - LIGA NACIONAL - APERTURA - JORNADA 10": {
+              "partidos": 1,
+              "aciertos": 0,
+              "fallos": 1,
+              "acierto": 0.0,
+              "intervalo_confianza_95_acierto": [
+                0.0,
+                79.35
+              ],
+              "brier": 0.1788,
+              "log_loss": 0.5496,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": -1.0,
+              "roi_pct": -100.0,
+              "cuota_media": 1.73,
+              "apuestas_con_cuota": 1,
+              "muestra_suficiente": false
+            },
             "GUATEMALA - LIGA NACIONAL - APERTURA - JORNADA 9": {
               "partidos": 6,
               "aciertos": 3,
@@ -6372,22 +6451,22 @@
               "muestra_suficiente": false
             },
             "HONDURAS - LIGA NACIONAL - APERTURA - JORNADA 8": {
-              "partidos": 1,
-              "aciertos": 0,
+              "partidos": 2,
+              "aciertos": 1,
               "fallos": 1,
-              "acierto": 0.0,
+              "acierto": 50.0,
               "intervalo_confianza_95_acierto": [
-                0.0,
-                79.35
+                9.45,
+                90.55
               ],
-              "brier": 0.2596,
-              "log_loss": 0.7123,
-              "muestras_con_brier": 1,
-              "muestras_con_log_loss": 1,
-              "unidades_net": -1.0,
-              "roi_pct": -100.0,
-              "cuota_media": 2.42,
-              "apuestas_con_cuota": 1,
+              "brier": 0.2858,
+              "log_loss": 0.7651,
+              "muestras_con_brier": 2,
+              "muestras_con_log_loss": 2,
+              "unidades_net": 0.38,
+              "roi_pct": 19.0,
+              "cuota_media": 2.4,
+              "apuestas_con_cuota": 2,
               "muestra_suficiente": false
             },
             "HONG KONG - PREMIER LEAGUE - JORNADA 17": {
@@ -9222,22 +9301,22 @@
               "muestra_suficiente": false
             },
             "MÉXICO - LIGA DE EXPANSIÓN MX - APERTURA - JORNADA 9": {
-              "partidos": 1,
-              "aciertos": 1,
-              "fallos": 0,
-              "acierto": 100.0,
+              "partidos": 3,
+              "aciertos": 2,
+              "fallos": 1,
+              "acierto": 66.67,
               "intervalo_confianza_95_acierto": [
-                20.65,
-                100.0
+                20.77,
+                93.85
               ],
-              "brier": 0.2662,
-              "log_loss": 0.7255,
-              "muestras_con_brier": 1,
-              "muestras_con_log_loss": 1,
-              "unidades_net": 0.7,
-              "roi_pct": 70.0,
-              "cuota_media": 1.7,
-              "apuestas_con_cuota": 1,
+              "brier": 0.2261,
+              "log_loss": 0.6451,
+              "muestras_con_brier": 3,
+              "muestras_con_log_loss": 3,
+              "unidades_net": 0.29,
+              "roi_pct": 9.67,
+              "cuota_media": 2.13,
+              "apuestas_con_cuota": 3,
               "muestra_suficiente": false
             },
             "MÉXICO - LIGA MX - APERTURA - JORNADA 7": {
@@ -9276,6 +9355,25 @@
               "roi_pct": 8.0,
               "cuota_media": 2.118,
               "apuestas_con_cuota": 9,
+              "muestra_suficiente": false
+            },
+            "MÉXICO - LIGA MX - APERTURA - JORNADA 9": {
+              "partidos": 1,
+              "aciertos": 0,
+              "fallos": 1,
+              "acierto": 0.0,
+              "intervalo_confianza_95_acierto": [
+                0.0,
+                79.35
+              ],
+              "brier": 0.2572,
+              "log_loss": 0.7074,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": -1.0,
+              "roi_pct": -100.0,
+              "cuota_media": 2.08,
+              "apuestas_con_cuota": 1,
               "muestra_suficiente": false
             },
             "MÉXICO - LIGA MX FEMENIL - APERTURA - JORNADA 7": {
@@ -9371,6 +9469,25 @@
               "roi_pct": 9.86,
               "cuota_media": 1.984,
               "apuestas_con_cuota": 7,
+              "muestra_suficiente": false
+            },
+            "MÉXICO - PRIMERA PREMIER - JORNADA 4": {
+              "partidos": 1,
+              "aciertos": 0,
+              "fallos": 1,
+              "acierto": 0.0,
+              "intervalo_confianza_95_acierto": [
+                0.0,
+                79.35
+              ],
+              "brier": 0.3326,
+              "log_loss": 0.8597,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": -1.0,
+              "roi_pct": -100.0,
+              "cuota_media": 1.53,
+              "apuestas_con_cuota": 1,
               "muestra_suficiente": false
             },
             "NIGERIA - NPFL - JORNADA 3": {
@@ -9810,6 +9927,25 @@
               "apuestas_con_cuota": 6,
               "muestra_suficiente": false
             },
+            "PANAMÁ - LPF - APERTURA - JORNADA 9": {
+              "partidos": 1,
+              "aciertos": 0,
+              "fallos": 1,
+              "acierto": 0.0,
+              "intervalo_confianza_95_acierto": [
+                0.0,
+                79.35
+              ],
+              "brier": 0.2692,
+              "log_loss": 0.7315,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": -1.0,
+              "roi_pct": -100.0,
+              "cuota_media": 2.48,
+              "apuestas_con_cuota": 1,
+              "muestra_suficiente": false
+            },
             "PARAGUAY - COPA DE PRIMERA - CLAUSURA - JORNADA 10": {
               "partidos": 6,
               "aciertos": 4,
@@ -10039,22 +10175,22 @@
               "muestra_suficiente": false
             },
             "PERÚ - LIGA 1 - CLAUSURA - JORNADA 10": {
-              "partidos": 1,
-              "aciertos": 1,
+              "partidos": 2,
+              "aciertos": 2,
               "fallos": 0,
               "acierto": 100.0,
               "intervalo_confianza_95_acierto": [
-                20.65,
+                34.24,
                 100.0
               ],
-              "brier": 0.2169,
-              "log_loss": 0.6268,
-              "muestras_con_brier": 1,
-              "muestras_con_log_loss": 1,
-              "unidades_net": 0.62,
-              "roi_pct": 62.0,
-              "cuota_media": 1.62,
-              "apuestas_con_cuota": 1,
+              "brier": 0.224,
+              "log_loss": 0.6411,
+              "muestras_con_brier": 2,
+              "muestras_con_log_loss": 2,
+              "unidades_net": 0.89,
+              "roi_pct": 44.5,
+              "cuota_media": 1.445,
+              "apuestas_con_cuota": 2,
               "muestra_suficiente": false
             },
             "PERÚ - LIGA 1 - CLAUSURA - JORNADA 9": {
@@ -12948,112 +13084,112 @@
           },
           "por_cuota": {
             "MENOS DE 1.50": {
-              "partidos": 394,
-              "aciertos": 302,
+              "partidos": 395,
+              "aciertos": 303,
               "fallos": 92,
-              "acierto": 76.65,
+              "acierto": 76.71,
               "intervalo_confianza_95_acierto": [
-                72.23,
-                80.56
+                72.3,
+                80.61
               ],
               "brier": 0.2431,
-              "log_loss": 0.6791,
-              "muestras_con_brier": 394,
-              "muestras_con_log_loss": 394,
-              "unidades_net": 2.05,
-              "roi_pct": 0.52,
+              "log_loss": 0.679,
+              "muestras_con_brier": 395,
+              "muestras_con_log_loss": 395,
+              "unidades_net": 2.32,
+              "roi_pct": 0.59,
               "cuota_media": 1.32,
-              "apuestas_con_cuota": 394
+              "apuestas_con_cuota": 395
             },
             "1.50 AL 1.70": {
-              "partidos": 358,
-              "aciertos": 217,
-              "fallos": 141,
-              "acierto": 60.61,
+              "partidos": 360,
+              "aciertos": 218,
+              "fallos": 142,
+              "acierto": 60.56,
               "intervalo_confianza_95_acierto": [
-                55.47,
-                65.54
+                55.42,
+                65.47
               ],
-              "brier": 0.2555,
-              "log_loss": 0.7043,
-              "muestras_con_brier": 358,
-              "muestras_con_log_loss": 358,
-              "unidades_net": -12.58,
-              "roi_pct": -3.51,
+              "brier": 0.2556,
+              "log_loss": 0.7046,
+              "muestras_con_brier": 360,
+              "muestras_con_log_loss": 360,
+              "unidades_net": -12.99,
+              "roi_pct": -3.61,
               "cuota_media": 1.594,
-              "apuestas_con_cuota": 358
+              "apuestas_con_cuota": 360
             },
             "1.70 AL 1.90": {
-              "partidos": 369,
+              "partidos": 370,
               "aciertos": 205,
-              "fallos": 164,
-              "acierto": 55.56,
+              "fallos": 165,
+              "acierto": 55.41,
               "intervalo_confianza_95_acierto": [
-                50.45,
-                60.54
+                50.31,
+                60.39
               ],
-              "brier": 0.2531,
-              "log_loss": 0.6972,
-              "muestras_con_brier": 369,
-              "muestras_con_log_loss": 369,
-              "unidades_net": -1.91,
-              "roi_pct": -0.52,
+              "brier": 0.2529,
+              "log_loss": 0.6968,
+              "muestras_con_brier": 370,
+              "muestras_con_log_loss": 370,
+              "unidades_net": -2.91,
+              "roi_pct": -0.79,
               "cuota_media": 1.787,
-              "apuestas_con_cuota": 369
+              "apuestas_con_cuota": 370
             },
             "1.90 AL 2.10": {
-              "partidos": 322,
+              "partidos": 324,
               "aciertos": 160,
-              "fallos": 162,
-              "acierto": 49.69,
+              "fallos": 164,
+              "acierto": 49.38,
               "intervalo_confianza_95_acierto": [
-                44.26,
-                55.12
+                43.98,
+                54.8
               ],
-              "brier": 0.2527,
-              "log_loss": 0.6988,
-              "muestras_con_brier": 322,
-              "muestras_con_log_loss": 322,
-              "unidades_net": -4.44,
-              "roi_pct": -1.38,
+              "brier": 0.2525,
+              "log_loss": 0.6984,
+              "muestras_con_brier": 324,
+              "muestras_con_log_loss": 324,
+              "unidades_net": -6.44,
+              "roi_pct": -1.99,
               "cuota_media": 1.985,
-              "apuestas_con_cuota": 322
+              "apuestas_con_cuota": 324
             },
             "2.10 AL 2.30": {
-              "partidos": 345,
-              "aciertos": 137,
+              "partidos": 346,
+              "aciertos": 138,
               "fallos": 208,
-              "acierto": 39.71,
+              "acierto": 39.88,
               "intervalo_confianza_95_acierto": [
-                34.69,
-                44.96
+                34.86,
+                45.13
               ],
-              "brier": 0.2454,
-              "log_loss": 0.6826,
-              "muestras_con_brier": 345,
-              "muestras_con_log_loss": 345,
-              "unidades_net": -46.82,
-              "roi_pct": -13.57,
+              "brier": 0.2455,
+              "log_loss": 0.6828,
+              "muestras_con_brier": 346,
+              "muestras_con_log_loss": 346,
+              "unidades_net": -45.64,
+              "roi_pct": -13.19,
               "cuota_media": 2.181,
-              "apuestas_con_cuota": 345
+              "apuestas_con_cuota": 346
             },
             "2.30 AL 2.50": {
-              "partidos": 249,
-              "aciertos": 104,
-              "fallos": 145,
-              "acierto": 41.77,
+              "partidos": 252,
+              "aciertos": 106,
+              "fallos": 146,
+              "acierto": 42.06,
               "intervalo_confianza_95_acierto": [
-                35.81,
-                47.97
+                36.13,
+                48.23
               ],
-              "brier": 0.2481,
-              "log_loss": 0.6894,
-              "muestras_con_brier": 249,
-              "muestras_con_log_loss": 249,
-              "unidades_net": -2.28,
-              "roi_pct": -0.92,
+              "brier": 0.2485,
+              "log_loss": 0.6903,
+              "muestras_con_brier": 252,
+              "muestras_con_log_loss": 252,
+              "unidades_net": -0.58,
+              "roi_pct": -0.23,
               "cuota_media": 2.379,
-              "apuestas_con_cuota": 249
+              "apuestas_con_cuota": 252
             },
             "2.50 AL 2.70": {
               "partidos": 238,
@@ -13110,40 +13246,40 @@
               "apuestas_con_cuota": 105
             },
             "3.10 AL 3.30": {
-              "partidos": 69,
+              "partidos": 70,
               "aciertos": 20,
-              "fallos": 49,
-              "acierto": 28.99,
+              "fallos": 50,
+              "acierto": 28.57,
               "intervalo_confianza_95_acierto": [
-                19.62,
-                40.57
+                19.32,
+                40.05
               ],
-              "brier": 0.2231,
-              "log_loss": 0.6386,
-              "muestras_con_brier": 69,
-              "muestras_con_log_loss": 69,
-              "unidades_net": -5.8,
-              "roi_pct": -8.41,
-              "cuota_media": 3.162,
-              "apuestas_con_cuota": 69
+              "brier": 0.2226,
+              "log_loss": 0.6376,
+              "muestras_con_brier": 70,
+              "muestras_con_log_loss": 70,
+              "unidades_net": -6.8,
+              "roi_pct": -9.71,
+              "cuota_media": 3.161,
+              "apuestas_con_cuota": 70
             },
             "3.30 AL 3.50": {
-              "partidos": 52,
+              "partidos": 53,
               "aciertos": 14,
-              "fallos": 38,
-              "acierto": 26.92,
+              "fallos": 39,
+              "acierto": 26.42,
               "intervalo_confianza_95_acierto": [
-                16.77,
-                40.25
+                16.44,
+                39.58
               ],
-              "brier": 0.2235,
-              "log_loss": 0.6393,
-              "muestras_con_brier": 52,
-              "muestras_con_log_loss": 52,
-              "unidades_net": -5.0,
-              "roi_pct": -9.62,
+              "brier": 0.2221,
+              "log_loss": 0.6364,
+              "muestras_con_brier": 53,
+              "muestras_con_log_loss": 53,
+              "unidades_net": -6.0,
+              "roi_pct": -11.32,
               "cuota_media": 3.371,
-              "apuestas_con_cuota": 52
+              "apuestas_con_cuota": 53
             },
             "MAS DE 3.50": {
               "partidos": 321,
@@ -13205,58 +13341,58 @@
               "apuestas_con_cuota": 0
             },
             "30% AL 40%": {
-              "partidos": 576,
+              "partidos": 577,
               "aciertos": 206,
-              "fallos": 370,
-              "acierto": 35.76,
+              "fallos": 371,
+              "acierto": 35.7,
               "intervalo_confianza_95_acierto": [
-                31.96,
-                39.76
+                31.9,
+                39.69
               ],
-              "brier": 0.2301,
-              "log_loss": 0.652,
-              "muestras_con_brier": 576,
-              "muestras_con_log_loss": 576,
-              "unidades_net": -66.09,
-              "roi_pct": -11.47,
-              "cuota_media": 2.936,
-              "apuestas_con_cuota": 576
+              "brier": 0.23,
+              "log_loss": 0.6517,
+              "muestras_con_brier": 577,
+              "muestras_con_log_loss": 577,
+              "unidades_net": -67.09,
+              "roi_pct": -11.63,
+              "cuota_media": 2.937,
+              "apuestas_con_cuota": 577
             },
             "40% AL 50%": {
-              "partidos": 1562,
-              "aciertos": 683,
-              "fallos": 879,
-              "acierto": 43.73,
+              "partidos": 1568,
+              "aciertos": 686,
+              "fallos": 882,
+              "acierto": 43.75,
               "intervalo_confianza_95_acierto": [
-                41.28,
-                46.2
+                41.31,
+                46.22
               ],
               "brier": 0.2458,
-              "log_loss": 0.6842,
-              "muestras_con_brier": 1562,
-              "muestras_con_log_loss": 1562,
-              "unidades_net": -128.01,
-              "roi_pct": -8.2,
+              "log_loss": 0.6841,
+              "muestras_con_brier": 1568,
+              "muestras_con_log_loss": 1568,
+              "unidades_net": -127.13,
+              "roi_pct": -8.11,
               "cuota_media": 2.472,
-              "apuestas_con_cuota": 1562
+              "apuestas_con_cuota": 1568
             },
             "50% AL 60%": {
-              "partidos": 720,
-              "aciertos": 402,
-              "fallos": 318,
-              "acierto": 55.83,
+              "partidos": 725,
+              "aciertos": 404,
+              "fallos": 321,
+              "acierto": 55.72,
               "intervalo_confianza_95_acierto": [
-                52.18,
-                59.42
+                52.09,
+                59.3
               ],
-              "brier": 0.2471,
-              "log_loss": 0.6873,
-              "muestras_con_brier": 720,
-              "muestras_con_log_loss": 720,
-              "unidades_net": -22.42,
-              "roi_pct": -3.11,
-              "cuota_media": 2.021,
-              "apuestas_con_cuota": 720
+              "brier": 0.2472,
+              "log_loss": 0.6875,
+              "muestras_con_brier": 725,
+              "muestras_con_log_loss": 725,
+              "unidades_net": -24.56,
+              "roi_pct": -3.39,
+              "cuota_media": 2.019,
+              "apuestas_con_cuota": 725
             },
             "60% AL 70%": {
               "partidos": 116,
@@ -13431,39 +13567,39 @@
           "mejores_rangos_cuota": [
             {
               "rango_cuota": "MENOS DE 1.50",
-              "acierto": 76.65,
-              "partidos": 394,
-              "aciertos": 302
+              "acierto": 76.71,
+              "partidos": 395,
+              "aciertos": 303
             },
             {
               "rango_cuota": "1.50 AL 1.70",
-              "acierto": 60.61,
-              "partidos": 358,
-              "aciertos": 217
+              "acierto": 60.56,
+              "partidos": 360,
+              "aciertos": 218
             },
             {
               "rango_cuota": "1.70 AL 1.90",
-              "acierto": 55.56,
-              "partidos": 369,
+              "acierto": 55.41,
+              "partidos": 370,
               "aciertos": 205
             },
             {
               "rango_cuota": "1.90 AL 2.10",
-              "acierto": 49.69,
-              "partidos": 322,
+              "acierto": 49.38,
+              "partidos": 324,
               "aciertos": 160
             },
             {
               "rango_cuota": "2.30 AL 2.50",
-              "acierto": 41.77,
-              "partidos": 249,
-              "aciertos": 104
+              "acierto": 42.06,
+              "partidos": 252,
+              "aciertos": 106
             },
             {
               "rango_cuota": "2.10 AL 2.30",
-              "acierto": 39.71,
-              "partidos": 345,
-              "aciertos": 137
+              "acierto": 39.88,
+              "partidos": 346,
+              "aciertos": 138
             },
             {
               "rango_cuota": "2.50 AL 2.70",
@@ -13478,21 +13614,21 @@
               "aciertos": 50
             },
             {
-              "rango_cuota": "3.10 AL 3.30",
-              "acierto": 28.99,
-              "partidos": 69,
-              "aciertos": 20
-            },
-            {
               "rango_cuota": "2.90 AL 3.10",
               "acierto": 28.57,
               "partidos": 105,
               "aciertos": 30
             },
             {
+              "rango_cuota": "3.10 AL 3.30",
+              "acierto": 28.57,
+              "partidos": 70,
+              "aciertos": 20
+            },
+            {
               "rango_cuota": "3.30 AL 3.50",
-              "acierto": 26.92,
-              "partidos": 52,
+              "acierto": 26.42,
+              "partidos": 53,
               "aciertos": 14
             },
             {
@@ -13504,118 +13640,118 @@
           ],
           "por_probabilidad_favorito": {
             "35% AL 40%": {
-              "partidos": 568,
+              "partidos": 569,
               "aciertos": 203,
-              "fallos": 365,
-              "acierto": 35.74,
+              "fallos": 366,
+              "acierto": 35.68,
               "intervalo_confianza_95_acierto": [
-                31.91,
-                39.76
+                31.85,
+                39.7
               ],
-              "brier": 0.2301,
-              "log_loss": 0.6518,
-              "muestras_con_brier": 568,
-              "muestras_con_log_loss": 568,
-              "unidades_net": -64.11,
-              "roi_pct": -11.29,
-              "cuota_media": 2.936,
-              "apuestas_con_cuota": 568
+              "brier": 0.2299,
+              "log_loss": 0.6515,
+              "muestras_con_brier": 569,
+              "muestras_con_log_loss": 569,
+              "unidades_net": -65.11,
+              "roi_pct": -11.44,
+              "cuota_media": 2.937,
+              "apuestas_con_cuota": 569
             },
             "40% AL 45%": {
-              "partidos": 856,
-              "aciertos": 359,
-              "fallos": 497,
-              "acierto": 41.94,
+              "partidos": 860,
+              "aciertos": 360,
+              "fallos": 500,
+              "acierto": 41.86,
               "intervalo_confianza_95_acierto": [
-                38.68,
-                45.27
+                38.61,
+                45.19
               ],
-              "brier": 0.2439,
-              "log_loss": 0.6799,
-              "muestras_con_brier": 856,
-              "muestras_con_log_loss": 856,
-              "unidades_net": -79.53,
-              "roi_pct": -9.29,
-              "cuota_media": 2.621,
-              "apuestas_con_cuota": 856
+              "brier": 0.2438,
+              "log_loss": 0.6796,
+              "muestras_con_brier": 860,
+              "muestras_con_log_loss": 860,
+              "unidades_net": -81.15,
+              "roi_pct": -9.44,
+              "cuota_media": 2.619,
+              "apuestas_con_cuota": 860
             },
             "45% AL 50%": {
-              "partidos": 706,
-              "aciertos": 324,
+              "partidos": 708,
+              "aciertos": 326,
               "fallos": 382,
-              "acierto": 45.89,
+              "acierto": 46.05,
               "intervalo_confianza_95_acierto": [
-                42.25,
-                49.58
+                42.4,
+                49.73
               ],
-              "brier": 0.2481,
-              "log_loss": 0.6894,
-              "muestras_con_brier": 706,
-              "muestras_con_log_loss": 706,
-              "unidades_net": -48.48,
-              "roi_pct": -6.87,
+              "brier": 0.2482,
+              "log_loss": 0.6896,
+              "muestras_con_brier": 708,
+              "muestras_con_log_loss": 708,
+              "unidades_net": -45.98,
+              "roi_pct": -6.49,
               "cuota_media": 2.292,
-              "apuestas_con_cuota": 706
+              "apuestas_con_cuota": 708
             },
             "50% AL 55%": {
-              "partidos": 481,
-              "aciertos": 266,
-              "fallos": 215,
-              "acierto": 55.3,
+              "partidos": 485,
+              "aciertos": 268,
+              "fallos": 217,
+              "acierto": 55.26,
               "intervalo_confianza_95_acierto": [
-                50.83,
-                59.69
+                50.81,
+                59.62
               ],
               "brier": 0.2482,
               "log_loss": 0.6895,
-              "muestras_con_brier": 481,
-              "muestras_con_log_loss": 481,
-              "unidades_net": -3.44,
-              "roi_pct": -0.72,
-              "cuota_media": 2.064,
-              "apuestas_con_cuota": 481
+              "muestras_con_brier": 485,
+              "muestras_con_log_loss": 485,
+              "unidades_net": -4.58,
+              "roi_pct": -0.94,
+              "cuota_media": 2.063,
+              "apuestas_con_cuota": 485
             },
             "MAS DE 55%": {
-              "partidos": 357,
+              "partidos": 358,
               "aciertos": 215,
-              "fallos": 142,
-              "acierto": 60.22,
+              "fallos": 143,
+              "acierto": 60.06,
               "intervalo_confianza_95_acierto": [
-                55.06,
-                65.17
+                54.9,
+                65.0
               ],
-              "brier": 0.2373,
-              "log_loss": 0.6672,
-              "muestras_con_brier": 357,
-              "muestras_con_log_loss": 357,
-              "unidades_net": -17.62,
-              "roi_pct": -4.94,
+              "brier": 0.2375,
+              "log_loss": 0.6678,
+              "muestras_con_brier": 358,
+              "muestras_con_log_loss": 358,
+              "unidades_net": -18.62,
+              "roi_pct": -5.2,
               "cuota_media": 1.846,
-              "apuestas_con_cuota": 357
+              "apuestas_con_cuota": 358
             }
           }
         },
         "doble_oportunidad": {
           "resumen": {
-            "partidos": 2976,
-            "aciertos": 2323,
-            "fallos": 653,
-            "acierto": 78.06,
+            "partidos": 2988,
+            "aciertos": 2332,
+            "fallos": 656,
+            "acierto": 78.05,
             "intervalo_confianza_95_acierto": [
-              76.54,
-              79.51
+              76.53,
+              79.49
             ],
-            "brier": 0.1672,
-            "log_loss": 0.514,
-            "muestras_con_brier": 2976,
-            "muestras_con_log_loss": 2976,
+            "brier": 0.1673,
+            "log_loss": 0.5141,
+            "muestras_con_brier": 2988,
+            "muestras_con_log_loss": 2988,
             "unidades_net": null,
             "roi_pct": null,
             "cuota_media": null,
             "apuestas_con_cuota": 0,
             "baseline_favorito_mercado": null,
             "baseline_favorito_partidos": 0,
-            "ece": 0.030416
+            "ece": 0.030069
           },
           "por_liga": {
             "ALBANIA - KATEGORIA E PARË - JORNADA 2": {
@@ -14902,6 +15038,25 @@
               ],
               "brier": 0.0616,
               "log_loss": 0.2853,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
+            "AUSTRALIA - VICTORIA PREMIER LEAGUE 2 - ASCENSO - PLAYOFFS - FINAL": {
+              "partidos": 1,
+              "aciertos": 1,
+              "fallos": 0,
+              "acierto": 100.0,
+              "intervalo_confianza_95_acierto": [
+                20.65,
+                100.0
+              ],
+              "brier": 0.0612,
+              "log_loss": 0.2841,
               "muestras_con_brier": 1,
               "muestras_con_log_loss": 1,
               "unidades_net": null,
@@ -17019,6 +17174,25 @@
               "apuestas_con_cuota": 0,
               "muestra_suficiente": false
             },
+            "COSTA RICA - PRIMERA DIVISIÓN - APERTURA - JORNADA 9": {
+              "partidos": 1,
+              "aciertos": 1,
+              "fallos": 0,
+              "acierto": 100.0,
+              "intervalo_confianza_95_acierto": [
+                20.65,
+                100.0
+              ],
+              "brier": 0.0959,
+              "log_loss": 0.3705,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
             "CROACIA - COPA - 1/16 DE FINAL": {
               "partidos": 2,
               "aciertos": 2,
@@ -17353,6 +17527,25 @@
               ],
               "brier": 0.5586,
               "log_loss": 1.3759,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
+            "ECUADOR - LIGA PRO - GRUPO DE CAMPEONATO - JORNADA 1": {
+              "partidos": 1,
+              "aciertos": 0,
+              "fallos": 1,
+              "acierto": 0.0,
+              "intervalo_confianza_95_acierto": [
+                0.0,
+                79.35
+              ],
+              "brier": 0.5282,
+              "log_loss": 1.2976,
               "muestras_con_brier": 1,
               "muestras_con_log_loss": 1,
               "unidades_net": null,
@@ -18711,18 +18904,18 @@
               "muestra_suficiente": true
             },
             "ESTADOS UNIDOS - NWSL": {
-              "partidos": 10,
-              "aciertos": 8,
+              "partidos": 11,
+              "aciertos": 9,
               "fallos": 2,
-              "acierto": 80.0,
+              "acierto": 81.82,
               "intervalo_confianza_95_acierto": [
-                49.02,
-                94.33
+                52.3,
+                94.86
               ],
-              "brier": 0.1599,
-              "log_loss": 0.4977,
-              "muestras_con_brier": 10,
-              "muestras_con_log_loss": 10,
+              "brier": 0.1521,
+              "log_loss": 0.4812,
+              "muestras_con_brier": 11,
+              "muestras_con_log_loss": 11,
               "unidades_net": null,
               "roi_pct": null,
               "cuota_media": null,
@@ -19831,6 +20024,25 @@
               "apuestas_con_cuota": 0,
               "muestra_suficiente": false
             },
+            "GUATEMALA - LIGA NACIONAL - APERTURA - JORNADA 10": {
+              "partidos": 1,
+              "aciertos": 0,
+              "fallos": 1,
+              "acierto": 0.0,
+              "intervalo_confianza_95_acierto": [
+                0.0,
+                79.35
+              ],
+              "brier": 0.5796,
+              "log_loss": 1.4325,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
             "GUATEMALA - LIGA NACIONAL - APERTURA - JORNADA 9": {
               "partidos": 6,
               "aciertos": 6,
@@ -19870,18 +20082,18 @@
               "muestra_suficiente": false
             },
             "HONDURAS - LIGA NACIONAL - APERTURA - JORNADA 8": {
-              "partidos": 1,
-              "aciertos": 0,
+              "partidos": 2,
+              "aciertos": 1,
               "fallos": 1,
-              "acierto": 0.0,
+              "acierto": 50.0,
               "intervalo_confianza_95_acierto": [
-                0.0,
-                79.35
+                9.45,
+                90.55
               ],
-              "brier": 0.5386,
-              "log_loss": 1.3239,
-              "muestras_con_brier": 1,
-              "muestras_con_log_loss": 1,
+              "brier": 0.3095,
+              "log_loss": 0.8286,
+              "muestras_con_brier": 2,
+              "muestras_con_log_loss": 2,
               "unidades_net": null,
               "roi_pct": null,
               "cuota_media": null,
@@ -22720,18 +22932,18 @@
               "muestra_suficiente": false
             },
             "MÉXICO - LIGA DE EXPANSIÓN MX - APERTURA - JORNADA 9": {
-              "partidos": 1,
-              "aciertos": 1,
+              "partidos": 3,
+              "aciertos": 3,
               "fallos": 0,
               "acierto": 100.0,
               "intervalo_confianza_95_acierto": [
-                20.65,
+                43.85,
                 100.0
               ],
-              "brier": 0.049,
-              "log_loss": 0.2503,
-              "muestras_con_brier": 1,
-              "muestras_con_log_loss": 1,
+              "brier": 0.0552,
+              "log_loss": 0.2661,
+              "muestras_con_brier": 3,
+              "muestras_con_log_loss": 3,
               "unidades_net": null,
               "roi_pct": null,
               "cuota_media": null,
@@ -22770,6 +22982,25 @@
               "log_loss": 0.6373,
               "muestras_con_brier": 9,
               "muestras_con_log_loss": 9,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
+            "MÉXICO - LIGA MX - APERTURA - JORNADA 9": {
+              "partidos": 1,
+              "aciertos": 1,
+              "fallos": 0,
+              "acierto": 100.0,
+              "intervalo_confianza_95_acierto": [
+                20.65,
+                100.0
+              ],
+              "brier": 0.0647,
+              "log_loss": 0.2936,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
               "unidades_net": null,
               "roi_pct": null,
               "cuota_media": null,
@@ -22865,6 +23096,25 @@
               "log_loss": 0.4619,
               "muestras_con_brier": 7,
               "muestras_con_log_loss": 7,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
+            "MÉXICO - PRIMERA PREMIER - JORNADA 4": {
+              "partidos": 1,
+              "aciertos": 1,
+              "fallos": 0,
+              "acierto": 100.0,
+              "intervalo_confianza_95_acierto": [
+                20.65,
+                100.0
+              ],
+              "brier": 0.0295,
+              "log_loss": 0.1885,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
               "unidades_net": null,
               "roi_pct": null,
               "cuota_media": null,
@@ -23308,6 +23558,25 @@
               "apuestas_con_cuota": 0,
               "muestra_suficiente": false
             },
+            "PANAMÁ - LPF - APERTURA - JORNADA 9": {
+              "partidos": 1,
+              "aciertos": 0,
+              "fallos": 1,
+              "acierto": 0.0,
+              "intervalo_confianza_95_acierto": [
+                0.0,
+                79.35
+              ],
+              "brier": 0.529,
+              "log_loss": 1.2994,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
             "PARAGUAY - COPA DE PRIMERA - CLAUSURA - JORNADA 10": {
               "partidos": 6,
               "aciertos": 5,
@@ -23537,18 +23806,18 @@
               "muestra_suficiente": false
             },
             "PERÚ - LIGA 1 - CLAUSURA - JORNADA 10": {
-              "partidos": 1,
-              "aciertos": 1,
+              "partidos": 2,
+              "aciertos": 2,
               "fallos": 0,
               "acierto": 100.0,
               "intervalo_confianza_95_acierto": [
-                20.65,
+                34.24,
                 100.0
               ],
-              "brier": 0.0389,
-              "log_loss": 0.2196,
-              "muestras_con_brier": 1,
-              "muestras_con_log_loss": 1,
+              "brier": 0.0304,
+              "log_loss": 0.1898,
+              "muestras_con_brier": 2,
+              "muestras_con_log_loss": 2,
               "unidades_net": null,
               "roi_pct": null,
               "cuota_media": null,
@@ -26682,54 +26951,54 @@
               "apuestas_con_cuota": 0
             },
             "60% AL 70%": {
-              "partidos": 148,
-              "aciertos": 98,
+              "partidos": 149,
+              "aciertos": 99,
               "fallos": 50,
-              "acierto": 66.22,
+              "acierto": 66.44,
               "intervalo_confianza_95_acierto": [
-                58.27,
-                73.34
+                58.53,
+                73.53
               ],
-              "brier": 0.2243,
-              "log_loss": 0.6409,
-              "muestras_con_brier": 148,
-              "muestras_con_log_loss": 148,
+              "brier": 0.2234,
+              "log_loss": 0.639,
+              "muestras_con_brier": 149,
+              "muestras_con_log_loss": 149,
               "unidades_net": null,
               "roi_pct": null,
               "cuota_media": null,
               "apuestas_con_cuota": 0
             },
             "70% AL 80%": {
-              "partidos": 2366,
-              "aciertos": 1801,
-              "fallos": 565,
-              "acierto": 76.12,
+              "partidos": 2375,
+              "aciertos": 1807,
+              "fallos": 568,
+              "acierto": 76.08,
               "intervalo_confianza_95_acierto": [
-                74.36,
-                77.79
+                74.33,
+                77.76
               ],
-              "brier": 0.1804,
-              "log_loss": 0.546,
-              "muestras_con_brier": 2366,
-              "muestras_con_log_loss": 2366,
+              "brier": 0.1806,
+              "log_loss": 0.5464,
+              "muestras_con_brier": 2375,
+              "muestras_con_log_loss": 2375,
               "unidades_net": null,
               "roi_pct": null,
               "cuota_media": null,
               "apuestas_con_cuota": 0
             },
             "80% AL 90%": {
-              "partidos": 457,
-              "aciertos": 419,
+              "partidos": 459,
+              "aciertos": 421,
               "fallos": 38,
-              "acierto": 91.68,
+              "acierto": 91.72,
               "intervalo_confianza_95_acierto": [
-                88.79,
-                93.88
+                88.84,
+                93.91
               ],
-              "brier": 0.0823,
-              "log_loss": 0.3119,
-              "muestras_con_brier": 457,
-              "muestras_con_log_loss": 457,
+              "brier": 0.082,
+              "log_loss": 0.3113,
+              "muestras_con_brier": 459,
+              "muestras_con_log_loss": 459,
               "unidades_net": null,
               "roi_pct": null,
               "cuota_media": null,
@@ -26865,25 +27134,25 @@
         },
         "ambos_marcan": {
           "resumen": {
-            "partidos": 2976,
-            "aciertos": 1599,
-            "fallos": 1377,
-            "acierto": 53.73,
+            "partidos": 2988,
+            "aciertos": 1604,
+            "fallos": 1384,
+            "acierto": 53.68,
             "intervalo_confianza_95_acierto": [
-              51.93,
-              55.52
+              51.89,
+              55.46
             ],
             "brier": 0.2508,
             "log_loss": 0.6951,
-            "muestras_con_brier": 2976,
-            "muestras_con_log_loss": 2976,
+            "muestras_con_brier": 2988,
+            "muestras_con_log_loss": 2988,
             "unidades_net": null,
             "roi_pct": null,
             "cuota_media": null,
             "apuestas_con_cuota": 0,
             "baseline_favorito_mercado": null,
             "baseline_favorito_partidos": 0,
-            "ece": 0.037731
+            "ece": 0.037258
           },
           "por_liga": {
             "ALBANIA - KATEGORIA E PARË - JORNADA 2": {
@@ -28170,6 +28439,25 @@
               ],
               "brier": 0.2442,
               "log_loss": 0.6816,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
+            "AUSTRALIA - VICTORIA PREMIER LEAGUE 2 - ASCENSO - PLAYOFFS - FINAL": {
+              "partidos": 1,
+              "aciertos": 0,
+              "fallos": 1,
+              "acierto": 0.0,
+              "intervalo_confianza_95_acierto": [
+                0.0,
+                79.35
+              ],
+              "brier": 0.3906,
+              "log_loss": 0.9808,
               "muestras_con_brier": 1,
               "muestras_con_log_loss": 1,
               "unidades_net": null,
@@ -30287,6 +30575,25 @@
               "apuestas_con_cuota": 0,
               "muestra_suficiente": false
             },
+            "COSTA RICA - PRIMERA DIVISIÓN - APERTURA - JORNADA 9": {
+              "partidos": 1,
+              "aciertos": 0,
+              "fallos": 1,
+              "acierto": 0.0,
+              "intervalo_confianza_95_acierto": [
+                0.0,
+                79.35
+              ],
+              "brier": 0.1698,
+              "log_loss": 0.5312,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
             "CROACIA - COPA - 1/16 DE FINAL": {
               "partidos": 2,
               "aciertos": 0,
@@ -30621,6 +30928,25 @@
               ],
               "brier": 0.3315,
               "log_loss": 0.8576,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
+            "ECUADOR - LIGA PRO - GRUPO DE CAMPEONATO - JORNADA 1": {
+              "partidos": 1,
+              "aciertos": 1,
+              "fallos": 0,
+              "acierto": 100.0,
+              "intervalo_confianza_95_acierto": [
+                20.65,
+                100.0
+              ],
+              "brier": 0.2399,
+              "log_loss": 0.673,
               "muestras_con_brier": 1,
               "muestras_con_log_loss": 1,
               "unidades_net": null,
@@ -31979,18 +32305,18 @@
               "muestra_suficiente": true
             },
             "ESTADOS UNIDOS - NWSL": {
-              "partidos": 10,
+              "partidos": 11,
               "aciertos": 6,
-              "fallos": 4,
-              "acierto": 60.0,
+              "fallos": 5,
+              "acierto": 54.55,
               "intervalo_confianza_95_acierto": [
-                31.27,
-                83.18
+                28.01,
+                78.73
               ],
-              "brier": 0.2545,
-              "log_loss": 0.7028,
-              "muestras_con_brier": 10,
-              "muestras_con_log_loss": 10,
+              "brier": 0.2629,
+              "log_loss": 0.7196,
+              "muestras_con_brier": 11,
+              "muestras_con_log_loss": 11,
               "unidades_net": null,
               "roi_pct": null,
               "cuota_media": null,
@@ -33099,6 +33425,25 @@
               "apuestas_con_cuota": 0,
               "muestra_suficiente": false
             },
+            "GUATEMALA - LIGA NACIONAL - APERTURA - JORNADA 10": {
+              "partidos": 1,
+              "aciertos": 0,
+              "fallos": 1,
+              "acierto": 0.0,
+              "intervalo_confianza_95_acierto": [
+                0.0,
+                79.35
+              ],
+              "brier": 0.1779,
+              "log_loss": 0.5478,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
             "GUATEMALA - LIGA NACIONAL - APERTURA - JORNADA 9": {
               "partidos": 6,
               "aciertos": 2,
@@ -33138,18 +33483,18 @@
               "muestra_suficiente": false
             },
             "HONDURAS - LIGA NACIONAL - APERTURA - JORNADA 8": {
-              "partidos": 1,
+              "partidos": 2,
               "aciertos": 1,
-              "fallos": 0,
-              "acierto": 100.0,
+              "fallos": 1,
+              "acierto": 50.0,
               "intervalo_confianza_95_acierto": [
-                20.65,
-                100.0
+                9.45,
+                90.55
               ],
-              "brier": 0.2759,
-              "log_loss": 0.7451,
-              "muestras_con_brier": 1,
-              "muestras_con_log_loss": 1,
+              "brier": 0.2674,
+              "log_loss": 0.7279,
+              "muestras_con_brier": 2,
+              "muestras_con_log_loss": 2,
               "unidades_net": null,
               "roi_pct": null,
               "cuota_media": null,
@@ -35988,18 +36333,18 @@
               "muestra_suficiente": false
             },
             "MÉXICO - LIGA DE EXPANSIÓN MX - APERTURA - JORNADA 9": {
-              "partidos": 1,
-              "aciertos": 1,
-              "fallos": 0,
-              "acierto": 100.0,
+              "partidos": 3,
+              "aciertos": 2,
+              "fallos": 1,
+              "acierto": 66.67,
               "intervalo_confianza_95_acierto": [
-                20.65,
-                100.0
+                20.77,
+                93.85
               ],
-              "brier": 0.2859,
-              "log_loss": 0.7651,
-              "muestras_con_brier": 1,
-              "muestras_con_log_loss": 1,
+              "brier": 0.2491,
+              "log_loss": 0.6911,
+              "muestras_con_brier": 3,
+              "muestras_con_log_loss": 3,
               "unidades_net": null,
               "roi_pct": null,
               "cuota_media": null,
@@ -36038,6 +36383,25 @@
               "log_loss": 0.7603,
               "muestras_con_brier": 9,
               "muestras_con_log_loss": 9,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
+            "MÉXICO - LIGA MX - APERTURA - JORNADA 9": {
+              "partidos": 1,
+              "aciertos": 1,
+              "fallos": 0,
+              "acierto": 100.0,
+              "intervalo_confianza_95_acierto": [
+                20.65,
+                100.0
+              ],
+              "brier": 0.1847,
+              "log_loss": 0.5618,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
               "unidades_net": null,
               "roi_pct": null,
               "cuota_media": null,
@@ -36133,6 +36497,25 @@
               "log_loss": 0.6676,
               "muestras_con_brier": 7,
               "muestras_con_log_loss": 7,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
+            "MÉXICO - PRIMERA PREMIER - JORNADA 4": {
+              "partidos": 1,
+              "aciertos": 1,
+              "fallos": 0,
+              "acierto": 100.0,
+              "intervalo_confianza_95_acierto": [
+                20.65,
+                100.0
+              ],
+              "brier": 0.1505,
+              "log_loss": 0.4909,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
               "unidades_net": null,
               "roi_pct": null,
               "cuota_media": null,
@@ -36576,6 +36959,25 @@
               "apuestas_con_cuota": 0,
               "muestra_suficiente": false
             },
+            "PANAMÁ - LPF - APERTURA - JORNADA 9": {
+              "partidos": 1,
+              "aciertos": 1,
+              "fallos": 0,
+              "acierto": 100.0,
+              "intervalo_confianza_95_acierto": [
+                20.65,
+                100.0
+              ],
+              "brier": 0.2101,
+              "log_loss": 0.6132,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
             "PARAGUAY - COPA DE PRIMERA - CLAUSURA - JORNADA 10": {
               "partidos": 6,
               "aciertos": 4,
@@ -36805,18 +37207,18 @@
               "muestra_suficiente": false
             },
             "PERÚ - LIGA 1 - CLAUSURA - JORNADA 10": {
-              "partidos": 1,
+              "partidos": 2,
               "aciertos": 1,
-              "fallos": 0,
-              "acierto": 100.0,
+              "fallos": 1,
+              "acierto": 50.0,
               "intervalo_confianza_95_acierto": [
-                20.65,
-                100.0
+                9.45,
+                90.55
               ],
-              "brier": 0.127,
-              "log_loss": 0.4407,
-              "muestras_con_brier": 1,
-              "muestras_con_log_loss": 1,
+              "brier": 0.2272,
+              "log_loss": 0.6448,
+              "muestras_con_brier": 2,
+              "muestras_con_log_loss": 2,
               "unidades_net": null,
               "roi_pct": null,
               "cuota_media": null,
@@ -39934,54 +40336,54 @@
               "apuestas_con_cuota": 0
             },
             "40% AL 50%": {
-              "partidos": 940,
+              "partidos": 942,
               "aciertos": 439,
-              "fallos": 501,
-              "acierto": 46.7,
+              "fallos": 503,
+              "acierto": 46.6,
               "intervalo_confianza_95_acierto": [
-                43.53,
-                49.9
+                43.44,
+                49.8
               ],
-              "brier": 0.251,
-              "log_loss": 0.6953,
-              "muestras_con_brier": 940,
-              "muestras_con_log_loss": 940,
+              "brier": 0.2509,
+              "log_loss": 0.695,
+              "muestras_con_brier": 942,
+              "muestras_con_log_loss": 942,
               "unidades_net": null,
               "roi_pct": null,
               "cuota_media": null,
               "apuestas_con_cuota": 0
             },
             "50% AL 60%": {
-              "partidos": 1307,
-              "aciertos": 747,
-              "fallos": 560,
-              "acierto": 57.15,
+              "partidos": 1315,
+              "aciertos": 751,
+              "fallos": 564,
+              "acierto": 57.11,
               "intervalo_confianza_95_acierto": [
-                54.45,
-                59.81
+                54.42,
+                59.76
               ],
               "brier": 0.2469,
               "log_loss": 0.6869,
-              "muestras_con_brier": 1307,
-              "muestras_con_log_loss": 1307,
+              "muestras_con_brier": 1315,
+              "muestras_con_log_loss": 1315,
               "unidades_net": null,
               "roi_pct": null,
               "cuota_media": null,
               "apuestas_con_cuota": 0
             },
             "60% AL 70%": {
-              "partidos": 479,
-              "aciertos": 269,
-              "fallos": 210,
-              "acierto": 56.16,
+              "partidos": 481,
+              "aciertos": 270,
+              "fallos": 211,
+              "acierto": 56.13,
               "intervalo_confianza_95_acierto": [
-                51.68,
-                60.54
+                51.67,
+                60.5
               ],
-              "brier": 0.2504,
-              "log_loss": 0.6945,
-              "muestras_con_brier": 479,
-              "muestras_con_log_loss": 479,
+              "brier": 0.2505,
+              "log_loss": 0.6946,
+              "muestras_con_brier": 481,
+              "muestras_con_log_loss": 481,
               "unidades_net": null,
               "roi_pct": null,
               "cuota_media": null,
@@ -40143,25 +40545,25 @@
         },
         "marcador_1": {
           "resumen": {
-            "partidos": 2976,
-            "aciertos": 339,
-            "fallos": 2637,
-            "acierto": 11.39,
+            "partidos": 2988,
+            "aciertos": 341,
+            "fallos": 2647,
+            "acierto": 11.41,
             "intervalo_confianza_95_acierto": [
-              10.3,
-              12.58
+              10.32,
+              12.6
             ],
-            "brier": 0.1011,
-            "log_loss": 0.3555,
-            "muestras_con_brier": 2976,
-            "muestras_con_log_loss": 2976,
+            "brier": 0.1013,
+            "log_loss": 0.356,
+            "muestras_con_brier": 2988,
+            "muestras_con_log_loss": 2988,
             "unidades_net": null,
             "roi_pct": null,
             "cuota_media": null,
             "apuestas_con_cuota": 0,
             "baseline_favorito_mercado": null,
             "baseline_favorito_partidos": 0,
-            "ece": 0.019355
+            "ece": 0.01914
           },
           "por_liga": {
             "ALBANIA - KATEGORIA E PARË - JORNADA 2": {
@@ -41448,6 +41850,25 @@
               ],
               "brier": 0.0138,
               "log_loss": 0.1249,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
+            "AUSTRALIA - VICTORIA PREMIER LEAGUE 2 - ASCENSO - PLAYOFFS - FINAL": {
+              "partidos": 1,
+              "aciertos": 0,
+              "fallos": 1,
+              "acierto": 0.0,
+              "intervalo_confianza_95_acierto": [
+                0.0,
+                79.35
+              ],
+              "brier": 0.0153,
+              "log_loss": 0.132,
               "muestras_con_brier": 1,
               "muestras_con_log_loss": 1,
               "unidades_net": null,
@@ -43565,6 +43986,25 @@
               "apuestas_con_cuota": 0,
               "muestra_suficiente": false
             },
+            "COSTA RICA - PRIMERA DIVISIÓN - APERTURA - JORNADA 9": {
+              "partidos": 1,
+              "aciertos": 0,
+              "fallos": 1,
+              "acierto": 0.0,
+              "intervalo_confianza_95_acierto": [
+                0.0,
+                79.35
+              ],
+              "brier": 0.0217,
+              "log_loss": 0.1595,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
             "CROACIA - COPA - 1/16 DE FINAL": {
               "partidos": 2,
               "aciertos": 0,
@@ -43899,6 +44339,25 @@
               ],
               "brier": 0.017,
               "log_loss": 0.1398,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
+            "ECUADOR - LIGA PRO - GRUPO DE CAMPEONATO - JORNADA 1": {
+              "partidos": 1,
+              "aciertos": 0,
+              "fallos": 1,
+              "acierto": 0.0,
+              "intervalo_confianza_95_acierto": [
+                0.0,
+                79.35
+              ],
+              "brier": 0.0188,
+              "log_loss": 0.1476,
               "muestras_con_brier": 1,
               "muestras_con_log_loss": 1,
               "unidades_net": null,
@@ -45257,18 +45716,18 @@
               "muestra_suficiente": true
             },
             "ESTADOS UNIDOS - NWSL": {
-              "partidos": 10,
+              "partidos": 11,
               "aciertos": 0,
-              "fallos": 10,
+              "fallos": 11,
               "acierto": 0.0,
               "intervalo_confianza_95_acierto": [
                 0.0,
-                27.75
+                25.88
               ],
               "brier": 0.0178,
-              "log_loss": 0.1431,
-              "muestras_con_brier": 10,
-              "muestras_con_log_loss": 10,
+              "log_loss": 0.143,
+              "muestras_con_brier": 11,
+              "muestras_con_log_loss": 11,
               "unidades_net": null,
               "roi_pct": null,
               "cuota_media": null,
@@ -46377,6 +46836,25 @@
               "apuestas_con_cuota": 0,
               "muestra_suficiente": false
             },
+            "GUATEMALA - LIGA NACIONAL - APERTURA - JORNADA 10": {
+              "partidos": 1,
+              "aciertos": 0,
+              "fallos": 1,
+              "acierto": 0.0,
+              "intervalo_confianza_95_acierto": [
+                0.0,
+                79.35
+              ],
+              "brier": 0.0201,
+              "log_loss": 0.1529,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
             "GUATEMALA - LIGA NACIONAL - APERTURA - JORNADA 9": {
               "partidos": 6,
               "aciertos": 0,
@@ -46416,18 +46894,18 @@
               "muestra_suficiente": false
             },
             "HONDURAS - LIGA NACIONAL - APERTURA - JORNADA 8": {
-              "partidos": 1,
+              "partidos": 2,
               "aciertos": 0,
-              "fallos": 1,
+              "fallos": 2,
               "acierto": 0.0,
               "intervalo_confianza_95_acierto": [
                 0.0,
-                79.35
+                65.76
               ],
-              "brier": 0.0184,
-              "log_loss": 0.1456,
-              "muestras_con_brier": 1,
-              "muestras_con_log_loss": 1,
+              "brier": 0.0192,
+              "log_loss": 0.149,
+              "muestras_con_brier": 2,
+              "muestras_con_log_loss": 2,
               "unidades_net": null,
               "roi_pct": null,
               "cuota_media": null,
@@ -49266,18 +49744,18 @@
               "muestra_suficiente": false
             },
             "MÉXICO - LIGA DE EXPANSIÓN MX - APERTURA - JORNADA 9": {
-              "partidos": 1,
+              "partidos": 3,
               "aciertos": 0,
-              "fallos": 1,
+              "fallos": 3,
               "acierto": 0.0,
               "intervalo_confianza_95_acierto": [
                 0.0,
-                79.35
+                56.15
               ],
-              "brier": 0.0191,
-              "log_loss": 0.1488,
-              "muestras_con_brier": 1,
-              "muestras_con_log_loss": 1,
+              "brier": 0.0175,
+              "log_loss": 0.1418,
+              "muestras_con_brier": 3,
+              "muestras_con_log_loss": 3,
               "unidades_net": null,
               "roi_pct": null,
               "cuota_media": null,
@@ -49316,6 +49794,25 @@
               "log_loss": 0.1432,
               "muestras_con_brier": 9,
               "muestras_con_log_loss": 9,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
+            "MÉXICO - LIGA MX - APERTURA - JORNADA 9": {
+              "partidos": 1,
+              "aciertos": 1,
+              "fallos": 0,
+              "acierto": 100.0,
+              "intervalo_confianza_95_acierto": [
+                20.65,
+                100.0
+              ],
+              "brier": 0.7536,
+              "log_loss": 2.0257,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
               "unidades_net": null,
               "roi_pct": null,
               "cuota_media": null,
@@ -49411,6 +49908,25 @@
               "log_loss": 0.3982,
               "muestras_con_brier": 7,
               "muestras_con_log_loss": 7,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
+            "MÉXICO - PRIMERA PREMIER - JORNADA 4": {
+              "partidos": 1,
+              "aciertos": 1,
+              "fallos": 0,
+              "acierto": 100.0,
+              "intervalo_confianza_95_acierto": [
+                20.65,
+                100.0
+              ],
+              "brier": 0.78,
+              "log_loss": 2.1473,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
               "unidades_net": null,
               "roi_pct": null,
               "cuota_media": null,
@@ -49854,6 +50370,25 @@
               "apuestas_con_cuota": 0,
               "muestra_suficiente": false
             },
+            "PANAMÁ - LPF - APERTURA - JORNADA 9": {
+              "partidos": 1,
+              "aciertos": 0,
+              "fallos": 1,
+              "acierto": 0.0,
+              "intervalo_confianza_95_acierto": [
+                0.0,
+                79.35
+              ],
+              "brier": 0.0162,
+              "log_loss": 0.1362,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
             "PARAGUAY - COPA DE PRIMERA - CLAUSURA - JORNADA 10": {
               "partidos": 6,
               "aciertos": 2,
@@ -50083,18 +50618,18 @@
               "muestra_suficiente": false
             },
             "PERÚ - LIGA 1 - CLAUSURA - JORNADA 10": {
-              "partidos": 1,
+              "partidos": 2,
               "aciertos": 0,
-              "fallos": 1,
+              "fallos": 2,
               "acierto": 0.0,
               "intervalo_confianza_95_acierto": [
                 0.0,
-                79.35
+                65.76
               ],
-              "brier": 0.015,
-              "log_loss": 0.1305,
-              "muestras_con_brier": 1,
-              "muestras_con_log_loss": 1,
+              "brier": 0.0163,
+              "log_loss": 0.1364,
+              "muestras_con_brier": 2,
+              "muestras_con_log_loss": 2,
               "unidades_net": null,
               "roi_pct": null,
               "cuota_media": null,
@@ -53168,18 +53703,18 @@
               "apuestas_con_cuota": 0
             },
             "10% AL 20%": {
-              "partidos": 2973,
-              "aciertos": 339,
-              "fallos": 2634,
-              "acierto": 11.4,
+              "partidos": 2985,
+              "aciertos": 341,
+              "fallos": 2644,
+              "acierto": 11.42,
               "intervalo_confianza_95_acierto": [
-                10.31,
-                12.6
+                10.33,
+                12.61
               ],
-              "brier": 0.1012,
-              "log_loss": 0.3558,
-              "muestras_con_brier": 2973,
-              "muestras_con_log_loss": 2973,
+              "brier": 0.1014,
+              "log_loss": 0.3562,
+              "muestras_con_brier": 2985,
+              "muestras_con_log_loss": 2985,
               "unidades_net": null,
               "roi_pct": null,
               "cuota_media": null,
@@ -53401,25 +53936,25 @@
         },
         "marcador_2": {
           "resumen": {
-            "partidos": 2976,
-            "aciertos": 299,
-            "fallos": 2677,
-            "acierto": 10.05,
+            "partidos": 2988,
+            "aciertos": 300,
+            "fallos": 2688,
+            "acierto": 10.04,
             "intervalo_confianza_95_acierto": [
-              9.02,
-              11.18
+              9.01,
+              11.17
             ],
-            "brier": 0.0901,
-            "log_loss": 0.3245,
-            "muestras_con_brier": 2976,
-            "muestras_con_log_loss": 2976,
+            "brier": 0.09,
+            "log_loss": 0.3244,
+            "muestras_con_brier": 2988,
+            "muestras_con_log_loss": 2988,
             "unidades_net": null,
             "roi_pct": null,
             "cuota_media": null,
             "apuestas_con_cuota": 0,
             "baseline_favorito_mercado": null,
             "baseline_favorito_partidos": 0,
-            "ece": 0.005178
+            "ece": 0.005245
           },
           "por_liga": {
             "ALBANIA - KATEGORIA E PARË - JORNADA 2": {
@@ -54706,6 +55241,25 @@
               ],
               "brier": 0.0094,
               "log_loss": 0.1018,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
+            "AUSTRALIA - VICTORIA PREMIER LEAGUE 2 - ASCENSO - PLAYOFFS - FINAL": {
+              "partidos": 1,
+              "aciertos": 0,
+              "fallos": 1,
+              "acierto": 0.0,
+              "intervalo_confianza_95_acierto": [
+                0.0,
+                79.35
+              ],
+              "brier": 0.0089,
+              "log_loss": 0.0994,
               "muestras_con_brier": 1,
               "muestras_con_log_loss": 1,
               "unidades_net": null,
@@ -56823,6 +57377,25 @@
               "apuestas_con_cuota": 0,
               "muestra_suficiente": false
             },
+            "COSTA RICA - PRIMERA DIVISIÓN - APERTURA - JORNADA 9": {
+              "partidos": 1,
+              "aciertos": 0,
+              "fallos": 1,
+              "acierto": 0.0,
+              "intervalo_confianza_95_acierto": [
+                0.0,
+                79.35
+              ],
+              "brier": 0.0169,
+              "log_loss": 0.1391,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
             "CROACIA - COPA - 1/16 DE FINAL": {
               "partidos": 2,
               "aciertos": 0,
@@ -57157,6 +57730,25 @@
               ],
               "brier": 0.0095,
               "log_loss": 0.1026,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
+            "ECUADOR - LIGA PRO - GRUPO DE CAMPEONATO - JORNADA 1": {
+              "partidos": 1,
+              "aciertos": 0,
+              "fallos": 1,
+              "acierto": 0.0,
+              "intervalo_confianza_95_acierto": [
+                0.0,
+                79.35
+              ],
+              "brier": 0.0089,
+              "log_loss": 0.0993,
               "muestras_con_brier": 1,
               "muestras_con_log_loss": 1,
               "unidades_net": null,
@@ -58515,18 +59107,18 @@
               "muestra_suficiente": true
             },
             "ESTADOS UNIDOS - NWSL": {
-              "partidos": 10,
+              "partidos": 11,
               "aciertos": 1,
-              "fallos": 9,
-              "acierto": 10.0,
+              "fallos": 10,
+              "acierto": 9.09,
               "intervalo_confianza_95_acierto": [
-                1.79,
-                40.42
+                1.62,
+                37.74
               ],
-              "brier": 0.0944,
-              "log_loss": 0.3488,
-              "muestras_con_brier": 10,
-              "muestras_con_log_loss": 10,
+              "brier": 0.0867,
+              "log_loss": 0.3262,
+              "muestras_con_brier": 11,
+              "muestras_con_log_loss": 11,
               "unidades_net": null,
               "roi_pct": null,
               "cuota_media": null,
@@ -59635,6 +60227,25 @@
               "apuestas_con_cuota": 0,
               "muestra_suficiente": false
             },
+            "GUATEMALA - LIGA NACIONAL - APERTURA - JORNADA 10": {
+              "partidos": 1,
+              "aciertos": 0,
+              "fallos": 1,
+              "acierto": 0.0,
+              "intervalo_confianza_95_acierto": [
+                0.0,
+                79.35
+              ],
+              "brier": 0.0116,
+              "log_loss": 0.1142,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
             "GUATEMALA - LIGA NACIONAL - APERTURA - JORNADA 9": {
               "partidos": 6,
               "aciertos": 1,
@@ -59674,18 +60285,18 @@
               "muestra_suficiente": false
             },
             "HONDURAS - LIGA NACIONAL - APERTURA - JORNADA 8": {
-              "partidos": 1,
+              "partidos": 2,
               "aciertos": 0,
-              "fallos": 1,
+              "fallos": 2,
               "acierto": 0.0,
               "intervalo_confianza_95_acierto": [
                 0.0,
-                79.35
+                65.76
               ],
-              "brier": 0.018,
-              "log_loss": 0.144,
-              "muestras_con_brier": 1,
-              "muestras_con_log_loss": 1,
+              "brier": 0.0155,
+              "log_loss": 0.1325,
+              "muestras_con_brier": 2,
+              "muestras_con_log_loss": 2,
               "unidades_net": null,
               "roi_pct": null,
               "cuota_media": null,
@@ -62524,18 +63135,18 @@
               "muestra_suficiente": false
             },
             "MÉXICO - LIGA DE EXPANSIÓN MX - APERTURA - JORNADA 9": {
-              "partidos": 1,
-              "aciertos": 0,
-              "fallos": 1,
-              "acierto": 0.0,
+              "partidos": 3,
+              "aciertos": 1,
+              "fallos": 2,
+              "acierto": 33.33,
               "intervalo_confianza_95_acierto": [
-                0.0,
-                79.35
+                6.15,
+                79.23
               ],
-              "brier": 0.016,
-              "log_loss": 0.1354,
-              "muestras_con_brier": 1,
-              "muestras_con_log_loss": 1,
+              "brier": 0.2797,
+              "log_loss": 0.8532,
+              "muestras_con_brier": 3,
+              "muestras_con_log_loss": 3,
               "unidades_net": null,
               "roi_pct": null,
               "cuota_media": null,
@@ -62574,6 +63185,25 @@
               "log_loss": 0.3586,
               "muestras_con_brier": 9,
               "muestras_con_log_loss": 9,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
+            "MÉXICO - LIGA MX - APERTURA - JORNADA 9": {
+              "partidos": 1,
+              "aciertos": 0,
+              "fallos": 1,
+              "acierto": 0.0,
+              "intervalo_confianza_95_acierto": [
+                0.0,
+                79.35
+              ],
+              "brier": 0.0123,
+              "log_loss": 0.1174,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
               "unidades_net": null,
               "roi_pct": null,
               "cuota_media": null,
@@ -62669,6 +63299,25 @@
               "log_loss": 0.7364,
               "muestras_con_brier": 7,
               "muestras_con_log_loss": 7,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
+            "MÉXICO - PRIMERA PREMIER - JORNADA 4": {
+              "partidos": 1,
+              "aciertos": 0,
+              "fallos": 1,
+              "acierto": 0.0,
+              "intervalo_confianza_95_acierto": [
+                0.0,
+                79.35
+              ],
+              "brier": 0.0102,
+              "log_loss": 0.1064,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
               "unidades_net": null,
               "roi_pct": null,
               "cuota_media": null,
@@ -63112,6 +63761,25 @@
               "apuestas_con_cuota": 0,
               "muestra_suficiente": false
             },
+            "PANAMÁ - LPF - APERTURA - JORNADA 9": {
+              "partidos": 1,
+              "aciertos": 0,
+              "fallos": 1,
+              "acierto": 0.0,
+              "intervalo_confianza_95_acierto": [
+                0.0,
+                79.35
+              ],
+              "brier": 0.0103,
+              "log_loss": 0.1073,
+              "muestras_con_brier": 1,
+              "muestras_con_log_loss": 1,
+              "unidades_net": null,
+              "roi_pct": null,
+              "cuota_media": null,
+              "apuestas_con_cuota": 0,
+              "muestra_suficiente": false
+            },
             "PARAGUAY - COPA DE PRIMERA - CLAUSURA - JORNADA 10": {
               "partidos": 6,
               "aciertos": 0,
@@ -63341,18 +64009,18 @@
               "muestra_suficiente": false
             },
             "PERÚ - LIGA 1 - CLAUSURA - JORNADA 10": {
-              "partidos": 1,
+              "partidos": 2,
               "aciertos": 1,
-              "fallos": 0,
-              "acierto": 100.0,
+              "fallos": 1,
+              "acierto": 50.0,
               "intervalo_confianza_95_acierto": [
-                20.65,
-                100.0
+                9.45,
+                90.55
               ],
-              "brier": 0.8138,
-              "log_loss": 2.3238,
-              "muestras_con_brier": 1,
-              "muestras_con_log_loss": 1,
+              "brier": 0.4145,
+              "log_loss": 1.2275,
+              "muestras_con_brier": 2,
+              "muestras_con_log_loss": 2,
               "unidades_net": null,
               "roi_pct": null,
               "cuota_media": null,
@@ -66408,36 +67076,36 @@
           },
           "por_probabilidad": {
             "MENOS DE 10%": {
-              "partidos": 1340,
-              "aciertos": 113,
-              "fallos": 1227,
-              "acierto": 8.43,
+              "partidos": 1345,
+              "aciertos": 114,
+              "fallos": 1231,
+              "acierto": 8.48,
               "intervalo_confianza_95_acierto": [
-                7.06,
-                10.04
+                7.1,
+                10.09
               ],
-              "brier": 0.0772,
-              "log_loss": 0.2891,
-              "muestras_con_brier": 1340,
-              "muestras_con_log_loss": 1340,
+              "brier": 0.0775,
+              "log_loss": 0.29,
+              "muestras_con_brier": 1345,
+              "muestras_con_log_loss": 1345,
               "unidades_net": null,
               "roi_pct": null,
               "cuota_media": null,
               "apuestas_con_cuota": 0
             },
             "10% AL 20%": {
-              "partidos": 1636,
+              "partidos": 1643,
               "aciertos": 186,
-              "fallos": 1450,
-              "acierto": 11.37,
+              "fallos": 1457,
+              "acierto": 11.32,
               "intervalo_confianza_95_acierto": [
-                9.92,
-                13.0
+                9.88,
+                12.94
               ],
-              "brier": 0.1006,
-              "log_loss": 0.3535,
-              "muestras_con_brier": 1636,
-              "muestras_con_log_loss": 1636,
+              "brier": 0.1002,
+              "log_loss": 0.3525,
+              "muestras_con_brier": 1643,
+              "muestras_con_log_loss": 1643,
               "unidades_net": null,
               "roi_pct": null,
               "cuota_media": null,
@@ -66679,8 +67347,8 @@
             "roi_pct": -3.95,
             "cuota_media": 1.802,
             "apuestas_con_cuota": 198,
-            "baseline_favorito_mercado": 52.79,
-            "baseline_favorito_partidos": 2976,
+            "baseline_favorito_mercado": 52.81,
+            "baseline_favorito_partidos": 2988,
             "ece": 0.064518
           },
           "por_liga": {
@@ -82767,8 +83435,8 @@
             "roi_pct": -4.9,
             "cuota_media": 1.594,
             "apuestas_con_cuota": 69,
-            "baseline_favorito_mercado": 52.79,
-            "baseline_favorito_partidos": 2976,
+            "baseline_favorito_mercado": 52.81,
+            "baseline_favorito_partidos": 2988,
             "ece": 0.044643
           },
           "por_liga": {
@@ -90135,9 +90803,9 @@
   "comparativo": [
     {
       "categoria": "IA_PARTIDOS",
-      "partidos": 2976,
-      "aciertos": 1370,
-      "acierto": 46.03
+      "partidos": 2988,
+      "aciertos": 1375,
+      "acierto": 46.02
     },
     {
       "categoria": "SELECT",
@@ -90155,25 +90823,25 @@
   "presentacion_solicitada": {
     "resultado_directo": {
       "IA_PARTIDOS": {
-        "partidos": 2976,
-        "aciertos": 1370,
-        "fallos": 1606,
-        "acierto": 46.03,
+        "partidos": 2988,
+        "aciertos": 1375,
+        "fallos": 1613,
+        "acierto": 46.02,
         "intervalo_confianza_95_acierto": [
-          44.25,
-          47.83
+          44.24,
+          47.81
         ],
         "brier": 0.2421,
         "log_loss": 0.6768,
-        "muestras_con_brier": 2976,
-        "muestras_con_log_loss": 2976,
-        "unidades_net": -215.16,
-        "roi_pct": -7.23,
-        "cuota_media": 2.421,
-        "apuestas_con_cuota": 2976,
-        "baseline_favorito_mercado": 52.79,
-        "baseline_favorito_partidos": 2976,
-        "ece": 0.01613
+        "muestras_con_brier": 2988,
+        "muestras_con_log_loss": 2988,
+        "unidades_net": -217.42,
+        "roi_pct": -7.28,
+        "cuota_media": 2.42,
+        "apuestas_con_cuota": 2988,
+        "baseline_favorito_mercado": 52.81,
+        "baseline_favorito_partidos": 2988,
+        "ece": 0.015862
       },
       "SELECT": {
         "partidos": 198,
@@ -90192,8 +90860,8 @@
         "roi_pct": -3.95,
         "cuota_media": 1.802,
         "apuestas_con_cuota": 198,
-        "baseline_favorito_mercado": 52.79,
-        "baseline_favorito_partidos": 2976,
+        "baseline_favorito_mercado": 52.81,
+        "baseline_favorito_partidos": 2988,
         "ece": 0.064518
       },
       "PREMIUM": {
@@ -90213,32 +90881,32 @@
         "roi_pct": -4.9,
         "cuota_media": 1.594,
         "apuestas_con_cuota": 69,
-        "baseline_favorito_mercado": 52.79,
-        "baseline_favorito_partidos": 2976,
+        "baseline_favorito_mercado": 52.81,
+        "baseline_favorito_partidos": 2988,
         "ece": 0.044643
       }
     },
     "resultado_doble_oportunidad": {
       "IA_PARTIDOS": {
-        "partidos": 2976,
-        "aciertos": 2323,
-        "fallos": 653,
-        "acierto": 78.06,
+        "partidos": 2988,
+        "aciertos": 2332,
+        "fallos": 656,
+        "acierto": 78.05,
         "intervalo_confianza_95_acierto": [
-          76.54,
-          79.51
+          76.53,
+          79.49
         ],
-        "brier": 0.1672,
-        "log_loss": 0.514,
-        "muestras_con_brier": 2976,
-        "muestras_con_log_loss": 2976,
+        "brier": 0.1673,
+        "log_loss": 0.5141,
+        "muestras_con_brier": 2988,
+        "muestras_con_log_loss": 2988,
         "unidades_net": null,
         "roi_pct": null,
         "cuota_media": null,
         "apuestas_con_cuota": 0,
         "baseline_favorito_mercado": null,
         "baseline_favorito_partidos": 0,
-        "ece": 0.030416
+        "ece": 0.030069
       },
       "SELECT": {
         "partidos": 198,
@@ -90285,25 +90953,25 @@
     },
     "resultado_ambos_marcan": {
       "IA_PARTIDOS": {
-        "partidos": 2976,
-        "aciertos": 1599,
-        "fallos": 1377,
-        "acierto": 53.73,
+        "partidos": 2988,
+        "aciertos": 1604,
+        "fallos": 1384,
+        "acierto": 53.68,
         "intervalo_confianza_95_acierto": [
-          51.93,
-          55.52
+          51.89,
+          55.46
         ],
         "brier": 0.2508,
         "log_loss": 0.6951,
-        "muestras_con_brier": 2976,
-        "muestras_con_log_loss": 2976,
+        "muestras_con_brier": 2988,
+        "muestras_con_log_loss": 2988,
         "unidades_net": null,
         "roi_pct": null,
         "cuota_media": null,
         "apuestas_con_cuota": 0,
         "baseline_favorito_mercado": null,
         "baseline_favorito_partidos": 0,
-        "ece": 0.037731
+        "ece": 0.037258
       },
       "SELECT": {
         "partidos": 198,
@@ -90350,25 +91018,25 @@
     },
     "marcador_1": {
       "IA_PARTIDOS": {
-        "partidos": 2976,
-        "aciertos": 339,
-        "fallos": 2637,
-        "acierto": 11.39,
+        "partidos": 2988,
+        "aciertos": 341,
+        "fallos": 2647,
+        "acierto": 11.41,
         "intervalo_confianza_95_acierto": [
-          10.3,
-          12.58
+          10.32,
+          12.6
         ],
-        "brier": 0.1011,
-        "log_loss": 0.3555,
-        "muestras_con_brier": 2976,
-        "muestras_con_log_loss": 2976,
+        "brier": 0.1013,
+        "log_loss": 0.356,
+        "muestras_con_brier": 2988,
+        "muestras_con_log_loss": 2988,
         "unidades_net": null,
         "roi_pct": null,
         "cuota_media": null,
         "apuestas_con_cuota": 0,
         "baseline_favorito_mercado": null,
         "baseline_favorito_partidos": 0,
-        "ece": 0.019355
+        "ece": 0.01914
       },
       "SELECT": {
         "partidos": 198,
@@ -90415,25 +91083,25 @@
     },
     "marcador_2": {
       "IA_PARTIDOS": {
-        "partidos": 2976,
-        "aciertos": 299,
-        "fallos": 2677,
-        "acierto": 10.05,
+        "partidos": 2988,
+        "aciertos": 300,
+        "fallos": 2688,
+        "acierto": 10.04,
         "intervalo_confianza_95_acierto": [
-          9.02,
-          11.18
+          9.01,
+          11.17
         ],
-        "brier": 0.0901,
-        "log_loss": 0.3245,
-        "muestras_con_brier": 2976,
-        "muestras_con_log_loss": 2976,
+        "brier": 0.09,
+        "log_loss": 0.3244,
+        "muestras_con_brier": 2988,
+        "muestras_con_log_loss": 2988,
         "unidades_net": null,
         "roi_pct": null,
         "cuota_media": null,
         "apuestas_con_cuota": 0,
         "baseline_favorito_mercado": null,
         "baseline_favorito_partidos": 0,
-        "ece": 0.005178
+        "ece": 0.005245
       },
       "SELECT": {
         "partidos": 198,
@@ -90816,94 +91484,94 @@
     "porcentaje_favorito": {
       "IA_PARTIDOS": {
         "35% AL 40%": {
-          "partidos": 568,
+          "partidos": 569,
           "aciertos": 203,
-          "fallos": 365,
-          "acierto": 35.74,
+          "fallos": 366,
+          "acierto": 35.68,
           "intervalo_confianza_95_acierto": [
-            31.91,
-            39.76
+            31.85,
+            39.7
           ],
-          "brier": 0.2301,
-          "log_loss": 0.6518,
-          "muestras_con_brier": 568,
-          "muestras_con_log_loss": 568,
-          "unidades_net": -64.11,
-          "roi_pct": -11.29,
-          "cuota_media": 2.936,
-          "apuestas_con_cuota": 568
+          "brier": 0.2299,
+          "log_loss": 0.6515,
+          "muestras_con_brier": 569,
+          "muestras_con_log_loss": 569,
+          "unidades_net": -65.11,
+          "roi_pct": -11.44,
+          "cuota_media": 2.937,
+          "apuestas_con_cuota": 569
         },
         "40% AL 45%": {
-          "partidos": 856,
-          "aciertos": 359,
-          "fallos": 497,
-          "acierto": 41.94,
+          "partidos": 860,
+          "aciertos": 360,
+          "fallos": 500,
+          "acierto": 41.86,
           "intervalo_confianza_95_acierto": [
-            38.68,
-            45.27
+            38.61,
+            45.19
           ],
-          "brier": 0.2439,
-          "log_loss": 0.6799,
-          "muestras_con_brier": 856,
-          "muestras_con_log_loss": 856,
-          "unidades_net": -79.53,
-          "roi_pct": -9.29,
-          "cuota_media": 2.621,
-          "apuestas_con_cuota": 856
+          "brier": 0.2438,
+          "log_loss": 0.6796,
+          "muestras_con_brier": 860,
+          "muestras_con_log_loss": 860,
+          "unidades_net": -81.15,
+          "roi_pct": -9.44,
+          "cuota_media": 2.619,
+          "apuestas_con_cuota": 860
         },
         "45% AL 50%": {
-          "partidos": 706,
-          "aciertos": 324,
+          "partidos": 708,
+          "aciertos": 326,
           "fallos": 382,
-          "acierto": 45.89,
+          "acierto": 46.05,
           "intervalo_confianza_95_acierto": [
-            42.25,
-            49.58
+            42.4,
+            49.73
           ],
-          "brier": 0.2481,
-          "log_loss": 0.6894,
-          "muestras_con_brier": 706,
-          "muestras_con_log_loss": 706,
-          "unidades_net": -48.48,
-          "roi_pct": -6.87,
+          "brier": 0.2482,
+          "log_loss": 0.6896,
+          "muestras_con_brier": 708,
+          "muestras_con_log_loss": 708,
+          "unidades_net": -45.98,
+          "roi_pct": -6.49,
           "cuota_media": 2.292,
-          "apuestas_con_cuota": 706
+          "apuestas_con_cuota": 708
         },
         "50% AL 55%": {
-          "partidos": 481,
-          "aciertos": 266,
-          "fallos": 215,
-          "acierto": 55.3,
+          "partidos": 485,
+          "aciertos": 268,
+          "fallos": 217,
+          "acierto": 55.26,
           "intervalo_confianza_95_acierto": [
-            50.83,
-            59.69
+            50.81,
+            59.62
           ],
           "brier": 0.2482,
           "log_loss": 0.6895,
-          "muestras_con_brier": 481,
-          "muestras_con_log_loss": 481,
-          "unidades_net": -3.44,
-          "roi_pct": -0.72,
-          "cuota_media": 2.064,
-          "apuestas_con_cuota": 481
+          "muestras_con_brier": 485,
+          "muestras_con_log_loss": 485,
+          "unidades_net": -4.58,
+          "roi_pct": -0.94,
+          "cuota_media": 2.063,
+          "apuestas_con_cuota": 485
         },
         "MAS DE 55%": {
-          "partidos": 357,
+          "partidos": 358,
           "aciertos": 215,
-          "fallos": 142,
-          "acierto": 60.22,
+          "fallos": 143,
+          "acierto": 60.06,
           "intervalo_confianza_95_acierto": [
-            55.06,
-            65.17
+            54.9,
+            65.0
           ],
-          "brier": 0.2373,
-          "log_loss": 0.6672,
-          "muestras_con_brier": 357,
-          "muestras_con_log_loss": 357,
-          "unidades_net": -17.62,
-          "roi_pct": -4.94,
+          "brier": 0.2375,
+          "log_loss": 0.6678,
+          "muestras_con_brier": 358,
+          "muestras_con_log_loss": 358,
+          "unidades_net": -18.62,
+          "roi_pct": -5.2,
           "cuota_media": 1.846,
-          "apuestas_con_cuota": 357
+          "apuestas_con_cuota": 358
         }
       },
       "SELECT": {
@@ -91064,112 +91732,112 @@
     "porcentaje_cuotas": {
       "IA_PARTIDOS": {
         "MENOS DE 1.50": {
-          "partidos": 394,
-          "aciertos": 302,
+          "partidos": 395,
+          "aciertos": 303,
           "fallos": 92,
-          "acierto": 76.65,
+          "acierto": 76.71,
           "intervalo_confianza_95_acierto": [
-            72.23,
-            80.56
+            72.3,
+            80.61
           ],
           "brier": 0.2431,
-          "log_loss": 0.6791,
-          "muestras_con_brier": 394,
-          "muestras_con_log_loss": 394,
-          "unidades_net": 2.05,
-          "roi_pct": 0.52,
+          "log_loss": 0.679,
+          "muestras_con_brier": 395,
+          "muestras_con_log_loss": 395,
+          "unidades_net": 2.32,
+          "roi_pct": 0.59,
           "cuota_media": 1.32,
-          "apuestas_con_cuota": 394
+          "apuestas_con_cuota": 395
         },
         "1.50 AL 1.70": {
-          "partidos": 358,
-          "aciertos": 217,
-          "fallos": 141,
-          "acierto": 60.61,
+          "partidos": 360,
+          "aciertos": 218,
+          "fallos": 142,
+          "acierto": 60.56,
           "intervalo_confianza_95_acierto": [
-            55.47,
-            65.54
+            55.42,
+            65.47
           ],
-          "brier": 0.2555,
-          "log_loss": 0.7043,
-          "muestras_con_brier": 358,
-          "muestras_con_log_loss": 358,
-          "unidades_net": -12.58,
-          "roi_pct": -3.51,
+          "brier": 0.2556,
+          "log_loss": 0.7046,
+          "muestras_con_brier": 360,
+          "muestras_con_log_loss": 360,
+          "unidades_net": -12.99,
+          "roi_pct": -3.61,
           "cuota_media": 1.594,
-          "apuestas_con_cuota": 358
+          "apuestas_con_cuota": 360
         },
         "1.70 AL 1.90": {
-          "partidos": 369,
+          "partidos": 370,
           "aciertos": 205,
-          "fallos": 164,
-          "acierto": 55.56,
+          "fallos": 165,
+          "acierto": 55.41,
           "intervalo_confianza_95_acierto": [
-            50.45,
-            60.54
+            50.31,
+            60.39
           ],
-          "brier": 0.2531,
-          "log_loss": 0.6972,
-          "muestras_con_brier": 369,
-          "muestras_con_log_loss": 369,
-          "unidades_net": -1.91,
-          "roi_pct": -0.52,
+          "brier": 0.2529,
+          "log_loss": 0.6968,
+          "muestras_con_brier": 370,
+          "muestras_con_log_loss": 370,
+          "unidades_net": -2.91,
+          "roi_pct": -0.79,
           "cuota_media": 1.787,
-          "apuestas_con_cuota": 369
+          "apuestas_con_cuota": 370
         },
         "1.90 AL 2.10": {
-          "partidos": 322,
+          "partidos": 324,
           "aciertos": 160,
-          "fallos": 162,
-          "acierto": 49.69,
+          "fallos": 164,
+          "acierto": 49.38,
           "intervalo_confianza_95_acierto": [
-            44.26,
-            55.12
+            43.98,
+            54.8
           ],
-          "brier": 0.2527,
-          "log_loss": 0.6988,
-          "muestras_con_brier": 322,
-          "muestras_con_log_loss": 322,
-          "unidades_net": -4.44,
-          "roi_pct": -1.38,
+          "brier": 0.2525,
+          "log_loss": 0.6984,
+          "muestras_con_brier": 324,
+          "muestras_con_log_loss": 324,
+          "unidades_net": -6.44,
+          "roi_pct": -1.99,
           "cuota_media": 1.985,
-          "apuestas_con_cuota": 322
+          "apuestas_con_cuota": 324
         },
         "2.10 AL 2.30": {
-          "partidos": 345,
-          "aciertos": 137,
+          "partidos": 346,
+          "aciertos": 138,
           "fallos": 208,
-          "acierto": 39.71,
+          "acierto": 39.88,
           "intervalo_confianza_95_acierto": [
-            34.69,
-            44.96
+            34.86,
+            45.13
           ],
-          "brier": 0.2454,
-          "log_loss": 0.6826,
-          "muestras_con_brier": 345,
-          "muestras_con_log_loss": 345,
-          "unidades_net": -46.82,
-          "roi_pct": -13.57,
+          "brier": 0.2455,
+          "log_loss": 0.6828,
+          "muestras_con_brier": 346,
+          "muestras_con_log_loss": 346,
+          "unidades_net": -45.64,
+          "roi_pct": -13.19,
           "cuota_media": 2.181,
-          "apuestas_con_cuota": 345
+          "apuestas_con_cuota": 346
         },
         "2.30 AL 2.50": {
-          "partidos": 249,
-          "aciertos": 104,
-          "fallos": 145,
-          "acierto": 41.77,
+          "partidos": 252,
+          "aciertos": 106,
+          "fallos": 146,
+          "acierto": 42.06,
           "intervalo_confianza_95_acierto": [
-            35.81,
-            47.97
+            36.13,
+            48.23
           ],
-          "brier": 0.2481,
-          "log_loss": 0.6894,
-          "muestras_con_brier": 249,
-          "muestras_con_log_loss": 249,
-          "unidades_net": -2.28,
-          "roi_pct": -0.92,
+          "brier": 0.2485,
+          "log_loss": 0.6903,
+          "muestras_con_brier": 252,
+          "muestras_con_log_loss": 252,
+          "unidades_net": -0.58,
+          "roi_pct": -0.23,
           "cuota_media": 2.379,
-          "apuestas_con_cuota": 249
+          "apuestas_con_cuota": 252
         },
         "2.50 AL 2.70": {
           "partidos": 238,
@@ -91226,40 +91894,40 @@
           "apuestas_con_cuota": 105
         },
         "3.10 AL 3.30": {
-          "partidos": 69,
+          "partidos": 70,
           "aciertos": 20,
-          "fallos": 49,
-          "acierto": 28.99,
+          "fallos": 50,
+          "acierto": 28.57,
           "intervalo_confianza_95_acierto": [
-            19.62,
-            40.57
+            19.32,
+            40.05
           ],
-          "brier": 0.2231,
-          "log_loss": 0.6386,
-          "muestras_con_brier": 69,
-          "muestras_con_log_loss": 69,
-          "unidades_net": -5.8,
-          "roi_pct": -8.41,
-          "cuota_media": 3.162,
-          "apuestas_con_cuota": 69
+          "brier": 0.2226,
+          "log_loss": 0.6376,
+          "muestras_con_brier": 70,
+          "muestras_con_log_loss": 70,
+          "unidades_net": -6.8,
+          "roi_pct": -9.71,
+          "cuota_media": 3.161,
+          "apuestas_con_cuota": 70
         },
         "3.30 AL 3.50": {
-          "partidos": 52,
+          "partidos": 53,
           "aciertos": 14,
-          "fallos": 38,
-          "acierto": 26.92,
+          "fallos": 39,
+          "acierto": 26.42,
           "intervalo_confianza_95_acierto": [
-            16.77,
-            40.25
+            16.44,
+            39.58
           ],
-          "brier": 0.2235,
-          "log_loss": 0.6393,
-          "muestras_con_brier": 52,
-          "muestras_con_log_loss": 52,
-          "unidades_net": -5.0,
-          "roi_pct": -9.62,
+          "brier": 0.2221,
+          "log_loss": 0.6364,
+          "muestras_con_brier": 53,
+          "muestras_con_log_loss": 53,
+          "unidades_net": -6.0,
+          "roi_pct": -11.32,
           "cuota_media": 3.371,
-          "apuestas_con_cuota": 52
+          "apuestas_con_cuota": 53
         },
         "MAS DE 3.50": {
           "partidos": 321,
