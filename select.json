@@ -1,6 +1,6 @@
 {
     "fecha_generacion": "2026-09-18",
-    "cantidad": 86,
+    "cantidad": 89,
     "partidos": [
         {
             "fecha": "2026-09-19",
@@ -18954,6 +18954,663 @@
                         "resultado": "1",
                         "nombre": "JVW FC F",
                         "probabilidad": 63.95
+                    },
+                    "confirma_marcador_1": true,
+                    "confirma_marcador_2": true
+                }
+            }
+        },
+        {
+            "fecha": "2026-09-19",
+            "hora": "07:00",
+            "local": "LASK F",
+            "visitante": "Salzburgo F",
+            "pais": "AUSTRIA",
+            "liga": "BUNDESLIGA FEMENINA - JORNADA 7",
+            "link": "https://www.flashscore.co/partido/futbol/lask-linz-jVy2IQha/salzburg-ARK3ldXQ/?mid=QJbN8ozS",
+            "fuente_datos": "Flashscore",
+            "logolocal": "https://static.flashscore.com/res/image/data/S43N70Zg-tYkXrLBr.png",
+            "logovisitante": "https://static.flashscore.com/res/image/data/lpd7h7eM-t0vu088A.png",
+            "favorito": "LASK F",
+            "probabilidad_favorito": 43.54,
+            "nofavorito": "Salzburgo F",
+            "probabilidad_nofavorito": 28.21,
+            "probabilidad_empate": 28.25,
+            "marcador_probable": "1-0",
+            "ultimo_resultado_favorito": "",
+            "ultimo_resultado_nofavorito": "",
+            "ultimo_enfrentamiento": {
+                "fecha": "04.04.26",
+                "local": "Salzburgo F",
+                "visitante": "LASK F",
+                "goles_local": "2",
+                "goles_visitante": "0"
+            },
+            "ambos_marcan_probabilidad": 34.98,
+            "condiciones": {
+                "motivo": "Poisson y Monte Carlo coinciden y el marcador 1 confirma la recomendación."
+            },
+            "pick": "1",
+            "probabilidad": 71.79,
+            "motivo": "Poisson y Monte Carlo coinciden y el marcador 1 confirma la recomendación.",
+            "mercado": "1X",
+            "marcador_1": "1-0",
+            "marcador_2": "1-1",
+            "select": true,
+            "analisis": {
+                "motor": "Motor_analitico",
+                "version": "4.0",
+                "partido": {
+                    "local": "LASK F",
+                    "visitante": "Salzburgo F"
+                },
+                "analisis_final": {
+                    "1X2": {
+                        "Local": 43.54,
+                        "Empate": 28.25,
+                        "Visitante": 28.21
+                    },
+                    "recomendacion": {
+                        "mercado": "1X",
+                        "probabilidad": 71.79,
+                        "estado": "DOBLE",
+                        "motivo": "El 1X2 directo no supera el filtro; se conserva cobertura.",
+                        "cuota": 2.65
+                    },
+                    "marcadores": [
+                        {
+                            "marcador": "1-0",
+                            "probabilidad": 15.02
+                        },
+                        {
+                            "marcador": "1-1",
+                            "probabilidad": 13.69
+                        }
+                    ],
+                    "btts": {
+                        "resultado": "NO",
+                        "probabilidad": 34.98
+                    },
+                    "over_under": {
+                        "mercado": "Over 1.5",
+                        "probabilidad": 63.77
+                    },
+                    "confianza": {
+                        "score": 83.74,
+                        "nivel": "ALTA"
+                    },
+                    "riesgo": {
+                        "score": 67.38,
+                        "nivel": "MEDIO"
+                    },
+                    "consistencia": {
+                        "estado": "MODERADAMENTE CONSISTENTE",
+                        "diferencia_maxima_puntos": 2.46,
+                        "detalle": "Poisson y Monte Carlo presentan pequeñas diferencias de estimación."
+                    },
+                    "consenso_modelos": {
+                        "poisson": {
+                            "resultado": "1",
+                            "nombre": "LASK F",
+                            "probabilidad": 49.53
+                        },
+                        "monte_carlo": {
+                            "resultado": "1",
+                            "nombre": "LASK F",
+                            "probabilidad": 50.99
+                        },
+                        "coinciden": true,
+                        "resultado_consenso": "1",
+                        "nombre_consenso": "LASK F",
+                        "probabilidad_consenso": 50.26,
+                        "diferencia_puntos": 1.46,
+                        "marcador_1": {
+                            "marcador": "1-0",
+                            "resultado": "1",
+                            "confirma_consenso": true
+                        },
+                        "marcador_2": {
+                            "marcador": "1-1",
+                            "resultado": "X",
+                            "confirma_consenso": false
+                        }
+                    },
+                    "muestra": {
+                        "local": 15,
+                        "local_objetivo": 15,
+                        "visitante": 15,
+                        "visitante_objetivo": 15,
+                        "h2h": 3
+                    },
+                    "pronostico_adicionales": {
+                        "Local_marcan": "5 de 15",
+                        "Visitante_marcan": "3 de 15",
+                        "Local_Partidos_sinmarcar": "7 de 15",
+                        "Visitante_Partidos_sinmarcar": "9 de 15",
+                        "local_gol_ajustada": 0.93,
+                        "visitante_gol_ajustada": 0.67
+                    },
+                    "value": {
+                        "hay_valor": true,
+                        "mercado": "Local",
+                        "edge": 9.85,
+                        "ev": 15.38,
+                        "cuota": 2.65
+                    }
+                },
+                "select": {
+                    "activo": true,
+                    "motivo": "Poisson y Monte Carlo coinciden y el marcador 1 confirma la recomendación.",
+                    "mercado_principal": "1X",
+                    "probabilidad": 71.79,
+                    "marcador_1": "1-0",
+                    "probabilidad_marcador_1": 15.02,
+                    "marcador_2": "1-1",
+                    "probabilidad_marcador_2": 13.69,
+                    "btts": "NO",
+                    "probabilidad_btts": 34.98,
+                    "over_under": "Over 1.5",
+                    "probabilidad_over_under": 63.77,
+                    "confianza": 83.74,
+                    "riesgo": 67.38,
+                    "edge": 9.85,
+                    "pronostico_adicionales": {
+                        "Local_marcan": "5 de 15",
+                        "Visitante_marcan": "3 de 15",
+                        "Local_Partidos_sinmarcar": "7 de 15",
+                        "Visitante_Partidos_sinmarcar": "9 de 15",
+                        "local_gol_ajustada": 0.93,
+                        "visitante_gol_ajustada": 0.67
+                    },
+                    "resultado": "1",
+                    "recomendacion": "LASK F",
+                    "probabilidad_consenso": 50.26,
+                    "consenso": true,
+                    "poisson": {
+                        "resultado": "1",
+                        "nombre": "LASK F",
+                        "probabilidad": 49.53
+                    },
+                    "monte_carlo": {
+                        "resultado": "1",
+                        "nombre": "LASK F",
+                        "probabilidad": 50.99
+                    },
+                    "confirma_marcador_1": true
+                },
+                "premium": {
+                    "activo": false,
+                    "motivo": "El marcador 2 no confirma la recomendación del consenso.",
+                    "mercado_principal": "1X",
+                    "probabilidad": 71.79,
+                    "marcador_1": "1-0",
+                    "probabilidad_marcador_1": 15.02,
+                    "marcador_2": "1-1",
+                    "probabilidad_marcador_2": 13.69,
+                    "btts": "NO",
+                    "probabilidad_btts": 34.98,
+                    "over_under": "Over 1.5",
+                    "probabilidad_over_under": 63.77,
+                    "confianza": 83.74,
+                    "riesgo": 67.38,
+                    "edge": 9.85,
+                    "pronostico_adicionales": {
+                        "Local_marcan": "5 de 15",
+                        "Visitante_marcan": "3 de 15",
+                        "Local_Partidos_sinmarcar": "7 de 15",
+                        "Visitante_Partidos_sinmarcar": "9 de 15",
+                        "local_gol_ajustada": 0.93,
+                        "visitante_gol_ajustada": 0.67
+                    },
+                    "resultado": "1",
+                    "recomendacion": "LASK F",
+                    "probabilidad_consenso": 50.26,
+                    "consenso": true,
+                    "poisson": {
+                        "resultado": "1",
+                        "nombre": "LASK F",
+                        "probabilidad": 49.53
+                    },
+                    "monte_carlo": {
+                        "resultado": "1",
+                        "nombre": "LASK F",
+                        "probabilidad": 50.99
+                    },
+                    "confirma_marcador_1": true,
+                    "confirma_marcador_2": false
+                }
+            }
+        },
+        {
+            "fecha": "2026-09-19",
+            "hora": "13:00",
+            "local": "CSA Sub-20",
+            "visitante": "Rio Largo Sub-20",
+            "pais": "BRASIL",
+            "liga": "ALAGOANO SUB-20 - PLAYOFFS - CUARTOS DE FINAL",
+            "link": "https://www.flashscore.co/partido/futbol/csa-l0I6YFkU/rio-largo-GOEVEbDd/?mid=txCJAqQ7",
+            "fuente_datos": "Flashscore",
+            "logolocal": "https://static.flashscore.com/res/image/data/Mg3uj1Da-SCxqFMbR.png",
+            "logovisitante": "https://static.flashscore.com/res/image/data/0dFUnBxS-nNna1Xtf.png",
+            "favorito": "CSA Sub-20",
+            "probabilidad_favorito": 64.45,
+            "nofavorito": "Rio Largo Sub-20",
+            "probabilidad_nofavorito": 14.1,
+            "probabilidad_empate": 21.45,
+            "marcador_probable": "2-0",
+            "ultimo_resultado_favorito": "",
+            "ultimo_resultado_nofavorito": "",
+            "ultimo_enfrentamiento": {
+                "fecha": "15.09.26",
+                "local": "Rio Largo Sub-20",
+                "visitante": "CSA Sub-20",
+                "goles_local": "0",
+                "goles_visitante": "2"
+            },
+            "ambos_marcan_probabilidad": 35.64,
+            "condiciones": {
+                "motivo": "Poisson y Monte Carlo coinciden y el marcador 1 confirma la recomendación."
+            },
+            "pick": "1",
+            "probabilidad": 64.45,
+            "motivo": "Poisson y Monte Carlo coinciden y el marcador 1 confirma la recomendación.",
+            "mercado": "CSA Sub-20",
+            "marcador_1": "2-0",
+            "marcador_2": "1-1",
+            "select": true,
+            "analisis": {
+                "motor": "Motor_analitico",
+                "version": "4.0",
+                "partido": {
+                    "local": "CSA Sub-20",
+                    "visitante": "Rio Largo Sub-20"
+                },
+                "analisis_final": {
+                    "1X2": {
+                        "Local": 64.45,
+                        "Empate": 21.45,
+                        "Visitante": 14.1
+                    },
+                    "recomendacion": {
+                        "mercado": "CSA Sub-20",
+                        "probabilidad": 64.45,
+                        "estado": "PICK",
+                        "motivo": "Probabilidad, separación y riesgo compatibles.",
+                        "cuota": 1.31
+                    },
+                    "marcadores": [
+                        {
+                            "marcador": "2-0",
+                            "probabilidad": 11.51
+                        },
+                        {
+                            "marcador": "1-1",
+                            "probabilidad": 11.4
+                        }
+                    ],
+                    "btts": {
+                        "resultado": "NO",
+                        "probabilidad": 35.64
+                    },
+                    "over_under": {
+                        "mercado": "Over 1.5",
+                        "probabilidad": 76.96
+                    },
+                    "confianza": {
+                        "score": 79.91,
+                        "nivel": "ALTA"
+                    },
+                    "riesgo": {
+                        "score": 61.01,
+                        "nivel": "MEDIO"
+                    },
+                    "consistencia": {
+                        "estado": "MODERADAMENTE CONSISTENTE",
+                        "diferencia_maxima_puntos": 1.9,
+                        "detalle": "Poisson y Monte Carlo presentan pequeñas diferencias de estimación."
+                    },
+                    "consenso_modelos": {
+                        "poisson": {
+                            "resultado": "1",
+                            "nombre": "CSA Sub-20",
+                            "probabilidad": 60.83
+                        },
+                        "monte_carlo": {
+                            "resultado": "1",
+                            "nombre": "CSA Sub-20",
+                            "probabilidad": 61.9
+                        },
+                        "coinciden": true,
+                        "resultado_consenso": "1",
+                        "nombre_consenso": "CSA Sub-20",
+                        "probabilidad_consenso": 61.36,
+                        "diferencia_puntos": 1.07,
+                        "marcador_1": {
+                            "marcador": "2-0",
+                            "resultado": "1",
+                            "confirma_consenso": true
+                        },
+                        "marcador_2": {
+                            "marcador": "1-1",
+                            "resultado": "X",
+                            "confirma_consenso": false
+                        }
+                    },
+                    "muestra": {
+                        "local": 15,
+                        "local_objetivo": 15,
+                        "visitante": 14,
+                        "visitante_objetivo": 15,
+                        "h2h": 3
+                    },
+                    "pronostico_adicionales": {
+                        "Local_marcan": "4 de 15",
+                        "Visitante_marcan": "4 de 14",
+                        "Local_Partidos_sinmarcar": "4 de 15",
+                        "Visitante_Partidos_sinmarcar": "7 de 14",
+                        "local_gol_ajustada": 1.47,
+                        "visitante_gol_ajustada": 0.79
+                    },
+                    "value": {
+                        "hay_valor": true,
+                        "mercado": "Empate",
+                        "edge": 2.72,
+                        "ev": 2.96,
+                        "cuota": 4.8
+                    }
+                },
+                "select": {
+                    "activo": true,
+                    "motivo": "Poisson y Monte Carlo coinciden y el marcador 1 confirma la recomendación.",
+                    "mercado_principal": "CSA Sub-20",
+                    "probabilidad": 64.45,
+                    "marcador_1": "2-0",
+                    "probabilidad_marcador_1": 11.51,
+                    "marcador_2": "1-1",
+                    "probabilidad_marcador_2": 11.4,
+                    "btts": "NO",
+                    "probabilidad_btts": 35.64,
+                    "over_under": "Over 1.5",
+                    "probabilidad_over_under": 76.96,
+                    "confianza": 79.91,
+                    "riesgo": 61.01,
+                    "edge": 2.72,
+                    "pronostico_adicionales": {
+                        "Local_marcan": "4 de 15",
+                        "Visitante_marcan": "4 de 14",
+                        "Local_Partidos_sinmarcar": "4 de 15",
+                        "Visitante_Partidos_sinmarcar": "7 de 14",
+                        "local_gol_ajustada": 1.47,
+                        "visitante_gol_ajustada": 0.79
+                    },
+                    "resultado": "1",
+                    "recomendacion": "CSA Sub-20",
+                    "probabilidad_consenso": 61.36,
+                    "consenso": true,
+                    "poisson": {
+                        "resultado": "1",
+                        "nombre": "CSA Sub-20",
+                        "probabilidad": 60.83
+                    },
+                    "monte_carlo": {
+                        "resultado": "1",
+                        "nombre": "CSA Sub-20",
+                        "probabilidad": 61.9
+                    },
+                    "confirma_marcador_1": true
+                },
+                "premium": {
+                    "activo": false,
+                    "motivo": "El marcador 2 no confirma la recomendación del consenso.",
+                    "mercado_principal": "CSA Sub-20",
+                    "probabilidad": 64.45,
+                    "marcador_1": "2-0",
+                    "probabilidad_marcador_1": 11.51,
+                    "marcador_2": "1-1",
+                    "probabilidad_marcador_2": 11.4,
+                    "btts": "NO",
+                    "probabilidad_btts": 35.64,
+                    "over_under": "Over 1.5",
+                    "probabilidad_over_under": 76.96,
+                    "confianza": 79.91,
+                    "riesgo": 61.01,
+                    "edge": 2.72,
+                    "pronostico_adicionales": {
+                        "Local_marcan": "4 de 15",
+                        "Visitante_marcan": "4 de 14",
+                        "Local_Partidos_sinmarcar": "4 de 15",
+                        "Visitante_Partidos_sinmarcar": "7 de 14",
+                        "local_gol_ajustada": 1.47,
+                        "visitante_gol_ajustada": 0.79
+                    },
+                    "resultado": "1",
+                    "recomendacion": "CSA Sub-20",
+                    "probabilidad_consenso": 61.36,
+                    "consenso": true,
+                    "poisson": {
+                        "resultado": "1",
+                        "nombre": "CSA Sub-20",
+                        "probabilidad": 60.83
+                    },
+                    "monte_carlo": {
+                        "resultado": "1",
+                        "nombre": "CSA Sub-20",
+                        "probabilidad": 61.9
+                    },
+                    "confirma_marcador_1": true,
+                    "confirma_marcador_2": false
+                }
+            }
+        },
+        {
+            "fecha": "2026-09-19",
+            "hora": "03:30",
+            "local": "Dejan",
+            "visitante": "RANS Nusantara",
+            "pais": "INDONESIA",
+            "liga": "CHAMPIONSHIP - JORNADA 2",
+            "link": "https://www.flashscore.co/partido/futbol/dejan-tSkvhnv7/rans-nusantara-GIraEfu1/?mid=plHx4jen",
+            "fuente_datos": "Flashscore",
+            "logolocal": "https://static.flashscore.com/res/image/data/8Oc9LNYg-Miq8CSN4.png",
+            "logovisitante": "https://static.flashscore.com/res/image/data/bD6IxTfM-Olo3Iiyd.png",
+            "favorito": "Dejan",
+            "probabilidad_favorito": 52.71,
+            "nofavorito": "RANS Nusantara",
+            "probabilidad_nofavorito": 20.01,
+            "probabilidad_empate": 27.29,
+            "marcador_probable": "1-0",
+            "ultimo_resultado_favorito": "",
+            "ultimo_resultado_nofavorito": "",
+            "ultimo_enfrentamiento": false,
+            "ambos_marcan_probabilidad": 40.85,
+            "condiciones": {
+                "motivo": "Poisson y Monte Carlo coinciden y el marcador 1 confirma la recomendación."
+            },
+            "pick": "1",
+            "probabilidad": 80.0,
+            "motivo": "Poisson y Monte Carlo coinciden y el marcador 1 confirma la recomendación.",
+            "mercado": "1X",
+            "marcador_1": "1-0",
+            "marcador_2": "2-0",
+            "select": true,
+            "analisis": {
+                "motor": "Motor_analitico",
+                "version": "4.0",
+                "partido": {
+                    "local": "Dejan",
+                    "visitante": "RANS Nusantara"
+                },
+                "analisis_final": {
+                    "1X2": {
+                        "Local": 52.71,
+                        "Empate": 27.29,
+                        "Visitante": 20.01
+                    },
+                    "recomendacion": {
+                        "mercado": "1X",
+                        "probabilidad": 80.0,
+                        "estado": "DOBLE",
+                        "motivo": "El 1X2 directo no supera el filtro; se conserva cobertura.",
+                        "cuota": 1.95
+                    },
+                    "marcadores": [
+                        {
+                            "marcador": "1-0",
+                            "probabilidad": 15.06
+                        },
+                        {
+                            "marcador": "2-0",
+                            "probabilidad": 12.91
+                        }
+                    ],
+                    "btts": {
+                        "resultado": "NO",
+                        "probabilidad": 40.85
+                    },
+                    "over_under": {
+                        "mercado": "Over 1.5",
+                        "probabilidad": 67.78
+                    },
+                    "confianza": {
+                        "score": 88.41,
+                        "nivel": "ALTA"
+                    },
+                    "riesgo": {
+                        "score": 59.37,
+                        "nivel": "MEDIO"
+                    },
+                    "consistencia": {
+                        "estado": "MODERADAMENTE CONSISTENTE",
+                        "diferencia_maxima_puntos": 2.09,
+                        "detalle": "Poisson y Monte Carlo presentan pequeñas diferencias de estimación."
+                    },
+                    "consenso_modelos": {
+                        "poisson": {
+                            "resultado": "1",
+                            "nombre": "Dejan",
+                            "probabilidad": 57.99
+                        },
+                        "monte_carlo": {
+                            "resultado": "1",
+                            "nombre": "Dejan",
+                            "probabilidad": 58.95
+                        },
+                        "coinciden": true,
+                        "resultado_consenso": "1",
+                        "nombre_consenso": "Dejan",
+                        "probabilidad_consenso": 58.47,
+                        "diferencia_puntos": 0.96,
+                        "marcador_1": {
+                            "marcador": "1-0",
+                            "resultado": "1",
+                            "confirma_consenso": true
+                        },
+                        "marcador_2": {
+                            "marcador": "2-0",
+                            "resultado": "1",
+                            "confirma_consenso": true
+                        }
+                    },
+                    "muestra": {
+                        "local": 15,
+                        "local_objetivo": 15,
+                        "visitante": 15,
+                        "visitante_objetivo": 15,
+                        "h2h": 0
+                    },
+                    "pronostico_adicionales": {
+                        "Local_marcan": "7 de 15",
+                        "Visitante_marcan": "5 de 15",
+                        "Local_Partidos_sinmarcar": "6 de 15",
+                        "Visitante_Partidos_sinmarcar": "10 de 15",
+                        "local_gol_ajustada": 1.07,
+                        "visitante_gol_ajustada": 0.6
+                    },
+                    "value": {
+                        "hay_valor": true,
+                        "mercado": "Local",
+                        "edge": 6.59,
+                        "ev": 2.78,
+                        "cuota": 1.95
+                    }
+                },
+                "select": {
+                    "activo": true,
+                    "motivo": "Poisson y Monte Carlo coinciden y el marcador 1 confirma la recomendación.",
+                    "mercado_principal": "1X",
+                    "probabilidad": 80.0,
+                    "marcador_1": "1-0",
+                    "probabilidad_marcador_1": 15.06,
+                    "marcador_2": "2-0",
+                    "probabilidad_marcador_2": 12.91,
+                    "btts": "NO",
+                    "probabilidad_btts": 40.85,
+                    "over_under": "Over 1.5",
+                    "probabilidad_over_under": 67.78,
+                    "confianza": 88.41,
+                    "riesgo": 59.37,
+                    "edge": 6.59,
+                    "pronostico_adicionales": {
+                        "Local_marcan": "7 de 15",
+                        "Visitante_marcan": "5 de 15",
+                        "Local_Partidos_sinmarcar": "6 de 15",
+                        "Visitante_Partidos_sinmarcar": "10 de 15",
+                        "local_gol_ajustada": 1.07,
+                        "visitante_gol_ajustada": 0.6
+                    },
+                    "resultado": "1",
+                    "recomendacion": "Dejan",
+                    "probabilidad_consenso": 58.47,
+                    "consenso": true,
+                    "poisson": {
+                        "resultado": "1",
+                        "nombre": "Dejan",
+                        "probabilidad": 57.99
+                    },
+                    "monte_carlo": {
+                        "resultado": "1",
+                        "nombre": "Dejan",
+                        "probabilidad": 58.95
+                    },
+                    "confirma_marcador_1": true
+                },
+                "premium": {
+                    "activo": true,
+                    "motivo": "Poisson y Monte Carlo coinciden y ambos marcadores confirman la recomendación.",
+                    "mercado_principal": "1X",
+                    "probabilidad": 80.0,
+                    "marcador_1": "1-0",
+                    "probabilidad_marcador_1": 15.06,
+                    "marcador_2": "2-0",
+                    "probabilidad_marcador_2": 12.91,
+                    "btts": "NO",
+                    "probabilidad_btts": 40.85,
+                    "over_under": "Over 1.5",
+                    "probabilidad_over_under": 67.78,
+                    "confianza": 88.41,
+                    "riesgo": 59.37,
+                    "edge": 6.59,
+                    "pronostico_adicionales": {
+                        "Local_marcan": "7 de 15",
+                        "Visitante_marcan": "5 de 15",
+                        "Local_Partidos_sinmarcar": "6 de 15",
+                        "Visitante_Partidos_sinmarcar": "10 de 15",
+                        "local_gol_ajustada": 1.07,
+                        "visitante_gol_ajustada": 0.6
+                    },
+                    "resultado": "1",
+                    "recomendacion": "Dejan",
+                    "probabilidad_consenso": 58.47,
+                    "consenso": true,
+                    "poisson": {
+                        "resultado": "1",
+                        "nombre": "Dejan",
+                        "probabilidad": 57.99
+                    },
+                    "monte_carlo": {
+                        "resultado": "1",
+                        "nombre": "Dejan",
+                        "probabilidad": 58.95
                     },
                     "confirma_marcador_1": true,
                     "confirma_marcador_2": true
