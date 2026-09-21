@@ -1,7 +1,7 @@
 {
     "version": 2,
-    "ultima_actualizacion": "2026-09-21T14:23:59",
-    "cantidad": 162,
+    "ultima_actualizacion": "2026-09-21T16:57:53",
+    "cantidad": 163,
     "partidos": [
         {
             "id_partido": "LINK::https://www.flashscore.co/partido/futbol/barranquilla-O8ANu9JR/bogota-foERz7de/?mid=S0O0JSSa",
@@ -6995,12 +6995,13 @@
                 }
             },
             "resultado": {
-                "estado": "PENDIENTE",
-                "goles_local": null,
-                "goles_visitante": null,
-                "marcador": null,
-                "resultado_1x2": null,
-                "fecha_resultado": null
+                "estado": "FINALIZADO",
+                "goles_local": 0,
+                "goles_visitante": 1,
+                "marcador": "0-1",
+                "resultado_1x2": "2",
+                "fecha_resultado": "2026-09-21T16:59:13-05:00",
+                "estado_flashscore": "FINALIZADO"
             }
         },
         {
@@ -23999,12 +24000,13 @@
                 }
             },
             "resultado": {
-                "estado": "PENDIENTE",
-                "goles_local": null,
-                "goles_visitante": null,
-                "marcador": null,
-                "resultado_1x2": null,
-                "fecha_resultado": null
+                "estado": "FINALIZADO",
+                "goles_local": 2,
+                "goles_visitante": 1,
+                "marcador": "2-1",
+                "resultado_1x2": "1",
+                "fecha_resultado": "2026-09-21T16:59:17-05:00",
+                "estado_flashscore": "FINALIZADO"
             }
         },
         {
@@ -162050,7 +162052,1007 @@
                 "resultado_1x2": null,
                 "fecha_resultado": null
             }
+        },
+        {
+            "id_partido": "LINK::https://www.flashscore.co/partido/futbol/sudan-AgnpcZob/uganda-lpoldg14/?mid=zia9jroA",
+            "primera_captura": "2026-09-21T16:57:53",
+            "fecha": "2026-09-22",
+            "hora": "06:00",
+            "local": "Uganda Sub-20",
+            "visitante": "Sudán Sub-20",
+            "pais": "ÁFRICA",
+            "liga": "CECAFA CHAMPIONSHIP U20 - PLAYOFFS - SEMIFINALES",
+            "link": "https://www.flashscore.co/partido/futbol/sudan-AgnpcZob/uganda-lpoldg14/?mid=zia9jroA",
+            "fuente_datos": "Flashscore",
+            "cuotas_iniciales": {
+                "Local": 1.64,
+                "Empate": 3.25,
+                "Visitante": 5.1
+            },
+            "pronostico_original": {
+                "motor": "Motor_analitico",
+                "version": "FINAL",
+                "version_base": "4.0",
+                "partido": {
+                    "local": "Uganda Sub-20",
+                    "visitante": "Sudán Sub-20"
+                },
+                "analisis_final": {
+                    "1X2": {
+                        "Local": 63.05,
+                        "Empate": 22.49,
+                        "Visitante": 14.45
+                    },
+                    "recomendacion": {
+                        "mercado": "Uganda Sub-20",
+                        "probabilidad": 63.05,
+                        "estado": "PICK",
+                        "motivo": "Probabilidad, separación y riesgo compatibles.",
+                        "cuota": 1.64
+                    },
+                    "marcadores": [
+                        {
+                            "marcador": "2-0",
+                            "probabilidad": 12.43
+                        },
+                        {
+                            "marcador": "1-0",
+                            "probabilidad": 11.33
+                        }
+                    ],
+                    "btts": {
+                        "resultado": "NO",
+                        "probabilidad": 49.04
+                    },
+                    "over_under": {
+                        "mercado": "Over 1.5",
+                        "probabilidad": 80.05
+                    },
+                    "confianza": {
+                        "score": 89.71,
+                        "nivel": "ALTA"
+                    },
+                    "riesgo": {
+                        "score": 60.35,
+                        "nivel": "MEDIO"
+                    },
+                    "consistencia": {
+                        "estado": "CONSISTENTE",
+                        "diferencia_maxima_puntos": 0.61,
+                        "detalle": "Poisson y Monte Carlo muestran una tendencia muy similar."
+                    },
+                    "consenso_modelos": {
+                        "poisson": {
+                            "resultado": "1",
+                            "nombre": "Uganda Sub-20",
+                            "probabilidad": 70.36
+                        },
+                        "monte_carlo": {
+                            "resultado": "1",
+                            "nombre": "Uganda Sub-20",
+                            "probabilidad": 69.9
+                        },
+                        "coinciden": true,
+                        "resultado_consenso": "1",
+                        "nombre_consenso": "Uganda Sub-20",
+                        "probabilidad_consenso": 70.13,
+                        "diferencia_puntos": 0.46,
+                        "marcador_1": {
+                            "marcador": "2-0",
+                            "resultado": "1",
+                            "confirma_consenso": true
+                        },
+                        "marcador_2": {
+                            "marcador": "1-0",
+                            "resultado": "1",
+                            "confirma_consenso": true
+                        }
+                    },
+                    "muestra": {
+                        "local": 15,
+                        "local_objetivo": 15,
+                        "visitante": 15,
+                        "visitante_objetivo": 15,
+                        "h2h": 3
+                    },
+                    "pronostico_adicionales": {
+                        "Local_marcan": "8 de 15",
+                        "Visitante_marcan": "6 de 15",
+                        "Local_Partidos_sinmarcar": "3 de 15",
+                        "Visitante_Partidos_sinmarcar": "5 de 15",
+                        "local_gol_ajustada": 1.67,
+                        "visitante_gol_ajustada": 1.13
+                    },
+                    "value": {
+                        "hay_valor": true,
+                        "mercado": "Local",
+                        "edge": 8.29,
+                        "ev": 3.4,
+                        "cuota": 1.64
+                    }
+                },
+                "IA_PARTIDOS": {
+                    "1X2": {
+                        "Local": 63.05,
+                        "Empate": 22.49,
+                        "Visitante": 14.45
+                    },
+                    "recomendacion": {
+                        "mercado": "Uganda Sub-20",
+                        "probabilidad": 63.05,
+                        "estado": "PICK",
+                        "motivo": "Probabilidad, separación y riesgo compatibles.",
+                        "cuota": 1.64
+                    },
+                    "marcadores": [
+                        {
+                            "marcador": "2-0",
+                            "probabilidad": 12.43
+                        },
+                        {
+                            "marcador": "1-0",
+                            "probabilidad": 11.33
+                        }
+                    ],
+                    "btts": {
+                        "resultado": "NO",
+                        "probabilidad": 49.04
+                    },
+                    "over_under": {
+                        "mercado": "Over 1.5",
+                        "probabilidad": 80.05
+                    },
+                    "confianza": {
+                        "score": 89.71,
+                        "nivel": "ALTA"
+                    },
+                    "riesgo": {
+                        "score": 60.35,
+                        "nivel": "MEDIO"
+                    },
+                    "consistencia": {
+                        "estado": "CONSISTENTE",
+                        "diferencia_maxima_puntos": 0.61,
+                        "detalle": "Poisson y Monte Carlo muestran una tendencia muy similar."
+                    },
+                    "consenso_modelos": {
+                        "poisson": {
+                            "resultado": "1",
+                            "nombre": "Uganda Sub-20",
+                            "probabilidad": 70.36
+                        },
+                        "monte_carlo": {
+                            "resultado": "1",
+                            "nombre": "Uganda Sub-20",
+                            "probabilidad": 69.9
+                        },
+                        "coinciden": true,
+                        "resultado_consenso": "1",
+                        "nombre_consenso": "Uganda Sub-20",
+                        "probabilidad_consenso": 70.13,
+                        "diferencia_puntos": 0.46,
+                        "marcador_1": {
+                            "marcador": "2-0",
+                            "resultado": "1",
+                            "confirma_consenso": true
+                        },
+                        "marcador_2": {
+                            "marcador": "1-0",
+                            "resultado": "1",
+                            "confirma_consenso": true
+                        }
+                    },
+                    "muestra": {
+                        "local": 15,
+                        "local_objetivo": 15,
+                        "visitante": 15,
+                        "visitante_objetivo": 15,
+                        "h2h": 3
+                    },
+                    "pronostico_adicionales": {
+                        "Local_marcan": "8 de 15",
+                        "Visitante_marcan": "6 de 15",
+                        "Local_Partidos_sinmarcar": "3 de 15",
+                        "Visitante_Partidos_sinmarcar": "5 de 15",
+                        "local_gol_ajustada": 1.67,
+                        "visitante_gol_ajustada": 1.13
+                    },
+                    "value": {
+                        "hay_valor": true,
+                        "mercado": "Local",
+                        "edge": 8.29,
+                        "ev": 3.4,
+                        "cuota": 1.64
+                    }
+                },
+                "select": {
+                    "activo": true,
+                    "motivo": "Poisson y Monte Carlo coinciden y el marcador 1 confirma la recomendación.",
+                    "mercado_principal": "Uganda Sub-20",
+                    "probabilidad": 63.05,
+                    "marcador_1": "2-0",
+                    "probabilidad_marcador_1": 12.43,
+                    "marcador_2": "1-0",
+                    "probabilidad_marcador_2": 11.33,
+                    "btts": "NO",
+                    "probabilidad_btts": 49.04,
+                    "over_under": "Over 1.5",
+                    "probabilidad_over_under": 80.05,
+                    "confianza": 89.71,
+                    "riesgo": 60.35,
+                    "edge": 8.29,
+                    "pronostico_adicionales": {
+                        "Local_marcan": "8 de 15",
+                        "Visitante_marcan": "6 de 15",
+                        "Local_Partidos_sinmarcar": "3 de 15",
+                        "Visitante_Partidos_sinmarcar": "5 de 15",
+                        "local_gol_ajustada": 1.67,
+                        "visitante_gol_ajustada": 1.13
+                    },
+                    "resultado": "1",
+                    "recomendacion": "Uganda Sub-20",
+                    "probabilidad_consenso": 70.13,
+                    "consenso": true,
+                    "poisson": {
+                        "resultado": "1",
+                        "nombre": "Uganda Sub-20",
+                        "probabilidad": 70.36
+                    },
+                    "monte_carlo": {
+                        "resultado": "1",
+                        "nombre": "Uganda Sub-20",
+                        "probabilidad": 69.9
+                    },
+                    "confirma_marcador_1": true
+                },
+                "premium": {
+                    "activo": true,
+                    "motivo": "La recomendación final es directa (1/X/2) y entra por la ruta directa de PREMIUM.",
+                    "mercado_principal": "Uganda Sub-20",
+                    "probabilidad": 63.05,
+                    "marcador_1": "2-0",
+                    "probabilidad_marcador_1": 12.43,
+                    "marcador_2": "1-0",
+                    "probabilidad_marcador_2": 11.33,
+                    "btts": "NO",
+                    "probabilidad_btts": 49.04,
+                    "over_under": "Over 1.5",
+                    "probabilidad_over_under": 80.05,
+                    "confianza": 89.71,
+                    "riesgo": 60.35,
+                    "edge": 8.29,
+                    "pronostico_adicionales": {
+                        "Local_marcan": "8 de 15",
+                        "Visitante_marcan": "6 de 15",
+                        "Local_Partidos_sinmarcar": "3 de 15",
+                        "Visitante_Partidos_sinmarcar": "5 de 15",
+                        "local_gol_ajustada": 1.67,
+                        "visitante_gol_ajustada": 1.13
+                    },
+                    "resultado": "1",
+                    "recomendacion": "Uganda Sub-20",
+                    "probabilidad_consenso": 63.05,
+                    "consenso": true,
+                    "poisson": {
+                        "resultado": "1",
+                        "nombre": "Uganda Sub-20",
+                        "probabilidad": 70.36
+                    },
+                    "monte_carlo": {
+                        "resultado": "1",
+                        "nombre": "Uganda Sub-20",
+                        "probabilidad": 69.9
+                    },
+                    "confirma_marcador_1": null,
+                    "confirma_marcador_2": null,
+                    "premium_si": "SI",
+                    "ruta": "DIRECTA",
+                    "recomendacion_original": "Uganda Sub-20",
+                    "resultado_objetivo": "1"
+                },
+                "PronosticoFinal": {
+                    "IA_PARTIDOS": {
+                        "1X2": {
+                            "Local": 63.05,
+                            "Empate": 22.49,
+                            "Visitante": 14.45
+                        },
+                        "recomendacion": {
+                            "mercado": "Uganda Sub-20",
+                            "probabilidad": 63.05,
+                            "estado": "PICK",
+                            "motivo": "Probabilidad, separación y riesgo compatibles.",
+                            "cuota": 1.64
+                        },
+                        "marcadores": [
+                            {
+                                "marcador": "2-0",
+                                "probabilidad": 12.43
+                            },
+                            {
+                                "marcador": "1-0",
+                                "probabilidad": 11.33
+                            }
+                        ],
+                        "btts": {
+                            "resultado": "NO",
+                            "probabilidad": 49.04
+                        },
+                        "over_under": {
+                            "mercado": "Over 1.5",
+                            "probabilidad": 80.05
+                        },
+                        "confianza": {
+                            "score": 89.71,
+                            "nivel": "ALTA"
+                        },
+                        "riesgo": {
+                            "score": 60.35,
+                            "nivel": "MEDIO"
+                        },
+                        "consistencia": {
+                            "estado": "CONSISTENTE",
+                            "diferencia_maxima_puntos": 0.61,
+                            "detalle": "Poisson y Monte Carlo muestran una tendencia muy similar."
+                        },
+                        "consenso_modelos": {
+                            "poisson": {
+                                "resultado": "1",
+                                "nombre": "Uganda Sub-20",
+                                "probabilidad": 70.36
+                            },
+                            "monte_carlo": {
+                                "resultado": "1",
+                                "nombre": "Uganda Sub-20",
+                                "probabilidad": 69.9
+                            },
+                            "coinciden": true,
+                            "resultado_consenso": "1",
+                            "nombre_consenso": "Uganda Sub-20",
+                            "probabilidad_consenso": 70.13,
+                            "diferencia_puntos": 0.46,
+                            "marcador_1": {
+                                "marcador": "2-0",
+                                "resultado": "1",
+                                "confirma_consenso": true
+                            },
+                            "marcador_2": {
+                                "marcador": "1-0",
+                                "resultado": "1",
+                                "confirma_consenso": true
+                            }
+                        },
+                        "muestra": {
+                            "local": 15,
+                            "local_objetivo": 15,
+                            "visitante": 15,
+                            "visitante_objetivo": 15,
+                            "h2h": 3
+                        },
+                        "pronostico_adicionales": {
+                            "Local_marcan": "8 de 15",
+                            "Visitante_marcan": "6 de 15",
+                            "Local_Partidos_sinmarcar": "3 de 15",
+                            "Visitante_Partidos_sinmarcar": "5 de 15",
+                            "local_gol_ajustada": 1.67,
+                            "visitante_gol_ajustada": 1.13
+                        },
+                        "value": {
+                            "hay_valor": true,
+                            "mercado": "Local",
+                            "edge": 8.29,
+                            "ev": 3.4,
+                            "cuota": 1.64
+                        }
+                    },
+                    "SELECT": {
+                        "activo": true,
+                        "motivo": "Poisson y Monte Carlo coinciden y el marcador 1 confirma la recomendación.",
+                        "mercado_principal": "Uganda Sub-20",
+                        "probabilidad": 63.05,
+                        "marcador_1": "2-0",
+                        "probabilidad_marcador_1": 12.43,
+                        "marcador_2": "1-0",
+                        "probabilidad_marcador_2": 11.33,
+                        "btts": "NO",
+                        "probabilidad_btts": 49.04,
+                        "over_under": "Over 1.5",
+                        "probabilidad_over_under": 80.05,
+                        "confianza": 89.71,
+                        "riesgo": 60.35,
+                        "edge": 8.29,
+                        "pronostico_adicionales": {
+                            "Local_marcan": "8 de 15",
+                            "Visitante_marcan": "6 de 15",
+                            "Local_Partidos_sinmarcar": "3 de 15",
+                            "Visitante_Partidos_sinmarcar": "5 de 15",
+                            "local_gol_ajustada": 1.67,
+                            "visitante_gol_ajustada": 1.13
+                        },
+                        "resultado": "1",
+                        "recomendacion": "Uganda Sub-20",
+                        "probabilidad_consenso": 70.13,
+                        "consenso": true,
+                        "poisson": {
+                            "resultado": "1",
+                            "nombre": "Uganda Sub-20",
+                            "probabilidad": 70.36
+                        },
+                        "monte_carlo": {
+                            "resultado": "1",
+                            "nombre": "Uganda Sub-20",
+                            "probabilidad": 69.9
+                        },
+                        "confirma_marcador_1": true
+                    },
+                    "PREMIUM": {
+                        "activo": true,
+                        "motivo": "La recomendación final es directa (1/X/2) y entra por la ruta directa de PREMIUM.",
+                        "mercado_principal": "Uganda Sub-20",
+                        "probabilidad": 63.05,
+                        "marcador_1": "2-0",
+                        "probabilidad_marcador_1": 12.43,
+                        "marcador_2": "1-0",
+                        "probabilidad_marcador_2": 11.33,
+                        "btts": "NO",
+                        "probabilidad_btts": 49.04,
+                        "over_under": "Over 1.5",
+                        "probabilidad_over_under": 80.05,
+                        "confianza": 89.71,
+                        "riesgo": 60.35,
+                        "edge": 8.29,
+                        "pronostico_adicionales": {
+                            "Local_marcan": "8 de 15",
+                            "Visitante_marcan": "6 de 15",
+                            "Local_Partidos_sinmarcar": "3 de 15",
+                            "Visitante_Partidos_sinmarcar": "5 de 15",
+                            "local_gol_ajustada": 1.67,
+                            "visitante_gol_ajustada": 1.13
+                        },
+                        "resultado": "1",
+                        "recomendacion": "Uganda Sub-20",
+                        "probabilidad_consenso": 63.05,
+                        "consenso": true,
+                        "poisson": {
+                            "resultado": "1",
+                            "nombre": "Uganda Sub-20",
+                            "probabilidad": 70.36
+                        },
+                        "monte_carlo": {
+                            "resultado": "1",
+                            "nombre": "Uganda Sub-20",
+                            "probabilidad": 69.9
+                        },
+                        "confirma_marcador_1": null,
+                        "confirma_marcador_2": null,
+                        "premium_si": "SI",
+                        "ruta": "DIRECTA",
+                        "recomendacion_original": "Uganda Sub-20",
+                        "resultado_objetivo": "1"
+                    }
+                },
+                "trazabilidad": {
+                    "version_traza": "1.0",
+                    "xg": {
+                        "local": 2.223,
+                        "visitante": 0.775,
+                        "modelo": "calcular_xg_v5",
+                        "dc_rho": 0.0,
+                        "muestra_local": 15,
+                        "muestra_visitante": 15,
+                        "calidad_muestra": 1.0,
+                        "regularidad_media": 0.4855,
+                        "delta_forma": 0.2274,
+                        "calibracion_goles_factor_base": 1.12,
+                        "calibracion_goles_factor_efectivo": 1.12,
+                        "calibracion_goles_total_max": 5.5,
+                        "ajuste_reparto_goles_mercado": {
+                            "aplicado": 1.0,
+                            "cuota_share_local": 0.7567,
+                            "share_local_inicial": 0.6061,
+                            "share_local_final": 0.7416,
+                            "desplazamiento": 0.1355
+                        }
+                    },
+                    "poisson": {
+                        "1x2": {
+                            "1": 70.36,
+                            "X": 18.07,
+                            "2": 11.57
+                        },
+                        "mercados": {
+                            "BTTS": 48.08,
+                            "Over05": 95.01,
+                            "Over15": 80.05,
+                            "Over25": 57.64,
+                            "Over35": 35.23,
+                            "Under25": 42.36,
+                            "Under35": 64.77
+                        },
+                        "top_10": [
+                            {
+                                "Marcador": "2-0",
+                                "Probabilidad": 12.33
+                            },
+                            {
+                                "Marcador": "1-0",
+                                "Probabilidad": 11.09
+                            },
+                            {
+                                "Marcador": "2-1",
+                                "Probabilidad": 9.55
+                            },
+                            {
+                                "Marcador": "3-0",
+                                "Probabilidad": 9.14
+                            },
+                            {
+                                "Marcador": "1-1",
+                                "Probabilidad": 8.59
+                            },
+                            {
+                                "Marcador": "3-1",
+                                "Probabilidad": 7.08
+                            },
+                            {
+                                "Marcador": "4-0",
+                                "Probabilidad": 5.08
+                            },
+                            {
+                                "Marcador": "0-0",
+                                "Probabilidad": 4.99
+                            },
+                            {
+                                "Marcador": "4-1",
+                                "Probabilidad": 3.93
+                            },
+                            {
+                                "Marcador": "0-1",
+                                "Probabilidad": 3.86
+                            }
+                        ],
+                        "exponente_suavizado": 1.0,
+                        "dc_rho": 0.0
+                    },
+                    "monte_carlo": {
+                        "1x2": {
+                            "1": 69.9,
+                            "X": 17.93,
+                            "2": 12.18
+                        },
+                        "mercados": {
+                            "BTTS": 45.62,
+                            "Over15": 78.77,
+                            "Under15": 21.23,
+                            "Over25": 56.67,
+                            "Under25": 43.33,
+                            "Over35": 35.18,
+                            "Under35": 64.82
+                        },
+                        "top_10": [
+                            {
+                                "marcador": "2-0",
+                                "frecuencia": 12610,
+                                "probabilidad": 12.61
+                            },
+                            {
+                                "marcador": "1-0",
+                                "frecuencia": 11777,
+                                "probabilidad": 11.777
+                            },
+                            {
+                                "marcador": "3-0",
+                                "frecuencia": 9144,
+                                "probabilidad": 9.144
+                            },
+                            {
+                                "marcador": "2-1",
+                                "frecuencia": 8660,
+                                "probabilidad": 8.66
+                            },
+                            {
+                                "marcador": "1-1",
+                                "frecuencia": 7962,
+                                "probabilidad": 7.962
+                            },
+                            {
+                                "marcador": "3-1",
+                                "frecuencia": 6298,
+                                "probabilidad": 6.298
+                            },
+                            {
+                                "marcador": "0-0",
+                                "frecuencia": 5617,
+                                "probabilidad": 5.617
+                            },
+                            {
+                                "marcador": "4-0",
+                                "frecuencia": 5238,
+                                "probabilidad": 5.238
+                            },
+                            {
+                                "marcador": "0-1",
+                                "frecuencia": 3840,
+                                "probabilidad": 3.84
+                            },
+                            {
+                                "marcador": "4-1",
+                                "frecuencia": 3510,
+                                "probabilidad": 3.51
+                            }
+                        ],
+                        "dispersion_local_k": 30.0,
+                        "dispersion_visitante_k": 6.1253,
+                        "modelo_distribucion": "Gamma-Poisson (sobre-dispersión)",
+                        "simulaciones": 100000,
+                        "semilla": 20260826,
+                        "error": ""
+                    },
+                    "marcadores_fusion": {
+                        "peso_poisson": 0.65,
+                        "peso_monte_carlo": 0.35,
+                        "top_10": [
+                            {
+                                "Marcador": "2-0",
+                                "Probabilidad": 12.43
+                            },
+                            {
+                                "Marcador": "1-0",
+                                "Probabilidad": 11.33
+                            },
+                            {
+                                "Marcador": "2-1",
+                                "Probabilidad": 9.24
+                            },
+                            {
+                                "Marcador": "3-0",
+                                "Probabilidad": 9.14
+                            },
+                            {
+                                "Marcador": "1-1",
+                                "Probabilidad": 8.37
+                            },
+                            {
+                                "Marcador": "3-1",
+                                "Probabilidad": 6.81
+                            },
+                            {
+                                "Marcador": "0-0",
+                                "Probabilidad": 5.21
+                            },
+                            {
+                                "Marcador": "4-0",
+                                "Probabilidad": 5.13
+                            },
+                            {
+                                "Marcador": "0-1",
+                                "Probabilidad": 3.86
+                            },
+                            {
+                                "Marcador": "4-1",
+                                "Probabilidad": 3.79
+                            }
+                        ],
+                        "selector_principal": {
+                            "aplicado": false,
+                            "resultado_objetivo_1x2": "1",
+                            "marcador_probabilistico": "2-0",
+                            "probabilidad_probabilistica": 12.43,
+                            "marcador_seleccionado": "2-0",
+                            "tolerancia_puntos": 1.0,
+                            "motivo": "ranking_probabilistico"
+                        }
+                    },
+                    "modelo_1x2_fusion": {
+                        "peso_poisson": 0.7,
+                        "peso_monte_carlo": 0.3,
+                        "probabilidades_modelo": {
+                            "Local": 70.22,
+                            "Empate": 18.03,
+                            "Visitante": 11.75
+                        }
+                    },
+                    "fusion": {
+                        "PesoPoissonPorResultado": {
+                            "Local": 0.65,
+                            "Empate": 0.47,
+                            "Visitante": 0.47
+                        },
+                        "PesoMercadoPorResultado": {
+                            "Local": 0.35,
+                            "Empate": 0.53,
+                            "Visitante": 0.53
+                        },
+                        "PesoFeatures": 0.0,
+                        "CalidadMuestra": 1.0
+                    },
+                    "consenso": {
+                        "poisson": {
+                            "resultado": "1",
+                            "nombre": "Uganda Sub-20",
+                            "probabilidad": 70.36
+                        },
+                        "monte_carlo": {
+                            "resultado": "1",
+                            "nombre": "Uganda Sub-20",
+                            "probabilidad": 69.9
+                        },
+                        "coinciden": true,
+                        "resultado_consenso": "1",
+                        "nombre_consenso": "Uganda Sub-20",
+                        "probabilidad_consenso": 70.13,
+                        "diferencia_puntos": 0.46,
+                        "marcador_1": {
+                            "marcador": "2-0",
+                            "resultado": "1",
+                            "confirma_consenso": true
+                        },
+                        "marcador_2": {
+                            "marcador": "1-0",
+                            "resultado": "1",
+                            "confirma_consenso": true
+                        }
+                    },
+                    "btts": {
+                        "poisson": 48.08,
+                        "historico_local": 57.44,
+                        "historico_visitante": 30.26,
+                        "final": 49.04,
+                        "offset_calibracion": 3.5
+                    },
+                    "over_under": {
+                        "poisson_over15": 80.05,
+                        "poisson_under15": 19.95,
+                        "decision_actual": "Over 1.5",
+                        "probabilidad_decision": 80.05,
+                        "umbral_direccion": 60.0
+                    },
+                    "selector": {
+                        "pick_directo": "Local",
+                        "prob_pick_directo": 63.05,
+                        "selector_general": {
+                            "Estado": "PICK",
+                            "Pick": "Local",
+                            "Probabilidad": 63.05,
+                            "MargenVsSegundo": 40.56,
+                            "Edge": 8.29,
+                            "EV": 3.4,
+                            "Motivo": "Probabilidad, separación y riesgo compatibles.",
+                            "Cuota": 1.64
+                        },
+                        "doble_oportunidad": {
+                            "Mercado": "1X",
+                            "Probabilidad": 85.54
+                        },
+                        "mejor_value": {
+                            "Mercado": "Local",
+                            "EV": 3.4,
+                            "Edge": 8.29,
+                            "Cuota": 1.64,
+                            "Value": true
+                        },
+                        "señal": {
+                            "Valor": 89.71,
+                            "Nivel": "ALTA",
+                            "MargenVsSegundo": 40.56
+                        },
+                        "riesgo": {
+                            "Indice": 60.35,
+                            "Nivel": "MEDIO"
+                        }
+                    },
+                    "snapshot": {
+                        "entrada_keys": [
+                            "__rehacer_h2h",
+                            "cuota_empate",
+                            "cuota_local",
+                            "cuota_visitante",
+                            "fecha",
+                            "h2h",
+                            "hora",
+                            "liga",
+                            "link",
+                            "local",
+                            "logo_local",
+                            "logo_visitante",
+                            "pais",
+                            "visitante"
+                        ],
+                        "features_presentes": false,
+                        "h2h_registros": 3
+                    }
+                }
+            },
+            "PronosticoFinal": {
+                "IA_PARTIDOS": {
+                    "1X2": {
+                        "Local": 63.05,
+                        "Empate": 22.49,
+                        "Visitante": 14.45
+                    },
+                    "recomendacion": {
+                        "mercado": "Uganda Sub-20",
+                        "probabilidad": 63.05,
+                        "estado": "PICK",
+                        "motivo": "Probabilidad, separación y riesgo compatibles.",
+                        "cuota": 1.64
+                    },
+                    "marcadores": [
+                        {
+                            "marcador": "2-0",
+                            "probabilidad": 12.43
+                        },
+                        {
+                            "marcador": "1-0",
+                            "probabilidad": 11.33
+                        }
+                    ],
+                    "btts": {
+                        "resultado": "NO",
+                        "probabilidad": 49.04
+                    },
+                    "over_under": {
+                        "mercado": "Over 1.5",
+                        "probabilidad": 80.05
+                    },
+                    "confianza": {
+                        "score": 89.71,
+                        "nivel": "ALTA"
+                    },
+                    "riesgo": {
+                        "score": 60.35,
+                        "nivel": "MEDIO"
+                    },
+                    "consistencia": {
+                        "estado": "CONSISTENTE",
+                        "diferencia_maxima_puntos": 0.61,
+                        "detalle": "Poisson y Monte Carlo muestran una tendencia muy similar."
+                    },
+                    "consenso_modelos": {
+                        "poisson": {
+                            "resultado": "1",
+                            "nombre": "Uganda Sub-20",
+                            "probabilidad": 70.36
+                        },
+                        "monte_carlo": {
+                            "resultado": "1",
+                            "nombre": "Uganda Sub-20",
+                            "probabilidad": 69.9
+                        },
+                        "coinciden": true,
+                        "resultado_consenso": "1",
+                        "nombre_consenso": "Uganda Sub-20",
+                        "probabilidad_consenso": 70.13,
+                        "diferencia_puntos": 0.46,
+                        "marcador_1": {
+                            "marcador": "2-0",
+                            "resultado": "1",
+                            "confirma_consenso": true
+                        },
+                        "marcador_2": {
+                            "marcador": "1-0",
+                            "resultado": "1",
+                            "confirma_consenso": true
+                        }
+                    },
+                    "muestra": {
+                        "local": 15,
+                        "local_objetivo": 15,
+                        "visitante": 15,
+                        "visitante_objetivo": 15,
+                        "h2h": 3
+                    },
+                    "pronostico_adicionales": {
+                        "Local_marcan": "8 de 15",
+                        "Visitante_marcan": "6 de 15",
+                        "Local_Partidos_sinmarcar": "3 de 15",
+                        "Visitante_Partidos_sinmarcar": "5 de 15",
+                        "local_gol_ajustada": 1.67,
+                        "visitante_gol_ajustada": 1.13
+                    },
+                    "value": {
+                        "hay_valor": true,
+                        "mercado": "Local",
+                        "edge": 8.29,
+                        "ev": 3.4,
+                        "cuota": 1.64
+                    }
+                },
+                "PREMIUM": {
+                    "activo": true,
+                    "motivo": "La recomendación final es directa (1/X/2) y entra por la ruta directa de PREMIUM.",
+                    "mercado_principal": "Uganda Sub-20",
+                    "probabilidad": 63.05,
+                    "marcador_1": "2-0",
+                    "probabilidad_marcador_1": 12.43,
+                    "marcador_2": "1-0",
+                    "probabilidad_marcador_2": 11.33,
+                    "btts": "NO",
+                    "probabilidad_btts": 49.04,
+                    "over_under": "Over 1.5",
+                    "probabilidad_over_under": 80.05,
+                    "confianza": 89.71,
+                    "riesgo": 60.35,
+                    "edge": 8.29,
+                    "pronostico_adicionales": {
+                        "Local_marcan": "8 de 15",
+                        "Visitante_marcan": "6 de 15",
+                        "Local_Partidos_sinmarcar": "3 de 15",
+                        "Visitante_Partidos_sinmarcar": "5 de 15",
+                        "local_gol_ajustada": 1.67,
+                        "visitante_gol_ajustada": 1.13
+                    },
+                    "resultado": "1",
+                    "recomendacion": "Uganda Sub-20",
+                    "probabilidad_consenso": 63.05,
+                    "consenso": true,
+                    "poisson": {
+                        "resultado": "1",
+                        "nombre": "Uganda Sub-20",
+                        "probabilidad": 70.36
+                    },
+                    "monte_carlo": {
+                        "resultado": "1",
+                        "nombre": "Uganda Sub-20",
+                        "probabilidad": 69.9
+                    },
+                    "confirma_marcador_1": null,
+                    "confirma_marcador_2": null,
+                    "premium_si": "SI",
+                    "ruta": "DIRECTA",
+                    "recomendacion_original": "Uganda Sub-20",
+                    "resultado_objetivo": "1"
+                },
+                "SELECT": {
+                    "activo": true,
+                    "motivo": "Poisson y Monte Carlo coinciden y el marcador 1 confirma la recomendación.",
+                    "mercado_principal": "Uganda Sub-20",
+                    "probabilidad": 63.05,
+                    "marcador_1": "2-0",
+                    "probabilidad_marcador_1": 12.43,
+                    "marcador_2": "1-0",
+                    "probabilidad_marcador_2": 11.33,
+                    "btts": "NO",
+                    "probabilidad_btts": 49.04,
+                    "over_under": "Over 1.5",
+                    "probabilidad_over_under": 80.05,
+                    "confianza": 89.71,
+                    "riesgo": 60.35,
+                    "edge": 8.29,
+                    "pronostico_adicionales": {
+                        "Local_marcan": "8 de 15",
+                        "Visitante_marcan": "6 de 15",
+                        "Local_Partidos_sinmarcar": "3 de 15",
+                        "Visitante_Partidos_sinmarcar": "5 de 15",
+                        "local_gol_ajustada": 1.67,
+                        "visitante_gol_ajustada": 1.13
+                    },
+                    "resultado": "1",
+                    "recomendacion": "Uganda Sub-20",
+                    "probabilidad_consenso": 70.13,
+                    "consenso": true,
+                    "poisson": {
+                        "resultado": "1",
+                        "nombre": "Uganda Sub-20",
+                        "probabilidad": 70.36
+                    },
+                    "monte_carlo": {
+                        "resultado": "1",
+                        "nombre": "Uganda Sub-20",
+                        "probabilidad": 69.9
+                    },
+                    "confirma_marcador_1": true
+                }
+            },
+            "resultado": {
+                "estado": "PENDIENTE",
+                "goles_local": null,
+                "goles_visitante": null,
+                "marcador": null,
+                "resultado_1x2": null,
+                "fecha_resultado": null
+            }
         }
     ],
-    "ultima_actualizacion_resultados": "2026-09-21T14:24:56-05:00"
+    "ultima_actualizacion_resultados": "2026-09-21T16:59:17-05:00"
 }
