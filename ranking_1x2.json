@@ -1,0 +1,24 @@
+{
+  "version": "1.0",
+  "motor": "Motor_ranking_1x2",
+  "fecha_generacion": "2026-09-24T22:52:08-05:00",
+  "fecha_ranking": "2026-09-24",
+  "max_partidos": 20,
+  "cantidad": 0,
+  "metodologia": {
+    "modelo_base": "Poisson guardado por Motor_analitico",
+    "monte_carlo": false,
+    "filtro_cuotas": "Local, Empate y Visitante > 2.10",
+    "seleccion": "unico resultado entre 1/X/2 por partido",
+    "historico": "solo finalizados con fecha anterior al ranking; fallback por pais/resultado usa todo el 1X2 y el estandar exacto prioriza el filtro de tres cuotas > 2.10",
+    "calibracion": "pais + rango de cuota + rango de probabilidad + resultado, con suavizado jerarquico",
+    "limite_diario": 20,
+    "reinicio": "cada fecha calendario",
+    "score": "porcentaje analitico; no es probabilidad garantizada de acierto"
+  },
+  "historico_calibracion": {
+    "partidos_utilizados": 149,
+    "fecha_corte_exclusiva": "2026-09-24"
+  },
+  "partidos": []
+}
