@@ -1,24 +1,102 @@
 {
-  "version": "1.0",
+  "version": "1.1",
   "motor": "Motor_ranking_1x2",
-  "fecha_generacion": "2026-09-24T22:52:08-05:00",
-  "fecha_ranking": "2026-09-24",
-  "max_partidos": 20,
-  "cantidad": 0,
+  "fecha_generacion": "2026-09-24T23:21:14-05:00",
+  "fecha_generacion_calendario": "2026-09-24",
+  "fecha_ranking": "2026-09-25",
+  "fechas_ranking": [
+    "2026-09-25",
+    "2026-09-26",
+    "2026-09-27",
+    "2026-09-28"
+  ],
+  "cantidad_fechas": 4,
+  "max_partidos_diarios": 20,
+  "cantidad_total": 0,
+  "candidatos_total": 0,
   "metodologia": {
     "modelo_base": "Poisson guardado por Motor_analitico",
     "monte_carlo": false,
     "filtro_cuotas": "Local, Empate y Visitante > 2.10",
     "seleccion": "unico resultado entre 1/X/2 por partido",
-    "historico": "solo finalizados con fecha anterior al ranking; fallback por pais/resultado usa todo el 1X2 y el estandar exacto prioriza el filtro de tres cuotas > 2.10",
+    "historico": "solo finalizados con fecha anterior a la fecha del partido; el estandar exacto prioriza partidos historicos con las tres cuotas > 2.10",
     "calibracion": "pais + rango de cuota + rango de probabilidad + resultado, con suavizado jerarquico",
     "limite_diario": 20,
-    "reinicio": "cada fecha calendario",
+    "reinicio": "ranking 1..20 independiente para cada fecha calendario",
     "score": "porcentaje analitico; no es probabilidad garantizada de acierto"
   },
+  "resumen_por_fecha": {
+    "2026-09-25": {
+      "candidatos": 0,
+      "ranking": 0,
+      "maximo": 20
+    },
+    "2026-09-26": {
+      "candidatos": 0,
+      "ranking": 0,
+      "maximo": 20
+    },
+    "2026-09-27": {
+      "candidatos": 0,
+      "ranking": 0,
+      "maximo": 20
+    },
+    "2026-09-28": {
+      "candidatos": 0,
+      "ranking": 0,
+      "maximo": 20
+    }
+  },
+  "rankings_por_fecha": {
+    "2026-09-25": {
+      "fecha": "2026-09-25",
+      "cantidad_candidatos": 0,
+      "cantidad": 0,
+      "max_partidos": 20,
+      "historico_calibracion": {
+        "partidos_utilizados": 238,
+        "fecha_corte_exclusiva": "2026-09-25"
+      },
+      "partidos": []
+    },
+    "2026-09-26": {
+      "fecha": "2026-09-26",
+      "cantidad_candidatos": 0,
+      "cantidad": 0,
+      "max_partidos": 20,
+      "historico_calibracion": {
+        "partidos_utilizados": 238,
+        "fecha_corte_exclusiva": "2026-09-26"
+      },
+      "partidos": []
+    },
+    "2026-09-27": {
+      "fecha": "2026-09-27",
+      "cantidad_candidatos": 0,
+      "cantidad": 0,
+      "max_partidos": 20,
+      "historico_calibracion": {
+        "partidos_utilizados": 238,
+        "fecha_corte_exclusiva": "2026-09-27"
+      },
+      "partidos": []
+    },
+    "2026-09-28": {
+      "fecha": "2026-09-28",
+      "cantidad_candidatos": 0,
+      "cantidad": 0,
+      "max_partidos": 20,
+      "historico_calibracion": {
+        "partidos_utilizados": 238,
+        "fecha_corte_exclusiva": "2026-09-28"
+      },
+      "partidos": []
+    }
+  },
+  "cantidad": 0,
   "historico_calibracion": {
-    "partidos_utilizados": 149,
-    "fecha_corte_exclusiva": "2026-09-24"
+    "partidos_utilizados": 238,
+    "fecha_corte_exclusiva": "2026-09-25"
   },
   "partidos": []
 }
