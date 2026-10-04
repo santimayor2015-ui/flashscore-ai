@@ -1,8 +1,8 @@
 {
   "version": "3.0",
   "motor": "Motor_ranking_1x2",
-  "fecha_generacion": "2026-10-04T15:12:30-05:00",
-  "cantidad": 56,
+  "fecha_generacion": "2026-10-04T15:21:58-05:00",
+  "cantidad": 57,
   "partidos": [
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/irlanda-Gfyqk1aG/israel-rqK1ypob/?mid=WA8jeNbm",
@@ -177,6 +177,49 @@
       "ranking": 4
     },
     {
+      "partido_id": "https://www.flashscore.co/partido/futbol/odd-grenland-44JZnfwQ/viking-KQjELtiD/?mid=dxenecEa",
+      "fecha": "2026-10-05",
+      "hora": "06:00",
+      "pais": "NORUEGA",
+      "liga": "DIVISIÓN 3 - GRUPO 4 - JORNADA 22",
+      "local": "Odd 2",
+      "visitante": "Viking 2",
+      "logo_local": "https://static.flashscore.com/res/image/data/M9KEisyB-nDXCJXr3.png",
+      "logo_visitante": "https://static.flashscore.com/res/image/data/QJpvCEEG-hleoFwpq.png",
+      "cuotas": {
+        "Local": 2.12,
+        "Empate": 4.2,
+        "Visitante": 2.47
+      },
+      "1X2_modelo": {
+        "Local": 29.91,
+        "Empate": 22.06,
+        "Visitante": 48.04
+      },
+      "ambos_marcan": {
+        "resultado": "SI",
+        "probabilidad": 73.53
+      },
+      "recomendacion": {
+        "codigo": "2",
+        "nombre": "Viking 2",
+        "score": 52.47,
+        "probabilidad_modelo": 48.04,
+        "cuota": 2.47,
+        "marcadores": [
+          {
+            "marcador": "1-1",
+            "probabilidad": 9.64
+          },
+          {
+            "marcador": "1-2",
+            "probabilidad": 8.98
+          }
+        ]
+      },
+      "ranking": 5
+    },
+    {
       "partido_id": "https://www.flashscore.co/partido/futbol/bolivar-KpRwCxzH/monagas-z1jpHUsI/?mid=ruggtGDs",
       "fecha": "2026-10-04",
       "hora": "14:00",
@@ -217,7 +260,7 @@
           }
         ]
       },
-      "ranking": 5
+      "ranking": 6
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/new-mexico-dI5p0xzH/phoenix-rising-CWnNB64j/?mid=6sHPVwNP",
@@ -260,7 +303,7 @@
           }
         ]
       },
-      "ranking": 6
+      "ranking": 7
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/bosnia-herzegovina-fqe7WYTr/polonia-2HzmcynI/?mid=0rhJIHdB",
@@ -303,7 +346,7 @@
           }
         ]
       },
-      "ranking": 7
+      "ranking": 8
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/guadalajara-bPpdMFsK/juarez-bF1UsapR/?mid=zHnMuz1b",
@@ -346,7 +389,7 @@
           }
         ]
       },
-      "ranking": 8
+      "ranking": 9
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/atletico-colina-Akun0Y7A/general-velasquez-M9qt7QOc/?mid=fDNshpBl",
@@ -389,7 +432,7 @@
           }
         ]
       },
-      "ranking": 9
+      "ranking": 10
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/carshalton-zmtX0Z3S/eastbourne-boro-pWCk7429/?mid=K8pWLjUI",
@@ -432,7 +475,7 @@
           }
         ]
       },
-      "ranking": 10
+      "ranking": 11
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/deportivo-maipu-8doLr0kf/nueva-chicago-69lVXxPD/?mid=SMnSYcfl",
@@ -475,7 +518,7 @@
           }
         ]
       },
-      "ranking": 11
+      "ranking": 12
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/loznica-bij7d3qi/napredak-8WNhuohr/?mid=EF9kCX6N",
@@ -518,7 +561,7 @@
           }
         ]
       },
-      "ranking": 12
+      "ranking": 13
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/girona-fc-nNNpcUSL/rcd-mallorca-4jDQxrbf/?mid=2a6TnEYO",
@@ -561,7 +604,7 @@
           }
         ]
       },
-      "ranking": 13
+      "ranking": 14
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/deportivo-miranda-bqdjykPk/mineros-nHA4pAGL/?mid=Mkf9xYC6",
@@ -604,7 +647,7 @@
           }
         ]
       },
-      "ranking": 14
+      "ranking": 15
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/malasia-rDaObqDr/vietnam-xAcurtwO/?mid=xIvgkyeC",
@@ -647,7 +690,7 @@
           }
         ]
       },
-      "ranking": 15
+      "ranking": 16
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/dep-concepcion-GKJrZE7I/o-higgins-hYrshGxg/?mid=QPk2nmFF",
@@ -690,7 +733,7 @@
           }
         ]
       },
-      "ranking": 16
+      "ranking": 17
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/molynes-united-EqamFmnd/racing-united-MHizSXtf/?mid=Q3Eqn4JH",
@@ -733,7 +776,7 @@
           }
         ]
       },
-      "ranking": 17
+      "ranking": 18
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/municipal-limeno-CKHjztEi/platense-municipal-xdgB5e4b/?mid=QcVL6qJs",
@@ -776,7 +819,7 @@
           }
         ]
       },
-      "ranking": 18
+      "ranking": 19
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/tivoli-EZUb42dG/tru-juice-fc-zo1b8QxJ/?mid=IwBylQl5",
@@ -819,7 +862,7 @@
           }
         ]
       },
-      "ranking": 19
+      "ranking": 20
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/america-de-cali-Oh9HQv4e/llaneros-KzwFLhIU/?mid=Um5ldwFj",
@@ -832,9 +875,9 @@
       "logo_local": "https://static.flashscore.com/res/image/data/2LyTztEa-hjn5AE5Q.png",
       "logo_visitante": "https://static.flashscore.com/res/image/data/fySikCAr-hSZHTo4B.png",
       "cuotas": {
-        "Local": 3.7,
-        "Empate": 3.3,
-        "Visitante": 2.15
+        "Local": 3.55,
+        "Empate": 3.45,
+        "Visitante": 2.14
       },
       "1X2_modelo": {
         "Local": 26.68,
@@ -848,9 +891,9 @@
       "recomendacion": {
         "codigo": "2",
         "nombre": "América de Cali",
-        "score": 47.54,
+        "score": 47.51,
         "probabilidad_modelo": 46.58,
-        "cuota": 2.15,
+        "cuota": 2.14,
         "marcadores": [
           {
             "marcador": "1-1",
@@ -862,7 +905,7 @@
           }
         ]
       },
-      "ranking": 20
+      "ranking": 21
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/bolton-8EIvdAXd/sheffield-utd-YPRuEHmi/?mid=pb0mLdw2",
@@ -905,7 +948,7 @@
           }
         ]
       },
-      "ranking": 21
+      "ranking": 22
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/georgia-YVovjspA/irlanda-del-norte-lQADNSWu/?mid=McQArpFs",
@@ -948,7 +991,7 @@
           }
         ]
       },
-      "ranking": 22
+      "ranking": 23
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/yaracuyanos-lpLD5AEn/zamora-nuSiH1tU/?mid=6uNPaCK8",
@@ -991,7 +1034,7 @@
           }
         ]
       },
-      "ranking": 23
+      "ranking": 24
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/keski-uusimaa-hEIm23Z9/tps-SzV0tlCN/?mid=8KgLi36l",
@@ -1034,7 +1077,7 @@
           }
         ]
       },
-      "ranking": 24
+      "ranking": 25
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/cibao-UsA47EQo/delfines-del-este-8Y886Yuh/?mid=jLfAiErn",
@@ -1077,7 +1120,7 @@
           }
         ]
       },
-      "ranking": 25
+      "ranking": 26
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/estoril-biRbL930/torreense-vawaGyGO/?mid=roz1TkA5",
@@ -1120,7 +1163,7 @@
           }
         ]
       },
-      "ranking": 26
+      "ranking": 27
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/arabe-unido-8hWKNqzL/independiente-hjzxSMAK/?mid=AiO8uJqf",
@@ -1163,7 +1206,7 @@
           }
         ]
       },
-      "ranking": 27
+      "ranking": 28
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/sonabel-ouagadougou-86IQ9fzF/us-comoe-fcylHJem/?mid=bTIWQl6L",
@@ -1192,7 +1235,7 @@
       "recomendacion": {
         "codigo": "1",
         "nombre": "Sonabel Ouagadougou",
-        "score": 44.4,
+        "score": 44.41,
         "probabilidad_modelo": 39.44,
         "cuota": 2.45,
         "marcadores": [
@@ -1206,7 +1249,7 @@
           }
         ]
       },
-      "ranking": 28
+      "ranking": 29
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/colchagua-cd-vT50S0bT/osorno-neroizha/?mid=8E2DIgLa",
@@ -1249,7 +1292,7 @@
           }
         ]
       },
-      "ranking": 29
+      "ranking": 30
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/arnett-gardens-AHBD4DSI/portmore-pfDrVtbe/?mid=tv7Jy0g5",
@@ -1292,7 +1335,7 @@
           }
         ]
       },
-      "ranking": 30
+      "ranking": 31
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/bari-xIkUr2vO/salernitana-Mq05g4BP/?mid=zXA8YRom",
@@ -1335,7 +1378,7 @@
           }
         ]
       },
-      "ranking": 31
+      "ranking": 32
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/canuelas-fkYuJYII/el-porvenir-EDkCUD9S/?mid=plAAAttB",
@@ -1378,7 +1421,7 @@
           }
         ]
       },
-      "ranking": 32
+      "ranking": 33
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/lexington-rXeZt8Ug/tampa-bay-sun-xAR9r0l1/?mid=bPxMuEJk",
@@ -1421,7 +1464,7 @@
           }
         ]
       },
-      "ranking": 33
+      "ranking": 34
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/bogota-foERz7de/envigado-xtFGm2B8/?mid=6VFfpdXF",
@@ -1464,7 +1507,7 @@
           }
         ]
       },
-      "ranking": 34
+      "ranking": 35
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/orsomarso-ET6jTFPs/quindio-zms5B2Zr/?mid=ULOXxEPk",
@@ -1507,7 +1550,7 @@
           }
         ]
       },
-      "ranking": 35
+      "ranking": 36
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/avila-IgQSkyO7/dynamo-puerto-fc-IRzKqzlk/?mid=lxd1vfrf",
@@ -1550,7 +1593,7 @@
           }
         ]
       },
-      "ranking": 36
+      "ranking": 37
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/ca-cerro-OMUq1t8G/wanderers-dvF4FAJd/?mid=4l6tCHwP",
@@ -1593,7 +1636,7 @@
           }
         ]
       },
-      "ranking": 37
+      "ranking": 38
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/atl-rafaela-rPiItCsU/atlanta-p6ySwEap/?mid=MJtAqF86",
@@ -1636,7 +1679,7 @@
           }
         ]
       },
-      "ranking": 38
+      "ranking": 39
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/mes-b7KrS94Q/niroye-zamini-zkKQta1H/?mid=GUQyoJ3L",
@@ -1679,7 +1722,7 @@
           }
         ]
       },
-      "ranking": 39
+      "ranking": 40
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/santa-cruz-rj-bPTBRRaD/serra-macaense-YNQeKbrK/?mid=d4Sv0kSs",
@@ -1722,7 +1765,7 @@
           }
         ]
       },
-      "ranking": 40
+      "ranking": 41
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/ario-eslamshahr-8YXcPSw5/mes-rafsanjan-jNQqs6qN/?mid=SjJNyFQ7",
@@ -1765,7 +1808,7 @@
           }
         ]
       },
-      "ranking": 41
+      "ranking": 42
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/inter-bogota-KK2QOIY7/once-caldas-bVsnDlMD/?mid=E9rwETdc",
@@ -1778,9 +1821,9 @@
       "logo_local": "https://static.flashscore.com/res/image/data/xCeMUuZg-nouesssi.png",
       "logo_visitante": "https://static.flashscore.com/res/image/data/2JsUqijl-bsEYFgtQ.png",
       "cuotas": {
-        "Local": 2.78,
+        "Local": 2.8,
         "Empate": 3.3,
-        "Visitante": 2.65
+        "Visitante": 2.64
       },
       "1X2_modelo": {
         "Local": 33.51,
@@ -1794,9 +1837,9 @@
       "recomendacion": {
         "codigo": "2",
         "nombre": "Once Caldas",
-        "score": 42.1,
+        "score": 42.07,
         "probabilidad_modelo": 39.19,
-        "cuota": 2.65,
+        "cuota": 2.64,
         "marcadores": [
           {
             "marcador": "1-1",
@@ -1808,7 +1851,7 @@
           }
         ]
       },
-      "ranking": 42
+      "ranking": 43
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/el-salvador-8b5z2tKe/martinica-2wUx2pdP/?mid=bFN6Kiw0",
@@ -1851,7 +1894,7 @@
           }
         ]
       },
-      "ranking": 43
+      "ranking": 44
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/hartford-athletic-Ew2P6PKC/louisville-city-nRGIlQ2T/?mid=KGKeABzi",
@@ -1894,7 +1937,7 @@
           }
         ]
       },
-      "ranking": 44
+      "ranking": 45
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/leones-de-rosario-rDeLvwS1/sportivo-barracas-2qmvus66/?mid=AVgk3bYp",
@@ -1937,7 +1980,7 @@
           }
         ]
       },
-      "ranking": 45
+      "ranking": 46
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/belgrano-cba-Amzaty2s/talleres-de-cordoba-bkDdeAvA/?mid=06NKZ6Tr",
@@ -1980,7 +2023,7 @@
           }
         ]
       },
-      "ranking": 46
+      "ranking": 47
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/kenia-CIAJw1QK/ruanda-4dPTyCvg/?mid=ObOnd9T8",
@@ -2023,7 +2066,7 @@
           }
         ]
       },
-      "ranking": 47
+      "ranking": 48
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/hungria-MTVhw6Go/ucrania-j1JtDMwo/?mid=tQF4SXOq",
@@ -2036,9 +2079,9 @@
       "logo_local": "https://static.flashscore.com/res/image/data/Q3KOlYVg-IPF97VQ3.png",
       "logo_visitante": "https://static.flashscore.com/res/image/data/21LKuWg5-Uywods6T.png",
       "cuotas": {
-        "Local": 2.52,
-        "Empate": 3.25,
-        "Visitante": 2.8
+        "Local": 2.54,
+        "Empate": 3.2,
+        "Visitante": 2.82
       },
       "1X2_modelo": {
         "Local": 38.06,
@@ -2052,9 +2095,9 @@
       "recomendacion": {
         "codigo": "1",
         "nombre": "Ucrania",
-        "score": 39.99,
+        "score": 40.04,
         "probabilidad_modelo": 38.06,
-        "cuota": 2.52,
+        "cuota": 2.54,
         "marcadores": [
           {
             "marcador": "1-1",
@@ -2066,7 +2109,7 @@
           }
         ]
       },
-      "ranking": 48
+      "ranking": 49
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/brown-adrogue-OdzWxYEj/deportivo-merlo-OWCfIUOr/?mid=YJBEAq8E",
@@ -2109,7 +2152,7 @@
           }
         ]
       },
-      "ranking": 49
+      "ranking": 50
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/grebbestad-I3SQIF9F/herrestads-aif-xl7u6LSM/?mid=KxHSZDvC",
@@ -2138,7 +2181,7 @@
       "recomendacion": {
         "codigo": "1",
         "nombre": "Herrestads AIF",
-        "score": 39.59,
+        "score": 39.6,
         "probabilidad_modelo": 37.92,
         "cuota": 2.45,
         "marcadores": [
@@ -2152,7 +2195,7 @@
           }
         ]
       },
-      "ranking": 50
+      "ranking": 51
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/besat-kermanshah-jRaUHus8/naft-bandar-abbas-ru0xddzh/?mid=nDH7ucRr",
@@ -2195,7 +2238,7 @@
           }
         ]
       },
-      "ranking": 51
+      "ranking": 52
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/la-luz-jJqtjB5C/river-plate-CI1JPnYR/?mid=URc52yZb",
@@ -2238,7 +2281,7 @@
           }
         ]
       },
-      "ranking": 52
+      "ranking": 53
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/gibraltar-CEihsqe7/liechtenstein-8KIf01Ed/?mid=0lJmdkRQ",
@@ -2281,7 +2324,7 @@
           }
         ]
       },
-      "ranking": 53
+      "ranking": 54
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/alte-brown-EJlvsfiT/san-telmo-ppWjiBbd/?mid=GxGojZXI",
@@ -2324,7 +2367,7 @@
           }
         ]
       },
-      "ranking": 54
+      "ranking": 55
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/banfield-pjF54UoA/gimnasia-l-p-IVEZmcN8/?mid=6yVthj3D",
@@ -2367,7 +2410,7 @@
           }
         ]
       },
-      "ranking": 55
+      "ranking": 56
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/gimnasia-chivilcoy-I5W0eJ6j/olimpo-jNqF318i/?mid=0nQzUqIk",
@@ -2410,7 +2453,7 @@
           }
         ]
       },
-      "ranking": 56
+      "ranking": 57
     }
   ]
 }
