@@ -1,8 +1,8 @@
 {
   "version": "3.0",
   "motor": "Motor_ranking_1x2",
-  "fecha_generacion": "2026-10-04T19:45:26-05:00",
-  "cantidad": 30,
+  "fecha_generacion": "2026-10-04T21:02:56-05:00",
+  "cantidad": 27,
   "partidos": [
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/ellas-syrou-tY2cPujQ/paok-MwLE1EwS/?mid=xhP62ryq",
@@ -31,7 +31,7 @@
       "recomendacion": {
         "codigo": "1",
         "nombre": "PAOK B",
-        "score": 56.04,
+        "score": 56.05,
         "probabilidad_modelo": 51.09,
         "cuota": 2.45,
         "marcadores": [
@@ -46,49 +46,6 @@
         ]
       },
       "ranking": 1
-    },
-    {
-      "partido_id": "https://www.flashscore.co/partido/futbol/costa-rica-C4ePE2kq/haiti-nk4v10Z1/?mid=SzkQK0Xr",
-      "fecha": "2026-10-04",
-      "hora": "19:00",
-      "pais": "NORTE, CENTROAMÉRICA Y CARIBE",
-      "liga": "CONCACAF NATIONS LEAGUE - LIGA A",
-      "local": "Costa Rica",
-      "visitante": "Haití",
-      "logo_local": "https://static.flashscore.com/res/image/data/M72YWCeM-KfXjzrxU.png",
-      "logo_visitante": "https://static.flashscore.com/res/image/data/OzGon6Da-GY05WHbt.png",
-      "cuotas": {
-        "Local": 2.44,
-        "Empate": 3.65,
-        "Visitante": 2.66
-      },
-      "1X2_modelo": {
-        "Local": 52.43,
-        "Empate": 23.67,
-        "Visitante": 23.9
-      },
-      "ambos_marcan": {
-        "resultado": "SI",
-        "probabilidad": 54.37
-      },
-      "recomendacion": {
-        "codigo": "1",
-        "nombre": "Costa Rica",
-        "score": 54.41,
-        "probabilidad_modelo": 52.43,
-        "cuota": 2.44,
-        "marcadores": [
-          {
-            "marcador": "2-1",
-            "probabilidad": 9.04
-          },
-          {
-            "marcador": "1-1",
-            "probabilidad": 8.8
-          }
-        ]
-      },
-      "ranking": 2
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/odd-grenland-44JZnfwQ/viking-KQjELtiD/?mid=dxenecEa",
@@ -117,7 +74,7 @@
       "recomendacion": {
         "codigo": "2",
         "nombre": "Viking 2",
-        "score": 52.2,
+        "score": 52.21,
         "probabilidad_modelo": 48.04,
         "cuota": 2.35,
         "marcadores": [
@@ -131,7 +88,7 @@
           }
         ]
       },
-      "ranking": 3
+      "ranking": 2
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/bosnia-herzegovina-fqe7WYTr/polonia-2HzmcynI/?mid=0rhJIHdB",
@@ -174,50 +131,7 @@
           }
         ]
       },
-      "ranking": 4
-    },
-    {
-      "partido_id": "https://www.flashscore.co/partido/futbol/guadalajara-bPpdMFsK/juarez-bF1UsapR/?mid=zHnMuz1b",
-      "fecha": "2026-10-04",
-      "hora": "18:00",
-      "pais": "MÉXICO",
-      "liga": "LIGA MX FEMENIL - APERTURA - JORNADA 10",
-      "local": "Guadalajara F",
-      "visitante": "Juárez F",
-      "logo_local": "https://static.flashscore.com/res/image/data/jcSZ4BAr-jJ3ijTtC.png",
-      "logo_visitante": "https://static.flashscore.com/res/image/data/bHx62DeM-YyW8DNGd.png",
-      "cuotas": {
-        "Local": 2.2,
-        "Empate": 3.25,
-        "Visitante": 3.25
-      },
-      "1X2_modelo": {
-        "Local": 46.07,
-        "Empate": 25.01,
-        "Visitante": 28.92
-      },
-      "ambos_marcan": {
-        "resultado": "SI",
-        "probabilidad": 56.64
-      },
-      "recomendacion": {
-        "codigo": "1",
-        "nombre": "Guadalajara F",
-        "score": 50.63,
-        "probabilidad_modelo": 46.07,
-        "cuota": 2.2,
-        "marcadores": [
-          {
-            "marcador": "1-1",
-            "probabilidad": 10.14
-          },
-          {
-            "marcador": "2-1",
-            "probabilidad": 9.1
-          }
-        ]
-      },
-      "ranking": 5
+      "ranking": 3
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/carshalton-zmtX0Z3S/eastbourne-boro-pWCk7429/?mid=K8pWLjUI",
@@ -230,8 +144,8 @@
       "logo_local": "https://static.flashscore.com/res/image/data/neYJjZEG-bHOUzUaI.png",
       "logo_visitante": "https://static.flashscore.com/res/image/data/pdq1YIwS-6BcukmJo.png",
       "cuotas": {
-        "Local": 2.77,
-        "Empate": 3.75,
+        "Local": 2.75,
+        "Empate": 3.8,
         "Visitante": 2.15
       },
       "1X2_modelo": {
@@ -260,7 +174,7 @@
           }
         ]
       },
-      "ranking": 6
+      "ranking": 4
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/loznica-bij7d3qi/napredak-8WNhuohr/?mid=EF9kCX6N",
@@ -289,7 +203,7 @@
       "recomendacion": {
         "codigo": "1",
         "nombre": "Napredak",
-        "score": 49.47,
+        "score": 49.48,
         "probabilidad_modelo": 44.95,
         "cuota": 2.22,
         "marcadores": [
@@ -303,7 +217,7 @@
           }
         ]
       },
-      "ranking": 7
+      "ranking": 5
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/malasia-rDaObqDr/vietnam-xAcurtwO/?mid=xIvgkyeC",
@@ -332,7 +246,7 @@
       "recomendacion": {
         "codigo": "1",
         "nombre": "Malasia",
-        "score": 48.76,
+        "score": 48.77,
         "probabilidad_modelo": 40.37,
         "cuota": 2.45,
         "marcadores": [
@@ -346,7 +260,7 @@
           }
         ]
       },
-      "ranking": 8
+      "ranking": 6
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/deportivo-maipu-8doLr0kf/nueva-chicago-69lVXxPD/?mid=SMnSYcfl",
@@ -389,7 +303,7 @@
           }
         ]
       },
-      "ranking": 9
+      "ranking": 7
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/bolton-8EIvdAXd/sheffield-utd-YPRuEHmi/?mid=pb0mLdw2",
@@ -432,7 +346,7 @@
           }
         ]
       },
-      "ranking": 10
+      "ranking": 8
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/georgia-YVovjspA/irlanda-del-norte-lQADNSWu/?mid=McQArpFs",
@@ -475,7 +389,7 @@
           }
         ]
       },
-      "ranking": 11
+      "ranking": 9
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/keski-uusimaa-hEIm23Z9/tps-SzV0tlCN/?mid=8KgLi36l",
@@ -504,7 +418,7 @@
       "recomendacion": {
         "codigo": "1",
         "nombre": "TPS F",
-        "score": 46.47,
+        "score": 46.48,
         "probabilidad_modelo": 43.3,
         "cuota": 2.22,
         "marcadores": [
@@ -518,93 +432,7 @@
           }
         ]
       },
-      "ranking": 12
-    },
-    {
-      "partido_id": "https://www.flashscore.co/partido/futbol/estoril-biRbL930/torreense-vawaGyGO/?mid=roz1TkA5",
-      "fecha": "2026-10-05",
-      "hora": "11:00",
-      "pais": "PORTUGAL",
-      "liga": "LIGA NEXT GEN U23 - JORNADA 6",
-      "local": "Torreense Sub-23",
-      "visitante": "Estoril Sub-23",
-      "logo_local": "https://static.flashscore.com/res/image/data/Q3tB8O9r-rHbwrlwa.png",
-      "logo_visitante": "https://static.flashscore.com/res/image/data/d2P6CDfM-WEIjXBWa.png",
-      "cuotas": {
-        "Local": 2.25,
-        "Empate": 3.55,
-        "Visitante": 2.7
-      },
-      "1X2_modelo": {
-        "Local": 41.81,
-        "Empate": 25.53,
-        "Visitante": 32.66
-      },
-      "ambos_marcan": {
-        "resultado": "SI",
-        "probabilidad": 69.06
-      },
-      "recomendacion": {
-        "codigo": "1",
-        "nombre": "Torreense Sub-23",
-        "score": 46.04,
-        "probabilidad_modelo": 41.81,
-        "cuota": 2.25,
-        "marcadores": [
-          {
-            "marcador": "1-1",
-            "probabilidad": 11.97
-          },
-          {
-            "marcador": "1-0",
-            "probabilidad": 9.83
-          }
-        ]
-      },
-      "ranking": 13
-    },
-    {
-      "partido_id": "https://www.flashscore.co/partido/futbol/arabe-unido-8hWKNqzL/independiente-hjzxSMAK/?mid=AiO8uJqf",
-      "fecha": "2026-10-04",
-      "hora": "18:15",
-      "pais": "PANAMÁ",
-      "liga": "LPF - APERTURA - JORNADA 11",
-      "local": "Independiente",
-      "visitante": "Árabe Unido",
-      "logo_local": "https://static.flashscore.com/res/image/data/p4mDhpZg-nXJKIqpI.png",
-      "logo_visitante": "https://static.flashscore.com/res/image/data/Qek0lvFa-IJKf4CSg.png",
-      "cuotas": {
-        "Local": 3.05,
-        "Empate": 3.0,
-        "Visitante": 2.32
-      },
-      "1X2_modelo": {
-        "Local": 29.16,
-        "Empate": 27.78,
-        "Visitante": 43.06
-      },
-      "ambos_marcan": {
-        "resultado": "SI",
-        "probabilidad": 58.64
-      },
-      "recomendacion": {
-        "codigo": "2",
-        "nombre": "Árabe Unido",
-        "score": 45.44,
-        "probabilidad_modelo": 43.06,
-        "cuota": 2.32,
-        "marcadores": [
-          {
-            "marcador": "1-1",
-            "probabilidad": 11.32
-          },
-          {
-            "marcador": "0-1",
-            "probabilidad": 10.0
-          }
-        ]
-      },
-      "ranking": 14
+      "ranking": 10
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/arnett-gardens-AHBD4DSI/portmore-pfDrVtbe/?mid=tv7Jy0g5",
@@ -617,9 +445,9 @@
       "logo_local": "https://static.flashscore.com/res/image/data/GKqOcPYA-hr4cOWJA.png",
       "logo_visitante": "https://static.flashscore.com/res/image/data/2oS5cucM-2uWpT1r1.png",
       "cuotas": {
-        "Local": 2.77,
-        "Empate": 3.25,
-        "Visitante": 2.37
+        "Local": 3.1,
+        "Empate": 3.2,
+        "Visitante": 2.2
       },
       "1X2_modelo": {
         "Local": 33.71,
@@ -633,9 +461,9 @@
       "recomendacion": {
         "codigo": "2",
         "nombre": "Portmore",
-        "score": 44.46,
+        "score": 45.71,
         "probabilidad_modelo": 40.5,
-        "cuota": 2.37,
+        "cuota": 2.2,
         "marcadores": [
           {
             "marcador": "1-1",
@@ -647,7 +475,50 @@
           }
         ]
       },
-      "ranking": 15
+      "ranking": 11
+    },
+    {
+      "partido_id": "https://www.flashscore.co/partido/futbol/georgia-CC3Qdnun/letonia-A5SfD59o/?mid=Gd1UjHtJ",
+      "fecha": "2026-10-05",
+      "hora": "09:00",
+      "pais": "MUNDIAL",
+      "liga": "AMISTOSOS INTERNACIONALES",
+      "local": "Georgia Sub-19",
+      "visitante": "Letonia Sub-19",
+      "logo_local": "https://static.flashscore.com/res/image/data/0jOwdWAr-ITysswaf.png",
+      "logo_visitante": "https://static.flashscore.com/res/image/data/fy4F2VCr-SMHyXbzf.png",
+      "cuotas": {
+        "Local": 2.2,
+        "Empate": 3.35,
+        "Visitante": 2.8
+      },
+      "1X2_modelo": {
+        "Local": 43.41,
+        "Empate": 25.99,
+        "Visitante": 30.6
+      },
+      "ambos_marcan": {
+        "resultado": "SI",
+        "probabilidad": 59.4
+      },
+      "recomendacion": {
+        "codigo": "1",
+        "nombre": "Georgia Sub-19",
+        "score": 45.65,
+        "probabilidad_modelo": 43.41,
+        "cuota": 2.2,
+        "marcadores": [
+          {
+            "marcador": "1-1",
+            "probabilidad": 11.8
+          },
+          {
+            "marcador": "1-0",
+            "probabilidad": 10.84
+          }
+        ]
+      },
+      "ranking": 12
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/sonabel-ouagadougou-86IQ9fzF/us-comoe-fcylHJem/?mid=bTIWQl6L",
@@ -676,7 +547,7 @@
       "recomendacion": {
         "codigo": "1",
         "nombre": "Sonabel Ouagadougou",
-        "score": 44.41,
+        "score": 44.43,
         "probabilidad_modelo": 39.44,
         "cuota": 2.45,
         "marcadores": [
@@ -690,7 +561,7 @@
           }
         ]
       },
-      "ranking": 16
+      "ranking": 13
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/canuelas-fkYuJYII/el-porvenir-EDkCUD9S/?mid=plAAAttB",
@@ -733,7 +604,7 @@
           }
         ]
       },
-      "ranking": 17
+      "ranking": 14
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/orsomarso-ET6jTFPs/quindio-zms5B2Zr/?mid=ULOXxEPk",
@@ -762,7 +633,7 @@
       "recomendacion": {
         "codigo": "1",
         "nombre": "Orsomarso",
-        "score": 43.96,
+        "score": 44.16,
         "probabilidad_modelo": 36.33,
         "cuota": 2.65,
         "marcadores": [
@@ -776,7 +647,7 @@
           }
         ]
       },
-      "ranking": 18
+      "ranking": 15
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/mes-b7KrS94Q/niroye-zamini-zkKQta1H/?mid=GUQyoJ3L",
@@ -805,7 +676,7 @@
       "recomendacion": {
         "codigo": "1",
         "nombre": "Niroye Zamini",
-        "score": 42.77,
+        "score": 42.79,
         "probabilidad_modelo": 36.89,
         "cuota": 2.5,
         "marcadores": [
@@ -819,7 +690,50 @@
           }
         ]
       },
-      "ranking": 19
+      "ranking": 16
+    },
+    {
+      "partido_id": "https://www.flashscore.co/partido/futbol/el-salvador-8b5z2tKe/martinica-2wUx2pdP/?mid=bFN6Kiw0",
+      "fecha": "2026-10-05",
+      "hora": "17:00",
+      "pais": "NORTE, CENTROAMÉRICA Y CARIBE",
+      "liga": "CONCACAF NATIONS LEAGUE - LIGA A",
+      "local": "Martinica",
+      "visitante": "El Salvador",
+      "logo_local": "https://static.flashscore.com/res/image/data/bXQkBHyB-rTUHZqpb.png",
+      "logo_visitante": "https://static.flashscore.com/res/image/data/h81TtGWg-raJr9r28.png",
+      "cuotas": {
+        "Local": 2.6,
+        "Empate": 3.5,
+        "Visitante": 2.56
+      },
+      "1X2_modelo": {
+        "Local": 37.49,
+        "Empate": 26.16,
+        "Visitante": 36.35
+      },
+      "ambos_marcan": {
+        "resultado": "NO",
+        "probabilidad": 46.4
+      },
+      "recomendacion": {
+        "codigo": "1",
+        "nombre": "Martinica",
+        "score": 42.64,
+        "probabilidad_modelo": 37.49,
+        "cuota": 2.6,
+        "marcadores": [
+          {
+            "marcador": "1-1",
+            "probabilidad": 12.32
+          },
+          {
+            "marcador": "1-0",
+            "probabilidad": 10.79
+          }
+        ]
+      },
+      "ranking": 17
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/santa-cruz-rj-bPTBRRaD/serra-macaense-YNQeKbrK/?mid=d4Sv0kSs",
@@ -848,7 +762,7 @@
       "recomendacion": {
         "codigo": "1",
         "nombre": "Serra Macaense",
-        "score": 42.54,
+        "score": 42.55,
         "probabilidad_modelo": 41.19,
         "cuota": 2.32,
         "marcadores": [
@@ -862,7 +776,7 @@
           }
         ]
       },
-      "ranking": 20
+      "ranking": 18
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/bogota-foERz7de/envigado-xtFGm2B8/?mid=6VFfpdXF",
@@ -891,7 +805,7 @@
       "recomendacion": {
         "codigo": "2",
         "nombre": "Envigado",
-        "score": 42.52,
+        "score": 42.53,
         "probabilidad_modelo": 40.09,
         "cuota": 2.6,
         "marcadores": [
@@ -905,50 +819,7 @@
           }
         ]
       },
-      "ranking": 21
-    },
-    {
-      "partido_id": "https://www.flashscore.co/partido/futbol/el-salvador-8b5z2tKe/martinica-2wUx2pdP/?mid=bFN6Kiw0",
-      "fecha": "2026-10-05",
-      "hora": "17:00",
-      "pais": "NORTE, CENTROAMÉRICA Y CARIBE",
-      "liga": "CONCACAF NATIONS LEAGUE - LIGA A",
-      "local": "Martinica",
-      "visitante": "El Salvador",
-      "logo_local": "https://static.flashscore.com/res/image/data/bXQkBHyB-rTUHZqpb.png",
-      "logo_visitante": "https://static.flashscore.com/res/image/data/h81TtGWg-raJr9r28.png",
-      "cuotas": {
-        "Local": 2.6,
-        "Empate": 3.5,
-        "Visitante": 2.55
-      },
-      "1X2_modelo": {
-        "Local": 37.49,
-        "Empate": 26.16,
-        "Visitante": 36.35
-      },
-      "ambos_marcan": {
-        "resultado": "NO",
-        "probabilidad": 46.4
-      },
-      "recomendacion": {
-        "codigo": "1",
-        "nombre": "Martinica",
-        "score": 42.26,
-        "probabilidad_modelo": 37.49,
-        "cuota": 2.6,
-        "marcadores": [
-          {
-            "marcador": "1-1",
-            "probabilidad": 12.32
-          },
-          {
-            "marcador": "1-0",
-            "probabilidad": 10.79
-          }
-        ]
-      },
-      "ranking": 22
+      "ranking": 19
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/ario-eslamshahr-8YXcPSw5/mes-rafsanjan-jNQqs6qN/?mid=SjJNyFQ7",
@@ -961,9 +832,9 @@
       "logo_local": "https://static.flashscore.com/res/image/data/r5ScdrFG-ptFFGDID.png",
       "logo_visitante": "https://static.flashscore.com/res/image/data/veOHfBfM-G24pwoP9.png",
       "cuotas": {
-        "Local": 2.85,
+        "Local": 2.75,
         "Empate": 2.85,
-        "Visitante": 2.6
+        "Visitante": 2.5
       },
       "1X2_modelo": {
         "Local": 32.53,
@@ -977,9 +848,9 @@
       "recomendacion": {
         "codigo": "2",
         "nombre": "Ario Eslamshahr",
-        "score": 42.21,
+        "score": 42.15,
         "probabilidad_modelo": 36.69,
-        "cuota": 2.6,
+        "cuota": 2.5,
         "marcadores": [
           {
             "marcador": "0-1",
@@ -991,7 +862,7 @@
           }
         ]
       },
-      "ranking": 23
+      "ranking": 20
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/leones-de-rosario-rDeLvwS1/sportivo-barracas-2qmvus66/?mid=AVgk3bYp",
@@ -1034,7 +905,7 @@
           }
         ]
       },
-      "ranking": 24
+      "ranking": 21
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/hungria-MTVhw6Go/ucrania-j1JtDMwo/?mid=tQF4SXOq",
@@ -1049,7 +920,7 @@
       "cuotas": {
         "Local": 2.56,
         "Empate": 3.15,
-        "Visitante": 2.85
+        "Visitante": 2.84
       },
       "1X2_modelo": {
         "Local": 38.06,
@@ -1063,7 +934,7 @@
       "recomendacion": {
         "codigo": "1",
         "nombre": "Ucrania",
-        "score": 40.1,
+        "score": 40.12,
         "probabilidad_modelo": 38.06,
         "cuota": 2.56,
         "marcadores": [
@@ -1077,7 +948,7 @@
           }
         ]
       },
-      "ranking": 25
+      "ranking": 22
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/kenia-CIAJw1QK/ruanda-4dPTyCvg/?mid=ObOnd9T8",
@@ -1120,7 +991,7 @@
           }
         ]
       },
-      "ranking": 26
+      "ranking": 23
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/grebbestad-I3SQIF9F/herrestads-aif-xl7u6LSM/?mid=KxHSZDvC",
@@ -1163,7 +1034,7 @@
           }
         ]
       },
-      "ranking": 27
+      "ranking": 24
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/brown-adrogue-OdzWxYEj/deportivo-merlo-OWCfIUOr/?mid=YJBEAq8E",
@@ -1206,7 +1077,7 @@
           }
         ]
       },
-      "ranking": 28
+      "ranking": 25
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/besat-kermanshah-jRaUHus8/naft-bandar-abbas-ru0xddzh/?mid=nDH7ucRr",
@@ -1235,7 +1106,7 @@
       "recomendacion": {
         "codigo": "2",
         "nombre": "Naft Bandar Abbas",
-        "score": 39.46,
+        "score": 39.47,
         "probabilidad_modelo": 35.76,
         "cuota": 2.55,
         "marcadores": [
@@ -1249,7 +1120,7 @@
           }
         ]
       },
-      "ranking": 29
+      "ranking": 26
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/gibraltar-CEihsqe7/liechtenstein-8KIf01Ed/?mid=0lJmdkRQ",
@@ -1278,7 +1149,7 @@
       "recomendacion": {
         "codigo": "1",
         "nombre": "Liechtenstein",
-        "score": 38.28,
+        "score": 38.29,
         "probabilidad_modelo": 36.28,
         "cuota": 2.6,
         "marcadores": [
@@ -1292,7 +1163,7 @@
           }
         ]
       },
-      "ranking": 30
+      "ranking": 27
     }
   ]
 }
