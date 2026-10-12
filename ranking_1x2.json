@@ -1,9 +1,138 @@
 {
   "version": "3.0",
   "motor": "Motor_ranking_1x2",
-  "fecha_generacion": "2026-10-12T01:04:41-05:00",
-  "cantidad": 121,
+  "fecha_generacion": "2026-10-12T08:50:12-05:00",
+  "cantidad": 143,
   "partidos": [
+    {
+      "partido_id": "https://www.flashscore.co/partido/futbol/kadiogo-zsZ5MCvI/real-du-faso-YaomitHM/?mid=ANW9C13m",
+      "fecha": "2026-10-12",
+      "hora": "10:30",
+      "pais": "BURKINA FASO",
+      "liga": "PREMIER LEAGUE - JORNADA 4",
+      "local": "RDF",
+      "visitante": "Kadiogo",
+      "logo_local": "https://static.flashscore.com/res/image/data/UoOfQTeM-YomXeegD.png",
+      "logo_visitante": "https://static.flashscore.com/res/image/data/jVN1GmAr-Sh2IppjH.png",
+      "cuotas": {
+        "Local": 2.15,
+        "Empate": 2.8,
+        "Visitante": 3.35
+      },
+      "1X2_modelo": {
+        "Local": 54.03,
+        "Empate": 27.82,
+        "Visitante": 18.15
+      },
+      "ambos_marcan": {
+        "resultado": "NO",
+        "probabilidad": 37.78
+      },
+      "recomendacion": {
+        "codigo": "1",
+        "nombre": "RDF",
+        "score": 58.43,
+        "probabilidad_modelo": 54.03,
+        "cuota": 2.15,
+        "marcadores": [
+          {
+            "marcador": "1-0",
+            "probabilidad": 17.87
+          },
+          {
+            "marcador": "2-0",
+            "probabilidad": 13.25
+          }
+        ]
+      },
+      "ranking": 1
+    },
+    {
+      "partido_id": "https://www.flashscore.co/partido/futbol/gc-mascara-OSn5oNaJ/sidi-benali-AFySHjXP/?mid=tvkTJFcJ",
+      "fecha": "2026-10-13",
+      "hora": "09:00",
+      "pais": "ARGELIA",
+      "liga": "LIGUE 2 - JORNADA 5",
+      "local": "GC Mascara",
+      "visitante": "Sidi Benali",
+      "logo_local": "https://static.flashscore.com/res/image/data/dlvmFECa-8SLMOwAA.png",
+      "logo_visitante": "https://static.flashscore.com/res/image/data/jX6Rpigl-A9k6hzto.png",
+      "cuotas": {
+        "Local": 2.12,
+        "Empate": 3.05,
+        "Visitante": 3.2
+      },
+      "1X2_modelo": {
+        "Local": 46.71,
+        "Empate": 26.85,
+        "Visitante": 26.44
+      },
+      "ambos_marcan": {
+        "resultado": "SI",
+        "probabilidad": 60.98
+      },
+      "recomendacion": {
+        "codigo": "1",
+        "nombre": "GC Mascara",
+        "score": 52.65,
+        "probabilidad_modelo": 46.71,
+        "cuota": 2.12,
+        "marcadores": [
+          {
+            "marcador": "1-1",
+            "probabilidad": 11.24
+          },
+          {
+            "marcador": "1-0",
+            "probabilidad": 10.36
+          }
+        ]
+      },
+      "ranking": 2
+    },
+    {
+      "partido_id": "https://www.flashscore.co/partido/futbol/cr-temouchent-p0qAWcB9/rouisset-hGHHy7Am/?mid=v7SmdP2l",
+      "fecha": "2026-10-14",
+      "hora": "12:00",
+      "pais": "ARGELIA",
+      "liga": "LIGUE 1 - JORNADA 5",
+      "local": "Temouchent",
+      "visitante": "Rouisset",
+      "logo_local": "https://static.flashscore.com/res/image/data/rotzv2wS-thxoreJh.png",
+      "logo_visitante": "https://static.flashscore.com/res/image/data/nw7kf1hl-2wF033pH.png",
+      "cuotas": {
+        "Local": 2.2,
+        "Empate": 2.92,
+        "Visitante": 3.4
+      },
+      "1X2_modelo": {
+        "Local": 47.27,
+        "Empate": 27.65,
+        "Visitante": 25.08
+      },
+      "ambos_marcan": {
+        "resultado": "NO",
+        "probabilidad": 45.61
+      },
+      "recomendacion": {
+        "codigo": "1",
+        "nombre": "Temouchent",
+        "score": 52.6,
+        "probabilidad_modelo": 47.27,
+        "cuota": 2.2,
+        "marcadores": [
+          {
+            "marcador": "1-1",
+            "probabilidad": 11.56
+          },
+          {
+            "marcador": "1-0",
+            "probabilidad": 11.31
+          }
+        ]
+      },
+      "ranking": 3
+    },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/shamal-veL3xJnl/tractor-IVy1ZyxH/?mid=WlyZiSeB",
       "fecha": "2026-10-12",
@@ -16,8 +145,8 @@
       "logo_visitante": "https://static.flashscore.com/res/image/data/8bLdbfHG-h24xRRj2.png",
       "cuotas": {
         "Local": 2.4,
-        "Empate": 3.3,
-        "Visitante": 2.85
+        "Empate": 3.35,
+        "Visitante": 2.8
       },
       "1X2_modelo": {
         "Local": 43.14,
@@ -31,7 +160,7 @@
       "recomendacion": {
         "codigo": "1",
         "nombre": "Tractor (Irn)",
-        "score": 52.39,
+        "score": 52.4,
         "probabilidad_modelo": 43.14,
         "cuota": 2.4,
         "marcadores": [
@@ -45,50 +174,179 @@
           }
         ]
       },
-      "ranking": 1
+      "ranking": 4
     },
     {
-      "partido_id": "https://www.flashscore.co/partido/futbol/coventry-GOvB22xg/newcastle-p6ahwuwJ/?mid=tW4rOkzg",
-      "fecha": "2026-10-12",
-      "hora": "14:00",
-      "pais": "INGLATERRA",
-      "liga": "PREMIER LEAGUE - JORNADA 6",
-      "local": "Coventry",
-      "visitante": "Newcastle",
-      "logo_local": "https://static.flashscore.com/res/image/data/hnpi9tgl-SSMx8z8I.png",
-      "logo_visitante": "https://static.flashscore.com/res/image/data/rgS2eBYg-SdMnF4oL.png",
+      "partido_id": "https://www.flashscore.co/partido/futbol/biskra-pMubgZIP/oran-CrCmB35M/?mid=pOLkGpfK",
+      "fecha": "2026-10-13",
+      "hora": "09:00",
+      "pais": "ARGELIA",
+      "liga": "LIGUE 1 - JORNADA 5",
+      "local": "Biskra",
+      "visitante": "Oran",
+      "logo_local": "https://static.flashscore.com/res/image/data/pnt336yB-zgzLiH7t.png",
+      "logo_visitante": "https://static.flashscore.com/res/image/data/A3U4s1hl-WEM4tWjn.png",
       "cuotas": {
-        "Local": 3.15,
-        "Empate": 3.7,
-        "Visitante": 2.22
+        "Local": 2.15,
+        "Empate": 2.8,
+        "Visitante": 3.65
       },
       "1X2_modelo": {
-        "Local": 28.26,
-        "Empate": 24.42,
-        "Visitante": 47.32
+        "Local": 48.62,
+        "Empate": 27.78,
+        "Visitante": 23.6
       },
       "ambos_marcan": {
-        "resultado": "SI",
-        "probabilidad": 59.56
+        "resultado": "NO",
+        "probabilidad": 41.3
       },
       "recomendacion": {
-        "codigo": "2",
-        "nombre": "Newcastle",
-        "score": 50.26,
-        "probabilidad_modelo": 47.32,
-        "cuota": 2.22,
+        "codigo": "1",
+        "nombre": "Biskra",
+        "score": 51.98,
+        "probabilidad_modelo": 48.62,
+        "cuota": 2.15,
         "marcadores": [
           {
             "marcador": "1-1",
-            "probabilidad": 10.67
+            "probabilidad": 10.85
           },
           {
-            "marcador": "0-1",
-            "probabilidad": 9.52
+            "marcador": "1-0",
+            "probabilidad": 10.67
           }
         ]
       },
-      "ranking": 2
+      "ranking": 5
+    },
+    {
+      "partido_id": "https://www.flashscore.co/partido/futbol/js-djijel-Y1wWSvDa/msp-batna-21SPlgRt/?mid=dWht9bq1",
+      "fecha": "2026-10-13",
+      "hora": "09:00",
+      "pais": "ARGELIA",
+      "liga": "LIGUE 2 - JORNADA 5",
+      "local": "Djijel",
+      "visitante": "MSP Batna",
+      "logo_local": "https://static.flashscore.com/res/image/data/xzClEiYA-23MkkJhg.png",
+      "logo_visitante": "https://static.flashscore.com/res/image/data/x83NC1HG-IRA8LNk1.png",
+      "cuotas": {
+        "Local": 2.15,
+        "Empate": 2.92,
+        "Visitante": 3.3
+      },
+      "1X2_modelo": {
+        "Local": 45.65,
+        "Empate": 27.74,
+        "Visitante": 26.61
+      },
+      "ambos_marcan": {
+        "resultado": "NO",
+        "probabilidad": 46.33
+      },
+      "recomendacion": {
+        "codigo": "1",
+        "nombre": "Djijel",
+        "score": 51.88,
+        "probabilidad_modelo": 45.65,
+        "cuota": 2.15,
+        "marcadores": [
+          {
+            "marcador": "1-1",
+            "probabilidad": 11.28
+          },
+          {
+            "marcador": "1-0",
+            "probabilidad": 11.13
+          }
+        ]
+      },
+      "ranking": 6
+    },
+    {
+      "partido_id": "https://www.flashscore.co/partido/futbol/juventus-pW9laeGO/lumezzane-8hzzdqhG/?mid=Y3G4gIsI",
+      "fecha": "2026-10-13",
+      "hora": "09:00",
+      "pais": "ITALIA",
+      "liga": "SERIE C - GRUPO A - JORNADA 8",
+      "local": "Juventus Sub-23",
+      "visitante": "Lumezzane",
+      "logo_local": "https://static.flashscore.com/res/image/data/n9yhVAg5-EXzXDYgS.png",
+      "logo_visitante": "https://static.flashscore.com/res/image/data/69CihOil-x4BBSEWp.png",
+      "cuotas": {
+        "Local": 2.15,
+        "Empate": 3.3,
+        "Visitante": 3.0
+      },
+      "1X2_modelo": {
+        "Local": 50.15,
+        "Empate": 25.26,
+        "Visitante": 24.59
+      },
+      "ambos_marcan": {
+        "resultado": "SI",
+        "probabilidad": 53.41
+      },
+      "recomendacion": {
+        "codigo": "1",
+        "nombre": "Juventus Sub-23",
+        "score": 50.88,
+        "probabilidad_modelo": 50.15,
+        "cuota": 2.15,
+        "marcadores": [
+          {
+            "marcador": "1-0",
+            "probabilidad": 11.4
+          },
+          {
+            "marcador": "1-1",
+            "probabilidad": 10.87
+          }
+        ]
+      },
+      "ranking": 7
+    },
+    {
+      "partido_id": "https://www.flashscore.co/partido/futbol/beijing-guoan-WSLjVBLN/buriram-r3QHlQs7/?mid=fypUTokn",
+      "fecha": "2026-10-13",
+      "hora": "07:15",
+      "pais": "ASIA",
+      "liga": "LIGA DE CAMPEONES AFC - FASE DE LIGA - JORNADA 2",
+      "local": "Buriram (Tha)",
+      "visitante": "Beijing Guoan (Chn)",
+      "logo_local": "https://static.flashscore.com/res/image/data/KCS8nzyS-AHLMjQO5.png",
+      "logo_visitante": "https://static.flashscore.com/res/image/data/jy16BaFa-0WVkf0ET.png",
+      "cuotas": {
+        "Local": 2.12,
+        "Empate": 3.65,
+        "Visitante": 3.1
+      },
+      "1X2_modelo": {
+        "Local": 45.89,
+        "Empate": 25.7,
+        "Visitante": 28.41
+      },
+      "ambos_marcan": {
+        "resultado": "SI",
+        "probabilidad": 53.93
+      },
+      "recomendacion": {
+        "codigo": "1",
+        "nombre": "Buriram (Tha)",
+        "score": 50.29,
+        "probabilidad_modelo": 45.89,
+        "cuota": 2.12,
+        "marcadores": [
+          {
+            "marcador": "1-0",
+            "probabilidad": 12.26
+          },
+          {
+            "marcador": "1-1",
+            "probabilidad": 12.1
+          }
+        ]
+      },
+      "ranking": 8
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/karditsa-27FAPnX6/zakinthos-MFIbCp4D/?mid=OSD8M3SE",
@@ -131,7 +389,50 @@
           }
         ]
       },
-      "ranking": 3
+      "ranking": 9
+    },
+    {
+      "partido_id": "https://www.flashscore.co/partido/futbol/daejeon-2NTiQXjI/shanghai-port-O88o93rn/?mid=Q134DQ45",
+      "fecha": "2026-10-13",
+      "hora": "05:00",
+      "pais": "ASIA",
+      "liga": "LIGA DE CAMPEONES AFC - FASE DE LIGA - JORNADA 2",
+      "local": "Shanghai Port (Chn)",
+      "visitante": "Daejeon (Kor)",
+      "logo_local": "https://static.flashscore.com/res/image/data/pv2alWYA-4Iubiv1h.png",
+      "logo_visitante": "https://static.flashscore.com/res/image/data/UesjQkZA-t6Z2pYxB.png",
+      "cuotas": {
+        "Local": 2.22,
+        "Empate": 3.6,
+        "Visitante": 2.92
+      },
+      "1X2_modelo": {
+        "Local": 43.46,
+        "Empate": 26.0,
+        "Visitante": 30.53
+      },
+      "ambos_marcan": {
+        "resultado": "SI",
+        "probabilidad": 55.1
+      },
+      "recomendacion": {
+        "codigo": "1",
+        "nombre": "Shanghai Port (Chn)",
+        "score": 50.16,
+        "probabilidad_modelo": 43.46,
+        "cuota": 2.22,
+        "marcadores": [
+          {
+            "marcador": "1-1",
+            "probabilidad": 12.25
+          },
+          {
+            "marcador": "1-0",
+            "probabilidad": 11.77
+          }
+        ]
+      },
+      "ranking": 10
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/inter-san-carlos-rTyUsWlH/san-carlos-69HdDuiQ/?mid=MNHe4xMi",
@@ -146,7 +447,7 @@
       "cuotas": {
         "Local": 2.15,
         "Empate": 3.1,
-        "Visitante": 3.1
+        "Visitante": 3.2
       },
       "1X2_modelo": {
         "Local": 46.5,
@@ -160,7 +461,7 @@
       "recomendacion": {
         "codigo": "1",
         "nombre": "San Carlos",
-        "score": 50.22,
+        "score": 50.15,
         "probabilidad_modelo": 46.5,
         "cuota": 2.15,
         "marcadores": [
@@ -174,7 +475,179 @@
           }
         ]
       },
-      "ranking": 4
+      "ranking": 11
+    },
+    {
+      "partido_id": "https://www.flashscore.co/partido/futbol/al-hussein-j9mK0B3Q/al-seeb-xx8n54PO/?mid=QTaJX5GD",
+      "fecha": "2026-10-13",
+      "hora": "11:00",
+      "pais": "ASIA",
+      "liga": "AFC CHAMPIONS LEAGUE 2 - JORNADA 2",
+      "local": "Al Seeb (Oma)",
+      "visitante": "Al Hussein (Jor)",
+      "logo_local": "https://static.flashscore.com/res/image/data/pQB1Onjl-2FI4qe8C.png",
+      "logo_visitante": "https://static.flashscore.com/res/image/data/Ey5MadGG-WnrX0gmJ.png",
+      "cuotas": {
+        "Local": 2.3,
+        "Empate": 3.4,
+        "Visitante": 2.8
+      },
+      "1X2_modelo": {
+        "Local": 41.1,
+        "Empate": 26.87,
+        "Visitante": 32.03
+      },
+      "ambos_marcan": {
+        "resultado": "SI",
+        "probabilidad": 53.4
+      },
+      "recomendacion": {
+        "codigo": "1",
+        "nombre": "Al Seeb (Oma)",
+        "score": 50.13,
+        "probabilidad_modelo": 41.1,
+        "cuota": 2.3,
+        "marcadores": [
+          {
+            "marcador": "1-1",
+            "probabilidad": 12.35
+          },
+          {
+            "marcador": "1-0",
+            "probabilidad": 11.42
+          }
+        ]
+      },
+      "ranking": 12
+    },
+    {
+      "partido_id": "https://www.flashscore.co/partido/futbol/enppi-2wpo7PBj/modern-sport-KCzFp0OB/?mid=Yc1zDl55",
+      "fecha": "2026-10-12",
+      "hora": "09:00",
+      "pais": "EGIPTO",
+      "liga": "PREMIER LEAGUE - JORNADA 6",
+      "local": "Modern Sport",
+      "visitante": "Enppi",
+      "logo_local": "https://static.flashscore.com/res/image/data/lWv0FGg5-zuoIGyJI.png",
+      "logo_visitante": "https://static.flashscore.com/res/image/data/zeo9lcdM-YcTrsXo0.png",
+      "cuotas": {
+        "Local": 2.36,
+        "Empate": 2.72,
+        "Visitante": 3.35
+      },
+      "1X2_modelo": {
+        "Local": 48.48,
+        "Empate": 28.27,
+        "Visitante": 23.25
+      },
+      "ambos_marcan": {
+        "resultado": "NO",
+        "probabilidad": 49.6
+      },
+      "recomendacion": {
+        "codigo": "1",
+        "nombre": "Modern Sport",
+        "score": 50.06,
+        "probabilidad_modelo": 48.48,
+        "cuota": 2.36,
+        "marcadores": [
+          {
+            "marcador": "1-0",
+            "probabilidad": 12.77
+          },
+          {
+            "marcador": "1-1",
+            "probabilidad": 11.72
+          }
+        ]
+      },
+      "ranking": 13
+    },
+    {
+      "partido_id": "https://www.flashscore.co/partido/futbol/coventry-GOvB22xg/newcastle-p6ahwuwJ/?mid=tW4rOkzg",
+      "fecha": "2026-10-12",
+      "hora": "14:00",
+      "pais": "INGLATERRA",
+      "liga": "PREMIER LEAGUE - JORNADA 6",
+      "local": "Coventry",
+      "visitante": "Newcastle",
+      "logo_local": "https://static.flashscore.com/res/image/data/hnpi9tgl-SSMx8z8I.png",
+      "logo_visitante": "https://static.flashscore.com/res/image/data/rgS2eBYg-SdMnF4oL.png",
+      "cuotas": {
+        "Local": 3.3,
+        "Empate": 3.7,
+        "Visitante": 2.15
+      },
+      "1X2_modelo": {
+        "Local": 28.26,
+        "Empate": 24.42,
+        "Visitante": 47.32
+      },
+      "ambos_marcan": {
+        "resultado": "SI",
+        "probabilidad": 59.56
+      },
+      "recomendacion": {
+        "codigo": "2",
+        "nombre": "Newcastle",
+        "score": 50.02,
+        "probabilidad_modelo": 47.32,
+        "cuota": 2.15,
+        "marcadores": [
+          {
+            "marcador": "1-1",
+            "probabilidad": 10.67
+          },
+          {
+            "marcador": "0-1",
+            "probabilidad": 9.52
+          }
+        ]
+      },
+      "ranking": 14
+    },
+    {
+      "partido_id": "https://www.flashscore.co/partido/futbol/kabylie-Wfaskwf0/setif-EDgC6qYp/?mid=KpU3hs2D",
+      "fecha": "2026-10-14",
+      "hora": "12:00",
+      "pais": "ARGELIA",
+      "liga": "LIGUE 1 - JORNADA 5",
+      "local": "Setif",
+      "visitante": "JS Kabylie",
+      "logo_local": "https://static.flashscore.com/res/image/data/84RXcQXg-CEDetKma.png",
+      "logo_visitante": "https://static.flashscore.com/res/image/data/lh2AXye5-KrkUCdS2.png",
+      "cuotas": {
+        "Local": 2.3,
+        "Empate": 2.92,
+        "Visitante": 3.2
+      },
+      "1X2_modelo": {
+        "Local": 44.26,
+        "Empate": 27.73,
+        "Visitante": 28.0
+      },
+      "ambos_marcan": {
+        "resultado": "SI",
+        "probabilidad": 53.0
+      },
+      "recomendacion": {
+        "codigo": "1",
+        "nombre": "Setif",
+        "score": 49.93,
+        "probabilidad_modelo": 44.26,
+        "cuota": 2.3,
+        "marcadores": [
+          {
+            "marcador": "1-1",
+            "probabilidad": 10.83
+          },
+          {
+            "marcador": "1-0",
+            "probabilidad": 9.8
+          }
+        ]
+      },
+      "ranking": 15
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/bohemians-zHEZJ8Wc/shamrock-rovers-KIN6lmnH/?mid=2odyOprJ",
@@ -187,9 +660,9 @@
       "logo_local": "https://static.flashscore.com/res/image/data/QVWKTCCr-vub6KOEE.png",
       "logo_visitante": "https://static.flashscore.com/res/image/data/C44aT2Fa-Mmwr3KTs.png",
       "cuotas": {
-        "Local": 2.24,
-        "Empate": 3.5,
-        "Visitante": 2.96
+        "Local": 2.16,
+        "Empate": 3.4,
+        "Visitante": 3.2
       },
       "1X2_modelo": {
         "Local": 49.36,
@@ -203,9 +676,9 @@
       "recomendacion": {
         "codigo": "1",
         "nombre": "Shamrock Rovers",
-        "score": 49.74,
+        "score": 49.48,
         "probabilidad_modelo": 49.36,
-        "cuota": 2.24,
+        "cuota": 2.16,
         "marcadores": [
           {
             "marcador": "1-1",
@@ -217,93 +690,50 @@
           }
         ]
       },
-      "ranking": 5
+      "ranking": 16
     },
     {
-      "partido_id": "https://www.flashscore.co/partido/futbol/bvsc-zuglo-2o1dIwok/soroksar-vTCIIJrC/?mid=8bUnnM1k",
-      "fecha": "2026-10-12",
-      "hora": "12:45",
-      "pais": "HUNGRÍA",
-      "liga": "NB II. - JORNADA 9",
-      "local": "BVSC-Zuglo",
-      "visitante": "Soroksar",
-      "logo_local": "https://static.flashscore.com/res/image/data/2gKjaof5-QDBYa0tA.png",
-      "logo_visitante": "https://static.flashscore.com/res/image/data/8Y1Qx2Ca-OfzhuaGa.png",
+      "partido_id": "https://www.flashscore.co/partido/futbol/filipinas-CINRvtL5/peru-YVDDd4ZT/?mid=MXOHSoq1",
+      "fecha": "2026-10-13",
+      "hora": "11:00",
+      "pais": "MUNDIAL",
+      "liga": "AMISTOSOS INTERNACIONALES FEMENINOS",
+      "local": "Perú F",
+      "visitante": "Filipinas F",
+      "logo_local": "https://static.flashscore.com/res/image/data/0dbd4UWg-OzlXAXUB.png",
+      "logo_visitante": "https://static.flashscore.com/res/image/data/C8epNzg5-jRswFqu2.png",
       "cuotas": {
-        "Local": 3.15,
-        "Empate": 3.25,
-        "Visitante": 2.15
+        "Local": 2.15,
+        "Empate": 3.3,
+        "Visitante": 3.0
       },
       "1X2_modelo": {
-        "Local": 26.86,
-        "Empate": 24.93,
-        "Visitante": 48.21
+        "Local": 45.19,
+        "Empate": 26.12,
+        "Visitante": 28.69
       },
       "ambos_marcan": {
         "resultado": "NO",
-        "probabilidad": 48.27
+        "probabilidad": 48.51
       },
       "recomendacion": {
-        "codigo": "2",
-        "nombre": "Soroksar",
-        "score": 49.7,
-        "probabilidad_modelo": 48.21,
+        "codigo": "1",
+        "nombre": "Perú F",
+        "score": 49.44,
+        "probabilidad_modelo": 45.19,
         "cuota": 2.15,
         "marcadores": [
           {
             "marcador": "1-1",
-            "probabilidad": 10.77
+            "probabilidad": 11.35
           },
           {
-            "marcador": "0-1",
-            "probabilidad": 10.07
+            "marcador": "1-0",
+            "probabilidad": 10.9
           }
         ]
       },
-      "ranking": 6
-    },
-    {
-      "partido_id": "https://www.flashscore.co/partido/futbol/hoffenheim-bwwlzP9l/stuttgart-84SxvsCb/?mid=GO9LeZq1",
-      "fecha": "2026-10-13",
-      "hora": "12:00",
-      "pais": "ALEMANIA",
-      "liga": "3. LIGA - JORNADA 9",
-      "local": "Stuttgart II",
-      "visitante": "Hoffenheim II",
-      "logo_local": "https://static.flashscore.com/res/image/data/Cf1EtvXg-l4Wf0Y7A.png",
-      "logo_visitante": "https://static.flashscore.com/res/image/data/xr6fJHDa-rXAAgEQl.png",
-      "cuotas": {
-        "Local": 2.88,
-        "Empate": 3.9,
-        "Visitante": 2.15
-      },
-      "1X2_modelo": {
-        "Local": 31.61,
-        "Empate": 23.25,
-        "Visitante": 45.13
-      },
-      "ambos_marcan": {
-        "resultado": "SI",
-        "probabilidad": 68.99
-      },
-      "recomendacion": {
-        "codigo": "2",
-        "nombre": "Hoffenheim II",
-        "score": 49.2,
-        "probabilidad_modelo": 45.13,
-        "cuota": 2.15,
-        "marcadores": [
-          {
-            "marcador": "1-1",
-            "probabilidad": 9.96
-          },
-          {
-            "marcador": "1-2",
-            "probabilidad": 8.69
-          }
-        ]
-      },
-      "ranking": 7
+      "ranking": 17
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/manchester-city-Wtn9Stg0/psg-CjhkPw0k/?mid=UH6LCxcK",
@@ -316,9 +746,9 @@
       "logo_local": "https://static.flashscore.com/res/image/data/UXcqj7HG-lQuhqN8N.png",
       "logo_visitante": "https://static.flashscore.com/res/image/data/EskJufg5-A7UDDuOO.png",
       "cuotas": {
-        "Local": 2.16,
-        "Empate": 4.1,
-        "Visitante": 3.0
+        "Local": 2.2,
+        "Empate": 4.0,
+        "Visitante": 2.98
       },
       "1X2_modelo": {
         "Local": 48.26,
@@ -332,9 +762,9 @@
       "recomendacion": {
         "codigo": "1",
         "nombre": "Manchester City",
-        "score": 49.18,
+        "score": 49.31,
         "probabilidad_modelo": 48.26,
-        "cuota": 2.16,
+        "cuota": 2.2,
         "marcadores": [
           {
             "marcador": "1-1",
@@ -346,50 +776,7 @@
           }
         ]
       },
-      "ranking": 8
-    },
-    {
-      "partido_id": "https://www.flashscore.co/partido/futbol/d-puerto-montt-WMffLgMb/san-luis-tjbndIRL/?mid=lUlwKilB",
-      "fecha": "2026-10-12",
-      "hora": "10:30",
-      "pais": "CHILE",
-      "liga": "LIGA DE ASCENSO - JORNADA 27",
-      "local": "D. Puerto Montt",
-      "visitante": "San Luis",
-      "logo_local": "https://static.flashscore.com/res/image/data/jgSYTgil-lGGssG8o.png",
-      "logo_visitante": "https://static.flashscore.com/res/image/data/0pqqRwyB-6PYUqcOT.png",
-      "cuotas": {
-        "Local": 2.8,
-        "Empate": 3.3,
-        "Visitante": 2.25
-      },
-      "1X2_modelo": {
-        "Local": 28.96,
-        "Empate": 26.92,
-        "Visitante": 44.12
-      },
-      "ambos_marcan": {
-        "resultado": "NO",
-        "probabilidad": 49.75
-      },
-      "recomendacion": {
-        "codigo": "2",
-        "nombre": "San Luis",
-        "score": 49.0,
-        "probabilidad_modelo": 44.12,
-        "cuota": 2.25,
-        "marcadores": [
-          {
-            "marcador": "1-1",
-            "probabilidad": 12.19
-          },
-          {
-            "marcador": "0-1",
-            "probabilidad": 11.18
-          }
-        ]
-      },
-      "ranking": 9
+      "ranking": 18
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/cerdanyola-del-valles-Iyz7nh6D/fc-martinenc-4lGXFAQh/?mid=YJzna513",
@@ -432,7 +819,7 @@
           }
         ]
       },
-      "ranking": 10
+      "ranking": 19
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/athletic-club-INXlw5Bp/londrina-xdhbBEVA/?mid=2qdzm8Mi",
@@ -461,7 +848,7 @@
       "recomendacion": {
         "codigo": "1",
         "nombre": "Athletic Club",
-        "score": 48.86,
+        "score": 48.85,
         "probabilidad_modelo": 49.43,
         "cuota": 2.12,
         "marcadores": [
@@ -475,50 +862,7 @@
           }
         ]
       },
-      "ranking": 11
-    },
-    {
-      "partido_id": "https://www.flashscore.co/partido/futbol/eibar-OEsEpExD/real-oviedo-SzYzw34K/?mid=lnkc3fz3",
-      "fecha": "2026-10-12",
-      "hora": "11:30",
-      "pais": "ESPAÑA",
-      "liga": "LALIGA HYPERMOTION - JORNADA 9",
-      "local": "Real Oviedo",
-      "visitante": "Eibar",
-      "logo_local": "https://static.flashscore.com/res/image/data/z16nhrjl-Y7pkY0PJ.png",
-      "logo_visitante": "https://static.flashscore.com/res/image/data/CvetxaAr-4U3vjZKk.png",
-      "cuotas": {
-        "Local": 2.28,
-        "Empate": 3.15,
-        "Visitante": 3.2
-      },
-      "1X2_modelo": {
-        "Local": 44.1,
-        "Empate": 27.21,
-        "Visitante": 28.7
-      },
-      "ambos_marcan": {
-        "resultado": "SI",
-        "probabilidad": 50.92
-      },
-      "recomendacion": {
-        "codigo": "1",
-        "nombre": "Real Oviedo",
-        "score": 48.77,
-        "probabilidad_modelo": 44.1,
-        "cuota": 2.28,
-        "marcadores": [
-          {
-            "marcador": "1-1",
-            "probabilidad": 11.49
-          },
-          {
-            "marcador": "1-0",
-            "probabilidad": 10.08
-          }
-        ]
-      },
-      "ranking": 12
+      "ranking": 20
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/as-douanes-ShQaQMYS/maya-QPKBrwfE/?mid=0UfpdtJ6",
@@ -531,9 +875,9 @@
       "logo_local": "https://static.flashscore.com/res/image/data/WAEY4EAr-dbJsHrjK.png",
       "logo_visitante": "https://static.flashscore.com/res/image/data/46atfBYg-Qgcz4nJ1.png",
       "cuotas": {
-        "Local": 2.2,
-        "Empate": 2.9,
-        "Visitante": 3.55
+        "Local": 2.15,
+        "Empate": 2.8,
+        "Visitante": 3.4
       },
       "1X2_modelo": {
         "Local": 45.44,
@@ -547,9 +891,9 @@
       "recomendacion": {
         "codigo": "1",
         "nombre": "AS Douanes",
-        "score": 48.63,
+        "score": 48.7,
         "probabilidad_modelo": 45.44,
-        "cuota": 2.2,
+        "cuota": 2.15,
         "marcadores": [
           {
             "marcador": "1-0",
@@ -561,136 +905,50 @@
           }
         ]
       },
-      "ranking": 13
+      "ranking": 21
     },
     {
-      "partido_id": "https://www.flashscore.co/partido/futbol/harju-jk-laagri-GS9F0Cw6/nomme-utd-OjJXWrlR/?mid=8dvQ7HfM",
+      "partido_id": "https://www.flashscore.co/partido/futbol/huddersfield-SOSHkSvO/sheffield-wed-WrnKljdC/?mid=YeE1ZnbC",
       "fecha": "2026-10-13",
-      "hora": "10:00",
-      "pais": "ESTONIA",
-      "liga": "MEISTRILIIGA - JORNADA 31",
-      "local": "Harju JK Laagri",
-      "visitante": "Nomme Utd",
-      "logo_local": "https://static.flashscore.com/res/image/data/Ao79cLzB-xdabbQpB.png",
-      "logo_visitante": "https://static.flashscore.com/res/image/data/SUbc5Kg5-re5kOnAa.png",
+      "hora": "08:00",
+      "pais": "INGLATERRA",
+      "liga": "PROFESSIONAL DEVELOPMENT LEAGUE",
+      "local": "Sheffield Wed Sub-21",
+      "visitante": "Huddersfield Sub-21",
+      "logo_local": "https://static.flashscore.com/res/image/data/na2XxLjl-Wl1x7tPe.png",
+      "logo_visitante": "https://static.flashscore.com/res/image/data/pKZ3NsdM-UqZrd1lt.png",
       "cuotas": {
-        "Local": 2.25,
+        "Local": 2.65,
         "Empate": 3.85,
-        "Visitante": 2.5
+        "Visitante": 2.15
       },
       "1X2_modelo": {
-        "Local": 44.73,
-        "Empate": 22.75,
-        "Visitante": 32.52
+        "Local": 33.62,
+        "Empate": 23.07,
+        "Visitante": 43.32
       },
       "ambos_marcan": {
         "resultado": "SI",
-        "probabilidad": 59.76
-      },
-      "recomendacion": {
-        "codigo": "1",
-        "nombre": "Harju JK Laagri",
-        "score": 48.63,
-        "probabilidad_modelo": 44.73,
-        "cuota": 2.25,
-        "marcadores": [
-          {
-            "marcador": "1-1",
-            "probabilidad": 10.06
-          },
-          {
-            "marcador": "2-1",
-            "probabilidad": 8.53
-          }
-        ]
-      },
-      "ranking": 14
-    },
-    {
-      "partido_id": "https://www.flashscore.co/partido/futbol/fc-lochin-4x1qMW6b/olimpik-mobiuz-IDKbUznL/?mid=l4pjZNck",
-      "fecha": "2026-10-12",
-      "hora": "06:00",
-      "pais": "UZBEKISTÁN",
-      "liga": "PRO LIGA - JORNADA 22",
-      "local": "Lochin",
-      "visitante": "Olimpik-Mobiuz",
-      "logo_local": "https://static.flashscore.com/res/image/data/xOumd7Fa-WvOdnNnq.png",
-      "logo_visitante": "https://static.flashscore.com/res/image/data/4Q1YFLDa-GvYIRApT.png",
-      "cuotas": {
-        "Local": 2.57,
-        "Empate": 3.45,
-        "Visitante": 2.32
-      },
-      "1X2_modelo": {
-        "Local": 41.34,
-        "Empate": 24.91,
-        "Visitante": 33.75
-      },
-      "ambos_marcan": {
-        "resultado": "SI",
-        "probabilidad": 61.1
-      },
-      "recomendacion": {
-        "codigo": "1",
-        "nombre": "Lochin",
-        "score": 48.38,
-        "probabilidad_modelo": 41.34,
-        "cuota": 2.57,
-        "marcadores": [
-          {
-            "marcador": "1-1",
-            "probabilidad": 11.35
-          },
-          {
-            "marcador": "1-0",
-            "probabilidad": 8.67
-          }
-        ]
-      },
-      "ranking": 15
-    },
-    {
-      "partido_id": "https://www.flashscore.co/partido/futbol/al-adalah-rTsOwLSH/al-anwar-tIq6HsLN/?mid=lbabD17r",
-      "fecha": "2026-10-12",
-      "hora": "09:55",
-      "pais": "ARABIA SAUDÍ",
-      "liga": "PRIMERA DIVISIÓN - JORNADA 7",
-      "local": "Al Adalah",
-      "visitante": "Al Anwar",
-      "logo_local": "https://static.flashscore.com/res/image/data/GArR1dCa-CATmi5yJ.png",
-      "logo_visitante": "https://static.flashscore.com/res/image/data/lOnj7HWg-0YSORAco.png",
-      "cuotas": {
-        "Local": 2.55,
-        "Empate": 3.45,
-        "Visitante": 2.4
-      },
-      "1X2_modelo": {
-        "Local": 31.1,
-        "Empate": 26.09,
-        "Visitante": 42.81
-      },
-      "ambos_marcan": {
-        "resultado": "SI",
-        "probabilidad": 63.19
+        "probabilidad": 76.04
       },
       "recomendacion": {
         "codigo": "2",
-        "nombre": "Al Anwar",
-        "score": 48.25,
-        "probabilidad_modelo": 42.81,
-        "cuota": 2.4,
+        "nombre": "Huddersfield Sub-21",
+        "score": 48.27,
+        "probabilidad_modelo": 43.32,
+        "cuota": 2.15,
         "marcadores": [
           {
             "marcador": "1-1",
-            "probabilidad": 12.01
+            "probabilidad": 9.7
           },
           {
-            "marcador": "0-1",
-            "probabilidad": 10.05
+            "marcador": "1-2",
+            "probabilidad": 8.71
           }
         ]
       },
-      "ranking": 16
+      "ranking": 22
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/colorado-rapids-jmBZNRn8/minnesota-united-zXFxsw2a/?mid=OQyfg5vK",
@@ -733,7 +991,7 @@
           }
         ]
       },
-      "ranking": 17
+      "ranking": 23
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/cagliari-ju9PNY1N/monza-tEbXWFBs/?mid=WSswlFp2",
@@ -776,50 +1034,7 @@
           }
         ]
       },
-      "ranking": 18
-    },
-    {
-      "partido_id": "https://www.flashscore.co/partido/futbol/brighton-ziNI2AsU/gillingham-WvZyDeKk/?mid=WnUbsLXF",
-      "fecha": "2026-10-13",
-      "hora": "13:00",
-      "pais": "INGLATERRA",
-      "liga": "EFL TROPHY",
-      "local": "Gillingham FC",
-      "visitante": "Brighton Sub-21",
-      "logo_local": "https://static.flashscore.com/res/image/data/YL1sire5-4zecB0bR.png",
-      "logo_visitante": "https://static.flashscore.com/res/image/data/8W2n2sf5-hhXb9pPG.png",
-      "cuotas": {
-        "Local": 2.12,
-        "Empate": 3.75,
-        "Visitante": 2.85
-      },
-      "1X2_modelo": {
-        "Local": 45.56,
-        "Empate": 23.72,
-        "Visitante": 30.73
-      },
-      "ambos_marcan": {
-        "resultado": "SI",
-        "probabilidad": 60.61
-      },
-      "recomendacion": {
-        "codigo": "1",
-        "nombre": "Gillingham FC",
-        "score": 47.87,
-        "probabilidad_modelo": 45.56,
-        "cuota": 2.12,
-        "marcadores": [
-          {
-            "marcador": "1-1",
-            "probabilidad": 10.4
-          },
-          {
-            "marcador": "2-1",
-            "probabilidad": 8.86
-          }
-        ]
-      },
-      "ranking": 19
+      "ranking": 24
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/eyupspor-Kfa8AsZs/goztepe-WrrBCtu1/?mid=no1T4CiS",
@@ -862,7 +1077,93 @@
           }
         ]
       },
-      "ranking": 20
+      "ranking": 25
+    },
+    {
+      "partido_id": "https://www.flashscore.co/partido/futbol/al-adalah-rTsOwLSH/al-anwar-tIq6HsLN/?mid=lbabD17r",
+      "fecha": "2026-10-12",
+      "hora": "09:55",
+      "pais": "ARABIA SAUDÍ",
+      "liga": "PRIMERA DIVISIÓN - JORNADA 7",
+      "local": "Al Adalah",
+      "visitante": "Al Anwar",
+      "logo_local": "https://static.flashscore.com/res/image/data/GArR1dCa-CATmi5yJ.png",
+      "logo_visitante": "https://static.flashscore.com/res/image/data/lOnj7HWg-0YSORAco.png",
+      "cuotas": {
+        "Local": 2.85,
+        "Empate": 3.35,
+        "Visitante": 2.2
+      },
+      "1X2_modelo": {
+        "Local": 31.1,
+        "Empate": 26.09,
+        "Visitante": 42.81
+      },
+      "ambos_marcan": {
+        "resultado": "SI",
+        "probabilidad": 63.19
+      },
+      "recomendacion": {
+        "codigo": "2",
+        "nombre": "Al Anwar",
+        "score": 47.71,
+        "probabilidad_modelo": 42.81,
+        "cuota": 2.2,
+        "marcadores": [
+          {
+            "marcador": "1-1",
+            "probabilidad": 12.01
+          },
+          {
+            "marcador": "0-1",
+            "probabilidad": 10.05
+          }
+        ]
+      },
+      "ranking": 26
+    },
+    {
+      "partido_id": "https://www.flashscore.co/partido/futbol/al-shorta-84r5OlNu/east-bengal-hh02MvfE/?mid=2Tqin5V6",
+      "fecha": "2026-10-13",
+      "hora": "08:45",
+      "pais": "ASIA",
+      "liga": "AFC CHAMPIONS LEAGUE 2 - JORNADA 2",
+      "local": "East Bengal (Ind)",
+      "visitante": "Al Shorta (Irq)",
+      "logo_local": "https://static.flashscore.com/res/image/data/2JOlHfFG-UszV04Qg.png",
+      "logo_visitante": "https://static.flashscore.com/res/image/data/vsh2CYjl-WnGqjgF8.png",
+      "cuotas": {
+        "Local": 3.05,
+        "Empate": 3.35,
+        "Visitante": 2.16
+      },
+      "1X2_modelo": {
+        "Local": 29.37,
+        "Empate": 26.95,
+        "Visitante": 43.68
+      },
+      "ambos_marcan": {
+        "resultado": "SI",
+        "probabilidad": 51.49
+      },
+      "recomendacion": {
+        "codigo": "2",
+        "nombre": "Al Shorta (Irq)",
+        "score": 47.56,
+        "probabilidad_modelo": 43.68,
+        "cuota": 2.16,
+        "marcadores": [
+          {
+            "marcador": "1-1",
+            "probabilidad": 12.32
+          },
+          {
+            "marcador": "0-1",
+            "probabilidad": 11.78
+          }
+        ]
+      },
+      "ranking": 27
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/napoli-69Dxbc61/villarreal-cf-lUatW5jE/?mid=QcgCe8c2",
@@ -875,9 +1176,9 @@
       "logo_local": "https://static.flashscore.com/res/image/data/65Z85Uh5-GSuwY3p9.png",
       "logo_visitante": "https://static.flashscore.com/res/image/data/lhPsgJWg-Stb48WaO.png",
       "cuotas": {
-        "Local": 2.22,
-        "Empate": 3.8,
-        "Visitante": 3.1
+        "Local": 2.14,
+        "Empate": 3.75,
+        "Visitante": 3.25
       },
       "1X2_modelo": {
         "Local": 46.37,
@@ -891,9 +1192,9 @@
       "recomendacion": {
         "codigo": "1",
         "nombre": "Villarreal",
-        "score": 47.65,
+        "score": 47.41,
         "probabilidad_modelo": 46.37,
-        "cuota": 2.22,
+        "cuota": 2.14,
         "marcadores": [
           {
             "marcador": "1-1",
@@ -905,50 +1206,7 @@
           }
         ]
       },
-      "ranking": 21
-    },
-    {
-      "partido_id": "https://www.flashscore.co/partido/futbol/balestier-khalsa-lK4UsSns/hougang-SA3Ytn2m/?mid=nN6FwJ4C",
-      "fecha": "2026-10-12",
-      "hora": "06:30",
-      "pais": "SINGAPUR",
-      "liga": "PREMIER LEAGUE - JORNADA 3",
-      "local": "Hougang",
-      "visitante": "Balestier Khalsa",
-      "logo_local": "https://static.flashscore.com/res/image/data/xz8jdoeM-4fcEsivK.png",
-      "logo_visitante": "https://static.flashscore.com/res/image/data/rZaPVswS-MZaTAD0m.png",
-      "cuotas": {
-        "Local": 2.15,
-        "Empate": 3.8,
-        "Visitante": 2.7
-      },
-      "1X2_modelo": {
-        "Local": 43.12,
-        "Empate": 23.14,
-        "Visitante": 33.74
-      },
-      "ambos_marcan": {
-        "resultado": "SI",
-        "probabilidad": 58.14
-      },
-      "recomendacion": {
-        "codigo": "1",
-        "nombre": "Hougang",
-        "score": 47.45,
-        "probabilidad_modelo": 43.12,
-        "cuota": 2.15,
-        "marcadores": [
-          {
-            "marcador": "1-1",
-            "probabilidad": 11.1
-          },
-          {
-            "marcador": "1-0",
-            "probabilidad": 9.11
-          }
-        ]
-      },
-      "ranking": 22
+      "ranking": 28
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/egersund-0t64gHeU/moss-WYUjbnVq/?mid=xIyA77sH",
@@ -962,8 +1220,8 @@
       "logo_visitante": "https://static.flashscore.com/res/image/data/vuIaHPeM-CnaifEtT.png",
       "cuotas": {
         "Local": 2.12,
-        "Empate": 3.8,
-        "Visitante": 2.9
+        "Empate": 3.7,
+        "Visitante": 2.95
       },
       "1X2_modelo": {
         "Local": 46.1,
@@ -991,7 +1249,7 @@
           }
         ]
       },
-      "ranking": 23
+      "ranking": 29
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/bracknell-town-McO4ROrH/hanworth-villa-42DzSumJ/?mid=pfEAsUlT",
@@ -1034,7 +1292,7 @@
           }
         ]
       },
-      "ranking": 24
+      "ranking": 30
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/houston-dynamo-2i4sdl32/san-diego-fc-EuGkBf33/?mid=ImDkruWI",
@@ -1048,8 +1306,8 @@
       "logo_visitante": "https://static.flashscore.com/res/image/data/Sp63uSDa-YLT3ZeZm.png",
       "cuotas": {
         "Local": 2.14,
-        "Empate": 3.85,
-        "Visitante": 3.0
+        "Empate": 3.75,
+        "Visitante": 3.1
       },
       "1X2_modelo": {
         "Local": 46.18,
@@ -1063,7 +1321,7 @@
       "recomendacion": {
         "codigo": "1",
         "nombre": "San Diego FC",
-        "score": 47.23,
+        "score": 47.2,
         "probabilidad_modelo": 46.18,
         "cuota": 2.14,
         "marcadores": [
@@ -1077,7 +1335,93 @@
           }
         ]
       },
-      "ranking": 25
+      "ranking": 31
+    },
+    {
+      "partido_id": "https://www.flashscore.co/partido/futbol/malawi-A3EAueis/zimbabwe-lvVVxgy0/?mid=fmfE41cL",
+      "fecha": "2026-10-13",
+      "hora": "08:00",
+      "pais": "ÁFRICA",
+      "liga": "JUEGOS OLÍMPICOS FEMENINO - CLASIFICACIÓN - 1/8 DE FINAL",
+      "local": "Zimbabue F",
+      "visitante": "Malaui F",
+      "logo_local": "https://static.flashscore.com/res/image/data/EcuV73Ea-ddddz9FK.png",
+      "logo_visitante": "https://static.flashscore.com/res/image/data/OKM6tzdM-bmJnrEKR.png",
+      "cuotas": {
+        "Local": 3.0,
+        "Empate": 3.4,
+        "Visitante": 2.15
+      },
+      "1X2_modelo": {
+        "Local": 30.06,
+        "Empate": 25.78,
+        "Visitante": 44.17
+      },
+      "ambos_marcan": {
+        "resultado": "SI",
+        "probabilidad": 54.09
+      },
+      "recomendacion": {
+        "codigo": "2",
+        "nombre": "Malaui F",
+        "score": 47.19,
+        "probabilidad_modelo": 44.17,
+        "cuota": 2.15,
+        "marcadores": [
+          {
+            "marcador": "1-1",
+            "probabilidad": 11.34
+          },
+          {
+            "marcador": "0-1",
+            "probabilidad": 9.69
+          }
+        ]
+      },
+      "ranking": 32
+    },
+    {
+      "partido_id": "https://www.flashscore.co/partido/futbol/eibar-OEsEpExD/real-oviedo-SzYzw34K/?mid=lnkc3fz3",
+      "fecha": "2026-10-12",
+      "hora": "11:30",
+      "pais": "ESPAÑA",
+      "liga": "LALIGA HYPERMOTION - JORNADA 9",
+      "local": "Real Oviedo",
+      "visitante": "Eibar",
+      "logo_local": "https://static.flashscore.com/res/image/data/z16nhrjl-Y7pkY0PJ.png",
+      "logo_visitante": "https://static.flashscore.com/res/image/data/CvetxaAr-4U3vjZKk.png",
+      "cuotas": {
+        "Local": 2.34,
+        "Empate": 3.1,
+        "Visitante": 3.1
+      },
+      "1X2_modelo": {
+        "Local": 44.1,
+        "Empate": 27.21,
+        "Visitante": 28.7
+      },
+      "ambos_marcan": {
+        "resultado": "SI",
+        "probabilidad": 50.92
+      },
+      "recomendacion": {
+        "codigo": "1",
+        "nombre": "Real Oviedo",
+        "score": 47.11,
+        "probabilidad_modelo": 44.1,
+        "cuota": 2.34,
+        "marcadores": [
+          {
+            "marcador": "1-1",
+            "probabilidad": 11.49
+          },
+          {
+            "marcador": "1-0",
+            "probabilidad": 10.08
+          }
+        ]
+      },
+      "ranking": 33
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/basingstoke-lfv2BGo7/havant-w-bef6jI00/?mid=KSM7usJr",
@@ -1120,7 +1464,7 @@
           }
         ]
       },
-      "ranking": 26
+      "ranking": 34
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/chichester-city-YqtKZbzC/sholing-fagVTqTF/?mid=ETEHctuR",
@@ -1163,7 +1507,7 @@
           }
         ]
       },
-      "ranking": 27
+      "ranking": 35
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/antalyaspor-GAtxDHF9/kayserispor-8pwUEwoc/?mid=8YhKoVIF",
@@ -1192,7 +1536,7 @@
       "recomendacion": {
         "codigo": "2",
         "nombre": "Kayserispor",
-        "score": 46.93,
+        "score": 46.94,
         "probabilidad_modelo": 43.01,
         "cuota": 2.3,
         "marcadores": [
@@ -1206,7 +1550,50 @@
           }
         ]
       },
-      "ranking": 28
+      "ranking": 36
+    },
+    {
+      "partido_id": "https://www.flashscore.co/partido/futbol/barletta-AkCGbD8i/cavese-QeTCXvTK/?mid=IwotmR0t",
+      "fecha": "2026-10-12",
+      "hora": "13:30",
+      "pais": "ITALIA",
+      "liga": "SERIE C - GRUPO C - JORNADA 9",
+      "local": "Barletta",
+      "visitante": "Cavese",
+      "logo_local": "https://static.flashscore.com/res/image/data/lAkUjvEa-t4GQxEM5.png",
+      "logo_visitante": "https://static.flashscore.com/res/image/data/0QAyBJg5-lQsonYNp.png",
+      "cuotas": {
+        "Local": 2.25,
+        "Empate": 3.0,
+        "Visitante": 3.1
+      },
+      "1X2_modelo": {
+        "Local": 45.69,
+        "Empate": 25.99,
+        "Visitante": 28.32
+      },
+      "ambos_marcan": {
+        "resultado": "SI",
+        "probabilidad": 60.99
+      },
+      "recomendacion": {
+        "codigo": "1",
+        "nombre": "Barletta",
+        "score": 46.93,
+        "probabilidad_modelo": 45.69,
+        "cuota": 2.25,
+        "marcadores": [
+          {
+            "marcador": "1-1",
+            "probabilidad": 11.1
+          },
+          {
+            "marcador": "2-1",
+            "probabilidad": 9.38
+          }
+        ]
+      },
+      "ranking": 37
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/havelse-ChZUX0PS/wurzburger-kickers-nVM1YUFj/?mid=je5FHG6K",
@@ -1249,7 +1636,93 @@
           }
         ]
       },
-      "ranking": 29
+      "ranking": 38
+    },
+    {
+      "partido_id": "https://www.flashscore.co/partido/futbol/burgos-cf-vTxTEFi6/granada-EXuxl1xP/?mid=nPg9aiIU",
+      "fecha": "2026-10-12",
+      "hora": "09:15",
+      "pais": "ESPAÑA",
+      "liga": "LALIGA HYPERMOTION - JORNADA 9",
+      "local": "Burgos CF",
+      "visitante": "Granada",
+      "logo_local": "https://static.flashscore.com/res/image/data/0AalHeAr-0ME49KyM.png",
+      "logo_visitante": "https://static.flashscore.com/res/image/data/8AhQm2xS-pEzOUfJL.png",
+      "cuotas": {
+        "Local": 2.62,
+        "Empate": 3.05,
+        "Visitante": 2.76
+      },
+      "1X2_modelo": {
+        "Local": 43.98,
+        "Empate": 26.04,
+        "Visitante": 29.99
+      },
+      "ambos_marcan": {
+        "resultado": "SI",
+        "probabilidad": 59.42
+      },
+      "recomendacion": {
+        "codigo": "1",
+        "nombre": "Burgos CF",
+        "score": 46.83,
+        "probabilidad_modelo": 43.98,
+        "cuota": 2.62,
+        "marcadores": [
+          {
+            "marcador": "1-1",
+            "probabilidad": 10.09
+          },
+          {
+            "marcador": "2-1",
+            "probabilidad": 9.09
+          }
+        ]
+      },
+      "ranking": 39
+    },
+    {
+      "partido_id": "https://www.flashscore.co/partido/futbol/benfica-Spbrn1Te/fc-felgueiras-8AHslu7F/?mid=IDeiKlet",
+      "fecha": "2026-10-12",
+      "hora": "12:00",
+      "pais": "PORTUGAL",
+      "liga": "LIGA PORTUGAL 2 - JORNADA 7",
+      "local": "Benfica B",
+      "visitante": "Felgueiras",
+      "logo_local": "https://static.flashscore.com/res/image/data/Mq2ldtg5-zRHKFfX7.png",
+      "logo_visitante": "https://static.flashscore.com/res/image/data/xGblpBh5-vk3KAD9k.png",
+      "cuotas": {
+        "Local": 2.28,
+        "Empate": 3.25,
+        "Visitante": 2.9
+      },
+      "1X2_modelo": {
+        "Local": 45.44,
+        "Empate": 26.4,
+        "Visitante": 28.16
+      },
+      "ambos_marcan": {
+        "resultado": "SI",
+        "probabilidad": 51.32
+      },
+      "recomendacion": {
+        "codigo": "1",
+        "nombre": "Benfica B",
+        "score": 46.73,
+        "probabilidad_modelo": 45.44,
+        "cuota": 2.28,
+        "marcadores": [
+          {
+            "marcador": "1-1",
+            "probabilidad": 11.74
+          },
+          {
+            "marcador": "1-0",
+            "probabilidad": 11.06
+          }
+        ]
+      },
+      "ranking": 40
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/portsmouth-zckREQFJ/sheffield-utd-MeKPSerA/?mid=fHe6220M",
@@ -1292,7 +1765,50 @@
           }
         ]
       },
-      "ranking": 30
+      "ranking": 41
+    },
+    {
+      "partido_id": "https://www.flashscore.co/partido/futbol/kuressaare-xAe6hQ2a/narva-CpFLgaVe/?mid=0fJ40Znd",
+      "fecha": "2026-10-14",
+      "hora": "08:00",
+      "pais": "ESTONIA",
+      "liga": "MEISTRILIIGA - JORNADA 31",
+      "local": "Narva",
+      "visitante": "Kuressaare",
+      "logo_local": "https://static.flashscore.com/res/image/data/vZJ4W5dM-Q9o5ZqI5.png",
+      "logo_visitante": "https://static.flashscore.com/res/image/data/tOU14wZg-tf1sAOHr.png",
+      "cuotas": {
+        "Local": 2.18,
+        "Empate": 3.3,
+        "Visitante": 2.9
+      },
+      "1X2_modelo": {
+        "Local": 44.44,
+        "Empate": 25.44,
+        "Visitante": 30.12
+      },
+      "ambos_marcan": {
+        "resultado": "SI",
+        "probabilidad": 58.43
+      },
+      "recomendacion": {
+        "codigo": "1",
+        "nombre": "Narva",
+        "score": 46.71,
+        "probabilidad_modelo": 44.44,
+        "cuota": 2.18,
+        "marcadores": [
+          {
+            "marcador": "1-1",
+            "probabilidad": 10.66
+          },
+          {
+            "marcador": "1-0",
+            "probabilidad": 8.99
+          }
+        ]
+      },
+      "ranking": 42
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/chelyabinsk-SKigIcuN/s-kostroma-AH8JSQ4S/?mid=bVTFD0Wh",
@@ -1321,7 +1837,7 @@
       "recomendacion": {
         "codigo": "1",
         "nombre": "S. Kostroma",
-        "score": 46.73,
+        "score": 46.71,
         "probabilidad_modelo": 40.29,
         "cuota": 2.4,
         "marcadores": [
@@ -1335,50 +1851,136 @@
           }
         ]
       },
-      "ranking": 31
+      "ranking": 43
     },
     {
-      "partido_id": "https://www.flashscore.co/partido/futbol/barletta-AkCGbD8i/cavese-QeTCXvTK/?mid=IwotmR0t",
-      "fecha": "2026-10-12",
-      "hora": "13:30",
-      "pais": "ITALIA",
-      "liga": "SERIE C - GRUPO C - JORNADA 9",
-      "local": "Barletta",
-      "visitante": "Cavese",
-      "logo_local": "https://static.flashscore.com/res/image/data/lAkUjvEa-t4GQxEM5.png",
-      "logo_visitante": "https://static.flashscore.com/res/image/data/0QAyBJg5-lQsonYNp.png",
+      "partido_id": "https://www.flashscore.co/partido/futbol/al-jabalain-IiU3CHMA/al-saqer-vJJNMVhU/?mid=MBc6Buxe",
+      "fecha": "2026-10-13",
+      "hora": "10:15",
+      "pais": "ARABIA SAUDÍ",
+      "liga": "PRIMERA DIVISIÓN - JORNADA 7",
+      "local": "Al Saqer",
+      "visitante": "Al Jabalain",
+      "logo_local": "https://static.flashscore.com/res/image/data/ITViD7yB-raVCqHBr.png",
+      "logo_visitante": "https://static.flashscore.com/res/image/data/QNY2eCCa-dOSHi8Gq.png",
       "cuotas": {
-        "Local": 2.15,
+        "Local": 3.1,
         "Empate": 3.2,
-        "Visitante": 3.1
+        "Visitante": 2.15
       },
       "1X2_modelo": {
-        "Local": 45.69,
-        "Empate": 25.99,
-        "Visitante": 28.32
+        "Local": 29.45,
+        "Empate": 27.65,
+        "Visitante": 42.9
       },
       "ambos_marcan": {
-        "resultado": "SI",
-        "probabilidad": 60.99
+        "resultado": "NO",
+        "probabilidad": 38.33
       },
       "recomendacion": {
-        "codigo": "1",
-        "nombre": "Barletta",
-        "score": 46.61,
-        "probabilidad_modelo": 45.69,
+        "codigo": "2",
+        "nombre": "Al Jabalain",
+        "score": 46.54,
+        "probabilidad_modelo": 42.9,
         "cuota": 2.15,
         "marcadores": [
           {
             "marcador": "1-1",
-            "probabilidad": 11.1
+            "probabilidad": 12.35
           },
           {
-            "marcador": "2-1",
-            "probabilidad": 9.38
+            "marcador": "0-1",
+            "probabilidad": 11.62
           }
         ]
       },
-      "ranking": 32
+      "ranking": 44
+    },
+    {
+      "partido_id": "https://www.flashscore.co/partido/futbol/kolea-4pYv75FD/mostaganem-j9T7TM2E/?mid=YDoLLyT6",
+      "fecha": "2026-10-13",
+      "hora": "09:00",
+      "pais": "ARGELIA",
+      "liga": "LIGUE 2 - JORNADA 5",
+      "local": "Kolea",
+      "visitante": "Mostaganem",
+      "logo_local": "https://static.flashscore.com/res/image/data/bR8z2CYA-M3yhdAsd.png",
+      "logo_visitante": "https://static.flashscore.com/res/image/data/Iy1jExZA-CzNJXG1l.png",
+      "cuotas": {
+        "Local": 2.37,
+        "Empate": 2.9,
+        "Visitante": 2.92
+      },
+      "1X2_modelo": {
+        "Local": 40.46,
+        "Empate": 29.24,
+        "Visitante": 30.29
+      },
+      "ambos_marcan": {
+        "resultado": "NO",
+        "probabilidad": 46.36
+      },
+      "recomendacion": {
+        "codigo": "1",
+        "nombre": "Kolea",
+        "score": 46.46,
+        "probabilidad_modelo": 40.46,
+        "cuota": 2.37,
+        "marcadores": [
+          {
+            "marcador": "1-1",
+            "probabilidad": 12.79
+          },
+          {
+            "marcador": "1-0",
+            "probabilidad": 12.18
+          }
+        ]
+      },
+      "ranking": 45
+    },
+    {
+      "partido_id": "https://www.flashscore.co/partido/futbol/johor-dt-AVV6BGlb/pohang-KIIIipI5/?mid=YR6CB4ZH",
+      "fecha": "2026-10-13",
+      "hora": "05:00",
+      "pais": "ASIA",
+      "liga": "LIGA DE CAMPEONES AFC - FASE DE LIGA - JORNADA 2",
+      "local": "Pohang (Kor)",
+      "visitante": "Johor DT (Mys)",
+      "logo_local": "https://static.flashscore.com/res/image/data/S8Lo4nCr-lG6iYHm8.png",
+      "logo_visitante": "https://static.flashscore.com/res/image/data/SlUDTKeM-d29rUy0U.png",
+      "cuotas": {
+        "Local": 3.1,
+        "Empate": 3.65,
+        "Visitante": 2.12
+      },
+      "1X2_modelo": {
+        "Local": 29.16,
+        "Empate": 25.86,
+        "Visitante": 44.98
+      },
+      "ambos_marcan": {
+        "resultado": "SI",
+        "probabilidad": 52.63
+      },
+      "recomendacion": {
+        "codigo": "2",
+        "nombre": "Johor DT (Mys)",
+        "score": 46.45,
+        "probabilidad_modelo": 44.98,
+        "cuota": 2.12,
+        "marcadores": [
+          {
+            "marcador": "1-1",
+            "probabilidad": 12.21
+          },
+          {
+            "marcador": "0-1",
+            "probabilidad": 11.95
+          }
+        ]
+      },
+      "ranking": 46
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/rade-txYTNjzg/sandefjord-WlwSImbg/?mid=869phE24",
@@ -1391,9 +1993,9 @@
       "logo_local": "https://static.flashscore.com/res/image/data/ENE8f9f5-Ma1fhVPO.png",
       "logo_visitante": "https://static.flashscore.com/res/image/data/6yZ1NgBr-fixjyXg8.png",
       "cuotas": {
-        "Local": 2.3,
-        "Empate": 4.1,
-        "Visitante": 2.3
+        "Local": 2.4,
+        "Empate": 4.2,
+        "Visitante": 2.15
       },
       "1X2_modelo": {
         "Local": 37.21,
@@ -1407,9 +2009,9 @@
       "recomendacion": {
         "codigo": "2",
         "nombre": "Rade",
-        "score": 46.46,
+        "score": 46.4,
         "probabilidad_modelo": 40.36,
-        "cuota": 2.3,
+        "cuota": 2.15,
         "marcadores": [
           {
             "marcador": "1-1",
@@ -1421,50 +2023,7 @@
           }
         ]
       },
-      "ranking": 33
-    },
-    {
-      "partido_id": "https://www.flashscore.co/partido/futbol/enppi-2wpo7PBj/modern-sport-KCzFp0OB/?mid=Yc1zDl55",
-      "fecha": "2026-10-12",
-      "hora": "09:00",
-      "pais": "EGIPTO",
-      "liga": "PREMIER LEAGUE - JORNADA 6",
-      "local": "Modern Sport",
-      "visitante": "Enppi",
-      "logo_local": "https://static.flashscore.com/res/image/data/lWv0FGg5-zuoIGyJI.png",
-      "logo_visitante": "https://static.flashscore.com/res/image/data/zeo9lcdM-YcTrsXo0.png",
-      "cuotas": {
-        "Local": 2.22,
-        "Empate": 2.8,
-        "Visitante": 3.55
-      },
-      "1X2_modelo": {
-        "Local": 48.48,
-        "Empate": 28.27,
-        "Visitante": 23.25
-      },
-      "ambos_marcan": {
-        "resultado": "NO",
-        "probabilidad": 49.6
-      },
-      "recomendacion": {
-        "codigo": "1",
-        "nombre": "Modern Sport",
-        "score": 46.44,
-        "probabilidad_modelo": 48.48,
-        "cuota": 2.22,
-        "marcadores": [
-          {
-            "marcador": "1-0",
-            "probabilidad": 12.77
-          },
-          {
-            "marcador": "1-1",
-            "probabilidad": 11.72
-          }
-        ]
-      },
-      "ranking": 34
+      "ranking": 47
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/baltika-2cJYOpxn/samara-SKAE94nJ/?mid=UDIxbCUF",
@@ -1493,7 +2052,7 @@
       "recomendacion": {
         "codigo": "2",
         "nombre": "Baltika",
-        "score": 46.35,
+        "score": 46.36,
         "probabilidad_modelo": 41.59,
         "cuota": 2.35,
         "marcadores": [
@@ -1507,50 +2066,7 @@
           }
         ]
       },
-      "ranking": 35
-    },
-    {
-      "partido_id": "https://www.flashscore.co/partido/futbol/ghazl-el-mahallah-WYauVS3c/smouha-t6WUYDaO/?mid=riw0T9kn",
-      "fecha": "2026-10-12",
-      "hora": "12:00",
-      "pais": "EGIPTO",
-      "liga": "PREMIER LEAGUE - JORNADA 6",
-      "local": "Smouha",
-      "visitante": "Ghazl El Mahallah",
-      "logo_local": "https://static.flashscore.com/res/image/data/ChzRwiAr-Y1Z3w2bI.png",
-      "logo_visitante": "https://static.flashscore.com/res/image/data/jJJvbbHG-AXTgaM87.png",
-      "cuotas": {
-        "Local": 2.24,
-        "Empate": 2.7,
-        "Visitante": 3.65
-      },
-      "1X2_modelo": {
-        "Local": 47.81,
-        "Empate": 29.16,
-        "Visitante": 23.03
-      },
-      "ambos_marcan": {
-        "resultado": "NO",
-        "probabilidad": 40.2
-      },
-      "recomendacion": {
-        "codigo": "1",
-        "nombre": "Smouha",
-        "score": 46.21,
-        "probabilidad_modelo": 47.81,
-        "cuota": 2.24,
-        "marcadores": [
-          {
-            "marcador": "1-0",
-            "probabilidad": 13.53
-          },
-          {
-            "marcador": "1-1",
-            "probabilidad": 11.4
-          }
-        ]
-      },
-      "ranking": 36
+      "ranking": 48
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/charleston-2wA8p3yn/hartford-athletic-Ew2P6PKC/?mid=UoPEDv1s",
@@ -1563,9 +2079,9 @@
       "logo_local": "https://static.flashscore.com/res/image/data/MLW6PtDr-OAt4O2Ju.png",
       "logo_visitante": "https://static.flashscore.com/res/image/data/CpMPofFa-xIOhFH4B.png",
       "cuotas": {
-        "Local": 2.7,
+        "Local": 2.65,
         "Empate": 3.6,
-        "Visitante": 2.22
+        "Visitante": 2.25
       },
       "1X2_modelo": {
         "Local": 33.63,
@@ -1579,9 +2095,9 @@
       "recomendacion": {
         "codigo": "2",
         "nombre": "Charleston",
-        "score": 46.15,
+        "score": 46.25,
         "probabilidad_modelo": 41.91,
-        "cuota": 2.22,
+        "cuota": 2.25,
         "marcadores": [
           {
             "marcador": "1-1",
@@ -1593,7 +2109,136 @@
           }
         ]
       },
-      "ranking": 37
+      "ranking": 49
+    },
+    {
+      "partido_id": "https://www.flashscore.co/partido/futbol/loznica-bij7d3qi/smederevo-pQ6ezCoj/?mid=pIjFShi4",
+      "fecha": "2026-10-12",
+      "hora": "11:00",
+      "pais": "SERBIA",
+      "liga": "MOZZART BET PRVA LIGA - JORNADA 13",
+      "local": "Loznica",
+      "visitante": "Smederevo",
+      "logo_local": "https://static.flashscore.com/res/image/data/8zepNxCa-fJYyLslS.png",
+      "logo_visitante": "https://static.flashscore.com/res/image/data/GAnFSWf5-4OCuszD3.png",
+      "cuotas": {
+        "Local": 2.6,
+        "Empate": 3.2,
+        "Visitante": 2.35
+      },
+      "1X2_modelo": {
+        "Local": 38.48,
+        "Empate": 26.76,
+        "Visitante": 34.76
+      },
+      "ambos_marcan": {
+        "resultado": "SI",
+        "probabilidad": 61.77
+      },
+      "recomendacion": {
+        "codigo": "1",
+        "nombre": "Loznica",
+        "score": 46.25,
+        "probabilidad_modelo": 38.48,
+        "cuota": 2.6,
+        "marcadores": [
+          {
+            "marcador": "1-1",
+            "probabilidad": 11.55
+          },
+          {
+            "marcador": "1-0",
+            "probabilidad": 8.63
+          }
+        ]
+      },
+      "ranking": 50
+    },
+    {
+      "partido_id": "https://www.flashscore.co/partido/futbol/ghazl-el-mahallah-WYauVS3c/smouha-t6WUYDaO/?mid=riw0T9kn",
+      "fecha": "2026-10-12",
+      "hora": "12:00",
+      "pais": "EGIPTO",
+      "liga": "PREMIER LEAGUE - JORNADA 6",
+      "local": "Smouha",
+      "visitante": "Ghazl El Mahallah",
+      "logo_local": "https://static.flashscore.com/res/image/data/ChzRwiAr-Y1Z3w2bI.png",
+      "logo_visitante": "https://static.flashscore.com/res/image/data/jJJvbbHG-AXTgaM87.png",
+      "cuotas": {
+        "Local": 2.25,
+        "Empate": 2.65,
+        "Visitante": 3.75
+      },
+      "1X2_modelo": {
+        "Local": 47.81,
+        "Empate": 29.16,
+        "Visitante": 23.03
+      },
+      "ambos_marcan": {
+        "resultado": "NO",
+        "probabilidad": 40.2
+      },
+      "recomendacion": {
+        "codigo": "1",
+        "nombre": "Smouha",
+        "score": 46.22,
+        "probabilidad_modelo": 47.81,
+        "cuota": 2.25,
+        "marcadores": [
+          {
+            "marcador": "1-0",
+            "probabilidad": 13.53
+          },
+          {
+            "marcador": "1-1",
+            "probabilidad": 11.4
+          }
+        ]
+      },
+      "ranking": 51
+    },
+    {
+      "partido_id": "https://www.flashscore.co/partido/futbol/boston-EDRBCKEI/southampton-fJ0rYzGq/?mid=ENkH6TmS",
+      "fecha": "2026-10-13",
+      "hora": "13:00",
+      "pais": "INGLATERRA",
+      "liga": "NATIONAL LEAGUE CUP",
+      "local": "Boston Utd",
+      "visitante": "Southampton Sub-21",
+      "logo_local": "https://static.flashscore.com/res/image/data/INp0U2Da-tj3NKjPm.png",
+      "logo_visitante": "https://static.flashscore.com/res/image/data/Sj2J09GG-ldEVrbli.png",
+      "cuotas": {
+        "Local": 2.15,
+        "Empate": 3.65,
+        "Visitante": 2.75
+      },
+      "1X2_modelo": {
+        "Local": 43.29,
+        "Empate": 25.0,
+        "Visitante": 31.72
+      },
+      "ambos_marcan": {
+        "resultado": "SI",
+        "probabilidad": 65.84
+      },
+      "recomendacion": {
+        "codigo": "1",
+        "nombre": "Boston Utd",
+        "score": 46.15,
+        "probabilidad_modelo": 43.29,
+        "cuota": 2.15,
+        "marcadores": [
+          {
+            "marcador": "1-1",
+            "probabilidad": 11.86
+          },
+          {
+            "marcador": "1-0",
+            "probabilidad": 9.8
+          }
+        ]
+      },
+      "ranking": 52
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/el-ettehad-el-sakandary-WpApD7JG/el-gounah-EHDG5a4M/?mid=C8rgIqso",
@@ -1622,7 +2267,7 @@
       "recomendacion": {
         "codigo": "1",
         "nombre": "Al Ittihad",
-        "score": 46.13,
+        "score": 46.12,
         "probabilidad_modelo": 48.82,
         "cuota": 2.16,
         "marcadores": [
@@ -1636,50 +2281,7 @@
           }
         ]
       },
-      "ranking": 38
-    },
-    {
-      "partido_id": "https://www.flashscore.co/partido/futbol/belgica-AJaICLPm/finlandia-8hffAc5N/?mid=jRsr3uD7",
-      "fecha": "2026-10-12",
-      "hora": "03:00",
-      "pais": "MUNDIAL",
-      "liga": "AMISTOSOS INTERNACIONALES FEMENINOS",
-      "local": "Finlandia Sub-19 F",
-      "visitante": "Bélgica Sub-19 F",
-      "logo_local": "https://static.flashscore.com/res/image/data/dEncMTzB-6gjPCg0a.png",
-      "logo_visitante": "https://static.flashscore.com/res/image/data/jB7jWAAr-CUoVGnpd.png",
-      "cuotas": {
-        "Local": 2.18,
-        "Empate": 3.3,
-        "Visitante": 2.9
-      },
-      "1X2_modelo": {
-        "Local": 41.92,
-        "Empate": 27.14,
-        "Visitante": 30.94
-      },
-      "ambos_marcan": {
-        "resultado": "NO",
-        "probabilidad": 49.33
-      },
-      "recomendacion": {
-        "codigo": "1",
-        "nombre": "Finlandia Sub-19 F",
-        "score": 46.09,
-        "probabilidad_modelo": 41.92,
-        "cuota": 2.18,
-        "marcadores": [
-          {
-            "marcador": "1-1",
-            "probabilidad": 12.31
-          },
-          {
-            "marcador": "1-0",
-            "probabilidad": 12.03
-          }
-        ]
-      },
-      "ranking": 39
+      "ranking": 53
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/lewes-YT8o2dVC/three-bridges-C2i4lfQ7/?mid=nZOzkkb5",
@@ -1722,50 +2324,7 @@
           }
         ]
       },
-      "ranking": 40
-    },
-    {
-      "partido_id": "https://www.flashscore.co/partido/futbol/burgos-cf-vTxTEFi6/granada-EXuxl1xP/?mid=nPg9aiIU",
-      "fecha": "2026-10-12",
-      "hora": "09:15",
-      "pais": "ESPAÑA",
-      "liga": "LALIGA HYPERMOTION - JORNADA 9",
-      "local": "Burgos CF",
-      "visitante": "Granada",
-      "logo_local": "https://static.flashscore.com/res/image/data/0AalHeAr-0ME49KyM.png",
-      "logo_visitante": "https://static.flashscore.com/res/image/data/8AhQm2xS-pEzOUfJL.png",
-      "cuotas": {
-        "Local": 2.34,
-        "Empate": 3.1,
-        "Visitante": 3.1
-      },
-      "1X2_modelo": {
-        "Local": 43.98,
-        "Empate": 26.04,
-        "Visitante": 29.99
-      },
-      "ambos_marcan": {
-        "resultado": "SI",
-        "probabilidad": 59.42
-      },
-      "recomendacion": {
-        "codigo": "1",
-        "nombre": "Burgos CF",
-        "score": 45.99,
-        "probabilidad_modelo": 43.98,
-        "cuota": 2.34,
-        "marcadores": [
-          {
-            "marcador": "1-1",
-            "probabilidad": 10.09
-          },
-          {
-            "marcador": "2-1",
-            "probabilidad": 9.09
-          }
-        ]
-      },
-      "ranking": 41
+      "ranking": 54
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/lanus-Y9yh1J7G/velez-sarsfield-UsCR8gFd/?mid=pfFSbE2B",
@@ -1808,50 +2367,7 @@
           }
         ]
       },
-      "ranking": 42
-    },
-    {
-      "partido_id": "https://www.flashscore.co/partido/futbol/orlando-city-rsHkUNCo/toronto-fc-zsdfgnmL/?mid=4ItupAKk",
-      "fecha": "2026-10-14",
-      "hora": "18:30",
-      "pais": "ESTADOS UNIDOS",
-      "liga": "MLS",
-      "local": "Toronto FC",
-      "visitante": "Orlando City",
-      "logo_local": "https://static.flashscore.com/res/image/data/S0szFuXg-tnwDCzLD.png",
-      "logo_visitante": "https://static.flashscore.com/res/image/data/0WseRhDa-AFpqya1j.png",
-      "cuotas": {
-        "Local": 2.24,
-        "Empate": 3.9,
-        "Visitante": 2.8
-      },
-      "1X2_modelo": {
-        "Local": 44.92,
-        "Empate": 23.0,
-        "Visitante": 32.08
-      },
-      "ambos_marcan": {
-        "resultado": "SI",
-        "probabilidad": 77.01
-      },
-      "recomendacion": {
-        "codigo": "1",
-        "nombre": "Toronto FC",
-        "score": 45.89,
-        "probabilidad_modelo": 44.92,
-        "cuota": 2.24,
-        "marcadores": [
-          {
-            "marcador": "1-1",
-            "probabilidad": 9.36
-          },
-          {
-            "marcador": "2-1",
-            "probabilidad": 8.88
-          }
-        ]
-      },
-      "ranking": 43
+      "ranking": 55
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/central-cordoba-rosario-tftR0y7c/deportivo-espanol-n9jGcDLS/?mid=hlURZd9M",
@@ -1865,7 +2381,7 @@
       "logo_visitante": "https://static.flashscore.com/res/image/data/O4PkjEeM-j54b6INn.png",
       "cuotas": {
         "Local": 2.25,
-        "Empate": 2.8,
+        "Empate": 2.75,
         "Visitante": 3.35
       },
       "1X2_modelo": {
@@ -1880,7 +2396,7 @@
       "recomendacion": {
         "codigo": "1",
         "nombre": "Deportivo Español",
-        "score": 45.87,
+        "score": 45.91,
         "probabilidad_modelo": 44.54,
         "cuota": 2.25,
         "marcadores": [
@@ -1894,50 +2410,50 @@
           }
         ]
       },
-      "ranking": 44
+      "ranking": 56
     },
     {
-      "partido_id": "https://www.flashscore.co/partido/futbol/loznica-bij7d3qi/smederevo-pQ6ezCoj/?mid=pIjFShi4",
-      "fecha": "2026-10-12",
-      "hora": "11:00",
-      "pais": "SERBIA",
-      "liga": "MOZZART BET PRVA LIGA - JORNADA 13",
-      "local": "Loznica",
-      "visitante": "Smederevo",
-      "logo_local": "https://static.flashscore.com/res/image/data/8zepNxCa-fJYyLslS.png",
-      "logo_visitante": "https://static.flashscore.com/res/image/data/GAnFSWf5-4OCuszD3.png",
+      "partido_id": "https://www.flashscore.co/partido/futbol/orlando-city-rsHkUNCo/toronto-fc-zsdfgnmL/?mid=4ItupAKk",
+      "fecha": "2026-10-14",
+      "hora": "18:30",
+      "pais": "ESTADOS UNIDOS",
+      "liga": "MLS",
+      "local": "Toronto FC",
+      "visitante": "Orlando City",
+      "logo_local": "https://static.flashscore.com/res/image/data/S0szFuXg-tnwDCzLD.png",
+      "logo_visitante": "https://static.flashscore.com/res/image/data/0WseRhDa-AFpqya1j.png",
       "cuotas": {
-        "Local": 2.45,
-        "Empate": 3.15,
-        "Visitante": 2.62
+        "Local": 2.24,
+        "Empate": 4.0,
+        "Visitante": 2.75
       },
       "1X2_modelo": {
-        "Local": 38.48,
-        "Empate": 26.76,
-        "Visitante": 34.76
+        "Local": 44.92,
+        "Empate": 23.0,
+        "Visitante": 32.08
       },
       "ambos_marcan": {
         "resultado": "SI",
-        "probabilidad": 61.77
+        "probabilidad": 77.01
       },
       "recomendacion": {
         "codigo": "1",
-        "nombre": "Loznica",
-        "score": 45.82,
-        "probabilidad_modelo": 38.48,
-        "cuota": 2.45,
+        "nombre": "Toronto FC",
+        "score": 45.88,
+        "probabilidad_modelo": 44.92,
+        "cuota": 2.24,
         "marcadores": [
           {
             "marcador": "1-1",
-            "probabilidad": 11.55
+            "probabilidad": 9.36
           },
           {
-            "marcador": "1-0",
-            "probabilidad": 8.63
+            "marcador": "2-1",
+            "probabilidad": 8.88
           }
         ]
       },
-      "ranking": 45
+      "ranking": 57
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/kfum-oslo-K4YaWRyM/valerenga-ph9NNA8A/?mid=IJZOtqAl",
@@ -1950,7 +2466,7 @@
       "logo_local": "https://static.flashscore.com/res/image/data/EXfKxEh5-zqBDg1XE.png",
       "logo_visitante": "https://static.flashscore.com/res/image/data/W0qnvrZg-K0xfe77l.png",
       "cuotas": {
-        "Local": 2.85,
+        "Local": 2.9,
         "Empate": 3.7,
         "Visitante": 2.2
       },
@@ -1966,7 +2482,7 @@
       "recomendacion": {
         "codigo": "2",
         "nombre": "Vålerenga",
-        "score": 45.73,
+        "score": 45.69,
         "probabilidad_modelo": 41.36,
         "cuota": 2.2,
         "marcadores": [
@@ -1980,7 +2496,7 @@
           }
         ]
       },
-      "ranking": 46
+      "ranking": 58
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/dynamo-petersburg-ARLVy9iA/volna-nizhegorodskaya-b51qHs4p/?mid=l88FSqMU",
@@ -2009,7 +2525,7 @@
       "recomendacion": {
         "codigo": "1",
         "nombre": "Volna Nizhegorodskaya",
-        "score": 45.7,
+        "score": 45.68,
         "probabilidad_modelo": 38.45,
         "cuota": 2.55,
         "marcadores": [
@@ -2023,7 +2539,50 @@
           }
         ]
       },
-      "ranking": 47
+      "ranking": 59
+    },
+    {
+      "partido_id": "https://www.flashscore.co/partido/futbol/belgica-SvSUBuuf/polonia-d0ZY1be1/?mid=IXTSTJ1s",
+      "fecha": "2026-10-13",
+      "hora": "11:00",
+      "pais": "EUROPA",
+      "liga": "MUNDIAL FEMENINO - CLASIFICACIÓN - ASCENSO - PLAYOFFS - SEMIFINALES",
+      "local": "Polonia F",
+      "visitante": "Bélgica F",
+      "logo_local": "https://static.flashscore.com/res/image/data/x4akJeGG-SA3zzeae.png",
+      "logo_visitante": "https://static.flashscore.com/res/image/data/KlzCxJeM-CUoVGnpd.png",
+      "cuotas": {
+        "Local": 2.9,
+        "Empate": 3.3,
+        "Visitante": 2.2
+      },
+      "1X2_modelo": {
+        "Local": 30.57,
+        "Empate": 25.24,
+        "Visitante": 44.19
+      },
+      "ambos_marcan": {
+        "resultado": "SI",
+        "probabilidad": 52.89
+      },
+      "recomendacion": {
+        "codigo": "2",
+        "nombre": "Bélgica F",
+        "score": 45.55,
+        "probabilidad_modelo": 44.19,
+        "cuota": 2.2,
+        "marcadores": [
+          {
+            "marcador": "1-1",
+            "probabilidad": 10.28
+          },
+          {
+            "marcador": "1-2",
+            "probabilidad": 8.63
+          }
+        ]
+      },
+      "ranking": 60
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/atlanta-united-EPngUvhk/cf-montreal-j9cigLCr/?mid=Kp58kWdS",
@@ -2052,7 +2611,7 @@
       "recomendacion": {
         "codigo": "1",
         "nombre": "CF Montreal",
-        "score": 45.53,
+        "score": 45.52,
         "probabilidad_modelo": 43.57,
         "cuota": 2.24,
         "marcadores": [
@@ -2066,7 +2625,50 @@
           }
         ]
       },
-      "ranking": 48
+      "ranking": 61
+    },
+    {
+      "partido_id": "https://www.flashscore.co/partido/futbol/tlemcen-GfuKpwn7/usm-blida-O27baJV9/?mid=SYZ5PJTs",
+      "fecha": "2026-10-13",
+      "hora": "09:00",
+      "pais": "ARGELIA",
+      "liga": "LIGUE 2 - JORNADA 5",
+      "local": "Tlemcen",
+      "visitante": "USM Blida",
+      "logo_local": "https://static.flashscore.com/res/image/data/bTFPWte5-tIknCwDS.png",
+      "logo_visitante": "https://static.flashscore.com/res/image/data/WQyMOCBr-ldMjN2Yr.png",
+      "cuotas": {
+        "Local": 2.5,
+        "Empate": 2.95,
+        "Visitante": 2.7
+      },
+      "1X2_modelo": {
+        "Local": 38.06,
+        "Empate": 28.85,
+        "Visitante": 33.09
+      },
+      "ambos_marcan": {
+        "resultado": "NO",
+        "probabilidad": 44.86
+      },
+      "recomendacion": {
+        "codigo": "1",
+        "nombre": "Tlemcen",
+        "score": 45.48,
+        "probabilidad_modelo": 38.06,
+        "cuota": 2.5,
+        "marcadores": [
+          {
+            "marcador": "1-1",
+            "probabilidad": 12.11
+          },
+          {
+            "marcador": "1-0",
+            "probabilidad": 11.04
+          }
+        ]
+      },
+      "ranking": 62
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/cleethorpes-vocxSMuM/guiseley-Wzgc8id2/?mid=U5Wkrao1",
@@ -2095,7 +2697,7 @@
       "recomendacion": {
         "codigo": "2",
         "nombre": "Cleethorpes",
-        "score": 45.38,
+        "score": 45.39,
         "probabilidad_modelo": 40.7,
         "cuota": 2.35,
         "marcadores": [
@@ -2109,50 +2711,7 @@
           }
         ]
       },
-      "ranking": 49
-    },
-    {
-      "partido_id": "https://www.flashscore.co/partido/futbol/bragantino-jwKvKhGa/cruzeiro-0SwtclaU/?mid=vXrY11bl",
-      "fecha": "2026-10-12",
-      "hora": "19:00",
-      "pais": "BRASIL",
-      "liga": "SERIE A BETANO - JORNADA 30",
-      "local": "Bragantino",
-      "visitante": "Cruzeiro",
-      "logo_local": "https://static.flashscore.com/res/image/data/llnonZDa-UkMF8Udb.png",
-      "logo_visitante": "https://static.flashscore.com/res/image/data/lCWrxmg5-SjJmyx86.png",
-      "cuotas": {
-        "Local": 2.26,
-        "Empate": 3.5,
-        "Visitante": 3.0
-      },
-      "1X2_modelo": {
-        "Local": 46.05,
-        "Empate": 25.02,
-        "Visitante": 28.93
-      },
-      "ambos_marcan": {
-        "resultado": "SI",
-        "probabilidad": 67.93
-      },
-      "recomendacion": {
-        "codigo": "1",
-        "nombre": "Bragantino",
-        "score": 45.33,
-        "probabilidad_modelo": 46.05,
-        "cuota": 2.26,
-        "marcadores": [
-          {
-            "marcador": "1-1",
-            "probabilidad": 11.24
-          },
-          {
-            "marcador": "1-0",
-            "probabilidad": 9.48
-          }
-        ]
-      },
-      "ranking": 50
+      "ranking": 63
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/lugo-IJTeVFYq/ud-logrones-G2DnUxNN/?mid=djexuLE4",
@@ -2195,7 +2754,7 @@
           }
         ]
       },
-      "ranking": 51
+      "ranking": 64
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/chippenham-town-6Brz87ro/frome-town-80YVuKya/?mid=ShQFwLme",
@@ -2238,11 +2797,11 @@
           }
         ]
       },
-      "ranking": 52
+      "ranking": 65
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/kakamega-homeboyz-OfdPtDuK/mombasa-united-8dpoZukn/?mid=tv9t7xxB",
-      "fecha": "2026-10-13",
+      "fecha": "2026-10-14",
       "hora": "07:00",
       "pais": "KENIA",
       "liga": "PREMIER LEAGUE - JORNADA 1",
@@ -2267,7 +2826,7 @@
       "recomendacion": {
         "codigo": "2",
         "nombre": "Kakamega Homeboyz",
-        "score": 45.02,
+        "score": 45.03,
         "probabilidad_modelo": 39.79,
         "cuota": 2.33,
         "marcadores": [
@@ -2281,50 +2840,93 @@
           }
         ]
       },
-      "ranking": 53
+      "ranking": 66
     },
     {
-      "partido_id": "https://www.flashscore.co/partido/futbol/h-raanana-2m3GbPH2/hapoel-kfar-shalem-hjn53BuM/?mid=d2wlmT8D",
+      "partido_id": "https://www.flashscore.co/partido/futbol/gimnasia-mendoza-K2sDXbFE/n-o-boys-6gMiRHVj/?mid=SK5J1QBM",
       "fecha": "2026-10-12",
-      "hora": "11:00",
-      "pais": "ISRAEL",
-      "liga": "LEUMIT LEAGUE - JORNADA 9",
-      "local": "Hapoel Kfar Shalem",
-      "visitante": "H. Raanana",
-      "logo_local": "https://static.flashscore.com/res/image/data/SSY25hh5-ADBdQbo4.png",
-      "logo_visitante": "https://static.flashscore.com/res/image/data/0KUmb2Ca-b5r6zrF0.png",
+      "hora": "16:30",
+      "pais": "ARGENTINA",
+      "liga": "LIGA PROFESIONAL - CLAUSURA - JORNADA 12",
+      "local": "Gimnasia Mendoza",
+      "visitante": "Newell's",
+      "logo_local": "https://static.flashscore.com/res/image/data/WQaBsEXg-Uyu9KPIO.png",
+      "logo_visitante": "https://static.flashscore.com/res/image/data/StG7Krf5-vLBOqDG6.png",
       "cuotas": {
-        "Local": 2.6,
-        "Empate": 3.65,
-        "Visitante": 2.25
+        "Local": 2.34,
+        "Empate": 2.98,
+        "Visitante": 3.4
       },
       "1X2_modelo": {
-        "Local": 40.09,
-        "Empate": 23.97,
-        "Visitante": 35.94
+        "Local": 46.05,
+        "Empate": 28.49,
+        "Visitante": 25.46
       },
       "ambos_marcan": {
-        "resultado": "SI",
-        "probabilidad": 74.8
+        "resultado": "NO",
+        "probabilidad": 48.52
       },
       "recomendacion": {
         "codigo": "1",
-        "nombre": "Hapoel Kfar Shalem",
-        "score": 44.94,
-        "probabilidad_modelo": 40.09,
-        "cuota": 2.6,
+        "nombre": "Gimnasia Mendoza",
+        "score": 44.85,
+        "probabilidad_modelo": 46.05,
+        "cuota": 2.34,
         "marcadores": [
           {
-            "marcador": "1-1",
-            "probabilidad": 9.89
+            "marcador": "1-0",
+            "probabilidad": 12.05
           },
           {
-            "marcador": "2-1",
-            "probabilidad": 8.44
+            "marcador": "1-1",
+            "probabilidad": 11.86
           }
         ]
       },
-      "ranking": 54
+      "ranking": 67
+    },
+    {
+      "partido_id": "https://www.flashscore.co/partido/futbol/torino-MZFZnvX4/udinese-rXw8YKDE/?mid=r9rkvmPc",
+      "fecha": "2026-10-12",
+      "hora": "13:45",
+      "pais": "ITALIA",
+      "liga": "SERIE A - JORNADA 6",
+      "local": "Torino",
+      "visitante": "Udinese",
+      "logo_local": "https://static.flashscore.com/res/image/data/OQWGjGcM-0lwy4Ij1.png",
+      "logo_visitante": "https://static.flashscore.com/res/image/data/AZBQMaYA-SYw7EcY6.png",
+      "cuotas": {
+        "Local": 2.42,
+        "Empate": 3.1,
+        "Visitante": 3.3
+      },
+      "1X2_modelo": {
+        "Local": 45.24,
+        "Empate": 26.72,
+        "Visitante": 28.05
+      },
+      "ambos_marcan": {
+        "resultado": "SI",
+        "probabilidad": 61.92
+      },
+      "recomendacion": {
+        "codigo": "1",
+        "nombre": "Torino",
+        "score": 44.85,
+        "probabilidad_modelo": 45.24,
+        "cuota": 2.42,
+        "marcadores": [
+          {
+            "marcador": "1-1",
+            "probabilidad": 11.09
+          },
+          {
+            "marcador": "1-0",
+            "probabilidad": 9.4
+          }
+        ]
+      },
+      "ranking": 68
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/west-brom-CCBWpzjj/wrexham-IgO7K1ZA/?mid=f3Kaxxu9",
@@ -2353,7 +2955,7 @@
       "recomendacion": {
         "codigo": "1",
         "nombre": "Wrexham",
-        "score": 44.84,
+        "score": 44.83,
         "probabilidad_modelo": 46.03,
         "cuota": 2.22,
         "marcadores": [
@@ -2367,50 +2969,50 @@
           }
         ]
       },
-      "ranking": 55
+      "ranking": 69
     },
     {
-      "partido_id": "https://www.flashscore.co/partido/futbol/torino-MZFZnvX4/udinese-rXw8YKDE/?mid=r9rkvmPc",
+      "partido_id": "https://www.flashscore.co/partido/futbol/h-raanana-2m3GbPH2/hapoel-kfar-shalem-hjn53BuM/?mid=d2wlmT8D",
       "fecha": "2026-10-12",
-      "hora": "13:45",
-      "pais": "ITALIA",
-      "liga": "SERIE A - JORNADA 6",
-      "local": "Torino",
-      "visitante": "Udinese",
-      "logo_local": "https://static.flashscore.com/res/image/data/OQWGjGcM-0lwy4Ij1.png",
-      "logo_visitante": "https://static.flashscore.com/res/image/data/AZBQMaYA-SYw7EcY6.png",
+      "hora": "11:00",
+      "pais": "ISRAEL",
+      "liga": "LEUMIT LEAGUE - JORNADA 9",
+      "local": "Hapoel Kfar Shalem",
+      "visitante": "H. Raanana",
+      "logo_local": "https://static.flashscore.com/res/image/data/SSY25hh5-ADBdQbo4.png",
+      "logo_visitante": "https://static.flashscore.com/res/image/data/0KUmb2Ca-b5r6zrF0.png",
       "cuotas": {
-        "Local": 2.4,
-        "Empate": 3.2,
-        "Visitante": 3.25
+        "Local": 2.75,
+        "Empate": 3.7,
+        "Visitante": 2.15
       },
       "1X2_modelo": {
-        "Local": 45.24,
-        "Empate": 26.72,
-        "Visitante": 28.05
+        "Local": 40.09,
+        "Empate": 23.97,
+        "Visitante": 35.94
       },
       "ambos_marcan": {
         "resultado": "SI",
-        "probabilidad": 61.92
+        "probabilidad": 74.8
       },
       "recomendacion": {
         "codigo": "1",
-        "nombre": "Torino",
-        "score": 44.78,
-        "probabilidad_modelo": 45.24,
-        "cuota": 2.4,
+        "nombre": "Hapoel Kfar Shalem",
+        "score": 44.81,
+        "probabilidad_modelo": 40.09,
+        "cuota": 2.75,
         "marcadores": [
           {
             "marcador": "1-1",
-            "probabilidad": 11.09
+            "probabilidad": 9.89
           },
           {
-            "marcador": "1-0",
-            "probabilidad": 9.4
+            "marcador": "2-1",
+            "probabilidad": 8.44
           }
         ]
       },
-      "ranking": 56
+      "ranking": 70
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/ramsgate-GGpFzOBd/wingate-finchley-YmFlK44E/?mid=vVdYWeLM",
@@ -2423,8 +3025,8 @@
       "logo_local": "https://static.flashscore.com/res/image/data/SMb2j2yS-IJlrPRxF.png",
       "logo_visitante": "https://static.flashscore.com/res/image/data/Q7cGKMFG-d4zUQfWK.png",
       "cuotas": {
-        "Local": 2.65,
-        "Empate": 3.6,
+        "Local": 2.67,
+        "Empate": 3.55,
         "Visitante": 2.3
       },
       "1X2_modelo": {
@@ -2439,7 +3041,7 @@
       "recomendacion": {
         "codigo": "2",
         "nombre": "Ramsgate",
-        "score": 44.67,
+        "score": 44.68,
         "probabilidad_modelo": 40.99,
         "cuota": 2.3,
         "marcadores": [
@@ -2453,7 +3055,7 @@
           }
         ]
       },
-      "ranking": 57
+      "ranking": 71
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/racing-united-MHizSXtf/tivoli-EZUb42dG/?mid=8ho9h4kB",
@@ -2496,50 +3098,93 @@
           }
         ]
       },
-      "ranking": 58
+      "ranking": 72
     },
     {
-      "partido_id": "https://www.flashscore.co/partido/futbol/gimnasia-mendoza-K2sDXbFE/n-o-boys-6gMiRHVj/?mid=SK5J1QBM",
+      "partido_id": "https://www.flashscore.co/partido/futbol/chemal-Mqd2I8f5/police-W6CyVjbQ/?mid=lWOveB1t",
       "fecha": "2026-10-12",
-      "hora": "16:30",
-      "pais": "ARGENTINA",
-      "liga": "LIGA PROFESIONAL - CLAUSURA - JORNADA 12",
-      "local": "Gimnasia Mendoza",
-      "visitante": "Newell's",
-      "logo_local": "https://static.flashscore.com/res/image/data/WQaBsEXg-Uyu9KPIO.png",
-      "logo_visitante": "https://static.flashscore.com/res/image/data/StG7Krf5-vLBOqDG6.png",
+      "hora": "12:30",
+      "pais": "MAURITANIA",
+      "liga": "LIGUE 1 - JORNADA 1",
+      "local": "Chemal",
+      "visitante": "Police",
+      "logo_local": "https://static.flashscore.com/res/image/data/zTtvdgCa-0tXbpKUO.png",
+      "logo_visitante": "https://static.flashscore.com/res/image/data/nkRDEif5-2aUQj8kp.png",
       "cuotas": {
-        "Local": 2.26,
-        "Empate": 2.98,
-        "Visitante": 3.55
+        "Local": 2.32,
+        "Empate": 3.0,
+        "Visitante": 2.92
       },
       "1X2_modelo": {
-        "Local": 46.05,
-        "Empate": 28.49,
-        "Visitante": 25.46
+        "Local": 42.11,
+        "Empate": 27.52,
+        "Visitante": 30.36
       },
       "ambos_marcan": {
-        "resultado": "NO",
-        "probabilidad": 48.52
+        "resultado": "SI",
+        "probabilidad": 52.41
       },
       "recomendacion": {
         "codigo": "1",
-        "nombre": "Gimnasia Mendoza",
-        "score": 44.26,
-        "probabilidad_modelo": 46.05,
-        "cuota": 2.26,
+        "nombre": "Chemal",
+        "score": 44.46,
+        "probabilidad_modelo": 42.11,
+        "cuota": 2.32,
         "marcadores": [
           {
-            "marcador": "1-0",
-            "probabilidad": 12.05
+            "marcador": "1-1",
+            "probabilidad": 11.43
           },
           {
-            "marcador": "1-1",
-            "probabilidad": 11.86
+            "marcador": "1-0",
+            "probabilidad": 9.67
           }
         ]
       },
-      "ranking": 59
+      "ranking": 73
+    },
+    {
+      "partido_id": "https://www.flashscore.co/partido/futbol/fc-felgueiras-z3jreMjn/rio-ave-6uq311Lm/?mid=hWwtoFy8",
+      "fecha": "2026-10-13",
+      "hora": "09:00",
+      "pais": "PORTUGAL",
+      "liga": "LIGA NEXT GEN U23 - JORNADA 8",
+      "local": "Felgueiras Sub-23",
+      "visitante": "Rio Ave Sub-23",
+      "logo_local": "https://static.flashscore.com/res/image/data/Yqda3UCr-CfcMf7hp.png",
+      "logo_visitante": "https://static.flashscore.com/res/image/data/bZma2FFG-QXyrii5r.png",
+      "cuotas": {
+        "Local": 2.25,
+        "Empate": 3.55,
+        "Visitante": 2.7
+      },
+      "1X2_modelo": {
+        "Local": 41.2,
+        "Empate": 26.16,
+        "Visitante": 32.64
+      },
+      "ambos_marcan": {
+        "resultado": "SI",
+        "probabilidad": 52.73
+      },
+      "recomendacion": {
+        "codigo": "1",
+        "nombre": "Felgueiras Sub-23",
+        "score": 44.31,
+        "probabilidad_modelo": 41.2,
+        "cuota": 2.25,
+        "marcadores": [
+          {
+            "marcador": "1-1",
+            "probabilidad": 12.71
+          },
+          {
+            "marcador": "1-0",
+            "probabilidad": 11.45
+          }
+        ]
+      },
+      "ranking": 74
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/hyde-tASwrtaa/quorn-Spw0VSIP/?mid=2JUctwGD",
@@ -2582,50 +3227,7 @@
           }
         ]
       },
-      "ranking": 60
-    },
-    {
-      "partido_id": "https://www.flashscore.co/partido/futbol/brown-adrogue-OdzWxYEj/dock-sud-riMKwgk9/?mid=QyFzGvpf",
-      "fecha": "2026-10-12",
-      "hora": "13:00",
-      "pais": "ARGENTINA",
-      "liga": "PRIMERA B - JORNADA 39",
-      "local": "Brown Adrogué",
-      "visitante": "Dock Sud",
-      "logo_local": "https://static.flashscore.com/res/image/data/SrDKIyXg-INQSOKGE.png",
-      "logo_visitante": "https://static.flashscore.com/res/image/data/YmDjCchl-CSjW0KRF.png",
-      "cuotas": {
-        "Local": 2.33,
-        "Empate": 2.8,
-        "Visitante": 3.2
-      },
-      "1X2_modelo": {
-        "Local": 42.38,
-        "Empate": 27.51,
-        "Visitante": 30.11
-      },
-      "ambos_marcan": {
-        "resultado": "NO",
-        "probabilidad": 43.05
-      },
-      "recomendacion": {
-        "codigo": "1",
-        "nombre": "Brown Adrogué",
-        "score": 44.04,
-        "probabilidad_modelo": 42.38,
-        "cuota": 2.33,
-        "marcadores": [
-          {
-            "marcador": "1-1",
-            "probabilidad": 11.56
-          },
-          {
-            "marcador": "1-0",
-            "probabilidad": 10.91
-          }
-        ]
-      },
-      "ranking": 61
+      "ranking": 75
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/al-gharafa-SQrTeoKd/esteghlal-KAtu9Aoa/?mid=42Ztj6QN",
@@ -2639,8 +3241,8 @@
       "logo_visitante": "https://static.flashscore.com/res/image/data/W09efGDa-CCbRtrUN.png",
       "cuotas": {
         "Local": 2.78,
-        "Empate": 3.6,
-        "Visitante": 2.32
+        "Empate": 3.55,
+        "Visitante": 2.34
       },
       "1X2_modelo": {
         "Local": 37.69,
@@ -2668,7 +3270,7 @@
           }
         ]
       },
-      "ranking": 62
+      "ranking": 76
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/nk-koprivnica-IsETHNuC/zapresic-zJX3Z3Da/?mid=dfirWYcm",
@@ -2711,7 +3313,7 @@
           }
         ]
       },
-      "ranking": 63
+      "ranking": 77
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/lechia-GGLmkiK8/s-rzeszow-IkpY1q92/?mid=xzQzA1xf",
@@ -2754,7 +3356,7 @@
           }
         ]
       },
-      "ranking": 64
+      "ranking": 78
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/alfreton-Myjs3vp6/ashton-united-IJk20hia/?mid=KvZAVL1e",
@@ -2768,7 +3370,7 @@
       "logo_visitante": "https://static.flashscore.com/res/image/data/j796H5xS-v3IrvoKp.png",
       "cuotas": {
         "Local": 2.65,
-        "Empate": 3.55,
+        "Empate": 3.5,
         "Visitante": 2.32
       },
       "1X2_modelo": {
@@ -2783,7 +3385,7 @@
       "recomendacion": {
         "codigo": "2",
         "nombre": "Alfreton",
-        "score": 43.63,
+        "score": 43.66,
         "probabilidad_modelo": 40.0,
         "cuota": 2.32,
         "marcadores": [
@@ -2797,7 +3399,50 @@
           }
         ]
       },
-      "ranking": 65
+      "ranking": 79
+    },
+    {
+      "partido_id": "https://www.flashscore.co/partido/futbol/amazulu-4jYGJsW7/durban-city-jVI6SFig/?mid=pdsa494d",
+      "fecha": "2026-10-13",
+      "hora": "12:30",
+      "pais": "SUDÁFRICA",
+      "liga": "BETWAY PREMIERSHIP - JORNADA 8",
+      "local": "Durban City",
+      "visitante": "AmaZulu",
+      "logo_local": "https://static.flashscore.com/res/image/data/S0fOSrYg-6RTAg0C5.png",
+      "logo_visitante": "https://static.flashscore.com/res/image/data/GrvbGkh5-6Fg6xWE0.png",
+      "cuotas": {
+        "Local": 2.56,
+        "Empate": 3.05,
+        "Visitante": 2.85
+      },
+      "1X2_modelo": {
+        "Local": 37.92,
+        "Empate": 29.48,
+        "Visitante": 32.6
+      },
+      "ambos_marcan": {
+        "resultado": "NO",
+        "probabilidad": 47.21
+      },
+      "recomendacion": {
+        "codigo": "1",
+        "nombre": "Durban City",
+        "score": 43.61,
+        "probabilidad_modelo": 37.92,
+        "cuota": 2.56,
+        "marcadores": [
+          {
+            "marcador": "1-1",
+            "probabilidad": 12.97
+          },
+          {
+            "marcador": "1-0",
+            "probabilidad": 12.07
+          }
+        ]
+      },
+      "ranking": 80
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/dusseldorf-ne1oL3y7/munster-zedZaSL7/?mid=YqEYpIVr",
@@ -2826,7 +3471,7 @@
       "recomendacion": {
         "codigo": "2",
         "nombre": "Fortuna Düsseldorf",
-        "score": 43.51,
+        "score": 43.52,
         "probabilidad_modelo": 41.41,
         "cuota": 2.33,
         "marcadores": [
@@ -2840,93 +3485,93 @@
           }
         ]
       },
-      "ranking": 66
+      "ranking": 81
     },
     {
-      "partido_id": "https://www.flashscore.co/partido/futbol/deportivo-paraguayo-fkgUnmdA/justo-jose-de-urquiza-xKMmoM5g/?mid=zmKaGP23",
+      "partido_id": "https://www.flashscore.co/partido/futbol/fk-auda-riga-n9K4jY6A/fk-liepaja-nym30tD6/?mid=dvTbUepA",
       "fecha": "2026-10-12",
-      "hora": "13:00",
-      "pais": "ARGENTINA",
-      "liga": "PRIMERA C - JORNADA 32",
-      "local": "Justo José de Urquiza",
-      "visitante": "Deportivo Paraguayo",
-      "logo_local": "https://static.flashscore.com/res/image/data/rgqdI5wS-jJkz0vsM.png",
-      "logo_visitante": "https://static.flashscore.com/res/image/data/AT4LYsCa-h6r0oH6f.png",
+      "hora": "10:00",
+      "pais": "LETONIA",
+      "liga": "VIRSLIGA - JORNADA 32",
+      "local": "FK Liepaja",
+      "visitante": "Auda",
+      "logo_local": "https://static.flashscore.com/res/image/data/fXKTrpXg-2HZIU7mj.png",
+      "logo_visitante": "https://static.flashscore.com/res/image/data/Qe2AFZjl-hftqBi79.png",
       "cuotas": {
-        "Local": 2.3,
-        "Empate": 2.95,
-        "Visitante": 3.1
+        "Local": 2.25,
+        "Empate": 3.5,
+        "Visitante": 2.75
       },
       "1X2_modelo": {
-        "Local": 43.02,
-        "Empate": 28.41,
-        "Visitante": 28.57
-      },
-      "ambos_marcan": {
-        "resultado": "NO",
-        "probabilidad": 49.29
-      },
-      "recomendacion": {
-        "codigo": "1",
-        "nombre": "Justo José de Urquiza",
-        "score": 43.31,
-        "probabilidad_modelo": 43.02,
-        "cuota": 2.3,
-        "marcadores": [
-          {
-            "marcador": "1-1",
-            "probabilidad": 11.7
-          },
-          {
-            "marcador": "1-0",
-            "probabilidad": 11.51
-          }
-        ]
-      },
-      "ranking": 67
-    },
-    {
-      "partido_id": "https://www.flashscore.co/partido/futbol/albirex-niigata-WvTfrqEn/saitama-AFqGusb5/?mid=EPl5gxOH",
-      "fecha": "2026-10-12",
-      "hora": "00:00",
-      "pais": "JAPÓN",
-      "liga": "WE LEAGUE CUP WOMEN - JORNADA 6",
-      "local": "Saitama F",
-      "visitante": "Albirex Niigata F",
-      "logo_local": "https://static.flashscore.com/res/image/data/Q3Gw8Pil-0YYTWBg0.png",
-      "logo_visitante": "https://static.flashscore.com/res/image/data/xAJrFrAr-Ig33RkwI.png",
-      "cuotas": {
-        "Local": 2.4,
-        "Empate": 3.15,
-        "Visitante": 2.65
-      },
-      "1X2_modelo": {
-        "Local": 38.55,
-        "Empate": 27.65,
-        "Visitante": 33.81
+        "Local": 35.91,
+        "Empate": 25.62,
+        "Visitante": 38.47
       },
       "ambos_marcan": {
         "resultado": "SI",
-        "probabilidad": 61.71
+        "probabilidad": 56.99
       },
       "recomendacion": {
-        "codigo": "1",
-        "nombre": "Saitama F",
-        "score": 43.13,
-        "probabilidad_modelo": 38.55,
-        "cuota": 2.4,
+        "codigo": "2",
+        "nombre": "Auda",
+        "score": 43.49,
+        "probabilidad_modelo": 38.47,
+        "cuota": 2.75,
         "marcadores": [
           {
             "marcador": "1-1",
-            "probabilidad": 12.35
+            "probabilidad": 11.04
           },
           {
-            "marcador": "1-0",
-            "probabilidad": 10.4
+            "marcador": "1-2",
+            "probabilidad": 8.46
           }
         ]
       },
-      "ranking": 68
+      "ranking": 82
+    },
+    {
+      "partido_id": "https://www.flashscore.co/partido/futbol/real-pilar-OblCWSam/uai-urquiza-Qyshek3E/?mid=C6Qj8mro",
+      "fecha": "2026-10-12",
+      "hora": "13:00",
+      "pais": "ARGENTINA",
+      "liga": "PRIMERA B - JORNADA 39",
+      "local": "UAI Urquiza",
+      "visitante": "Real Pilar",
+      "logo_local": "https://static.flashscore.com/res/image/data/Od6oeJdM-djNTlTSb.png",
+      "logo_visitante": "https://static.flashscore.com/res/image/data/O4JmsGYA-xfOdFwUK.png",
+      "cuotas": {
+        "Local": 2.75,
+        "Empate": 3.0,
+        "Visitante": 2.5
+      },
+      "1X2_modelo": {
+        "Local": 29.44,
+        "Empate": 28.33,
+        "Visitante": 42.23
+      },
+      "ambos_marcan": {
+        "resultado": "NO",
+        "probabilidad": 45.64
+      },
+      "recomendacion": {
+        "codigo": "2",
+        "nombre": "Real Pilar",
+        "score": 43.22,
+        "probabilidad_modelo": 42.23,
+        "cuota": 2.5,
+        "marcadores": [
+          {
+            "marcador": "1-1",
+            "probabilidad": 11.87
+          },
+          {
+            "marcador": "0-1",
+            "probabilidad": 11.02
+          }
+        ]
+      },
+      "ranking": 83
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/gnistan-Aa28K98n/vps-8GveH5dA/?mid=v9DBET5t",
@@ -2939,9 +3584,9 @@
       "logo_local": "https://static.flashscore.com/res/image/data/bcIjLOZA-WYtEUtB2.png",
       "logo_visitante": "https://static.flashscore.com/res/image/data/0Q4znwFG-KQVDA2o1.png",
       "cuotas": {
-        "Local": 2.4,
-        "Empate": 3.35,
-        "Visitante": 2.68
+        "Local": 2.44,
+        "Empate": 3.4,
+        "Visitante": 2.6
       },
       "1X2_modelo": {
         "Local": 39.61,
@@ -2955,9 +3600,9 @@
       "recomendacion": {
         "codigo": "1",
         "nombre": "VPS",
-        "score": 43.05,
+        "score": 43.15,
         "probabilidad_modelo": 39.61,
-        "cuota": 2.4,
+        "cuota": 2.44,
         "marcadores": [
           {
             "marcador": "1-1",
@@ -2969,93 +3614,136 @@
           }
         ]
       },
-      "ranking": 69
+      "ranking": 84
     },
     {
-      "partido_id": "https://www.flashscore.co/partido/futbol/constantine-nBionu2l/khenchela-lYuJtBj9/?mid=tf7LAOHs",
-      "fecha": "2026-10-12",
+      "partido_id": "https://www.flashscore.co/partido/futbol/beni-thour-8AGnSASs/irb-nezla-hKZ3dwsn/?mid=Kja2GtiR",
+      "fecha": "2026-10-13",
       "hora": "09:00",
       "pais": "ARGELIA",
-      "liga": "LIGUE 1 - JORNADA 5",
-      "local": "Khenchela",
-      "visitante": "Constantine",
-      "logo_local": "https://static.flashscore.com/res/image/data/WlYP0PzB-YJd3IARM.png",
-      "logo_visitante": "https://static.flashscore.com/res/image/data/xztLXXwS-z564LBUI.png",
+      "liga": "LIGUE 2 - JORNADA 5",
+      "local": "CR Beni Thour",
+      "visitante": "Nezla",
+      "logo_local": "https://static.flashscore.com/res/image/data/tzVK3AFG-WS7MAE04.png",
+      "logo_visitante": "https://static.flashscore.com/res/image/data/hlH3V5g5-zTrhxUZt.png",
       "cuotas": {
-        "Local": 2.63,
-        "Empate": 2.95,
-        "Visitante": 2.63
+        "Local": 2.57,
+        "Empate": 2.9,
+        "Visitante": 2.65
       },
       "1X2_modelo": {
-        "Local": 37.13,
-        "Empate": 28.13,
-        "Visitante": 34.74
+        "Local": 35.5,
+        "Empate": 30.57,
+        "Visitante": 33.93
       },
       "ambos_marcan": {
-        "resultado": "SI",
-        "probabilidad": 58.4
+        "resultado": "NO",
+        "probabilidad": 46.7
       },
       "recomendacion": {
         "codigo": "1",
-        "nombre": "Khenchela",
-        "score": 42.84,
-        "probabilidad_modelo": 37.13,
-        "cuota": 2.63,
+        "nombre": "CR Beni Thour",
+        "score": 42.88,
+        "probabilidad_modelo": 35.5,
+        "cuota": 2.57,
         "marcadores": [
           {
             "marcador": "1-1",
-            "probabilidad": 11.57
+            "probabilidad": 12.95
           },
           {
-            "marcador": "2-1",
-            "probabilidad": 8.48
+            "marcador": "1-0",
+            "probabilidad": 12.77
           }
         ]
       },
-      "ranking": 70
+      "ranking": 85
     },
     {
-      "partido_id": "https://www.flashscore.co/partido/futbol/duisburg-2s7huW4R/saarbrucken-fLbhmJ5l/?mid=OlDTgDED",
-      "fecha": "2026-10-13",
-      "hora": "12:00",
-      "pais": "ALEMANIA",
-      "liga": "3. LIGA - JORNADA 9",
-      "local": "Saarbrücken",
-      "visitante": "Duisburgo",
-      "logo_local": "https://static.flashscore.com/res/image/data/O6Ew3GBr-rcKPySRa.png",
-      "logo_visitante": "https://static.flashscore.com/res/image/data/SA8VA2eM-llQ95ECr.png",
+      "partido_id": "https://www.flashscore.co/partido/futbol/brown-adrogue-OdzWxYEj/dock-sud-riMKwgk9/?mid=QyFzGvpf",
+      "fecha": "2026-10-12",
+      "hora": "13:00",
+      "pais": "ARGENTINA",
+      "liga": "PRIMERA B - JORNADA 39",
+      "local": "Brown Adrogué",
+      "visitante": "Dock Sud",
+      "logo_local": "https://static.flashscore.com/res/image/data/SrDKIyXg-INQSOKGE.png",
+      "logo_visitante": "https://static.flashscore.com/res/image/data/YmDjCchl-CSjW0KRF.png",
       "cuotas": {
-        "Local": 2.5,
-        "Empate": 3.65,
-        "Visitante": 2.5
+        "Local": 2.15,
+        "Empate": 2.8,
+        "Visitante": 3.6
       },
       "1X2_modelo": {
-        "Local": 38.07,
-        "Empate": 24.25,
-        "Visitante": 37.68
+        "Local": 42.38,
+        "Empate": 27.51,
+        "Visitante": 30.11
       },
       "ambos_marcan": {
-        "resultado": "SI",
-        "probabilidad": 73.22
+        "resultado": "NO",
+        "probabilidad": 43.05
       },
       "recomendacion": {
         "codigo": "1",
-        "nombre": "Saarbrücken",
-        "score": 42.66,
-        "probabilidad_modelo": 38.07,
-        "cuota": 2.5,
+        "nombre": "Brown Adrogué",
+        "score": 42.84,
+        "probabilidad_modelo": 42.38,
+        "cuota": 2.15,
         "marcadores": [
           {
             "marcador": "1-1",
-            "probabilidad": 9.19
+            "probabilidad": 11.56
           },
           {
-            "marcador": "2-1",
-            "probabilidad": 7.81
+            "marcador": "1-0",
+            "probabilidad": 10.91
           }
         ]
       },
-      "ranking": 71
+      "ranking": 86
+    },
+    {
+      "partido_id": "https://www.flashscore.co/partido/futbol/llacuabamba-xMtV55H9/sport-huancayo-vVEKzkHf/?mid=0OmpDIDl",
+      "fecha": "2026-10-12",
+      "hora": "13:15",
+      "pais": "PERÚ",
+      "liga": "LIGA 2 - GRUPO ASCENSO - JORNADA 3",
+      "local": "Sport Huancayo 2",
+      "visitante": "Llacuabamba",
+      "logo_local": "https://static.flashscore.com/res/image/data/fVMhMof5-r9S6tD6O.png",
+      "logo_visitante": "https://static.flashscore.com/res/image/data/MsxmuUkl-GdPMFPFs.png",
+      "cuotas": {
+        "Local": 2.25,
+        "Empate": 3.1,
+        "Visitante": 2.85
+      },
+      "1X2_modelo": {
+        "Local": 41.2,
+        "Empate": 27.08,
+        "Visitante": 31.72
+      },
+      "ambos_marcan": {
+        "resultado": "NO",
+        "probabilidad": 39.65
+      },
+      "recomendacion": {
+        "codigo": "1",
+        "nombre": "Sport Huancayo 2",
+        "score": 42.8,
+        "probabilidad_modelo": 41.2,
+        "cuota": 2.25,
+        "marcadores": [
+          {
+            "marcador": "1-1",
+            "probabilidad": 11.11
+          },
+          {
+            "marcador": "1-0",
+            "probabilidad": 9.42
+          }
+        ]
+      },
+      "ranking": 87
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/curzon-ashton-ptSq4fq3/warrington-rylands-ELwsO8Ms/?mid=YLBNdb0f",
@@ -3084,7 +3772,7 @@
       "recomendacion": {
         "codigo": "2",
         "nombre": "Curzon Ashton",
-        "score": 42.64,
+        "score": 42.65,
         "probabilidad_modelo": 38.67,
         "cuota": 2.42,
         "marcadores": [
@@ -3098,7 +3786,136 @@
           }
         ]
       },
-      "ranking": 72
+      "ranking": 88
+    },
+    {
+      "partido_id": "https://www.flashscore.co/partido/futbol/duisburg-2s7huW4R/saarbrucken-fLbhmJ5l/?mid=OlDTgDED",
+      "fecha": "2026-10-13",
+      "hora": "12:00",
+      "pais": "ALEMANIA",
+      "liga": "3. LIGA - JORNADA 9",
+      "local": "Saarbrücken",
+      "visitante": "Duisburgo",
+      "logo_local": "https://static.flashscore.com/res/image/data/O6Ew3GBr-rcKPySRa.png",
+      "logo_visitante": "https://static.flashscore.com/res/image/data/SA8VA2eM-llQ95ECr.png",
+      "cuotas": {
+        "Local": 2.5,
+        "Empate": 3.65,
+        "Visitante": 2.5
+      },
+      "1X2_modelo": {
+        "Local": 38.07,
+        "Empate": 24.25,
+        "Visitante": 37.68
+      },
+      "ambos_marcan": {
+        "resultado": "SI",
+        "probabilidad": 73.22
+      },
+      "recomendacion": {
+        "codigo": "1",
+        "nombre": "Saarbrücken",
+        "score": 42.64,
+        "probabilidad_modelo": 38.07,
+        "cuota": 2.5,
+        "marcadores": [
+          {
+            "marcador": "1-1",
+            "probabilidad": 9.19
+          },
+          {
+            "marcador": "2-1",
+            "probabilidad": 7.81
+          }
+        ]
+      },
+      "ranking": 89
+    },
+    {
+      "partido_id": "https://www.flashscore.co/partido/futbol/st-louis-city-4r4sKQud/vancouver-whitecaps-K2dlua5N/?mid=Crpmrlk2",
+      "fecha": "2026-10-14",
+      "hora": "19:30",
+      "pais": "ESTADOS UNIDOS",
+      "liga": "MLS",
+      "local": "St. Louis City",
+      "visitante": "Vancouver Whitecaps",
+      "logo_local": "https://static.flashscore.com/res/image/data/fZQ24ABr-jmLPWdtA.png",
+      "logo_visitante": "https://static.flashscore.com/res/image/data/nXTMece5-nJrkMuTE.png",
+      "cuotas": {
+        "Local": 2.42,
+        "Empate": 3.8,
+        "Visitante": 2.58
+      },
+      "1X2_modelo": {
+        "Local": 37.41,
+        "Empate": 23.51,
+        "Visitante": 39.07
+      },
+      "ambos_marcan": {
+        "resultado": "SI",
+        "probabilidad": 72.28
+      },
+      "recomendacion": {
+        "codigo": "2",
+        "nombre": "Vancouver Whitecaps",
+        "score": 42.63,
+        "probabilidad_modelo": 39.07,
+        "cuota": 2.58,
+        "marcadores": [
+          {
+            "marcador": "1-1",
+            "probabilidad": 9.48
+          },
+          {
+            "marcador": "1-2",
+            "probabilidad": 8.13
+          }
+        ]
+      },
+      "ranking": 90
+    },
+    {
+      "partido_id": "https://www.flashscore.co/partido/futbol/los-andes-QyXHcisH/racing-de-cordoba-W08WZHui/?mid=lrdM2CHO",
+      "fecha": "2026-10-12",
+      "hora": "15:00",
+      "pais": "ARGENTINA",
+      "liga": "PRIMERA NACIONAL - JORNADA 33",
+      "local": "Racing de Córdoba",
+      "visitante": "Los Andes",
+      "logo_local": "https://static.flashscore.com/res/image/data/rsmlKZg5-EmXlTVY2.png",
+      "logo_visitante": "https://static.flashscore.com/res/image/data/2ekrVQYA-8OsOmX8t.png",
+      "cuotas": {
+        "Local": 2.3,
+        "Empate": 2.75,
+        "Visitante": 3.35
+      },
+      "1X2_modelo": {
+        "Local": 43.93,
+        "Empate": 29.65,
+        "Visitante": 26.42
+      },
+      "ambos_marcan": {
+        "resultado": "SI",
+        "probabilidad": 52.67
+      },
+      "recomendacion": {
+        "codigo": "1",
+        "nombre": "Racing de Córdoba",
+        "score": 42.57,
+        "probabilidad_modelo": 43.93,
+        "cuota": 2.3,
+        "marcadores": [
+          {
+            "marcador": "1-0",
+            "probabilidad": 12.24
+          },
+          {
+            "marcador": "1-1",
+            "probabilidad": 12.23
+          }
+        ]
+      },
+      "ranking": 91
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/bohemians-1905-fuXqHnxa/mlada-boleslav-0f7GpAMu/?mid=YF0FAQZa",
@@ -3141,93 +3958,93 @@
           }
         ]
       },
-      "ranking": 73
+      "ranking": 92
     },
     {
-      "partido_id": "https://www.flashscore.co/partido/futbol/aachen-j3PKcB4E/wehen-ObxFt3lm/?mid=KK2z5wNE",
-      "fecha": "2026-10-14",
-      "hora": "12:00",
-      "pais": "ALEMANIA",
-      "liga": "3. LIGA - JORNADA 9",
-      "local": "Wehen",
-      "visitante": "Aachen",
-      "logo_local": "https://static.flashscore.com/res/image/data/zNBt0YeM-QmM3Kdme.png",
-      "logo_visitante": "https://static.flashscore.com/res/image/data/84p7N5Fa-4hz8si14.png",
+      "partido_id": "https://www.flashscore.co/partido/futbol/motor-lublin-IoLk2VlL/radomiak-radom-zD5nYhAT/?mid=WhRI85DU",
+      "fecha": "2026-10-12",
+      "hora": "11:00",
+      "pais": "POLONIA",
+      "liga": "EKSTRAKLASA - JORNADA 10",
+      "local": "Radomiak Radom",
+      "visitante": "Motor Lublin",
+      "logo_local": "https://static.flashscore.com/res/image/data/A9i6w2hl-A9opURNC.png",
+      "logo_visitante": "https://static.flashscore.com/res/image/data/AmOR6yvS-joADG9On.png",
       "cuotas": {
         "Local": 2.45,
-        "Empate": 3.6,
-        "Visitante": 2.6
+        "Empate": 3.5,
+        "Visitante": 2.72
       },
       "1X2_modelo": {
-        "Local": 38.36,
-        "Empate": 25.48,
-        "Visitante": 36.16
+        "Local": 42.92,
+        "Empate": 25.26,
+        "Visitante": 31.82
       },
       "ambos_marcan": {
         "resultado": "SI",
-        "probabilidad": 58.0
+        "probabilidad": 62.26
       },
       "recomendacion": {
         "codigo": "1",
-        "nombre": "Wehen",
-        "score": 41.82,
-        "probabilidad_modelo": 38.36,
+        "nombre": "Radomiak Radom",
+        "score": 42.05,
+        "probabilidad_modelo": 42.92,
         "cuota": 2.45,
         "marcadores": [
           {
             "marcador": "1-1",
-            "probabilidad": 11.12
+            "probabilidad": 10.92
           },
           {
-            "marcador": "1-0",
-            "probabilidad": 8.6
+            "marcador": "2-1",
+            "probabilidad": 8.7
           }
         ]
       },
-      "ranking": 74
+      "ranking": 93
     },
     {
-      "partido_id": "https://www.flashscore.co/partido/futbol/los-andes-QyXHcisH/racing-de-cordoba-W08WZHui/?mid=lrdM2CHO",
+      "partido_id": "https://www.flashscore.co/partido/futbol/rapid-bucarest-YFCpigVG/u-cluj-Us6gkXaT/?mid=nJ4pyTJa",
       "fecha": "2026-10-12",
-      "hora": "15:00",
-      "pais": "ARGENTINA",
-      "liga": "PRIMERA NACIONAL - JORNADA 33",
-      "local": "Racing de Córdoba",
-      "visitante": "Los Andes",
-      "logo_local": "https://static.flashscore.com/res/image/data/rsmlKZg5-EmXlTVY2.png",
-      "logo_visitante": "https://static.flashscore.com/res/image/data/2ekrVQYA-8OsOmX8t.png",
+      "hora": "13:00",
+      "pais": "RUMANÍA",
+      "liga": "SUPERLIGA - JORNADA 11",
+      "local": "U. Cluj",
+      "visitante": "Rapid Bucarest",
+      "logo_local": "https://static.flashscore.com/res/image/data/IZxpvYFG-v1mKniN8.png",
+      "logo_visitante": "https://static.flashscore.com/res/image/data/xGFfaiWg-8vn2oaqs.png",
       "cuotas": {
-        "Local": 2.25,
-        "Empate": 2.8,
-        "Visitante": 3.35
+        "Local": 2.68,
+        "Empate": 3.3,
+        "Visitante": 2.42
       },
       "1X2_modelo": {
-        "Local": 43.93,
-        "Empate": 29.65,
-        "Visitante": 26.42
+        "Local": 36.35,
+        "Empate": 27.38,
+        "Visitante": 36.27
       },
       "ambos_marcan": {
         "resultado": "SI",
-        "probabilidad": 52.67
+        "probabilidad": 55.27
       },
       "recomendacion": {
         "codigo": "1",
-        "nombre": "Racing de Córdoba",
-        "score": 41.78,
-        "probabilidad_modelo": 43.93,
-        "cuota": 2.25,
+        "nombre": "U. Cluj",
+        "score": 41.73,
+        "probabilidad_modelo": 36.35,
+        "cuota": 2.68,
         "marcadores": [
           {
-            "marcador": "1-0",
-            "probabilidad": 12.24
+            "marcador": "1-1",
+            "probabilidad": 12.29
           },
           {
-            "marcador": "1-1",
-            "probabilidad": 12.23
+            "marcador": "1-0",
+            "probabilidad": 9.48
           }
         ]
       },
-      "ranking": 75
+      "ranking": 94
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/mladost-lucani-ER92eDNF/ofk-beograd-Imdxh57l/?mid=OWsvaDo4",
@@ -3270,93 +4087,93 @@
           }
         ]
       },
-      "ranking": 76
+      "ranking": 95
     },
     {
-      "partido_id": "https://www.flashscore.co/partido/futbol/motor-lublin-IoLk2VlL/radomiak-radom-zD5nYhAT/?mid=WhRI85DU",
-      "fecha": "2026-10-12",
-      "hora": "11:00",
-      "pais": "POLONIA",
-      "liga": "EKSTRAKLASA - JORNADA 10",
-      "local": "Radomiak Radom",
-      "visitante": "Motor Lublin",
-      "logo_local": "https://static.flashscore.com/res/image/data/A9i6w2hl-A9opURNC.png",
-      "logo_visitante": "https://static.flashscore.com/res/image/data/AmOR6yvS-joADG9On.png",
+      "partido_id": "https://www.flashscore.co/partido/futbol/aachen-j3PKcB4E/wehen-ObxFt3lm/?mid=KK2z5wNE",
+      "fecha": "2026-10-14",
+      "hora": "12:00",
+      "pais": "ALEMANIA",
+      "liga": "3. LIGA - JORNADA 9",
+      "local": "Wehen",
+      "visitante": "Aachen",
+      "logo_local": "https://static.flashscore.com/res/image/data/zNBt0YeM-QmM3Kdme.png",
+      "logo_visitante": "https://static.flashscore.com/res/image/data/84p7N5Fa-4hz8si14.png",
       "cuotas": {
-        "Local": 2.32,
-        "Empate": 3.55,
-        "Visitante": 2.86
+        "Local": 2.33,
+        "Empate": 3.6,
+        "Visitante": 2.75
       },
       "1X2_modelo": {
-        "Local": 42.92,
-        "Empate": 25.26,
-        "Visitante": 31.82
+        "Local": 38.36,
+        "Empate": 25.48,
+        "Visitante": 36.16
       },
       "ambos_marcan": {
         "resultado": "SI",
-        "probabilidad": 62.26
+        "probabilidad": 58.0
       },
       "recomendacion": {
         "codigo": "1",
-        "nombre": "Radomiak Radom",
-        "score": 41.7,
-        "probabilidad_modelo": 42.92,
-        "cuota": 2.32,
+        "nombre": "Wehen",
+        "score": 41.49,
+        "probabilidad_modelo": 38.36,
+        "cuota": 2.33,
         "marcadores": [
           {
             "marcador": "1-1",
-            "probabilidad": 10.92
-          },
-          {
-            "marcador": "2-1",
-            "probabilidad": 8.7
-          }
-        ]
-      },
-      "ranking": 77
-    },
-    {
-      "partido_id": "https://www.flashscore.co/partido/futbol/rapid-bucarest-YFCpigVG/u-cluj-Us6gkXaT/?mid=nJ4pyTJa",
-      "fecha": "2026-10-12",
-      "hora": "13:00",
-      "pais": "RUMANÍA",
-      "liga": "SUPERLIGA - JORNADA 11",
-      "local": "U. Cluj",
-      "visitante": "Rapid Bucarest",
-      "logo_local": "https://static.flashscore.com/res/image/data/IZxpvYFG-v1mKniN8.png",
-      "logo_visitante": "https://static.flashscore.com/res/image/data/xGFfaiWg-8vn2oaqs.png",
-      "cuotas": {
-        "Local": 2.54,
-        "Empate": 3.3,
-        "Visitante": 2.54
-      },
-      "1X2_modelo": {
-        "Local": 36.35,
-        "Empate": 27.38,
-        "Visitante": 36.27
-      },
-      "ambos_marcan": {
-        "resultado": "SI",
-        "probabilidad": 55.27
-      },
-      "recomendacion": {
-        "codigo": "1",
-        "nombre": "U. Cluj",
-        "score": 41.42,
-        "probabilidad_modelo": 36.35,
-        "cuota": 2.54,
-        "marcadores": [
-          {
-            "marcador": "1-1",
-            "probabilidad": 12.29
+            "probabilidad": 11.12
           },
           {
             "marcador": "1-0",
-            "probabilidad": 9.48
+            "probabilidad": 8.6
           }
         ]
       },
-      "ranking": 78
+      "ranking": 96
+    },
+    {
+      "partido_id": "https://www.flashscore.co/partido/futbol/bromley-fXjH92io/coventry-2q0arXC4/?mid=McrTlXsS",
+      "fecha": "2026-10-13",
+      "hora": "13:00",
+      "pais": "INGLATERRA",
+      "liga": "PREMIER LEAGUE CUP",
+      "local": "Bromley Sub-21",
+      "visitante": "Coventry Sub-21",
+      "logo_local": "https://static.flashscore.com/res/image/data/CdhzDPeM-4A5eQGjj.png",
+      "logo_visitante": "https://static.flashscore.com/res/image/data/MwXk82Ar-84HsyZy5.png",
+      "cuotas": {
+        "Local": 2.3,
+        "Empate": 3.8,
+        "Visitante": 2.57
+      },
+      "1X2_modelo": {
+        "Local": 41.41,
+        "Empate": 23.67,
+        "Visitante": 34.92
+      },
+      "ambos_marcan": {
+        "resultado": "SI",
+        "probabilidad": 65.28
+      },
+      "recomendacion": {
+        "codigo": "1",
+        "nombre": "Bromley Sub-21",
+        "score": 41.48,
+        "probabilidad_modelo": 41.41,
+        "cuota": 2.3,
+        "marcadores": [
+          {
+            "marcador": "1-1",
+            "probabilidad": 10.07
+          },
+          {
+            "marcador": "2-1",
+            "probabilidad": 8.53
+          }
+        ]
+      },
+      "ranking": 97
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/gzira-vNKKFgsl/mosta-fc-htCyNMwL/?mid=0GB4posp",
@@ -3385,7 +4202,7 @@
       "recomendacion": {
         "codigo": "1",
         "nombre": "Gzira",
-        "score": 41.4,
+        "score": 41.37,
         "probabilidad_modelo": 37.59,
         "cuota": 2.45,
         "marcadores": [
@@ -3399,50 +4216,7 @@
           }
         ]
       },
-      "ranking": 79
-    },
-    {
-      "partido_id": "https://www.flashscore.co/partido/futbol/llacuabamba-xMtV55H9/sport-huancayo-vVEKzkHf/?mid=0OmpDIDl",
-      "fecha": "2026-10-12",
-      "hora": "13:15",
-      "pais": "PERÚ",
-      "liga": "LIGA 2 - GRUPO ASCENSO - JORNADA 3",
-      "local": "Sport Huancayo 2",
-      "visitante": "Llacuabamba",
-      "logo_local": "https://static.flashscore.com/res/image/data/fVMhMof5-r9S6tD6O.png",
-      "logo_visitante": "https://static.flashscore.com/res/image/data/MsxmuUkl-GdPMFPFs.png",
-      "cuotas": {
-        "Local": 2.3,
-        "Empate": 3.1,
-        "Visitante": 2.87
-      },
-      "1X2_modelo": {
-        "Local": 41.2,
-        "Empate": 27.08,
-        "Visitante": 31.72
-      },
-      "ambos_marcan": {
-        "resultado": "NO",
-        "probabilidad": 39.65
-      },
-      "recomendacion": {
-        "codigo": "1",
-        "nombre": "Sport Huancayo 2",
-        "score": 41.33,
-        "probabilidad_modelo": 41.2,
-        "cuota": 2.3,
-        "marcadores": [
-          {
-            "marcador": "1-1",
-            "probabilidad": 11.11
-          },
-          {
-            "marcador": "1-0",
-            "probabilidad": 9.42
-          }
-        ]
-      },
-      "ranking": 80
+      "ranking": 98
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/bury-town-AgOSFQbG/needham-market-OpxB9Oyp/?mid=dU5RkJpQ",
@@ -3485,7 +4259,7 @@
           }
         ]
       },
-      "ranking": 81
+      "ranking": 99
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/petrojet-0ImETQmG/wadi-degla-8hYMzzVB/?mid=GxcNN5JN",
@@ -3514,7 +4288,7 @@
       "recomendacion": {
         "codigo": "2",
         "nombre": "Wadi Degla",
-        "score": 41.09,
+        "score": 41.1,
         "probabilidad_modelo": 39.42,
         "cuota": 2.35,
         "marcadores": [
@@ -3528,93 +4302,93 @@
           }
         ]
       },
-      "ranking": 82
+      "ranking": 100
     },
     {
-      "partido_id": "https://www.flashscore.co/partido/futbol/mes-b7KrS94Q/mes-rafsanjan-jNQqs6qN/?mid=vsBhX6me",
-      "fecha": "2026-10-12",
-      "hora": "06:30",
-      "pais": "IRÁN",
-      "liga": "AZADEGAN LEAGUE - JORNADA 5",
-      "local": "Mes Kerman",
-      "visitante": "Mes Rafsanjan",
-      "logo_local": "https://static.flashscore.com/res/image/data/h0DNJJh5-6LYZkudJ.png",
-      "logo_visitante": "https://static.flashscore.com/res/image/data/r5ScdrFG-ptFFGDID.png",
+      "partido_id": "https://www.flashscore.co/partido/futbol/aldershot-0IDCJLlH/norwich-b3ceuJN9/?mid=EVw8lURq",
+      "fecha": "2026-10-13",
+      "hora": "13:45",
+      "pais": "INGLATERRA",
+      "liga": "NATIONAL LEAGUE CUP",
+      "local": "Aldershot",
+      "visitante": "Norwich Sub-21",
+      "logo_local": "https://static.flashscore.com/res/image/data/UeHlxkwS-OhwI8cNB.png",
+      "logo_visitante": "https://static.flashscore.com/res/image/data/d4NB6IWg-lxOb2kzm.png",
       "cuotas": {
-        "Local": 2.63,
-        "Empate": 2.65,
-        "Visitante": 2.8
+        "Local": 2.4,
+        "Empate": 3.75,
+        "Visitante": 2.4
       },
       "1X2_modelo": {
-        "Local": 36.5,
-        "Empate": 30.76,
-        "Visitante": 32.74
-      },
-      "ambos_marcan": {
-        "resultado": "NO",
-        "probabilidad": 38.12
-      },
-      "recomendacion": {
-        "codigo": "1",
-        "nombre": "Mes Kerman",
-        "score": 40.98,
-        "probabilidad_modelo": 36.5,
-        "cuota": 2.63,
-        "marcadores": [
-          {
-            "marcador": "1-1",
-            "probabilidad": 12.95
-          },
-          {
-            "marcador": "1-0",
-            "probabilidad": 11.82
-          }
-        ]
-      },
-      "ranking": 83
-    },
-    {
-      "partido_id": "https://www.flashscore.co/partido/futbol/botafogo-jXzWoWa5/coritiba-KGO4pUqO/?mid=OKIyMMkK",
-      "fecha": "2026-10-12",
-      "hora": "14:00",
-      "pais": "BRASIL",
-      "liga": "SERIE A BETANO - JORNADA 30",
-      "local": "Coritiba",
-      "visitante": "Botafogo",
-      "logo_local": "https://static.flashscore.com/res/image/data/xKm8lie5-bwYqIWsq.png",
-      "logo_visitante": "https://static.flashscore.com/res/image/data/jBDSUABr-ldMpXQG1.png",
-      "cuotas": {
-        "Local": 2.66,
-        "Empate": 3.45,
-        "Visitante": 2.52
-      },
-      "1X2_modelo": {
-        "Local": 36.28,
-        "Empate": 26.15,
-        "Visitante": 37.57
+        "Local": 38.0,
+        "Empate": 24.05,
+        "Visitante": 37.95
       },
       "ambos_marcan": {
         "resultado": "SI",
-        "probabilidad": 58.63
+        "probabilidad": 71.87
       },
       "recomendacion": {
         "codigo": "2",
-        "nombre": "Botafogo",
-        "score": 40.91,
-        "probabilidad_modelo": 37.57,
-        "cuota": 2.52,
+        "nombre": "Norwich Sub-21",
+        "score": 40.97,
+        "probabilidad_modelo": 37.95,
+        "cuota": 2.4,
         "marcadores": [
           {
             "marcador": "1-1",
-            "probabilidad": 11.85
+            "probabilidad": 10.64
           },
           {
-            "marcador": "0-1",
-            "probabilidad": 9.29
+            "marcador": "1-2",
+            "probabilidad": 8.05
           }
         ]
       },
-      "ranking": 84
+      "ranking": 101
+    },
+    {
+      "partido_id": "https://www.flashscore.co/partido/futbol/constantine-nBionu2l/khenchela-lYuJtBj9/?mid=tf7LAOHs",
+      "fecha": "2026-10-12",
+      "hora": "09:00",
+      "pais": "ARGELIA",
+      "liga": "LIGUE 1 - JORNADA 5",
+      "local": "Khenchela",
+      "visitante": "Constantine",
+      "logo_local": "https://static.flashscore.com/res/image/data/WlYP0PzB-YJd3IARM.png",
+      "logo_visitante": "https://static.flashscore.com/res/image/data/xztLXXwS-z564LBUI.png",
+      "cuotas": {
+        "Local": 2.15,
+        "Empate": 3.0,
+        "Visitante": 3.25
+      },
+      "1X2_modelo": {
+        "Local": 37.13,
+        "Empate": 28.13,
+        "Visitante": 34.74
+      },
+      "ambos_marcan": {
+        "resultado": "SI",
+        "probabilidad": 58.4
+      },
+      "recomendacion": {
+        "codigo": "1",
+        "nombre": "Khenchela",
+        "score": 40.95,
+        "probabilidad_modelo": 37.13,
+        "cuota": 2.15,
+        "marcadores": [
+          {
+            "marcador": "1-1",
+            "probabilidad": 11.57
+          },
+          {
+            "marcador": "2-1",
+            "probabilidad": 8.48
+          }
+        ]
+      },
+      "ranking": 102
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/dijon-dIvQQaE7/metz-4v0yqlWc/?mid=2eIFXB2C",
@@ -3657,7 +4431,50 @@
           }
         ]
       },
-      "ranking": 85
+      "ranking": 103
+    },
+    {
+      "partido_id": "https://www.flashscore.co/partido/futbol/chengdu-rongcheng-W2NCMiB7/qingdao-red-lions-MekweOL4/?mid=r7wwoMUq",
+      "fecha": "2026-10-13",
+      "hora": "06:35",
+      "pais": "CHINA",
+      "liga": "LEAGUE TWO - GRUPO DESCENSO - JORNADA 26",
+      "local": "Chengdu Rongcheng B",
+      "visitante": "Qingdao Red Lions",
+      "logo_local": "https://static.flashscore.com/res/image/data/xbQfuEFG-vXX1U3MD.png",
+      "logo_visitante": "https://static.flashscore.com/res/image/data/zB1isTXg-h0oEHHVs.png",
+      "cuotas": {
+        "Local": 2.55,
+        "Empate": 2.75,
+        "Visitante": 2.85
+      },
+      "1X2_modelo": {
+        "Local": 38.43,
+        "Empate": 29.16,
+        "Visitante": 32.41
+      },
+      "ambos_marcan": {
+        "resultado": "NO",
+        "probabilidad": 47.12
+      },
+      "recomendacion": {
+        "codigo": "1",
+        "nombre": "Chengdu Rongcheng B",
+        "score": 40.72,
+        "probabilidad_modelo": 38.43,
+        "cuota": 2.55,
+        "marcadores": [
+          {
+            "marcador": "1-1",
+            "probabilidad": 11.51
+          },
+          {
+            "marcador": "1-0",
+            "probabilidad": 9.77
+          }
+        ]
+      },
+      "ranking": 104
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/alvechurch-juaQ71lj/halesowen-QDjQdpXk/?mid=SCdcpc8m",
@@ -3700,7 +4517,7 @@
           }
         ]
       },
-      "ranking": 86
+      "ranking": 105
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/chicago-fire-UwAwNo2E/philadelphia-union-Szrwix67/?mid=SvhiZqml",
@@ -3729,7 +4546,7 @@
       "recomendacion": {
         "codigo": "1",
         "nombre": "Chicago Fire",
-        "score": 40.68,
+        "score": 40.67,
         "probabilidad_modelo": 39.2,
         "cuota": 2.44,
         "marcadores": [
@@ -3743,7 +4560,50 @@
           }
         ]
       },
-      "ranking": 87
+      "ranking": 106
+    },
+    {
+      "partido_id": "https://www.flashscore.co/partido/futbol/annaba-OQubDJ3q/telaghema-KEogLiTu/?mid=02ChbsVr",
+      "fecha": "2026-10-13",
+      "hora": "09:00",
+      "pais": "ARGELIA",
+      "liga": "LIGUE 2 - JORNADA 5",
+      "local": "Telaghema",
+      "visitante": "Annaba",
+      "logo_local": "https://static.flashscore.com/res/image/data/nP1OF3e5-QBMSXsER.png",
+      "logo_visitante": "https://static.flashscore.com/res/image/data/2DfSm8fM-Wpswp859.png",
+      "cuotas": {
+        "Local": 2.72,
+        "Empate": 2.87,
+        "Visitante": 2.52
+      },
+      "1X2_modelo": {
+        "Local": 33.79,
+        "Empate": 29.67,
+        "Visitante": 36.54
+      },
+      "ambos_marcan": {
+        "resultado": "SI",
+        "probabilidad": 52.38
+      },
+      "recomendacion": {
+        "codigo": "1",
+        "nombre": "Telaghema",
+        "score": 40.67,
+        "probabilidad_modelo": 33.79,
+        "cuota": 2.72,
+        "marcadores": [
+          {
+            "marcador": "1-1",
+            "probabilidad": 12.41
+          },
+          {
+            "marcador": "1-0",
+            "probabilidad": 10.58
+          }
+        ]
+      },
+      "ranking": 107
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/cp-san-cristobal-E3PvE8xU/fe-grama-r98bl0xA/?mid=2HgMrpHM",
@@ -3786,50 +4646,7 @@
           }
         ]
       },
-      "ranking": 88
-    },
-    {
-      "partido_id": "https://www.flashscore.co/partido/futbol/arab-contractors-hAgPF9Zc/zed-fc-SxS0BA1C/?mid=6BarBSZH",
-      "fecha": "2026-10-12",
-      "hora": "09:00",
-      "pais": "EGIPTO",
-      "liga": "PREMIER LEAGUE - JORNADA 6",
-      "local": "Arab Contractors",
-      "visitante": "ZED",
-      "logo_local": "https://static.flashscore.com/res/image/data/Cr3P88f5-SWYiaUwN.png",
-      "logo_visitante": "https://static.flashscore.com/res/image/data/OpTmC1Ca-d8SflmrH.png",
-      "cuotas": {
-        "Local": 2.96,
-        "Empate": 2.72,
-        "Visitante": 2.6
-      },
-      "1X2_modelo": {
-        "Local": 32.62,
-        "Empate": 29.31,
-        "Visitante": 38.07
-      },
-      "ambos_marcan": {
-        "resultado": "SI",
-        "probabilidad": 52.03
-      },
-      "recomendacion": {
-        "codigo": "2",
-        "nombre": "ZED",
-        "score": 40.57,
-        "probabilidad_modelo": 38.07,
-        "cuota": 2.6,
-        "marcadores": [
-          {
-            "marcador": "1-1",
-            "probabilidad": 11.47
-          },
-          {
-            "marcador": "1-2",
-            "probabilidad": 8.59
-          }
-        ]
-      },
-      "ranking": 89
+      "ranking": 108
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/akhmat-grozny-bJGqkoet/din-moscu-AFWA2jAQ/?mid=MmFUaYa3",
@@ -3858,7 +4675,7 @@
       "recomendacion": {
         "codigo": "2",
         "nombre": "Dinamo Moscú",
-        "score": 40.57,
+        "score": 40.58,
         "probabilidad_modelo": 36.91,
         "cuota": 2.55,
         "marcadores": [
@@ -3872,7 +4689,50 @@
           }
         ]
       },
-      "ranking": 90
+      "ranking": 109
+    },
+    {
+      "partido_id": "https://www.flashscore.co/partido/futbol/campionii-arges-65I2MLv6/cfr-cluj-4KfIhq7B/?mid=x6M4Okzf",
+      "fecha": "2026-10-12",
+      "hora": "10:00",
+      "pais": "RUMANÍA",
+      "liga": "SUPERLIGA - JORNADA 11",
+      "local": "FC Arges",
+      "visitante": "CFR Cluj",
+      "logo_local": "https://static.flashscore.com/res/image/data/A34JyKcM-dKCykP08.png",
+      "logo_visitante": "https://static.flashscore.com/res/image/data/S6SYxvWg-OUUX0e6e.png",
+      "cuotas": {
+        "Local": 2.94,
+        "Empate": 3.05,
+        "Visitante": 2.38
+      },
+      "1X2_modelo": {
+        "Local": 36.03,
+        "Empate": 28.42,
+        "Visitante": 35.55
+      },
+      "ambos_marcan": {
+        "resultado": "SI",
+        "probabilidad": 56.67
+      },
+      "recomendacion": {
+        "codigo": "1",
+        "nombre": "FC Arges",
+        "score": 40.5,
+        "probabilidad_modelo": 36.03,
+        "cuota": 2.94,
+        "marcadores": [
+          {
+            "marcador": "1-1",
+            "probabilidad": 11.98
+          },
+          {
+            "marcador": "1-0",
+            "probabilidad": 8.96
+          }
+        ]
+      },
+      "ranking": 110
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/cd-tenerife-IHv6nz80/girona-fc-nNNpcUSL/?mid=Mam51Y4F",
@@ -3887,7 +4747,7 @@
       "cuotas": {
         "Local": 2.8,
         "Empate": 3.2,
-        "Visitante": 2.52
+        "Visitante": 2.5
       },
       "1X2_modelo": {
         "Local": 34.02,
@@ -3901,9 +4761,9 @@
       "recomendacion": {
         "codigo": "2",
         "nombre": "Girona",
-        "score": 40.48,
+        "score": 40.45,
         "probabilidad_modelo": 38.38,
-        "cuota": 2.52,
+        "cuota": 2.5,
         "marcadores": [
           {
             "marcador": "1-1",
@@ -3915,136 +4775,7 @@
           }
         ]
       },
-      "ranking": 91
-    },
-    {
-      "partido_id": "https://www.flashscore.co/partido/futbol/real-pilar-OblCWSam/uai-urquiza-Qyshek3E/?mid=C6Qj8mro",
-      "fecha": "2026-10-12",
-      "hora": "13:00",
-      "pais": "ARGENTINA",
-      "liga": "PRIMERA B - JORNADA 39",
-      "local": "UAI Urquiza",
-      "visitante": "Real Pilar",
-      "logo_local": "https://static.flashscore.com/res/image/data/Od6oeJdM-djNTlTSb.png",
-      "logo_visitante": "https://static.flashscore.com/res/image/data/O4JmsGYA-xfOdFwUK.png",
-      "cuotas": {
-        "Local": 3.45,
-        "Empate": 2.85,
-        "Visitante": 2.2
-      },
-      "1X2_modelo": {
-        "Local": 29.44,
-        "Empate": 28.33,
-        "Visitante": 42.23
-      },
-      "ambos_marcan": {
-        "resultado": "NO",
-        "probabilidad": 45.64
-      },
-      "recomendacion": {
-        "codigo": "2",
-        "nombre": "Real Pilar",
-        "score": 40.43,
-        "probabilidad_modelo": 42.23,
-        "cuota": 2.2,
-        "marcadores": [
-          {
-            "marcador": "1-1",
-            "probabilidad": 11.87
-          },
-          {
-            "marcador": "0-1",
-            "probabilidad": 11.02
-          }
-        ]
-      },
-      "ranking": 92
-    },
-    {
-      "partido_id": "https://www.flashscore.co/partido/futbol/livyi-bereg-WUaDzzzG/zorya-j9Wy32w4/?mid=OQ4d42pg",
-      "fecha": "2026-10-12",
-      "hora": "05:00",
-      "pais": "UCRANIA",
-      "liga": "PREMIER LEAGUE - JORNADA 8",
-      "local": "Livyi Bereg",
-      "visitante": "Zorya",
-      "logo_local": "https://static.flashscore.com/res/image/data/nLaZbsjl-MX0StiSh.png",
-      "logo_visitante": "https://static.flashscore.com/res/image/data/SEpGLyg5-lxvkDsJf.png",
-      "cuotas": {
-        "Local": 2.85,
-        "Empate": 3.3,
-        "Visitante": 2.25
-      },
-      "1X2_modelo": {
-        "Local": 38.84,
-        "Empate": 26.63,
-        "Visitante": 34.53
-      },
-      "ambos_marcan": {
-        "resultado": "SI",
-        "probabilidad": 57.95
-      },
-      "recomendacion": {
-        "codigo": "1",
-        "nombre": "Livyi Bereg",
-        "score": 40.39,
-        "probabilidad_modelo": 38.84,
-        "cuota": 2.85,
-        "marcadores": [
-          {
-            "marcador": "1-1",
-            "probabilidad": 11.35
-          },
-          {
-            "marcador": "1-0",
-            "probabilidad": 9.03
-          }
-        ]
-      },
-      "ranking": 93
-    },
-    {
-      "partido_id": "https://www.flashscore.co/partido/futbol/beit-shean-p2R286ri/hapoel-tirat-karmel-GMkQPJVJ/?mid=tQqfB1zn",
-      "fecha": "2026-10-12",
-      "hora": "13:15",
-      "pais": "ISRAEL",
-      "liga": "LIGA ALEF NORTE - JORNADA 1",
-      "local": "Hapoel Tirat Karmel",
-      "visitante": "Beit Shean",
-      "logo_local": "https://static.flashscore.com/res/image/data/xhPbl1Da-IJW4dfwN.png",
-      "logo_visitante": "https://static.flashscore.com/res/image/data/lQV7POkl-fLTNgqf2.png",
-      "cuotas": {
-        "Local": 2.4,
-        "Empate": 3.25,
-        "Visitante": 2.6
-      },
-      "1X2_modelo": {
-        "Local": 37.21,
-        "Empate": 27.13,
-        "Visitante": 35.66
-      },
-      "ambos_marcan": {
-        "resultado": "SI",
-        "probabilidad": 53.26
-      },
-      "recomendacion": {
-        "codigo": "2",
-        "nombre": "Beit Shean",
-        "score": 40.39,
-        "probabilidad_modelo": 35.66,
-        "cuota": 2.6,
-        "marcadores": [
-          {
-            "marcador": "1-1",
-            "probabilidad": 12.08
-          },
-          {
-            "marcador": "0-1",
-            "probabilidad": 9.83
-          }
-        ]
-      },
-      "ranking": 94
+      "ranking": 111
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/burgess-hill-rylW0s8b/dulwich-hamlet-C2OYNqd7/?mid=GzIbgkX0",
@@ -4073,7 +4804,7 @@
       "recomendacion": {
         "codigo": "1",
         "nombre": "Burgess Hill",
-        "score": 40.34,
+        "score": 40.33,
         "probabilidad_modelo": 40.81,
         "cuota": 2.37,
         "marcadores": [
@@ -4087,7 +4818,7 @@
           }
         ]
       },
-      "ranking": 95
+      "ranking": 112
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/stourbridge-QkjoF2sr/worcester-EFjrDuEh/?mid=bcEnrSrH",
@@ -4116,7 +4847,7 @@
       "recomendacion": {
         "codigo": "1",
         "nombre": "Worcester",
-        "score": 40.33,
+        "score": 40.32,
         "probabilidad_modelo": 38.01,
         "cuota": 2.45,
         "marcadores": [
@@ -4130,7 +4861,7 @@
           }
         ]
       },
-      "ranking": 96
+      "ranking": 113
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/sporting-san-miguelito-xtxrXPjS/tauro-bqtQiJd1/?mid=bkxNg944",
@@ -4173,7 +4904,50 @@
           }
         ]
       },
-      "ranking": 97
+      "ranking": 114
+    },
+    {
+      "partido_id": "https://www.flashscore.co/partido/futbol/everton-67gs3wiJ/solihull-moors-xAcLgIDU/?mid=6cn98kJF",
+      "fecha": "2026-10-13",
+      "hora": "13:00",
+      "pais": "INGLATERRA",
+      "liga": "NATIONAL LEAGUE CUP",
+      "local": "Solihull Moors",
+      "visitante": "Everton Sub-21",
+      "logo_local": "https://static.flashscore.com/res/image/data/Q7SSiCGG-vsLgEvHM.png",
+      "logo_visitante": "https://static.flashscore.com/res/image/data/lQtCDvEa-06IGfocd.png",
+      "cuotas": {
+        "Local": 2.3,
+        "Empate": 3.7,
+        "Visitante": 2.55
+      },
+      "1X2_modelo": {
+        "Local": 39.72,
+        "Empate": 25.54,
+        "Visitante": 34.74
+      },
+      "ambos_marcan": {
+        "resultado": "SI",
+        "probabilidad": 60.05
+      },
+      "recomendacion": {
+        "codigo": "1",
+        "nombre": "Solihull Moors",
+        "score": 40.23,
+        "probabilidad_modelo": 39.72,
+        "cuota": 2.3,
+        "marcadores": [
+          {
+            "marcador": "1-1",
+            "probabilidad": 12.17
+          },
+          {
+            "marcador": "1-0",
+            "probabilidad": 11.02
+          }
+        ]
+      },
+      "ranking": 115
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/malvern-town-KlhRm1bO/yate-zmUhoU4i/?mid=06ONyaI7",
@@ -4216,7 +4990,93 @@
           }
         ]
       },
-      "ranking": 98
+      "ranking": 116
+    },
+    {
+      "partido_id": "https://www.flashscore.co/partido/futbol/pirata-IqIBCjsB/union-minas-Qu98sKVN/?mid=4h2EIvjR",
+      "fecha": "2026-10-12",
+      "hora": "11:00",
+      "pais": "PERÚ",
+      "liga": "LIGA 2 - GRUPO ASCENSO - JORNADA 3",
+      "local": "Pirata",
+      "visitante": "Minas",
+      "logo_local": "https://static.flashscore.com/res/image/data/xj2smEXg-jNi7RAJG.png",
+      "logo_visitante": "https://static.flashscore.com/res/image/data/WbKuLuyS-2gsWbH4m.png",
+      "cuotas": {
+        "Local": 2.45,
+        "Empate": 3.25,
+        "Visitante": 2.45
+      },
+      "1X2_modelo": {
+        "Local": 39.28,
+        "Empate": 25.54,
+        "Visitante": 35.18
+      },
+      "ambos_marcan": {
+        "resultado": "SI",
+        "probabilidad": 65.49
+      },
+      "recomendacion": {
+        "codigo": "1",
+        "nombre": "Pirata",
+        "score": 40.09,
+        "probabilidad_modelo": 39.28,
+        "cuota": 2.45,
+        "marcadores": [
+          {
+            "marcador": "1-1",
+            "probabilidad": 9.95
+          },
+          {
+            "marcador": "2-1",
+            "probabilidad": 8.4
+          }
+        ]
+      },
+      "ranking": 117
+    },
+    {
+      "partido_id": "https://www.flashscore.co/partido/futbol/millwall-6uz2cJBL/swansea-K6xezbY7/?mid=MaP5GfIk",
+      "fecha": "2026-10-13",
+      "hora": "13:45",
+      "pais": "INGLATERRA",
+      "liga": "CHAMPIONSHIP - JORNADA 10",
+      "local": "Millwall",
+      "visitante": "Swansea",
+      "logo_local": "https://static.flashscore.com/res/image/data/C8aMqcXg-prpZfVqU.png",
+      "logo_visitante": "https://static.flashscore.com/res/image/data/baRwZ4dM-Ozj3JWKn.png",
+      "cuotas": {
+        "Local": 2.58,
+        "Empate": 3.5,
+        "Visitante": 2.58
+      },
+      "1X2_modelo": {
+        "Local": 38.69,
+        "Empate": 25.83,
+        "Visitante": 35.47
+      },
+      "ambos_marcan": {
+        "resultado": "SI",
+        "probabilidad": 53.92
+      },
+      "recomendacion": {
+        "codigo": "1",
+        "nombre": "Millwall",
+        "score": 39.98,
+        "probabilidad_modelo": 38.69,
+        "cuota": 2.58,
+        "marcadores": [
+          {
+            "marcador": "1-1",
+            "probabilidad": 10.91
+          },
+          {
+            "marcador": "2-1",
+            "probabilidad": 8.56
+          }
+        ]
+      },
+      "ranking": 118
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/norwich-Qo6off6p/southampton-WdKOwxDM/?mid=nihb4OV9",
@@ -4259,136 +5119,50 @@
           }
         ]
       },
-      "ranking": 99
+      "ranking": 119
     },
     {
-      "partido_id": "https://www.flashscore.co/partido/futbol/millwall-6uz2cJBL/swansea-K6xezbY7/?mid=MaP5GfIk",
-      "fecha": "2026-10-13",
-      "hora": "13:45",
-      "pais": "INGLATERRA",
-      "liga": "CHAMPIONSHIP - JORNADA 10",
-      "local": "Millwall",
-      "visitante": "Swansea",
-      "logo_local": "https://static.flashscore.com/res/image/data/C8aMqcXg-prpZfVqU.png",
-      "logo_visitante": "https://static.flashscore.com/res/image/data/baRwZ4dM-Ozj3JWKn.png",
+      "partido_id": "https://www.flashscore.co/partido/futbol/estrella-del-sur-UJYBkchU/juventud-unida-san-miguel-0pyRj96p/?mid=fDIm5af2",
+      "fecha": "2026-10-12",
+      "hora": "13:00",
+      "pais": "ARGENTINA",
+      "liga": "PRIMERA C - JORNADA 32",
+      "local": "Estrella Del Sur",
+      "visitante": "Juventud Unida",
+      "logo_local": "https://static.flashscore.com/res/image/data/vcTOTuAr-6uHqMQtE.png",
+      "logo_visitante": "https://static.flashscore.com/res/image/data/x44YjvYg-YTTAVtnI.png",
       "cuotas": {
-        "Local": 2.52,
-        "Empate": 3.5,
-        "Visitante": 2.65
+        "Local": 2.45,
+        "Empate": 2.7,
+        "Visitante": 3.1
       },
       "1X2_modelo": {
-        "Local": 38.69,
-        "Empate": 25.83,
-        "Visitante": 35.47
+        "Local": 39.88,
+        "Empate": 29.32,
+        "Visitante": 30.8
       },
       "ambos_marcan": {
         "resultado": "SI",
-        "probabilidad": 53.92
+        "probabilidad": 55.64
       },
       "recomendacion": {
         "codigo": "1",
-        "nombre": "Millwall",
-        "score": 39.83,
-        "probabilidad_modelo": 38.69,
-        "cuota": 2.52,
+        "nombre": "Estrella Del Sur",
+        "score": 39.89,
+        "probabilidad_modelo": 39.88,
+        "cuota": 2.45,
         "marcadores": [
           {
             "marcador": "1-1",
-            "probabilidad": 10.91
-          },
-          {
-            "marcador": "2-1",
-            "probabilidad": 8.56
-          }
-        ]
-      },
-      "ranking": 100
-    },
-    {
-      "partido_id": "https://www.flashscore.co/partido/futbol/foolad-dndyOmSm/malavan-phMeLoC6/?mid=KATHEXGk",
-      "fecha": "2026-10-13",
-      "hora": "08:30",
-      "pais": "IRÁN",
-      "liga": "PERSIAN GULF PRO LEAGUE - JORNADA 7",
-      "local": "Malavan",
-      "visitante": "Foolad",
-      "logo_local": "https://static.flashscore.com/res/image/data/0bfeD3hl-EJBKv3VB.png",
-      "logo_visitante": "https://static.flashscore.com/res/image/data/I7KM0ACa-0YznNYwc.png",
-      "cuotas": {
-        "Local": 2.7,
-        "Empate": 2.85,
-        "Visitante": 2.7
-      },
-      "1X2_modelo": {
-        "Local": 35.08,
-        "Empate": 29.86,
-        "Visitante": 35.06
-      },
-      "ambos_marcan": {
-        "resultado": "SI",
-        "probabilidad": 52.5
-      },
-      "recomendacion": {
-        "codigo": "1",
-        "nombre": "Malavan",
-        "score": 39.81,
-        "probabilidad_modelo": 35.08,
-        "cuota": 2.7,
-        "marcadores": [
-          {
-            "marcador": "1-1",
-            "probabilidad": 12.37
+            "probabilidad": 11.72
           },
           {
             "marcador": "1-0",
-            "probabilidad": 9.6
+            "probabilidad": 9.43
           }
         ]
       },
-      "ranking": 101
-    },
-    {
-      "partido_id": "https://www.flashscore.co/partido/futbol/pirata-IqIBCjsB/union-minas-Qu98sKVN/?mid=4h2EIvjR",
-      "fecha": "2026-10-12",
-      "hora": "11:00",
-      "pais": "PERÚ",
-      "liga": "LIGA 2 - GRUPO ASCENSO - JORNADA 3",
-      "local": "Pirata",
-      "visitante": "Minas",
-      "logo_local": "https://static.flashscore.com/res/image/data/xj2smEXg-jNi7RAJG.png",
-      "logo_visitante": "https://static.flashscore.com/res/image/data/WbKuLuyS-2gsWbH4m.png",
-      "cuotas": {
-        "Local": 2.33,
-        "Empate": 3.35,
-        "Visitante": 2.55
-      },
-      "1X2_modelo": {
-        "Local": 39.28,
-        "Empate": 25.54,
-        "Visitante": 35.18
-      },
-      "ambos_marcan": {
-        "resultado": "SI",
-        "probabilidad": 65.49
-      },
-      "recomendacion": {
-        "codigo": "1",
-        "nombre": "Pirata",
-        "score": 39.75,
-        "probabilidad_modelo": 39.28,
-        "cuota": 2.33,
-        "marcadores": [
-          {
-            "marcador": "1-1",
-            "probabilidad": 9.95
-          },
-          {
-            "marcador": "2-1",
-            "probabilidad": 8.4
-          }
-        ]
-      },
-      "ranking": 102
+      "ranking": 120
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/atlas-AV3ovsmm/el-porvenir-EDkCUD9S/?mid=d2pPFyIj",
@@ -4402,8 +5176,8 @@
       "logo_visitante": "https://static.flashscore.com/res/image/data/ttMg5yXg-nom0tPkO.png",
       "cuotas": {
         "Local": 2.45,
-        "Empate": 3.0,
-        "Visitante": 2.75
+        "Empate": 2.95,
+        "Visitante": 2.8
       },
       "1X2_modelo": {
         "Local": 38.8,
@@ -4431,50 +5205,136 @@
           }
         ]
       },
-      "ranking": 103
+      "ranking": 121
     },
     {
-      "partido_id": "https://www.flashscore.co/partido/futbol/st-louis-city-4r4sKQud/vancouver-whitecaps-K2dlua5N/?mid=Crpmrlk2",
-      "fecha": "2026-10-14",
-      "hora": "19:30",
-      "pais": "ESTADOS UNIDOS",
-      "liga": "MLS",
-      "local": "St. Louis City",
-      "visitante": "Vancouver Whitecaps",
-      "logo_local": "https://static.flashscore.com/res/image/data/fZQ24ABr-jmLPWdtA.png",
-      "logo_visitante": "https://static.flashscore.com/res/image/data/nXTMece5-nJrkMuTE.png",
+      "partido_id": "https://www.flashscore.co/partido/futbol/botafogo-jXzWoWa5/coritiba-KGO4pUqO/?mid=OKIyMMkK",
+      "fecha": "2026-10-12",
+      "hora": "14:00",
+      "pais": "BRASIL",
+      "liga": "SERIE A BETANO - JORNADA 30",
+      "local": "Coritiba",
+      "visitante": "Botafogo",
+      "logo_local": "https://static.flashscore.com/res/image/data/xKm8lie5-bwYqIWsq.png",
+      "logo_visitante": "https://static.flashscore.com/res/image/data/jBDSUABr-ldMpXQG1.png",
       "cuotas": {
-        "Local": 2.56,
-        "Empate": 3.9,
-        "Visitante": 2.42
+        "Local": 2.74,
+        "Empate": 3.45,
+        "Visitante": 2.46
       },
       "1X2_modelo": {
-        "Local": 37.41,
-        "Empate": 23.51,
-        "Visitante": 39.07
+        "Local": 36.28,
+        "Empate": 26.15,
+        "Visitante": 37.57
       },
       "ambos_marcan": {
         "resultado": "SI",
-        "probabilidad": 72.28
+        "probabilidad": 58.63
       },
       "recomendacion": {
         "codigo": "2",
-        "nombre": "Vancouver Whitecaps",
-        "score": 39.64,
-        "probabilidad_modelo": 39.07,
-        "cuota": 2.42,
+        "nombre": "Botafogo",
+        "score": 39.53,
+        "probabilidad_modelo": 37.57,
+        "cuota": 2.46,
         "marcadores": [
           {
             "marcador": "1-1",
-            "probabilidad": 9.48
+            "probabilidad": 11.85
           },
           {
-            "marcador": "1-2",
-            "probabilidad": 8.13
+            "marcador": "0-1",
+            "probabilidad": 9.29
           }
         ]
       },
-      "ranking": 104
+      "ranking": 122
+    },
+    {
+      "partido_id": "https://www.flashscore.co/partido/futbol/club-brujas-2m8F0HVJ/inter-t2xoBNmA/?mid=SYyKEg16",
+      "fecha": "2026-10-13",
+      "hora": "08:00",
+      "pais": "EUROPA",
+      "liga": "UEFA YOUTH LEAGUE - FASE DE LIGA - JORNADA 2",
+      "local": "Inter Sub-19",
+      "visitante": "Club Brujas Sub-19",
+      "logo_local": "https://static.flashscore.com/res/image/data/lxz64qDa-O8c8nWOb.png",
+      "logo_visitante": "https://static.flashscore.com/res/image/data/0bsarrCa-61SrfKam.png",
+      "cuotas": {
+        "Local": 2.35,
+        "Empate": 3.8,
+        "Visitante": 2.45
+      },
+      "1X2_modelo": {
+        "Local": 39.23,
+        "Empate": 23.65,
+        "Visitante": 37.12
+      },
+      "ambos_marcan": {
+        "resultado": "SI",
+        "probabilidad": 62.92
+      },
+      "recomendacion": {
+        "codigo": "2",
+        "nombre": "Club Brujas Sub-19",
+        "score": 39.48,
+        "probabilidad_modelo": 37.12,
+        "cuota": 2.45,
+        "marcadores": [
+          {
+            "marcador": "1-1",
+            "probabilidad": 10.15
+          },
+          {
+            "marcador": "2-1",
+            "probabilidad": 8.31
+          }
+        ]
+      },
+      "ranking": 123
+    },
+    {
+      "partido_id": "https://www.flashscore.co/partido/futbol/arab-contractors-hAgPF9Zc/zed-fc-SxS0BA1C/?mid=6BarBSZH",
+      "fecha": "2026-10-12",
+      "hora": "09:00",
+      "pais": "EGIPTO",
+      "liga": "PREMIER LEAGUE - JORNADA 6",
+      "local": "Arab Contractors",
+      "visitante": "ZED",
+      "logo_local": "https://static.flashscore.com/res/image/data/Cr3P88f5-SWYiaUwN.png",
+      "logo_visitante": "https://static.flashscore.com/res/image/data/OpTmC1Ca-d8SflmrH.png",
+      "cuotas": {
+        "Local": 3.3,
+        "Empate": 2.8,
+        "Visitante": 2.32
+      },
+      "1X2_modelo": {
+        "Local": 32.62,
+        "Empate": 29.31,
+        "Visitante": 38.07
+      },
+      "ambos_marcan": {
+        "resultado": "SI",
+        "probabilidad": 52.03
+      },
+      "recomendacion": {
+        "codigo": "2",
+        "nombre": "ZED",
+        "score": 39.43,
+        "probabilidad_modelo": 38.07,
+        "cuota": 2.32,
+        "marcadores": [
+          {
+            "marcador": "1-1",
+            "probabilidad": 11.47
+          },
+          {
+            "marcador": "1-2",
+            "probabilidad": 8.59
+          }
+        ]
+      },
+      "ranking": 124
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/escola-warszawa-AHFLaVgB/zaglebie-SQHOa9AR/?mid=fi8XLSBj",
@@ -4503,7 +5363,7 @@
       "recomendacion": {
         "codigo": "1",
         "nombre": "Escola Warszawa Sub-19",
-        "score": 39.24,
+        "score": 39.23,
         "probabilidad_modelo": 38.22,
         "cuota": 2.4,
         "marcadores": [
@@ -4517,7 +5377,50 @@
           }
         ]
       },
-      "ranking": 105
+      "ranking": 125
+    },
+    {
+      "partido_id": "https://www.flashscore.co/partido/futbol/beit-shean-p2R286ri/hapoel-tirat-karmel-GMkQPJVJ/?mid=tQqfB1zn",
+      "fecha": "2026-10-12",
+      "hora": "13:15",
+      "pais": "ISRAEL",
+      "liga": "LIGA ALEF NORTE - JORNADA 1",
+      "local": "Hapoel Tirat Karmel",
+      "visitante": "Beit Shean",
+      "logo_local": "https://static.flashscore.com/res/image/data/xhPbl1Da-IJW4dfwN.png",
+      "logo_visitante": "https://static.flashscore.com/res/image/data/lQV7POkl-fLTNgqf2.png",
+      "cuotas": {
+        "Local": 2.63,
+        "Empate": 3.2,
+        "Visitante": 2.35
+      },
+      "1X2_modelo": {
+        "Local": 37.21,
+        "Empate": 27.13,
+        "Visitante": 35.66
+      },
+      "ambos_marcan": {
+        "resultado": "SI",
+        "probabilidad": 53.26
+      },
+      "recomendacion": {
+        "codigo": "2",
+        "nombre": "Beit Shean",
+        "score": 39.13,
+        "probabilidad_modelo": 35.66,
+        "cuota": 2.35,
+        "marcadores": [
+          {
+            "marcador": "1-1",
+            "probabilidad": 12.08
+          },
+          {
+            "marcador": "0-1",
+            "probabilidad": 9.83
+          }
+        ]
+      },
+      "ranking": 126
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/fluminense-EV9L3kU4/palmeiras-hMn9FTbH/?mid=C82xkem4",
@@ -4546,7 +5449,7 @@
       "recomendacion": {
         "codigo": "2",
         "nombre": "Palmeiras (Bra)",
-        "score": 39.08,
+        "score": 39.09,
         "probabilidad_modelo": 36.54,
         "cuota": 2.68,
         "marcadores": [
@@ -4560,50 +5463,7 @@
           }
         ]
       },
-      "ranking": 106
-    },
-    {
-      "partido_id": "https://www.flashscore.co/partido/futbol/taian-tiankuang-dMvA5gcE/xiamen-feilu-dIOY3Nde/?mid=x8Vn3LjS",
-      "fecha": "2026-10-12",
-      "hora": "06:30",
-      "pais": "CHINA",
-      "liga": "LEAGUE TWO - GRUPO DESCENSO - JORNADA 26",
-      "local": "Xiamen Feilu",
-      "visitante": "Taian Tiankuang",
-      "logo_local": "https://static.flashscore.com/res/image/data/dAsvfeZA-hSk7PzXf.png",
-      "logo_visitante": "https://static.flashscore.com/res/image/data/2P5VbT9r-QRt3o64U.png",
-      "cuotas": {
-        "Local": 2.45,
-        "Empate": 2.95,
-        "Visitante": 2.7
-      },
-      "1X2_modelo": {
-        "Local": 38.17,
-        "Empate": 29.02,
-        "Visitante": 32.81
-      },
-      "ambos_marcan": {
-        "resultado": "NO",
-        "probabilidad": 45.53
-      },
-      "recomendacion": {
-        "codigo": "1",
-        "nombre": "Xiamen Feilu",
-        "score": 39.04,
-        "probabilidad_modelo": 38.17,
-        "cuota": 2.45,
-        "marcadores": [
-          {
-            "marcador": "1-1",
-            "probabilidad": 12.31
-          },
-          {
-            "marcador": "1-0",
-            "probabilidad": 10.54
-          }
-        ]
-      },
-      "ranking": 107
+      "ranking": 127
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/levante-ud-G8FL0ShI/sevilla-h8oAv4Ts/?mid=ADgsxdhm",
@@ -4617,7 +5477,7 @@
       "logo_visitante": "https://static.flashscore.com/res/image/data/G2BgO5Ar-tIT0KyhE.png",
       "cuotas": {
         "Local": 2.72,
-        "Empate": 3.3,
+        "Empate": 3.25,
         "Visitante": 2.72
       },
       "1X2_modelo": {
@@ -4632,7 +5492,7 @@
       "recomendacion": {
         "codigo": "2",
         "nombre": "Sevilla",
-        "score": 39.03,
+        "score": 39.05,
         "probabilidad_modelo": 37.54,
         "cuota": 2.72,
         "marcadores": [
@@ -4646,50 +5506,93 @@
           }
         ]
       },
-      "ranking": 108
+      "ranking": 128
     },
     {
-      "partido_id": "https://www.flashscore.co/partido/futbol/campionii-arges-65I2MLv6/cfr-cluj-4KfIhq7B/?mid=x6M4Okzf",
-      "fecha": "2026-10-12",
-      "hora": "10:00",
-      "pais": "RUMANÍA",
-      "liga": "SUPERLIGA - JORNADA 11",
-      "local": "FC Arges",
-      "visitante": "CFR Cluj",
-      "logo_local": "https://static.flashscore.com/res/image/data/A34JyKcM-dKCykP08.png",
-      "logo_visitante": "https://static.flashscore.com/res/image/data/S6SYxvWg-OUUX0e6e.png",
+      "partido_id": "https://www.flashscore.co/partido/futbol/burkina-faso-U96KCev4/guinea-ecuatorial-SSk4lP2F/?mid=AN6YiODF",
+      "fecha": "2026-10-13",
+      "hora": "09:00",
+      "pais": "ÁFRICA",
+      "liga": "JUEGOS OLÍMPICOS FEMENINO - CLASIFICACIÓN - 1/8 DE FINAL",
+      "local": "Guinea Ecuatorial F",
+      "visitante": "Burkina Faso F",
+      "logo_local": "https://static.flashscore.com/res/image/data/GS2eHHhl-KlKhSYan.png",
+      "logo_visitante": "https://static.flashscore.com/res/image/data/OYDrA8GG-Ia2bug8J.png",
       "cuotas": {
-        "Local": 2.64,
-        "Empate": 3.05,
-        "Visitante": 2.64
+        "Local": 2.55,
+        "Empate": 3.25,
+        "Visitante": 2.55
       },
       "1X2_modelo": {
-        "Local": 36.03,
-        "Empate": 28.42,
-        "Visitante": 35.55
+        "Local": 36.63,
+        "Empate": 27.32,
+        "Visitante": 36.04
       },
       "ambos_marcan": {
         "resultado": "SI",
-        "probabilidad": 56.67
+        "probabilidad": 62.97
       },
       "recomendacion": {
         "codigo": "1",
-        "nombre": "FC Arges",
-        "score": 39.0,
-        "probabilidad_modelo": 36.03,
-        "cuota": 2.64,
+        "nombre": "Guinea Ecuatorial F",
+        "score": 38.98,
+        "probabilidad_modelo": 36.63,
+        "cuota": 2.55,
         "marcadores": [
           {
             "marcador": "1-1",
-            "probabilidad": 11.98
+            "probabilidad": 12.25
           },
           {
             "marcador": "1-0",
-            "probabilidad": 8.96
+            "probabilidad": 9.41
           }
         ]
       },
-      "ranking": 109
+      "ranking": 129
+    },
+    {
+      "partido_id": "https://www.flashscore.co/partido/futbol/kallon-tWTpVd2P/old-edwardians-6cWFatkF/?mid=AZ48Y5T1",
+      "fecha": "2026-10-12",
+      "hora": "11:30",
+      "pais": "SIERRA LEONA",
+      "liga": "PREMIER LEAGUE",
+      "local": "Kallon",
+      "visitante": "Old Edwardians",
+      "logo_local": "https://static.flashscore.com/res/image/data/pG9ZPsCr-IciwOSVc.png",
+      "logo_visitante": "https://static.flashscore.com/res/image/data/YBHaA7h5-fTulyhCs.png",
+      "cuotas": {
+        "Local": 2.5,
+        "Empate": 3.0,
+        "Visitante": 2.63
+      },
+      "1X2_modelo": {
+        "Local": 34.58,
+        "Empate": 29.09,
+        "Visitante": 36.33
+      },
+      "ambos_marcan": {
+        "resultado": "SI",
+        "probabilidad": 54.58
+      },
+      "recomendacion": {
+        "codigo": "2",
+        "nombre": "Old Edwardians",
+        "score": 38.88,
+        "probabilidad_modelo": 36.33,
+        "cuota": 2.63,
+        "marcadores": [
+          {
+            "marcador": "1-1",
+            "probabilidad": 11.75
+          },
+          {
+            "marcador": "0-1",
+            "probabilidad": 9.56
+          }
+        ]
+      },
+      "ranking": 130
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/chertsey-town-AH2UuCe6/hanwell-town-zBTCKbu1/?mid=ETfzbkZ9",
@@ -4732,50 +5635,93 @@
           }
         ]
       },
-      "ranking": 110
+      "ranking": 131
     },
     {
-      "partido_id": "https://www.flashscore.co/partido/futbol/kallon-tWTpVd2P/old-edwardians-6cWFatkF/?mid=AZ48Y5T1",
+      "partido_id": "https://www.flashscore.co/partido/futbol/benjamin-aceval-lAdLw2uC/deportivo-capiata-b1h2ykJK/?mid=AuG8EKtQ",
       "fecha": "2026-10-12",
-      "hora": "11:30",
-      "pais": "SIERRA LEONA",
-      "liga": "PREMIER LEAGUE",
-      "local": "Kallon",
-      "visitante": "Old Edwardians",
-      "logo_local": "https://static.flashscore.com/res/image/data/pG9ZPsCr-IciwOSVc.png",
-      "logo_visitante": "https://static.flashscore.com/res/image/data/YBHaA7h5-fTulyhCs.png",
+      "hora": "17:30",
+      "pais": "PARAGUAY",
+      "liga": "DIVISIÓN INTERMEDIA - JORNADA 28",
+      "local": "Deportivo Capiatá",
+      "visitante": "Benjamin Aceval",
+      "logo_local": "https://static.flashscore.com/res/image/data/b3pEPDYg-res3xMfc.png",
+      "logo_visitante": "https://static.flashscore.com/res/image/data/W0qOudYA-xd306D1r.png",
       "cuotas": {
-        "Local": 2.65,
-        "Empate": 2.87,
-        "Visitante": 2.6
+        "Local": 2.5,
+        "Empate": 3.2,
+        "Visitante": 2.5
       },
       "1X2_modelo": {
-        "Local": 34.58,
-        "Empate": 29.09,
-        "Visitante": 36.33
+        "Local": 34.82,
+        "Empate": 27.12,
+        "Visitante": 38.06
       },
       "ambos_marcan": {
         "resultado": "SI",
-        "probabilidad": 54.58
+        "probabilidad": 65.09
       },
       "recomendacion": {
         "codigo": "2",
-        "nombre": "Old Edwardians",
-        "score": 38.8,
-        "probabilidad_modelo": 36.33,
-        "cuota": 2.6,
+        "nombre": "Benjamin Aceval",
+        "score": 38.69,
+        "probabilidad_modelo": 38.06,
+        "cuota": 2.5,
         "marcadores": [
           {
             "marcador": "1-1",
-            "probabilidad": 11.75
+            "probabilidad": 11.99
           },
           {
             "marcador": "0-1",
-            "probabilidad": 9.56
+            "probabilidad": 10.17
           }
         ]
       },
-      "ranking": 111
+      "ranking": 132
+    },
+    {
+      "partido_id": "https://www.flashscore.co/partido/futbol/peterborough-UZgQtbuC/sheffield-utd-YPRuEHmi/?mid=YNhnwVbm",
+      "fecha": "2026-10-13",
+      "hora": "07:00",
+      "pais": "INGLATERRA",
+      "liga": "PROFESSIONAL DEVELOPMENT LEAGUE",
+      "local": "Peterborough Sub-21",
+      "visitante": "Sheffield Utd Sub-21",
+      "logo_local": "https://static.flashscore.com/res/image/data/SAitmlh5-SEHYYwB3.png",
+      "logo_visitante": "https://static.flashscore.com/res/image/data/QTKs7kXg-8WVmSHSH.png",
+      "cuotas": {
+        "Local": 2.35,
+        "Empate": 4.0,
+        "Visitante": 2.35
+      },
+      "1X2_modelo": {
+        "Local": 38.39,
+        "Empate": 23.37,
+        "Visitante": 38.24
+      },
+      "ambos_marcan": {
+        "resultado": "SI",
+        "probabilidad": 66.31
+      },
+      "recomendacion": {
+        "codigo": "1",
+        "nombre": "Peterborough Sub-21",
+        "score": 38.63,
+        "probabilidad_modelo": 38.39,
+        "cuota": 2.35,
+        "marcadores": [
+          {
+            "marcador": "1-1",
+            "probabilidad": 11.33
+          },
+          {
+            "marcador": "2-1",
+            "probabilidad": 8.29
+          }
+        ]
+      },
+      "ranking": 133
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/2-de-mayo-SjvFLAZp/sportivo-ameliano-pxVtG7lc/?mid=IcwJe4cK",
@@ -4818,7 +5764,93 @@
           }
         ]
       },
-      "ranking": 112
+      "ranking": 134
+    },
+    {
+      "partido_id": "https://www.flashscore.co/partido/futbol/foolad-dndyOmSm/malavan-phMeLoC6/?mid=KATHEXGk",
+      "fecha": "2026-10-13",
+      "hora": "08:30",
+      "pais": "IRÁN",
+      "liga": "PERSIAN GULF PRO LEAGUE - JORNADA 7",
+      "local": "Malavan",
+      "visitante": "Foolad",
+      "logo_local": "https://static.flashscore.com/res/image/data/0bfeD3hl-EJBKv3VB.png",
+      "logo_visitante": "https://static.flashscore.com/res/image/data/I7KM0ACa-0YznNYwc.png",
+      "cuotas": {
+        "Local": 2.7,
+        "Empate": 2.85,
+        "Visitante": 2.7
+      },
+      "1X2_modelo": {
+        "Local": 35.08,
+        "Empate": 29.86,
+        "Visitante": 35.06
+      },
+      "ambos_marcan": {
+        "resultado": "SI",
+        "probabilidad": 52.5
+      },
+      "recomendacion": {
+        "codigo": "1",
+        "nombre": "Malavan",
+        "score": 38.62,
+        "probabilidad_modelo": 35.08,
+        "cuota": 2.7,
+        "marcadores": [
+          {
+            "marcador": "1-1",
+            "probabilidad": 12.37
+          },
+          {
+            "marcador": "1-0",
+            "probabilidad": 9.6
+          }
+        ]
+      },
+      "ranking": 135
+    },
+    {
+      "partido_id": "https://www.flashscore.co/partido/futbol/aek-ANpZncAM/shakhtar-4ENWX2OA/?mid=Y1LED1zo",
+      "fecha": "2026-10-14",
+      "hora": "14:00",
+      "pais": "EUROPA",
+      "liga": "CHAMPIONS LEAGUE - FASE DE LIGA - JORNADA 2",
+      "local": "Shakhtar",
+      "visitante": "AEK",
+      "logo_local": "https://static.flashscore.com/res/image/data/x2qCsFCr-YmCZKGcR.png",
+      "logo_visitante": "https://static.flashscore.com/res/image/data/vHCp8QeM-6iRkbdOB.png",
+      "cuotas": {
+        "Local": 2.6,
+        "Empate": 3.6,
+        "Visitante": 2.66
+      },
+      "1X2_modelo": {
+        "Local": 38.09,
+        "Empate": 25.23,
+        "Visitante": 36.68
+      },
+      "ambos_marcan": {
+        "resultado": "NO",
+        "probabilidad": 49.31
+      },
+      "recomendacion": {
+        "codigo": "2",
+        "nombre": "AEK",
+        "score": 38.47,
+        "probabilidad_modelo": 36.68,
+        "cuota": 2.66,
+        "marcadores": [
+          {
+            "marcador": "1-1",
+            "probabilidad": 9.22
+          },
+          {
+            "marcador": "2-1",
+            "probabilidad": 8.03
+          }
+        ]
+      },
+      "ranking": 136
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/legia-GGKfGyyJ/slask-QgsdWk7h/?mid=CvelXmcm",
@@ -4861,93 +5893,7 @@
           }
         ]
       },
-      "ranking": 113
-    },
-    {
-      "partido_id": "https://www.flashscore.co/partido/futbol/aek-ANpZncAM/shakhtar-4ENWX2OA/?mid=Y1LED1zo",
-      "fecha": "2026-10-14",
-      "hora": "14:00",
-      "pais": "EUROPA",
-      "liga": "CHAMPIONS LEAGUE - FASE DE LIGA - JORNADA 2",
-      "local": "Shakhtar",
-      "visitante": "AEK",
-      "logo_local": "https://static.flashscore.com/res/image/data/x2qCsFCr-YmCZKGcR.png",
-      "logo_visitante": "https://static.flashscore.com/res/image/data/vHCp8QeM-6iRkbdOB.png",
-      "cuotas": {
-        "Local": 2.64,
-        "Empate": 3.55,
-        "Visitante": 2.64
-      },
-      "1X2_modelo": {
-        "Local": 38.09,
-        "Empate": 25.23,
-        "Visitante": 36.68
-      },
-      "ambos_marcan": {
-        "resultado": "NO",
-        "probabilidad": 49.31
-      },
-      "recomendacion": {
-        "codigo": "2",
-        "nombre": "AEK",
-        "score": 38.42,
-        "probabilidad_modelo": 36.68,
-        "cuota": 2.64,
-        "marcadores": [
-          {
-            "marcador": "1-1",
-            "probabilidad": 9.22
-          },
-          {
-            "marcador": "2-1",
-            "probabilidad": 8.03
-          }
-        ]
-      },
-      "ranking": 114
-    },
-    {
-      "partido_id": "https://www.flashscore.co/partido/futbol/benjamin-aceval-lAdLw2uC/deportivo-capiata-b1h2ykJK/?mid=AuG8EKtQ",
-      "fecha": "2026-10-12",
-      "hora": "17:30",
-      "pais": "PARAGUAY",
-      "liga": "DIVISIÓN INTERMEDIA - JORNADA 28",
-      "local": "Deportivo Capiatá",
-      "visitante": "Benjamin Aceval",
-      "logo_local": "https://static.flashscore.com/res/image/data/b3pEPDYg-res3xMfc.png",
-      "logo_visitante": "https://static.flashscore.com/res/image/data/W0qOudYA-xd306D1r.png",
-      "cuotas": {
-        "Local": 2.65,
-        "Empate": 3.3,
-        "Visitante": 2.45
-      },
-      "1X2_modelo": {
-        "Local": 34.82,
-        "Empate": 27.12,
-        "Visitante": 38.06
-      },
-      "ambos_marcan": {
-        "resultado": "SI",
-        "probabilidad": 65.09
-      },
-      "recomendacion": {
-        "codigo": "2",
-        "nombre": "Benjamin Aceval",
-        "score": 37.86,
-        "probabilidad_modelo": 38.06,
-        "cuota": 2.45,
-        "marcadores": [
-          {
-            "marcador": "1-1",
-            "probabilidad": 11.99
-          },
-          {
-            "marcador": "0-1",
-            "probabilidad": 10.17
-          }
-        ]
-      },
-      "ranking": 115
+      "ranking": 137
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/lens-IBmris38/sporting-tljXuHBC/?mid=boMhjDLM",
@@ -4960,9 +5906,9 @@
       "logo_local": "https://static.flashscore.com/res/image/data/jqg52CDa-rTEFAmVL.png",
       "logo_visitante": "https://static.flashscore.com/res/image/data/OWbPc9il-4ddK8rOq.png",
       "cuotas": {
-        "Local": 2.56,
+        "Local": 2.54,
         "Empate": 3.85,
-        "Visitante": 2.56
+        "Visitante": 2.6
       },
       "1X2_modelo": {
         "Local": 38.11,
@@ -4974,11 +5920,11 @@
         "probabilidad": 70.18
       },
       "recomendacion": {
-        "codigo": "1",
-        "nombre": "Lens",
-        "score": 37.81,
-        "probabilidad_modelo": 38.11,
-        "cuota": 2.56,
+        "codigo": "2",
+        "nombre": "Sporting CP",
+        "score": 37.75,
+        "probabilidad_modelo": 37.82,
+        "cuota": 2.6,
         "marcadores": [
           {
             "marcador": "1-1",
@@ -4990,50 +5936,7 @@
           }
         ]
       },
-      "ranking": 116
-    },
-    {
-      "partido_id": "https://www.flashscore.co/partido/futbol/all-boys-M939rYCH/godoy-cruz-tUAxIm6l/?mid=4fWVMF2t",
-      "fecha": "2026-10-12",
-      "hora": "17:00",
-      "pais": "ARGENTINA",
-      "liga": "PRIMERA NACIONAL - JORNADA 33",
-      "local": "All Boys",
-      "visitante": "Godoy Cruz",
-      "logo_local": "https://static.flashscore.com/res/image/data/Umu7h6h5-OzQboFJC.png",
-      "logo_visitante": "https://static.flashscore.com/res/image/data/KnQeHYwS-IJKf4CSg.png",
-      "cuotas": {
-        "Local": 2.85,
-        "Empate": 2.7,
-        "Visitante": 2.65
-      },
-      "1X2_modelo": {
-        "Local": 33.31,
-        "Empate": 30.85,
-        "Visitante": 35.84
-      },
-      "ambos_marcan": {
-        "resultado": "SI",
-        "probabilidad": 53.09
-      },
-      "recomendacion": {
-        "codigo": "2",
-        "nombre": "Godoy Cruz",
-        "score": 37.79,
-        "probabilidad_modelo": 35.84,
-        "cuota": 2.65,
-        "marcadores": [
-          {
-            "marcador": "1-1",
-            "probabilidad": 12.51
-          },
-          {
-            "marcador": "0-1",
-            "probabilidad": 10.17
-          }
-        ]
-      },
-      "ranking": 117
+      "ranking": 138
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/lancaster-6coTHMDL/stockton-SWMKVql8/?mid=UPMq4t8K",
@@ -5076,50 +5979,93 @@
           }
         ]
       },
-      "ranking": 118
+      "ranking": 139
     },
     {
-      "partido_id": "https://www.flashscore.co/partido/futbol/estrella-del-sur-UJYBkchU/juventud-unida-san-miguel-0pyRj96p/?mid=fDIm5af2",
-      "fecha": "2026-10-12",
-      "hora": "13:00",
-      "pais": "ARGENTINA",
-      "liga": "PRIMERA C - JORNADA 32",
-      "local": "Estrella Del Sur",
-      "visitante": "Juventud Unida",
-      "logo_local": "https://static.flashscore.com/res/image/data/vcTOTuAr-6uHqMQtE.png",
-      "logo_visitante": "https://static.flashscore.com/res/image/data/x44YjvYg-YTTAVtnI.png",
+      "partido_id": "https://www.flashscore.co/partido/futbol/giugliano-YJJyOk94/inter-rqn271Ga/?mid=8Q2GRJY2",
+      "fecha": "2026-10-13",
+      "hora": "08:00",
+      "pais": "ITALIA",
+      "liga": "SERIE C - GRUPO C - JORNADA 7",
+      "local": "Giugliano",
+      "visitante": "Inter Sub-23",
+      "logo_local": "https://static.flashscore.com/res/image/data/U5Egoeil-KbyStBWu.png",
+      "logo_visitante": "https://static.flashscore.com/res/image/data/lxz64qDa-O8c8nWOb.png",
       "cuotas": {
         "Local": 2.5,
-        "Empate": 2.7,
-        "Visitante": 3.0
+        "Empate": 3.3,
+        "Visitante": 2.5
       },
       "1X2_modelo": {
-        "Local": 39.88,
-        "Empate": 29.32,
-        "Visitante": 30.8
+        "Local": 36.85,
+        "Empate": 26.57,
+        "Visitante": 36.58
       },
       "ambos_marcan": {
         "resultado": "SI",
-        "probabilidad": 55.64
+        "probabilidad": 56.99
       },
       "recomendacion": {
-        "codigo": "1",
-        "nombre": "Estrella Del Sur",
-        "score": 37.05,
-        "probabilidad_modelo": 39.88,
+        "codigo": "2",
+        "nombre": "Inter Sub-23",
+        "score": 36.66,
+        "probabilidad_modelo": 36.58,
         "cuota": 2.5,
         "marcadores": [
           {
             "marcador": "1-1",
-            "probabilidad": 11.72
+            "probabilidad": 11.56
           },
           {
-            "marcador": "1-0",
-            "probabilidad": 9.43
+            "marcador": "0-1",
+            "probabilidad": 9.0
           }
         ]
       },
-      "ranking": 119
+      "ranking": 140
+    },
+    {
+      "partido_id": "https://www.flashscore.co/partido/futbol/all-boys-M939rYCH/godoy-cruz-tUAxIm6l/?mid=4fWVMF2t",
+      "fecha": "2026-10-12",
+      "hora": "17:00",
+      "pais": "ARGENTINA",
+      "liga": "PRIMERA NACIONAL - JORNADA 33",
+      "local": "All Boys",
+      "visitante": "Godoy Cruz",
+      "logo_local": "https://static.flashscore.com/res/image/data/Umu7h6h5-OzQboFJC.png",
+      "logo_visitante": "https://static.flashscore.com/res/image/data/KnQeHYwS-IJKf4CSg.png",
+      "cuotas": {
+        "Local": 2.85,
+        "Empate": 2.7,
+        "Visitante": 2.7
+      },
+      "1X2_modelo": {
+        "Local": 33.31,
+        "Empate": 30.85,
+        "Visitante": 35.84
+      },
+      "ambos_marcan": {
+        "resultado": "SI",
+        "probabilidad": 53.09
+      },
+      "recomendacion": {
+        "codigo": "2",
+        "nombre": "Godoy Cruz",
+        "score": 36.58,
+        "probabilidad_modelo": 35.84,
+        "cuota": 2.7,
+        "marcadores": [
+          {
+            "marcador": "1-1",
+            "probabilidad": 12.51
+          },
+          {
+            "marcador": "0-1",
+            "probabilidad": 10.17
+          }
+        ]
+      },
+      "ranking": 141
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/general-lamadrid-h2TZd2jm/sportivo-barracas-2qmvus66/?mid=fJThNJPG",
@@ -5132,9 +6078,9 @@
       "logo_local": "https://static.flashscore.com/res/image/data/zqisHhe5-8dLsPJea.png",
       "logo_visitante": "https://static.flashscore.com/res/image/data/0GdU8GWg-Qk9gGJIO.png",
       "cuotas": {
-        "Local": 2.55,
+        "Local": 2.5,
         "Empate": 2.9,
-        "Visitante": 2.75
+        "Visitante": 2.8
       },
       "1X2_modelo": {
         "Local": 36.92,
@@ -5148,9 +6094,9 @@
       "recomendacion": {
         "codigo": "1",
         "nombre": "General Lamadrid",
-        "score": 35.26,
+        "score": 35.14,
         "probabilidad_modelo": 36.92,
-        "cuota": 2.55,
+        "cuota": 2.5,
         "marcadores": [
           {
             "marcador": "1-1",
@@ -5162,7 +6108,7 @@
           }
         ]
       },
-      "ranking": 120
+      "ranking": 142
     },
     {
       "partido_id": "https://www.flashscore.co/partido/futbol/ca-lugano-UoKLWqBd/mercedes-f9EqVPz8/?mid=fisDhMAd",
@@ -5175,9 +6121,9 @@
       "logo_local": "https://static.flashscore.com/res/image/data/OvMk61dM-MPj6XmyK.png",
       "logo_visitante": "https://static.flashscore.com/res/image/data/GpGc7Wh5-ttfPfX14.png",
       "cuotas": {
-        "Local": 2.65,
-        "Empate": 2.9,
-        "Visitante": 2.65
+        "Local": 2.4,
+        "Empate": 2.88,
+        "Visitante": 2.95
       },
       "1X2_modelo": {
         "Local": 35.41,
@@ -5191,9 +6137,9 @@
       "recomendacion": {
         "codigo": "1",
         "nombre": "Mercedes",
-        "score": 32.32,
+        "score": 34.71,
         "probabilidad_modelo": 35.41,
-        "cuota": 2.65,
+        "cuota": 2.4,
         "marcadores": [
           {
             "marcador": "1-1",
@@ -5205,7 +6151,7 @@
           }
         ]
       },
-      "ranking": 121
+      "ranking": 143
     }
   ]
 }
