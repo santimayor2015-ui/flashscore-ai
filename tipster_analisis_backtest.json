@@ -1,41 +1,41 @@
 {
-  "fecha_generacion": "2026-10-15T15:27:52-05:00",
+  "fecha_generacion": "2026-10-15T19:49:20-05:00",
   "archivo": "historico_pronosticos.json",
   "modelo_id": "TIPSTER_MONTECARLO_V1",
   "version_backtest": "TIPSTER_BACKTEST_2.0",
   "criterio": "La efectividad general y PREMIUM evalúan únicamente la recomendación congelada. Mercados y marcadores adicionales se reportan como diagnósticos independientes.",
   "sincronizacion_resultados": {
-    "fecha_verificacion": "2026-10-15T15:15:06-05:00",
-    "pendientes_vencidos_antes": 284,
-    "consultados_flashscore": 284,
-    "resultados_finales_actualizados": 246,
-    "pendientes_eliminados_mas_24h": 8,
-    "pendientes_conservados": 30,
+    "fecha_verificacion": "2026-10-15T19:47:19-05:00",
+    "pendientes_vencidos_antes": 45,
+    "consultados_flashscore": 45,
+    "resultados_finales_actualizados": 35,
+    "pendientes_eliminados_mas_24h": 1,
+    "pendientes_conservados": 9,
     "errores_consulta": 0,
     "errores_detalle": [],
     "horas_retencion": 24.0,
     "historico_cambio": true,
     "criterio_eliminacion": "Se elimina un pendiente con inicio >= 24 h si Flashscore cargó una página válida sin resultado final o si falta el link; los errores de consulta se conservan."
   },
-  "partidos_con_modelo_tipster": 1702,
-  "total_recomendaciones": 1246,
-  "finalizados_evaluados": 185,
-  "pendientes": 1061,
-  "partidos_totalizados_sin_apuesta": 456,
+  "partidos_con_modelo_tipster": 1734,
+  "total_recomendaciones": 1271,
+  "finalizados_evaluados": 206,
+  "pendientes": 1065,
+  "partidos_totalizados_sin_apuesta": 463,
   "premium_total": 0,
   "premium_evaluados": 0,
   "premium_pendientes": 0,
   "resumen_general": {
-    "partidos_evaluados": 185,
-    "aciertos": 123,
-    "fallos": 62,
-    "acierto_pct": 66.49,
+    "partidos_evaluados": 206,
+    "aciertos": 139,
+    "fallos": 67,
+    "acierto_pct": 67.48,
     "intervalo_confianza_wilson_95_pct": [
-      59.41,
-      72.89
+      60.81,
+      73.5
     ],
-    "brier_binario": 0.2407,
-    "log_loss_binario": 0.7625,
+    "brier_binario": 0.234,
+    "log_loss_binario": 0.7396,
     "cuotas_evaluadas": 6,
     "unidades_net": -2.3,
     "roi_pct": -38.33
@@ -102,16 +102,16 @@
       "roi_pct": null
     },
     "OVER_1_5": {
-      "partidos_evaluados": 64,
-      "aciertos": 52,
-      "fallos": 12,
-      "acierto_pct": 81.25,
+      "partidos_evaluados": 76,
+      "aciertos": 62,
+      "fallos": 14,
+      "acierto_pct": 81.58,
       "intervalo_confianza_wilson_95_pct": [
-        70.03,
-        88.94
+        71.42,
+        88.7
       ],
-      "brier_binario": 0.1536,
-      "log_loss_binario": 0.4943,
+      "brier_binario": 0.15,
+      "log_loss_binario": 0.4853,
       "cuotas_evaluadas": 0,
       "unidades_net": null,
       "roi_pct": null
@@ -147,16 +147,16 @@
       "roi_pct": null
     },
     "UNDER_3_5": {
-      "partidos_evaluados": 61,
-      "aciertos": 41,
-      "fallos": 20,
-      "acierto_pct": 67.21,
+      "partidos_evaluados": 70,
+      "aciertos": 47,
+      "fallos": 23,
+      "acierto_pct": 67.14,
       "intervalo_confianza_wilson_95_pct": [
-        54.72,
-        77.67
+        55.5,
+        77.0
       ],
-      "brier_binario": 0.2253,
-      "log_loss_binario": 0.6437,
+      "brier_binario": 0.2267,
+      "log_loss_binario": 0.6476,
       "cuotas_evaluadas": 0,
       "unidades_net": null,
       "roi_pct": null
@@ -239,16 +239,16 @@
       "roi_pct": null
     },
     "ARGENTINA::DIVISION RESERVA - CLAUSURA": {
-      "partidos_evaluados": 5,
-      "aciertos": 4,
-      "fallos": 1,
-      "acierto_pct": 80.0,
+      "partidos_evaluados": 7,
+      "aciertos": 5,
+      "fallos": 2,
+      "acierto_pct": 71.43,
       "intervalo_confianza_wilson_95_pct": [
-        37.55,
-        96.38
+        35.89,
+        91.78
       ],
-      "brier_binario": 0.1583,
-      "log_loss_binario": 0.4966,
+      "brier_binario": 0.188,
+      "log_loss_binario": 0.5582,
       "cuotas_evaluadas": 0,
       "unidades_net": null,
       "roi_pct": null
@@ -419,16 +419,16 @@
       "roi_pct": -100.0
     },
     "COLOMBIA::PRIMERA B - CLAUSURA": {
-      "partidos_evaluados": 1,
-      "aciertos": 1,
-      "fallos": 0,
-      "acierto_pct": 100.0,
+      "partidos_evaluados": 5,
+      "aciertos": 4,
+      "fallos": 1,
+      "acierto_pct": 80.0,
       "intervalo_confianza_wilson_95_pct": [
-        20.65,
-        100
+        37.55,
+        96.38
       ],
-      "brier_binario": 0.0509,
-      "log_loss_binario": 0.2558,
+      "brier_binario": 0.1618,
+      "log_loss_binario": 0.5052,
       "cuotas_evaluadas": 0,
       "unidades_net": null,
       "roi_pct": null
@@ -444,6 +444,21 @@
       ],
       "brier_binario": 0.3403,
       "log_loss_binario": 0.9137,
+      "cuotas_evaluadas": 0,
+      "unidades_net": null,
+      "roi_pct": null
+    },
+    "ECUADOR::SERIE B - GRUPO ASCENSO": {
+      "partidos_evaluados": 1,
+      "aciertos": 1,
+      "fallos": 0,
+      "acierto_pct": 100.0,
+      "intervalo_confianza_wilson_95_pct": [
+        20.65,
+        100
+      ],
+      "brier_binario": 0.0367,
+      "log_loss_binario": 0.2126,
       "cuotas_evaluadas": 0,
       "unidades_net": null,
       "roi_pct": null
@@ -629,31 +644,31 @@
       "roi_pct": null
     },
     "EUROPA::CONFERENCE LEAGUE": {
-      "partidos_evaluados": 8,
-      "aciertos": 6,
-      "fallos": 2,
-      "acierto_pct": 75.0,
+      "partidos_evaluados": 12,
+      "aciertos": 8,
+      "fallos": 4,
+      "acierto_pct": 66.67,
       "intervalo_confianza_wilson_95_pct": [
-        40.93,
-        92.85
+        39.06,
+        86.19
       ],
-      "brier_binario": 0.1549,
-      "log_loss_binario": 0.4734,
+      "brier_binario": 0.2204,
+      "log_loss_binario": 0.6408,
       "cuotas_evaluadas": 1,
       "unidades_net": -1.0,
       "roi_pct": -100.0
     },
     "EUROPA::EUROPA LEAGUE": {
-      "partidos_evaluados": 5,
-      "aciertos": 5,
+      "partidos_evaluados": 11,
+      "aciertos": 11,
       "fallos": 0,
       "acierto_pct": 100.0,
       "intervalo_confianza_wilson_95_pct": [
-        56.55,
+        74.12,
         100
       ],
-      "brier_binario": 0.0367,
-      "log_loss_binario": 0.2047,
+      "brier_binario": 0.0349,
+      "log_loss_binario": 0.2023,
       "cuotas_evaluadas": 0,
       "unidades_net": null,
       "roi_pct": null
@@ -688,6 +703,36 @@
       "unidades_net": -1.0,
       "roi_pct": -100.0
     },
+    "FRANCIA::LIGUE 3": {
+      "partidos_evaluados": 1,
+      "aciertos": 1,
+      "fallos": 0,
+      "acierto_pct": 100.0,
+      "intervalo_confianza_wilson_95_pct": [
+        20.65,
+        100
+      ],
+      "brier_binario": 0.036,
+      "log_loss_binario": 0.2104,
+      "cuotas_evaluadas": 0,
+      "unidades_net": null,
+      "roi_pct": null
+    },
+    "GUATEMALA::LIGA NACIONAL - APERTURA": {
+      "partidos_evaluados": 1,
+      "aciertos": 1,
+      "fallos": 0,
+      "acierto_pct": 100.0,
+      "intervalo_confianza_wilson_95_pct": [
+        20.65,
+        100
+      ],
+      "brier_binario": 0.063,
+      "log_loss_binario": 0.2889,
+      "cuotas_evaluadas": 0,
+      "unidades_net": null,
+      "roi_pct": null
+    },
     "INGLATERRA::CHAMPIONSHIP": {
       "partidos_evaluados": 4,
       "aciertos": 1,
@@ -699,6 +744,21 @@
       ],
       "brier_binario": 0.4571,
       "log_loss_binario": 1.1871,
+      "cuotas_evaluadas": 0,
+      "unidades_net": null,
+      "roi_pct": null
+    },
+    "INGLATERRA::LEAGUE ONE": {
+      "partidos_evaluados": 1,
+      "aciertos": 1,
+      "fallos": 0,
+      "acierto_pct": 100.0,
+      "intervalo_confianza_wilson_95_pct": [
+        20.65,
+        100
+      ],
+      "brier_binario": 0.0297,
+      "log_loss_binario": 0.1892,
       "cuotas_evaluadas": 0,
       "unidades_net": null,
       "roi_pct": null
@@ -1139,16 +1199,16 @@
       "roi_pct": null
     },
     "URUGUAY::COPA AUF URUGUAY": {
-      "partidos_evaluados": 1,
+      "partidos_evaluados": 2,
       "aciertos": 0,
-      "fallos": 1,
+      "fallos": 2,
       "acierto_pct": 0.0,
       "intervalo_confianza_wilson_95_pct": [
         0,
-        79.35
+        65.76
       ],
-      "brier_binario": 0.5957,
-      "log_loss_binario": 1.4775,
+      "brier_binario": 0.617,
+      "log_loss_binario": 1.541,
       "cuotas_evaluadas": 0,
       "unidades_net": null,
       "roi_pct": null
@@ -1307,16 +1367,16 @@
       "roi_pct": null
     },
     "ARGENTINA::DIVISION RESERVA - CLAUSURA||OVER_1_5": {
-      "partidos_evaluados": 5,
-      "aciertos": 4,
-      "fallos": 1,
-      "acierto_pct": 80.0,
+      "partidos_evaluados": 7,
+      "aciertos": 5,
+      "fallos": 2,
+      "acierto_pct": 71.43,
       "intervalo_confianza_wilson_95_pct": [
-        37.55,
-        96.38
+        35.89,
+        91.78
       ],
-      "brier_binario": 0.1583,
-      "log_loss_binario": 0.4966,
+      "brier_binario": 0.188,
+      "log_loss_binario": 0.5582,
       "cuotas_evaluadas": 0,
       "unidades_net": null,
       "roi_pct": null
@@ -1517,16 +1577,16 @@
       "roi_pct": null
     },
     "COLOMBIA::PRIMERA B - CLAUSURA||UNDER_3_5": {
-      "partidos_evaluados": 1,
-      "aciertos": 1,
-      "fallos": 0,
-      "acierto_pct": 100.0,
+      "partidos_evaluados": 5,
+      "aciertos": 4,
+      "fallos": 1,
+      "acierto_pct": 80.0,
       "intervalo_confianza_wilson_95_pct": [
-        20.65,
-        100
+        37.55,
+        96.38
       ],
-      "brier_binario": 0.0509,
-      "log_loss_binario": 0.2558,
+      "brier_binario": 0.1618,
+      "log_loss_binario": 0.5052,
       "cuotas_evaluadas": 0,
       "unidades_net": null,
       "roi_pct": null
@@ -1542,6 +1602,21 @@
       ],
       "brier_binario": 0.3403,
       "log_loss_binario": 0.9137,
+      "cuotas_evaluadas": 0,
+      "unidades_net": null,
+      "roi_pct": null
+    },
+    "ECUADOR::SERIE B - GRUPO ASCENSO||UNDER_3_5": {
+      "partidos_evaluados": 1,
+      "aciertos": 1,
+      "fallos": 0,
+      "acierto_pct": 100.0,
+      "intervalo_confianza_wilson_95_pct": [
+        20.65,
+        100
+      ],
+      "brier_binario": 0.0367,
+      "log_loss_binario": 0.2126,
       "cuotas_evaluadas": 0,
       "unidades_net": null,
       "roi_pct": null
@@ -1862,36 +1937,51 @@
       "roi_pct": null
     },
     "EUROPA::CONFERENCE LEAGUE||OVER_1_5": {
-      "partidos_evaluados": 4,
-      "aciertos": 4,
-      "fallos": 0,
-      "acierto_pct": 100.0,
+      "partidos_evaluados": 7,
+      "aciertos": 6,
+      "fallos": 1,
+      "acierto_pct": 85.71,
       "intervalo_confianza_wilson_95_pct": [
-        51.01,
-        100
+        48.69,
+        97.43
       ],
-      "brier_binario": 0.0236,
-      "log_loss_binario": 0.1658,
+      "brier_binario": 0.1321,
+      "log_loss_binario": 0.4496,
       "cuotas_evaluadas": 0,
       "unidades_net": null,
       "roi_pct": null
     },
     "EUROPA::CONFERENCE LEAGUE||UNDER_3_5": {
-      "partidos_evaluados": 2,
+      "partidos_evaluados": 3,
       "aciertos": 1,
-      "fallos": 1,
-      "acierto_pct": 50.0,
+      "fallos": 2,
+      "acierto_pct": 33.33,
       "intervalo_confianza_wilson_95_pct": [
-        9.45,
-        90.55
+        6.15,
+        79.23
       ],
-      "brier_binario": 0.3298,
-      "log_loss_binario": 0.884,
+      "brier_binario": 0.4114,
+      "log_loss_binario": 1.0624,
       "cuotas_evaluadas": 0,
       "unidades_net": null,
       "roi_pct": null
     },
     "EUROPA::EUROPA LEAGUE||OVER_1_5": {
+      "partidos_evaluados": 8,
+      "aciertos": 8,
+      "fallos": 0,
+      "acierto_pct": 100.0,
+      "intervalo_confianza_wilson_95_pct": [
+        67.56,
+        100
+      ],
+      "brier_binario": 0.0256,
+      "log_loss_binario": 0.1731,
+      "cuotas_evaluadas": 0,
+      "unidades_net": null,
+      "roi_pct": null
+    },
+    "EUROPA::EUROPA LEAGUE||UNDER_3_5": {
       "partidos_evaluados": 3,
       "aciertos": 3,
       "fallos": 0,
@@ -1900,23 +1990,8 @@
         43.85,
         100
       ],
-      "brier_binario": 0.0196,
-      "log_loss_binario": 0.1503,
-      "cuotas_evaluadas": 0,
-      "unidades_net": null,
-      "roi_pct": null
-    },
-    "EUROPA::EUROPA LEAGUE||UNDER_3_5": {
-      "partidos_evaluados": 2,
-      "aciertos": 2,
-      "fallos": 0,
-      "acierto_pct": 100.0,
-      "intervalo_confianza_wilson_95_pct": [
-        34.24,
-        100
-      ],
-      "brier_binario": 0.0623,
-      "log_loss_binario": 0.2864,
+      "brier_binario": 0.0598,
+      "log_loss_binario": 0.2799,
       "cuotas_evaluadas": 0,
       "unidades_net": null,
       "roi_pct": null
@@ -1981,6 +2056,36 @@
       "unidades_net": null,
       "roi_pct": null
     },
+    "FRANCIA::LIGUE 3||OVER_1_5": {
+      "partidos_evaluados": 1,
+      "aciertos": 1,
+      "fallos": 0,
+      "acierto_pct": 100.0,
+      "intervalo_confianza_wilson_95_pct": [
+        20.65,
+        100
+      ],
+      "brier_binario": 0.036,
+      "log_loss_binario": 0.2104,
+      "cuotas_evaluadas": 0,
+      "unidades_net": null,
+      "roi_pct": null
+    },
+    "GUATEMALA::LIGA NACIONAL - APERTURA||UNDER_3_5": {
+      "partidos_evaluados": 1,
+      "aciertos": 1,
+      "fallos": 0,
+      "acierto_pct": 100.0,
+      "intervalo_confianza_wilson_95_pct": [
+        20.65,
+        100
+      ],
+      "brier_binario": 0.063,
+      "log_loss_binario": 0.2889,
+      "cuotas_evaluadas": 0,
+      "unidades_net": null,
+      "roi_pct": null
+    },
     "INGLATERRA::CHAMPIONSHIP||OVER_1_5": {
       "partidos_evaluados": 2,
       "aciertos": 1,
@@ -2007,6 +2112,21 @@
       ],
       "brier_binario": 0.533,
       "log_loss_binario": 1.3106,
+      "cuotas_evaluadas": 0,
+      "unidades_net": null,
+      "roi_pct": null
+    },
+    "INGLATERRA::LEAGUE ONE||OVER_1_5": {
+      "partidos_evaluados": 1,
+      "aciertos": 1,
+      "fallos": 0,
+      "acierto_pct": 100.0,
+      "intervalo_confianza_wilson_95_pct": [
+        20.65,
+        100
+      ],
+      "brier_binario": 0.0297,
+      "log_loss_binario": 0.1892,
       "cuotas_evaluadas": 0,
       "unidades_net": null,
       "roi_pct": null
@@ -2612,16 +2732,16 @@
       "roi_pct": null
     },
     "URUGUAY::COPA AUF URUGUAY||UNDER_3_5": {
-      "partidos_evaluados": 1,
+      "partidos_evaluados": 2,
       "aciertos": 0,
-      "fallos": 1,
+      "fallos": 2,
       "acierto_pct": 0.0,
       "intervalo_confianza_wilson_95_pct": [
         0,
-        79.35
+        65.76
       ],
-      "brier_binario": 0.5957,
-      "log_loss_binario": 1.4775,
+      "brier_binario": 0.617,
+      "log_loss_binario": 1.541,
       "cuotas_evaluadas": 0,
       "unidades_net": null,
       "roi_pct": null
@@ -2738,46 +2858,46 @@
       "roi_pct": -7.5
     },
     "60% AL 70%": {
-      "partidos_evaluados": 34,
+      "partidos_evaluados": 35,
       "aciertos": 19,
-      "fallos": 15,
-      "acierto_pct": 55.88,
+      "fallos": 16,
+      "acierto_pct": 54.29,
       "intervalo_confianza_wilson_95_pct": [
-        39.45,
-        71.12
+        38.19,
+        69.53
       ],
-      "brier_binario": 0.2542,
-      "log_loss_binario": 0.7031,
+      "brier_binario": 0.2603,
+      "log_loss_binario": 0.7159,
       "cuotas_evaluadas": 2,
       "unidades_net": -2.0,
       "roi_pct": -100.0
     },
     "70% AL 80%": {
-      "partidos_evaluados": 58,
-      "aciertos": 36,
-      "fallos": 22,
-      "acierto_pct": 62.07,
+      "partidos_evaluados": 67,
+      "aciertos": 42,
+      "fallos": 25,
+      "acierto_pct": 62.69,
       "intervalo_confianza_wilson_95_pct": [
-        49.2,
-        73.44
+        50.72,
+        73.28
       ],
-      "brier_binario": 0.25,
-      "log_loss_binario": 0.6993,
+      "brier_binario": 0.2485,
+      "log_loss_binario": 0.6968,
       "cuotas_evaluadas": 0,
       "unidades_net": null,
       "roi_pct": null
     },
     "80% AL 90%": {
-      "partidos_evaluados": 59,
-      "aciertos": 51,
-      "fallos": 8,
-      "acierto_pct": 86.44,
+      "partidos_evaluados": 70,
+      "aciertos": 61,
+      "fallos": 9,
+      "acierto_pct": 87.14,
       "intervalo_confianza_wilson_95_pct": [
-        75.46,
-        92.97
+        77.34,
+        93.09
       ],
-      "brier_binario": 0.1199,
-      "log_loss_binario": 0.4081,
+      "brier_binario": 0.1165,
+      "log_loss_binario": 0.4016,
       "cuotas_evaluadas": 0,
       "unidades_net": null,
       "roi_pct": null
@@ -2801,70 +2921,70 @@
   "premium_por_rango_probabilidad": {},
   "diagnostico_otros_mercados": {
     "1X2_RESULTADO_MAS_PROBABLE": {
-      "partidos_evaluados": 246,
-      "aciertos": 101,
-      "fallos": 145,
-      "acierto_pct": 41.06,
-      "brier_binario": 0.2433,
-      "log_loss_binario": 0.6795
+      "partidos_evaluados": 276,
+      "aciertos": 116,
+      "fallos": 160,
+      "acierto_pct": 42.03,
+      "brier_binario": 0.2419,
+      "log_loss_binario": 0.6767
     },
     "BTTS_SI_EVENTO": {
-      "partidos_evaluados": 246,
-      "aciertos": 140,
-      "fallos": 106,
-      "acierto_pct": 56.91,
-      "brier_binario": 0.2647,
-      "log_loss_binario": 0.7495
+      "partidos_evaluados": 276,
+      "aciertos": 157,
+      "fallos": 119,
+      "acierto_pct": 56.88,
+      "brier_binario": 0.2617,
+      "log_loss_binario": 0.7406
     },
     "TOTAL_1.5_MAYOR_PROBABILIDAD": {
-      "partidos_evaluados": 246,
-      "aciertos": 184,
-      "fallos": 62,
-      "acierto_pct": 74.8,
-      "brier_binario": 0.2015,
-      "log_loss_binario": 0.6114
+      "partidos_evaluados": 276,
+      "aciertos": 208,
+      "fallos": 68,
+      "acierto_pct": 75.36,
+      "brier_binario": 0.1966,
+      "log_loss_binario": 0.5988
     },
     "TOTAL_2.5_MAYOR_PROBABILIDAD": {
-      "partidos_evaluados": 246,
-      "aciertos": 137,
-      "fallos": 109,
-      "acierto_pct": 55.69,
-      "brier_binario": 0.2691,
-      "log_loss_binario": 0.7997
+      "partidos_evaluados": 276,
+      "aciertos": 155,
+      "fallos": 121,
+      "acierto_pct": 56.16,
+      "brier_binario": 0.2662,
+      "log_loss_binario": 0.7866
     },
     "TOTAL_3.5_MAYOR_PROBABILIDAD": {
-      "partidos_evaluados": 246,
-      "aciertos": 153,
-      "fallos": 93,
-      "acierto_pct": 62.2,
-      "brier_binario": 0.2259,
-      "log_loss_binario": 0.6539
+      "partidos_evaluados": 276,
+      "aciertos": 175,
+      "fallos": 101,
+      "acierto_pct": 63.41,
+      "brier_binario": 0.2227,
+      "log_loss_binario": 0.6463
     },
     "MARCADOR_EXACTO_TOP_1": {
-      "partidos_evaluados": 246,
-      "aciertos": 28,
-      "acierto_pct": 11.38
+      "partidos_evaluados": 276,
+      "aciertos": 34,
+      "acierto_pct": 12.32
     },
     "MARCADOR_EXACTO_TOP_5": {
-      "partidos_evaluados": 246,
-      "aciertos": 99,
-      "acierto_pct": 40.24
+      "partidos_evaluados": 276,
+      "aciertos": 116,
+      "acierto_pct": 42.03
     },
     "matriz_confusion_1X2": {
       "1": {
-        "1": 57,
+        "1": 68,
         "X": 11,
-        "2": 33
+        "2": 40
       },
       "X": {
-        "1": 33,
+        "1": 35,
         "X": 3,
-        "2": 26
+        "2": 30
       },
       "2": {
-        "1": 36,
+        "1": 38,
         "X": 6,
-        "2": 41
+        "2": 45
       }
     },
     "nota": "Estas métricas describen mercados del modelo; no se suman a la efectividad de la recomendación ni a premium."
@@ -3024,85 +3144,6 @@
             "marcador": "0-1",
             "probabilidad": 7.27,
             "frecuencia": 2181
-          }
-        ]
-      }
-    },
-    {
-      "id_partido": "LINK::https://www.flashscore.co/partido/futbol/jaguares-de-cordoba-hCwaFc4a/santa-fe-6HbMPbJ1/?mid=4UVLycFG",
-      "fecha": "2026-10-14",
-      "hora": "18:30",
-      "pais": "COLOMBIA",
-      "liga": "PRIMERA A - CLAUSURA - JORNADA 7",
-      "local": "Ind. Santa Fe",
-      "visitante": "Jaguares de Córdoba",
-      "link": "https://www.flashscore.co/partido/futbol/jaguares-de-cordoba-hCwaFc4a/santa-fe-6HbMPbJ1/?mid=4UVLycFG",
-      "estado_resultado": "PENDIENTE",
-      "marcador_real": null,
-      "resultado_real": null,
-      "recomendacion": {
-        "mercado_id": "UNDER_3_5",
-        "mercado": "Menos de 3.5 goles",
-        "probabilidad": 75.78,
-        "cuota": null,
-        "estado": "PICK"
-      },
-      "premium": false,
-      "modelo_id": "TIPSTER_MONTECARLO_V1",
-      "diagnostico_mercados": {
-        "1X2": {
-          "Local": 49.61,
-          "Empate": 26.16,
-          "Visitante": 24.24
-        },
-        "btts": {
-          "resultado": "NO",
-          "probabilidad": 48.38,
-          "probabilidad_si": 48.38,
-          "probabilidad_no": 51.62
-        },
-        "totales": {
-          "1.5": {
-            "over": 71.04,
-            "under": 28.96,
-            "muestra_simulada": 30000
-          },
-          "2.5": {
-            "over": 45.49,
-            "under": 54.51,
-            "muestra_simulada": 30000
-          },
-          "3.5": {
-            "over": 24.22,
-            "under": 75.78,
-            "muestra_simulada": 30000
-          }
-        },
-        "marcadores": [
-          {
-            "marcador": "1-0",
-            "probabilidad": 12.51,
-            "frecuencia": 3752
-          },
-          {
-            "marcador": "1-1",
-            "probabilidad": 11.94,
-            "frecuencia": 3583
-          },
-          {
-            "marcador": "2-0",
-            "probabilidad": 9.9,
-            "frecuencia": 2971
-          },
-          {
-            "marcador": "2-1",
-            "probabilidad": 9.55,
-            "frecuencia": 2864
-          },
-          {
-            "marcador": "0-1",
-            "probabilidad": 8.35,
-            "frecuencia": 2506
           }
         ]
       }
@@ -9831,9 +9872,9 @@
       "local": "Benfica",
       "visitante": "Celtic",
       "link": "https://www.flashscore.co/partido/futbol/benfica-zBkyuyRI/celtic-QFKRRD8M/?mid=niOOqJCs",
-      "estado_resultado": "PENDIENTE",
-      "marcador_real": null,
-      "resultado_real": null,
+      "estado_resultado": "FINALIZADO",
+      "marcador_real": "4-1",
+      "resultado_real": "1",
       "recomendacion": {
         "mercado_id": "OVER_1_5",
         "mercado": "Más de 1.5 goles",
@@ -9910,9 +9951,9 @@
       "local": "Bournemouth",
       "visitante": "Sturm Graz",
       "link": "https://www.flashscore.co/partido/futbol/bournemouth-OtpNdwrc/sturm-zsktjfsD/?mid=xEWtUkz9",
-      "estado_resultado": "PENDIENTE",
-      "marcador_real": null,
-      "resultado_real": null,
+      "estado_resultado": "FINALIZADO",
+      "marcador_real": "3-0",
+      "resultado_real": "1",
       "recomendacion": {
         "mercado_id": "OVER_1_5",
         "mercado": "Más de 1.5 goles",
@@ -9989,9 +10030,9 @@
       "local": "Celta de Vigo",
       "visitante": "Juventus",
       "link": "https://www.flashscore.co/partido/futbol/celta-vigo-8pvUZFhf/juventus-C06aJvIB/?mid=hhghCah2",
-      "estado_resultado": "PENDIENTE",
-      "marcador_real": null,
-      "resultado_real": null,
+      "estado_resultado": "FINALIZADO",
+      "marcador_real": "1-2",
+      "resultado_real": "2",
       "recomendacion": {
         "mercado_id": "UNDER_3_5",
         "mercado": "Menos de 3.5 goles",
@@ -10068,9 +10109,9 @@
       "local": "Dinamo Zagreb",
       "visitante": "Anderlecht",
       "link": "https://www.flashscore.co/partido/futbol/anderlecht-vslqAKNo/dinamo-zagreb-8G5ufQTg/?mid=ITFszO16",
-      "estado_resultado": "PENDIENTE",
-      "marcador_real": null,
-      "resultado_real": null,
+      "estado_resultado": "FINALIZADO",
+      "marcador_real": "1-0",
+      "resultado_real": "1",
       "recomendacion": {
         "mercado_id": "NO_APOSTAR",
         "mercado": "NO APOSTAR",
@@ -10147,9 +10188,9 @@
       "local": "Ferencvaros",
       "visitante": "Plzen",
       "link": "https://www.flashscore.co/partido/futbol/ferencvaros-pKS9M7R7/plzen-2LA0e86b/?mid=ldpHSKxq",
-      "estado_resultado": "PENDIENTE",
-      "marcador_real": null,
-      "resultado_real": null,
+      "estado_resultado": "FINALIZADO",
+      "marcador_real": "2-1",
+      "resultado_real": "1",
       "recomendacion": {
         "mercado_id": "OVER_1_5",
         "mercado": "Más de 1.5 goles",
@@ -10226,9 +10267,9 @@
       "local": "Hoffenheim",
       "visitante": "Beşiktaş",
       "link": "https://www.flashscore.co/partido/futbol/besiktas-IDmErJCR/hoffenheim-hQAtP9Sl/?mid=pd37tusT",
-      "estado_resultado": "PENDIENTE",
-      "marcador_real": null,
-      "resultado_real": null,
+      "estado_resultado": "FINALIZADO",
+      "marcador_real": "2-3",
+      "resultado_real": "2",
       "recomendacion": {
         "mercado_id": "OVER_1_5",
         "mercado": "Más de 1.5 goles",
@@ -10305,9 +10346,9 @@
       "local": "Jagiellonia",
       "visitante": "Ararat-Armenia",
       "link": "https://www.flashscore.co/partido/futbol/ararat-armenia-xlT9cL89/jagiellonia-lIDaZJTc/?mid=hfKjRWCb",
-      "estado_resultado": "PENDIENTE",
-      "marcador_real": null,
-      "resultado_real": null,
+      "estado_resultado": "FINALIZADO",
+      "marcador_real": "3-1",
+      "resultado_real": "1",
       "recomendacion": {
         "mercado_id": "OVER_1_5",
         "mercado": "Más de 1.5 goles",
@@ -10384,9 +10425,9 @@
       "local": "Marsella",
       "visitante": "Olympiacos",
       "link": "https://www.flashscore.co/partido/futbol/marsella-SblU3Hee/olympiakos-hnzvnHPS/?mid=n95a5iuI",
-      "estado_resultado": "PENDIENTE",
-      "marcador_real": null,
-      "resultado_real": null,
+      "estado_resultado": "FINALIZADO",
+      "marcador_real": "0-1",
+      "resultado_real": "2",
       "recomendacion": {
         "mercado_id": "NO_APOSTAR",
         "mercado": "NO APOSTAR",
@@ -10463,9 +10504,9 @@
       "local": "Nijmegen",
       "visitante": "Levski",
       "link": "https://www.flashscore.co/partido/futbol/levski-E5OOzgs4/nijmegen-nRluRF0T/?mid=t4MiR2xI",
-      "estado_resultado": "PENDIENTE",
-      "marcador_real": null,
-      "resultado_real": null,
+      "estado_resultado": "FINALIZADO",
+      "marcador_real": "1-1",
+      "resultado_real": "X",
       "recomendacion": {
         "mercado_id": "NO_APOSTAR",
         "mercado": "NO APOSTAR",
@@ -10542,9 +10583,9 @@
       "local": "Stade Rennais",
       "visitante": "OFI Creta",
       "link": "https://www.flashscore.co/partido/futbol/ofi-creta-bTObIPJB/rennes-d2nnj1IE/?mid=QNAe7H4S",
-      "estado_resultado": "PENDIENTE",
-      "marcador_real": null,
-      "resultado_real": null,
+      "estado_resultado": "FINALIZADO",
+      "marcador_real": "2-1",
+      "resultado_real": "1",
       "recomendacion": {
         "mercado_id": "NO_APOSTAR",
         "mercado": "NO APOSTAR",
@@ -11964,9 +12005,9 @@
       "local": "Atalanta",
       "visitante": "Pafos",
       "link": "https://www.flashscore.co/partido/futbol/atalanta-8C9JjMXu/pafos-n99DUVW8/?mid=pQxFkMD6",
-      "estado_resultado": "PENDIENTE",
-      "marcador_real": null,
-      "resultado_real": null,
+      "estado_resultado": "FINALIZADO",
+      "marcador_real": "3-1",
+      "resultado_real": "1",
       "recomendacion": {
         "mercado_id": "UNDER_3_5",
         "mercado": "Menos de 3.5 goles",
@@ -12043,9 +12084,9 @@
       "local": "Brann",
       "visitante": "Lincoln",
       "link": "https://www.flashscore.co/partido/futbol/brann-QBbt6ivB/lincoln-red-imps-bHbMply6/?mid=OpoTtM5F",
-      "estado_resultado": "PENDIENTE",
-      "marcador_real": null,
-      "resultado_real": null,
+      "estado_resultado": "FINALIZADO",
+      "marcador_real": "2-1",
+      "resultado_real": "1",
       "recomendacion": {
         "mercado_id": "NO_APOSTAR",
         "mercado": "NO APOSTAR",
@@ -12122,9 +12163,9 @@
       "local": "Brighton",
       "visitante": "Kauno Zalgiris",
       "link": "https://www.flashscore.co/partido/futbol/brighton-2XrRecc3/fk-kauno-zalgiris-0p17kQla/?mid=nJQmLSLs",
-      "estado_resultado": "PENDIENTE",
-      "marcador_real": null,
-      "resultado_real": null,
+      "estado_resultado": "FINALIZADO",
+      "marcador_real": "4-0",
+      "resultado_real": "1",
       "recomendacion": {
         "mercado_id": "OVER_1_5",
         "mercado": "Más de 1.5 goles",
@@ -12201,9 +12242,9 @@
       "local": "Copenhague",
       "visitante": "SC Braga",
       "link": "https://www.flashscore.co/partido/futbol/braga-dpUer7ht/fc-copenhague-hSPZwbEh/?mid=xMULOOY9",
-      "estado_resultado": "PENDIENTE",
-      "marcador_real": null,
-      "resultado_real": null,
+      "estado_resultado": "FINALIZADO",
+      "marcador_real": "3-0",
+      "resultado_real": "1",
       "recomendacion": {
         "mercado_id": "NO_APOSTAR",
         "mercado": "NO APOSTAR",
@@ -12280,9 +12321,9 @@
       "local": "Friburgo",
       "visitante": "Jablonec",
       "link": "https://www.flashscore.co/partido/futbol/friburgo-fiEQZ7C7/jablonec-CM8ySpMH/?mid=n5TuVlXF",
-      "estado_resultado": "PENDIENTE",
-      "marcador_real": null,
-      "resultado_real": null,
+      "estado_resultado": "FINALIZADO",
+      "marcador_real": "3-2",
+      "resultado_real": "1",
       "recomendacion": {
         "mercado_id": "NO_APOSTAR",
         "mercado": "NO APOSTAR",
@@ -12359,9 +12400,9 @@
       "local": "Hearts",
       "visitante": "Nordsjaelland",
       "link": "https://www.flashscore.co/partido/futbol/hearts-0rGrwwNc/nordsjaelland-2wZHnGDH/?mid=tOCJ0Gdl",
-      "estado_resultado": "PENDIENTE",
-      "marcador_real": null,
-      "resultado_real": null,
+      "estado_resultado": "FINALIZADO",
+      "marcador_real": "1-1",
+      "resultado_real": "X",
       "recomendacion": {
         "mercado_id": "OVER_1_5",
         "mercado": "Más de 1.5 goles",
@@ -12438,9 +12479,9 @@
       "local": "St. Truiden",
       "visitante": "Iberia 1999",
       "link": "https://www.flashscore.co/partido/futbol/iberia-1999-dhfRkskl/st-truiden-d2EjBxMM/?mid=bHxnnHse",
-      "estado_resultado": "PENDIENTE",
-      "marcador_real": null,
-      "resultado_real": null,
+      "estado_resultado": "FINALIZADO",
+      "marcador_real": "2-0",
+      "resultado_real": "1",
       "recomendacion": {
         "mercado_id": "NO_APOSTAR",
         "mercado": "NO APOSTAR",
@@ -12517,9 +12558,9 @@
       "local": "Twente",
       "visitante": "Thun",
       "link": "https://www.flashscore.co/partido/futbol/thun-4WElAd9p/twente-dhOKTHGA/?mid=r7DyyWHd",
-      "estado_resultado": "PENDIENTE",
-      "marcador_real": null,
-      "resultado_real": null,
+      "estado_resultado": "FINALIZADO",
+      "marcador_real": "1-0",
+      "resultado_real": "1",
       "recomendacion": {
         "mercado_id": "OVER_1_5",
         "mercado": "Más de 1.5 goles",
@@ -12596,9 +12637,9 @@
       "local": "SM Caen",
       "visitante": "La Roche",
       "link": "https://www.flashscore.co/partido/futbol/caen-GjLn2QoH/la-roche-vendee-CCXiVLd5/?mid=z10yAcOa",
-      "estado_resultado": "PENDIENTE",
-      "marcador_real": null,
-      "resultado_real": null,
+      "estado_resultado": "FINALIZADO",
+      "marcador_real": "2-1",
+      "resultado_real": "1",
       "recomendacion": {
         "mercado_id": "OVER_1_5",
         "mercado": "Más de 1.5 goles",
@@ -12675,9 +12716,9 @@
       "local": "Mansfield",
       "visitante": "Oxford Utd",
       "link": "https://www.flashscore.co/partido/futbol/mansfield-t6G9wMZN/oxford-utd-vgOBT43c/?mid=2kuouhzG",
-      "estado_resultado": "PENDIENTE",
-      "marcador_real": null,
-      "resultado_real": null,
+      "estado_resultado": "FINALIZADO",
+      "marcador_real": "1-1",
+      "resultado_real": "X",
       "recomendacion": {
         "mercado_id": "OVER_1_5",
         "mercado": "Más de 1.5 goles",
@@ -20812,9 +20853,9 @@
       "local": "Envigado",
       "visitante": "Real Santander",
       "link": "https://www.flashscore.co/partido/futbol/envigado-xtFGm2B8/real-santander-nPIUdlJE/?mid=SI5LmVw8",
-      "estado_resultado": "PENDIENTE",
-      "marcador_real": null,
-      "resultado_real": null,
+      "estado_resultado": "FINALIZADO",
+      "marcador_real": "1-1",
+      "resultado_real": "X",
       "recomendacion": {
         "mercado_id": "UNDER_3_5",
         "mercado": "Menos de 3.5 goles",
@@ -20891,9 +20932,9 @@
       "local": "U. Magdalena",
       "visitante": "Ind. Valle del Cauca",
       "link": "https://www.flashscore.co/partido/futbol/independiente-valle-del-cauca-25WDovil/union-magdalena-tpLItk4L/?mid=Muu5escE",
-      "estado_resultado": "PENDIENTE",
-      "marcador_real": null,
-      "resultado_real": null,
+      "estado_resultado": "FINALIZADO",
+      "marcador_real": "1-1",
+      "resultado_real": "X",
       "recomendacion": {
         "mercado_id": "UNDER_3_5",
         "mercado": "Menos de 3.5 goles",
@@ -20970,9 +21011,9 @@
       "local": "Leones",
       "visitante": "Patriotas",
       "link": "https://www.flashscore.co/partido/futbol/leones-IZmBcNVO/patriotas-tUWKtMms/?mid=WYWjnwK0",
-      "estado_resultado": "PENDIENTE",
-      "marcador_real": null,
-      "resultado_real": null,
+      "estado_resultado": "FINALIZADO",
+      "marcador_real": "1-0",
+      "resultado_real": "1",
       "recomendacion": {
         "mercado_id": "UNDER_3_5",
         "mercado": "Menos de 3.5 goles",
@@ -21444,9 +21485,9 @@
       "local": "Atletico FC",
       "visitante": "Ind. Juniors",
       "link": "https://www.flashscore.co/partido/futbol/atletico-fc-IHCcdRIt/independiente-juniors-M9z5NMQc/?mid=SCn1FHVh",
-      "estado_resultado": "PENDIENTE",
-      "marcador_real": null,
-      "resultado_real": null,
+      "estado_resultado": "FINALIZADO",
+      "marcador_real": "1-0",
+      "resultado_real": "1",
       "recomendacion": {
         "mercado_id": "UNDER_3_5",
         "mercado": "Menos de 3.5 goles",
@@ -21602,9 +21643,9 @@
       "local": "Cobán Imperial",
       "visitante": "Municipal",
       "link": "https://www.flashscore.co/partido/futbol/coban-imperial-8QRNdPXd/municipal-r5ooNVip/?mid=ruVbezIj",
-      "estado_resultado": "PENDIENTE",
-      "marcador_real": null,
-      "resultado_real": null,
+      "estado_resultado": "FINALIZADO",
+      "marcador_real": "2-1",
+      "resultado_real": "1",
       "recomendacion": {
         "mercado_id": "UNDER_3_5",
         "mercado": "Menos de 3.5 goles",
@@ -55256,9 +55297,9 @@
       "local": "Barranquilla",
       "visitante": "Tigres",
       "link": "https://www.flashscore.co/partido/futbol/barranquilla-O8ANu9JR/tigres-futbol-club-EcJJz8BQ/?mid=Kh2Dki9e",
-      "estado_resultado": "PENDIENTE",
-      "marcador_real": null,
-      "resultado_real": null,
+      "estado_resultado": "FINALIZADO",
+      "marcador_real": "2-2",
+      "resultado_real": "X",
       "recomendacion": {
         "mercado_id": "UNDER_3_5",
         "mercado": "Menos de 3.5 goles",
@@ -56599,9 +56640,9 @@
       "local": "Central Esp.",
       "visitante": "Danubio",
       "link": "https://www.flashscore.co/partido/futbol/central-esp-AsJ8EUY2/danubio-AcRB7b0j/?mid=I5kEna6l",
-      "estado_resultado": "PENDIENTE",
-      "marcador_real": null,
-      "resultado_real": null,
+      "estado_resultado": "FINALIZADO",
+      "marcador_real": "0-6",
+      "resultado_real": "2",
       "recomendacion": {
         "mercado_id": "UNDER_3_5",
         "mercado": "Menos de 3.5 goles",
@@ -83459,9 +83500,9 @@
       "local": "Boca Jrs. 2",
       "visitante": "Ferro Carril Oeste 2",
       "link": "https://www.flashscore.co/partido/futbol/boca-jrs-Y1sACAyM/ferro-carril-oeste-UFJIQPGn/?mid=x0uZLqas",
-      "estado_resultado": "PENDIENTE",
-      "marcador_real": null,
-      "resultado_real": null,
+      "estado_resultado": "FINALIZADO",
+      "marcador_real": "1-0",
+      "resultado_real": "1",
       "recomendacion": {
         "mercado_id": "OVER_1_5",
         "mercado": "Más de 1.5 goles",
@@ -83538,9 +83579,9 @@
       "local": "Central Córdoba 2",
       "visitante": "Belgrano 2",
       "link": "https://www.flashscore.co/partido/futbol/ca-belgrano-de-cordoba-ny6T98KC/central-cordoba-santiago-del-estero-WCGa5aSh/?mid=IBnrvqLP",
-      "estado_resultado": "PENDIENTE",
-      "marcador_real": null,
-      "resultado_real": null,
+      "estado_resultado": "FINALIZADO",
+      "marcador_real": "1-2",
+      "resultado_real": "2",
       "recomendacion": {
         "mercado_id": "OVER_1_5",
         "mercado": "Más de 1.5 goles",
@@ -83617,9 +83658,9 @@
       "local": "Flamengo F",
       "visitante": "Fluminense F",
       "link": "https://www.flashscore.co/partido/futbol/flamengo-b18FMqgM/fluminense-2kWAeupM/?mid=bslvN11n",
-      "estado_resultado": "PENDIENTE",
-      "marcador_real": null,
-      "resultado_real": null,
+      "estado_resultado": "FINALIZADO",
+      "marcador_real": "1-2",
+      "resultado_real": "2",
       "recomendacion": {
         "mercado_id": "NO_APOSTAR",
         "mercado": "NO APOSTAR",
@@ -137324,6 +137365,2613 @@
             "marcador": "0-1",
             "probabilidad": 6.57,
             "frecuencia": 1971
+          }
+        ]
+      }
+    },
+    {
+      "id_partido": "LINK::https://www.flashscore.co/partido/futbol/broadmeadow-magic-fc-jXpWqrUQ/wests-apia-2wxrSsSF/?mid=zcCUzkwp",
+      "fecha": "2026-10-16",
+      "hora": "23:00",
+      "pais": "AUSTRALIA",
+      "liga": "AUSTRALIAN CHAMPIONSHIP - JORNADA 1",
+      "local": "Broadmeadow",
+      "visitante": "Wests APIA",
+      "link": "https://www.flashscore.co/partido/futbol/broadmeadow-magic-fc-jXpWqrUQ/wests-apia-2wxrSsSF/?mid=zcCUzkwp",
+      "estado_resultado": "PENDIENTE",
+      "marcador_real": null,
+      "resultado_real": null,
+      "recomendacion": {
+        "mercado_id": "OVER_1_5",
+        "mercado": "Más de 1.5 goles",
+        "probabilidad": 80.85,
+        "cuota": null,
+        "estado": "PICK"
+      },
+      "premium": false,
+      "modelo_id": "TIPSTER_MONTECARLO_V1",
+      "diagnostico_mercados": {
+        "1X2": {
+          "Local": 38.77,
+          "Empate": 24.1,
+          "Visitante": 37.13
+        },
+        "btts": {
+          "resultado": "SI",
+          "probabilidad": 61.41,
+          "probabilidad_si": 61.41,
+          "probabilidad_no": 38.59
+        },
+        "totales": {
+          "1.5": {
+            "over": 80.85,
+            "under": 19.15,
+            "muestra_simulada": 30000
+          },
+          "2.5": {
+            "over": 59.44,
+            "under": 40.56,
+            "muestra_simulada": 30000
+          },
+          "3.5": {
+            "over": 37.36,
+            "under": 62.64,
+            "muestra_simulada": 30000
+          }
+        },
+        "marcadores": [
+          {
+            "marcador": "1-1",
+            "probabilidad": 10.64,
+            "frecuencia": 3191
+          },
+          {
+            "marcador": "2-1",
+            "probabilidad": 8.43,
+            "frecuencia": 2529
+          },
+          {
+            "marcador": "1-2",
+            "probabilidad": 8.07,
+            "frecuencia": 2421
+          },
+          {
+            "marcador": "1-0",
+            "probabilidad": 7.33,
+            "frecuencia": 2199
+          },
+          {
+            "marcador": "0-1",
+            "probabilidad": 7.05,
+            "frecuencia": 2116
+          }
+        ]
+      }
+    },
+    {
+      "id_partido": "LINK::https://www.flashscore.co/partido/futbol/virginia-QyyaLXKs/wilstermann-cooperativas-KA5ejICS/?mid=UP0WnCIt",
+      "fecha": "2026-10-16",
+      "hora": "14:00",
+      "pais": "BOLIVIA",
+      "liga": "COPA SIMÓN BOLÍVAR - PLAYOFFS - 1/8 DE FINAL",
+      "local": "Virginia",
+      "visitante": "Wils. Cooperativas",
+      "link": "https://www.flashscore.co/partido/futbol/virginia-QyyaLXKs/wilstermann-cooperativas-KA5ejICS/?mid=UP0WnCIt",
+      "estado_resultado": "PENDIENTE",
+      "marcador_real": null,
+      "resultado_real": null,
+      "recomendacion": {
+        "mercado_id": "BTTS_SI",
+        "mercado": "Ambos marcan: Sí",
+        "probabilidad": 61.44,
+        "cuota": null,
+        "estado": "PICK"
+      },
+      "premium": false,
+      "modelo_id": "TIPSTER_MONTECARLO_V1",
+      "diagnostico_mercados": {
+        "1X2": {
+          "Local": 46.71,
+          "Empate": 23.47,
+          "Visitante": 29.83
+        },
+        "btts": {
+          "resultado": "SI",
+          "probabilidad": 61.44,
+          "probabilidad_si": 61.44,
+          "probabilidad_no": 38.56
+        },
+        "totales": {
+          "1.5": {
+            "over": 81.77,
+            "under": 18.23,
+            "muestra_simulada": 30000
+          },
+          "2.5": {
+            "over": 60.01,
+            "under": 39.99,
+            "muestra_simulada": 30000
+          },
+          "3.5": {
+            "over": 37.81,
+            "under": 62.19,
+            "muestra_simulada": 30000
+          }
+        },
+        "marcadores": [
+          {
+            "marcador": "1-1",
+            "probabilidad": 10.6,
+            "frecuencia": 3181
+          },
+          {
+            "marcador": "2-1",
+            "probabilidad": 9.31,
+            "frecuencia": 2794
+          },
+          {
+            "marcador": "1-0",
+            "probabilidad": 7.73,
+            "frecuencia": 2320
+          },
+          {
+            "marcador": "1-2",
+            "probabilidad": 7.05,
+            "frecuencia": 2116
+          },
+          {
+            "marcador": "2-0",
+            "probabilidad": 6.8,
+            "frecuencia": 2039
+          }
+        ]
+      }
+    },
+    {
+      "id_partido": "LINK::https://www.flashscore.co/partido/futbol/gonio-fyaqwQ9D/orbi-SxDusiH1/?mid=Yiq9VOuB",
+      "fecha": "2026-10-16",
+      "hora": "10:00",
+      "pais": "GEORGIA",
+      "liga": "LIGA 3 - JORNADA 24",
+      "local": "Gonio",
+      "visitante": "Orbi",
+      "link": "https://www.flashscore.co/partido/futbol/gonio-fyaqwQ9D/orbi-SxDusiH1/?mid=Yiq9VOuB",
+      "estado_resultado": "PENDIENTE",
+      "marcador_real": null,
+      "resultado_real": null,
+      "recomendacion": {
+        "mercado_id": "BTTS_SI",
+        "mercado": "Ambos marcan: Sí",
+        "probabilidad": 60.39,
+        "cuota": null,
+        "estado": "PICK"
+      },
+      "premium": false,
+      "modelo_id": "TIPSTER_MONTECARLO_V1",
+      "diagnostico_mercados": {
+        "1X2": {
+          "Local": 41.78,
+          "Empate": 23.91,
+          "Visitante": 34.31
+        },
+        "btts": {
+          "resultado": "SI",
+          "probabilidad": 60.39,
+          "probabilidad_si": 60.39,
+          "probabilidad_no": 39.61
+        },
+        "totales": {
+          "1.5": {
+            "over": 80.2,
+            "under": 19.8,
+            "muestra_simulada": 30000
+          },
+          "2.5": {
+            "over": 58.15,
+            "under": 41.85,
+            "muestra_simulada": 30000
+          },
+          "3.5": {
+            "over": 35.82,
+            "under": 64.18,
+            "muestra_simulada": 30000
+          }
+        },
+        "marcadores": [
+          {
+            "marcador": "1-1",
+            "probabilidad": 11.1,
+            "frecuencia": 3329
+          },
+          {
+            "marcador": "2-1",
+            "probabilidad": 8.72,
+            "frecuencia": 2617
+          },
+          {
+            "marcador": "1-0",
+            "probabilidad": 7.95,
+            "frecuencia": 2385
+          },
+          {
+            "marcador": "1-2",
+            "probabilidad": 7.89,
+            "frecuencia": 2367
+          },
+          {
+            "marcador": "0-1",
+            "probabilidad": 6.97,
+            "frecuencia": 2090
+          }
+        ]
+      }
+    },
+    {
+      "id_partido": "LINK::https://www.flashscore.co/partido/futbol/calor-de-san-pedro-pA6sdzbc/cd-delfines-coatzacoalcos-8KfGsEek/?mid=nsP56OLE",
+      "fecha": "2026-10-16",
+      "hora": "16:30",
+      "pais": "MÉXICO",
+      "liga": "LIGA PREMIER SERIE A - JORNADA 8",
+      "local": "Club Calor",
+      "visitante": "Delfines Coatzacoalcos",
+      "link": "https://www.flashscore.co/partido/futbol/calor-de-san-pedro-pA6sdzbc/cd-delfines-coatzacoalcos-8KfGsEek/?mid=nsP56OLE",
+      "estado_resultado": "PENDIENTE",
+      "marcador_real": null,
+      "resultado_real": null,
+      "recomendacion": {
+        "mercado_id": "OVER_1_5",
+        "mercado": "Más de 1.5 goles",
+        "probabilidad": 81.74,
+        "cuota": null,
+        "estado": "PICK"
+      },
+      "premium": false,
+      "modelo_id": "TIPSTER_MONTECARLO_V1",
+      "diagnostico_mercados": {
+        "1X2": {
+          "Local": 45.24,
+          "Empate": 23.71,
+          "Visitante": 31.05
+        },
+        "btts": {
+          "resultado": "SI",
+          "probabilidad": 61.98,
+          "probabilidad_si": 61.98,
+          "probabilidad_no": 38.02
+        },
+        "totales": {
+          "1.5": {
+            "over": 81.74,
+            "under": 18.26,
+            "muestra_simulada": 30000
+          },
+          "2.5": {
+            "over": 60.16,
+            "under": 39.84,
+            "muestra_simulada": 30000
+          },
+          "3.5": {
+            "over": 38.09,
+            "under": 61.91,
+            "muestra_simulada": 30000
+          }
+        },
+        "marcadores": [
+          {
+            "marcador": "1-1",
+            "probabilidad": 10.72,
+            "frecuencia": 3217
+          },
+          {
+            "marcador": "2-1",
+            "probabilidad": 9.2,
+            "frecuencia": 2760
+          },
+          {
+            "marcador": "1-0",
+            "probabilidad": 7.41,
+            "frecuencia": 2224
+          },
+          {
+            "marcador": "1-2",
+            "probabilidad": 7.4,
+            "frecuencia": 2220
+          },
+          {
+            "marcador": "2-2",
+            "probabilidad": 6.64,
+            "frecuencia": 1991
+          }
+        ]
+      }
+    },
+    {
+      "id_partido": "LINK::https://www.flashscore.co/partido/futbol/apodaca-hQsp4GZp/fc-santiago-QPhxgBrs/?mid=AJ4gvmQ8",
+      "fecha": "2026-10-16",
+      "hora": "19:00",
+      "pais": "MÉXICO",
+      "liga": "LIGA PREMIER SERIE A - JORNADA 8",
+      "local": "Santiago",
+      "visitante": "Apodaca",
+      "link": "https://www.flashscore.co/partido/futbol/apodaca-hQsp4GZp/fc-santiago-QPhxgBrs/?mid=AJ4gvmQ8",
+      "estado_resultado": "PENDIENTE",
+      "marcador_real": null,
+      "resultado_real": null,
+      "recomendacion": {
+        "mercado_id": "OVER_1_5",
+        "mercado": "Más de 1.5 goles",
+        "probabilidad": 79.66,
+        "cuota": null,
+        "estado": "PICK"
+      },
+      "premium": false,
+      "modelo_id": "TIPSTER_MONTECARLO_V1",
+      "diagnostico_mercados": {
+        "1X2": {
+          "Local": 53.81,
+          "Empate": 22.63,
+          "Visitante": 23.56
+        },
+        "btts": {
+          "resultado": "SI",
+          "probabilidad": 57.14,
+          "probabilidad_si": 57.14,
+          "probabilidad_no": 42.86
+        },
+        "totales": {
+          "1.5": {
+            "over": 79.66,
+            "under": 20.34,
+            "muestra_simulada": 30000
+          },
+          "2.5": {
+            "over": 57.16,
+            "under": 42.84,
+            "muestra_simulada": 30000
+          },
+          "3.5": {
+            "over": 34.75,
+            "under": 65.25,
+            "muestra_simulada": 30000
+          }
+        },
+        "marcadores": [
+          {
+            "marcador": "1-1",
+            "probabilidad": 10.55,
+            "frecuencia": 3165
+          },
+          {
+            "marcador": "2-1",
+            "probabilidad": 9.8,
+            "frecuencia": 2940
+          },
+          {
+            "marcador": "1-0",
+            "probabilidad": 9.4,
+            "frecuencia": 2819
+          },
+          {
+            "marcador": "2-0",
+            "probabilidad": 8.83,
+            "frecuencia": 2650
+          },
+          {
+            "marcador": "1-2",
+            "probabilidad": 6.12,
+            "frecuencia": 1835
+          }
+        ]
+      }
+    },
+    {
+      "id_partido": "LINK::https://www.flashscore.co/partido/futbol/al-shorta-nuw28Zs1/damascus-al-ahli-xUq2CwJk/?mid=p0gNTUDa",
+      "fecha": "2026-10-16",
+      "hora": "07:00",
+      "pais": "SIRIA",
+      "liga": "PREMIER LEAGUE - JORNADA 2",
+      "local": "Damascus Al Ahli",
+      "visitante": "Al Shorta",
+      "link": "https://www.flashscore.co/partido/futbol/al-shorta-nuw28Zs1/damascus-al-ahli-xUq2CwJk/?mid=p0gNTUDa",
+      "estado_resultado": "PENDIENTE",
+      "marcador_real": null,
+      "resultado_real": null,
+      "recomendacion": {
+        "mercado_id": "NO_APOSTAR",
+        "mercado": "NO APOSTAR",
+        "probabilidad": null,
+        "cuota": null,
+        "estado": "NO_APOSTAR"
+      },
+      "premium": false,
+      "modelo_id": "TIPSTER_MONTECARLO_V1",
+      "diagnostico_mercados": {
+        "1X2": {
+          "Local": 49.52,
+          "Empate": 24.11,
+          "Visitante": 26.37
+        },
+        "btts": {
+          "resultado": "SI",
+          "probabilidad": 54.13,
+          "probabilidad_si": 54.13,
+          "probabilidad_no": 45.87
+        },
+        "totales": {
+          "1.5": {
+            "over": 76.49,
+            "under": 23.51,
+            "muestra_simulada": 30000
+          },
+          "2.5": {
+            "over": 52.68,
+            "under": 47.32,
+            "muestra_simulada": 30000
+          },
+          "3.5": {
+            "over": 30.57,
+            "under": 69.43,
+            "muestra_simulada": 30000
+          }
+        },
+        "marcadores": [
+          {
+            "marcador": "1-1",
+            "probabilidad": 11.67,
+            "frecuencia": 3502
+          },
+          {
+            "marcador": "1-0",
+            "probabilidad": 10.6,
+            "frecuencia": 3179
+          },
+          {
+            "marcador": "2-1",
+            "probabilidad": 9.68,
+            "frecuencia": 2905
+          },
+          {
+            "marcador": "2-0",
+            "probabilidad": 8.77,
+            "frecuencia": 2631
+          },
+          {
+            "marcador": "0-1",
+            "probabilidad": 6.88,
+            "frecuencia": 2063
+          }
+        ]
+      }
+    },
+    {
+      "id_partido": "LINK::https://www.flashscore.co/partido/futbol/club-nacional-w-Eqsuvbyn/u-de-chile-UFk9Utuq/?mid=AFj7z4al",
+      "fecha": "2026-10-16",
+      "hora": "19:00",
+      "pais": "SUDAMÉRICA",
+      "liga": "COPA LIBERTADORES FEMENINA",
+      "local": "Club Nacional de Football F (Uru)",
+      "visitante": "U. De Chile F (Chi)",
+      "link": "https://www.flashscore.co/partido/futbol/club-nacional-w-Eqsuvbyn/u-de-chile-UFk9Utuq/?mid=AFj7z4al",
+      "estado_resultado": "PENDIENTE",
+      "marcador_real": null,
+      "resultado_real": null,
+      "recomendacion": {
+        "mercado_id": "UNDER_1_5",
+        "mercado": "Menos de 1.5 goles",
+        "probabilidad": 88.57,
+        "cuota": null,
+        "estado": "PICK"
+      },
+      "premium": false,
+      "modelo_id": "TIPSTER_MONTECARLO_V1",
+      "diagnostico_mercados": {
+        "1X2": {
+          "Local": 22.27,
+          "Empate": 61.51,
+          "Visitante": 16.22
+        },
+        "btts": {
+          "resultado": "NO",
+          "probabilidad": 6.14,
+          "probabilidad_si": 6.14,
+          "probabilidad_no": 93.86
+        },
+        "totales": {
+          "1.5": {
+            "over": 11.43,
+            "under": 88.57,
+            "muestra_simulada": 30000
+          },
+          "2.5": {
+            "over": 2.22,
+            "under": 97.78,
+            "muestra_simulada": 30000
+          },
+          "3.5": {
+            "over": 0.43,
+            "under": 99.57,
+            "muestra_simulada": 30000
+          }
+        },
+        "marcadores": [
+          {
+            "marcador": "0-0",
+            "probabilidad": 57.2,
+            "frecuencia": 17159
+          },
+          {
+            "marcador": "1-0",
+            "probabilidad": 18.13,
+            "frecuencia": 5438
+          },
+          {
+            "marcador": "0-1",
+            "probabilidad": 13.61,
+            "frecuencia": 4083
+          },
+          {
+            "marcador": "1-1",
+            "probabilidad": 4.41,
+            "frecuencia": 1322
+          },
+          {
+            "marcador": "2-0",
+            "probabilidad": 2.87,
+            "frecuencia": 861
+          }
+        ]
+      }
+    },
+    {
+      "id_partido": "LINK::https://www.flashscore.co/partido/futbol/aurora-saigon-united-lvKbDDmQ/quy-nhon-united-02ZSs2tP/?mid=AwsnaVA7",
+      "fecha": "2026-10-16",
+      "hora": "05:00",
+      "pais": "VIETNAM",
+      "liga": "V.LEAGUE 2 - JORNADA 3",
+      "local": "Aurora Saigon United",
+      "visitante": "Quy Nhon United",
+      "link": "https://www.flashscore.co/partido/futbol/aurora-saigon-united-lvKbDDmQ/quy-nhon-united-02ZSs2tP/?mid=AwsnaVA7",
+      "estado_resultado": "PENDIENTE",
+      "marcador_real": null,
+      "resultado_real": null,
+      "recomendacion": {
+        "mercado_id": "UNDER_3_5",
+        "mercado": "Menos de 3.5 goles",
+        "probabilidad": 70.67,
+        "cuota": null,
+        "estado": "PICK"
+      },
+      "premium": false,
+      "modelo_id": "TIPSTER_MONTECARLO_V1",
+      "diagnostico_mercados": {
+        "1X2": {
+          "Local": 34.42,
+          "Empate": 25.72,
+          "Visitante": 39.86
+        },
+        "btts": {
+          "resultado": "SI",
+          "probabilidad": 55.35,
+          "probabilidad_si": 55.35,
+          "probabilidad_no": 44.65
+        },
+        "totales": {
+          "1.5": {
+            "over": 75.2,
+            "under": 24.8,
+            "muestra_simulada": 30000
+          },
+          "2.5": {
+            "over": 51.37,
+            "under": 48.63,
+            "muestra_simulada": 30000
+          },
+          "3.5": {
+            "over": 29.33,
+            "under": 70.67,
+            "muestra_simulada": 30000
+          }
+        },
+        "marcadores": [
+          {
+            "marcador": "1-1",
+            "probabilidad": 11.89,
+            "frecuencia": 3566
+          },
+          {
+            "marcador": "0-1",
+            "probabilidad": 9.56,
+            "frecuencia": 2869
+          },
+          {
+            "marcador": "1-2",
+            "probabilidad": 8.87,
+            "frecuencia": 2661
+          },
+          {
+            "marcador": "1-0",
+            "probabilidad": 8.35,
+            "frecuencia": 2506
+          },
+          {
+            "marcador": "2-1",
+            "probabilidad": 7.81,
+            "frecuencia": 2344
+          }
+        ]
+      }
+    },
+    {
+      "id_partido": "LINK::https://www.flashscore.co/partido/futbol/altglienicke-EP8ggpyE/bfc-preussen-4virwQm2/?mid=dQJ3NMff",
+      "fecha": "2026-10-17",
+      "hora": "07:00",
+      "pais": "ALEMANIA",
+      "liga": "REGIONALLIGA NORDOST - JORNADA 13",
+      "local": "BFC Preussen",
+      "visitante": "Altglienicke",
+      "link": "https://www.flashscore.co/partido/futbol/altglienicke-EP8ggpyE/bfc-preussen-4virwQm2/?mid=dQJ3NMff",
+      "estado_resultado": "PENDIENTE",
+      "marcador_real": null,
+      "resultado_real": null,
+      "recomendacion": {
+        "mercado_id": "UNDER_3_5",
+        "mercado": "Menos de 3.5 goles",
+        "probabilidad": 65.84,
+        "cuota": null,
+        "estado": "PICK"
+      },
+      "premium": false,
+      "modelo_id": "TIPSTER_MONTECARLO_V1",
+      "diagnostico_mercados": {
+        "1X2": {
+          "Local": 31.78,
+          "Empate": 24.12,
+          "Visitante": 44.1
+        },
+        "btts": {
+          "resultado": "SI",
+          "probabilidad": 58.98,
+          "probabilidad_si": 58.98,
+          "probabilidad_no": 41.02
+        },
+        "totales": {
+          "1.5": {
+            "over": 79.08,
+            "under": 20.92,
+            "muestra_simulada": 30000
+          },
+          "2.5": {
+            "over": 56.48,
+            "under": 43.52,
+            "muestra_simulada": 30000
+          },
+          "3.5": {
+            "over": 34.16,
+            "under": 65.84,
+            "muestra_simulada": 30000
+          }
+        },
+        "marcadores": [
+          {
+            "marcador": "1-1",
+            "probabilidad": 11.21,
+            "frecuencia": 3362
+          },
+          {
+            "marcador": "1-2",
+            "probabilidad": 9.0,
+            "frecuencia": 2701
+          },
+          {
+            "marcador": "0-1",
+            "probabilidad": 8.61,
+            "frecuencia": 2583
+          },
+          {
+            "marcador": "2-1",
+            "probabilidad": 7.57,
+            "frecuencia": 2270
+          },
+          {
+            "marcador": "1-0",
+            "probabilidad": 6.97,
+            "frecuencia": 2092
+          }
+        ]
+      }
+    },
+    {
+      "id_partido": "LINK::https://www.flashscore.co/partido/futbol/jena-APNl8MIn/luckenwalde-8lMS9bL1/?mid=r185srnQ",
+      "fecha": "2026-10-17",
+      "hora": "07:00",
+      "pais": "ALEMANIA",
+      "liga": "REGIONALLIGA NORDOST - JORNADA 13",
+      "local": "Luckenwalde",
+      "visitante": "Jena",
+      "link": "https://www.flashscore.co/partido/futbol/jena-APNl8MIn/luckenwalde-8lMS9bL1/?mid=r185srnQ",
+      "estado_resultado": "PENDIENTE",
+      "marcador_real": null,
+      "resultado_real": null,
+      "recomendacion": {
+        "mercado_id": "UNDER_3_5",
+        "mercado": "Menos de 3.5 goles",
+        "probabilidad": 63.07,
+        "cuota": null,
+        "estado": "PICK"
+      },
+      "premium": false,
+      "modelo_id": "TIPSTER_MONTECARLO_V1",
+      "diagnostico_mercados": {
+        "1X2": {
+          "Local": 22.8,
+          "Empate": 21.76,
+          "Visitante": 55.45
+        },
+        "btts": {
+          "resultado": "SI",
+          "probabilidad": 58.19,
+          "probabilidad_si": 58.19,
+          "probabilidad_no": 41.81
+        },
+        "totales": {
+          "1.5": {
+            "over": 80.87,
+            "under": 19.13,
+            "muestra_simulada": 30000
+          },
+          "2.5": {
+            "over": 59.62,
+            "under": 40.38,
+            "muestra_simulada": 30000
+          },
+          "3.5": {
+            "over": 36.93,
+            "under": 63.07,
+            "muestra_simulada": 30000
+          }
+        },
+        "marcadores": [
+          {
+            "marcador": "1-2",
+            "probabilidad": 10.01,
+            "frecuencia": 3003
+          },
+          {
+            "marcador": "1-1",
+            "probabilidad": 9.87,
+            "frecuencia": 2960
+          },
+          {
+            "marcador": "0-1",
+            "probabilidad": 9.0,
+            "frecuencia": 2699
+          },
+          {
+            "marcador": "0-2",
+            "probabilidad": 8.33,
+            "frecuencia": 2500
+          },
+          {
+            "marcador": "1-3",
+            "probabilidad": 6.41,
+            "frecuencia": 1924
+          }
+        ]
+      }
+    },
+    {
+      "id_partido": "LINK::https://www.flashscore.co/partido/futbol/berazategui-t8g6xUQT/club-lujan-OhlztNj0/?mid=WYWFgcgc",
+      "fecha": "2026-10-17",
+      "hora": "13:00",
+      "pais": "ARGENTINA",
+      "liga": "PRIMERA C - SUPERFINAL - FINAL",
+      "local": "Berazategui",
+      "visitante": "Club Lujan",
+      "link": "https://www.flashscore.co/partido/futbol/berazategui-t8g6xUQT/club-lujan-OhlztNj0/?mid=WYWFgcgc",
+      "estado_resultado": "PENDIENTE",
+      "marcador_real": null,
+      "resultado_real": null,
+      "recomendacion": {
+        "mercado_id": "NO_APOSTAR",
+        "mercado": "NO APOSTAR",
+        "probabilidad": null,
+        "cuota": null,
+        "estado": "NO_APOSTAR"
+      },
+      "premium": false,
+      "modelo_id": "TIPSTER_MONTECARLO_V1",
+      "diagnostico_mercados": {
+        "1X2": {
+          "Local": 34.62,
+          "Empate": 28.16,
+          "Visitante": 37.21
+        },
+        "btts": {
+          "resultado": "NO",
+          "probabilidad": 47.61,
+          "probabilidad_si": 47.61,
+          "probabilidad_no": 52.39
+        },
+        "totales": {
+          "1.5": {
+            "over": 67.96,
+            "under": 32.04,
+            "muestra_simulada": 30000
+          },
+          "2.5": {
+            "over": 41.5,
+            "under": 58.5,
+            "muestra_simulada": 30000
+          },
+          "3.5": {
+            "over": 20.87,
+            "under": 79.13,
+            "muestra_simulada": 30000
+          }
+        },
+        "marcadores": [
+          {
+            "marcador": "1-1",
+            "probabilidad": 13.13,
+            "frecuencia": 3940
+          },
+          {
+            "marcador": "0-1",
+            "probabilidad": 11.84,
+            "frecuencia": 3553
+          },
+          {
+            "marcador": "1-0",
+            "probabilidad": 10.64,
+            "frecuencia": 3191
+          },
+          {
+            "marcador": "0-0",
+            "probabilidad": 9.51,
+            "frecuencia": 2853
+          },
+          {
+            "marcador": "1-2",
+            "probabilidad": 8.1,
+            "frecuencia": 2430
+          }
+        ]
+      }
+    },
+    {
+      "id_partido": "LINK::https://www.flashscore.co/partido/futbol/istiqlol-dushanbe-hQRUXPon/nejmeh-sc-OImkpk5m/?mid=UcpbCXyh",
+      "fecha": "2026-10-17",
+      "hora": "09:00",
+      "pais": "ASIA",
+      "liga": "AFC CHALLENGE LEAGUE",
+      "local": "Nejmeh SC (Leb)",
+      "visitante": "Istiqlol Dushanbe (Taj)",
+      "link": "https://www.flashscore.co/partido/futbol/istiqlol-dushanbe-hQRUXPon/nejmeh-sc-OImkpk5m/?mid=UcpbCXyh",
+      "estado_resultado": "PENDIENTE",
+      "marcador_real": null,
+      "resultado_real": null,
+      "recomendacion": {
+        "mercado_id": "UNDER_2_5",
+        "mercado": "Menos de 2.5 goles",
+        "probabilidad": 92.97,
+        "cuota": null,
+        "estado": "PICK"
+      },
+      "premium": false,
+      "modelo_id": "TIPSTER_MONTECARLO_V1",
+      "diagnostico_mercados": {
+        "1X2": {
+          "Local": 23.88,
+          "Empate": 57.46,
+          "Visitante": 18.66
+        },
+        "btts": {
+          "resultado": "NO",
+          "probabilidad": 9.88,
+          "probabilidad_si": 9.88,
+          "probabilidad_no": 90.12
+        },
+        "totales": {
+          "1.5": {
+            "over": 17.4,
+            "under": 82.6,
+            "muestra_simulada": 30000
+          },
+          "2.5": {
+            "over": 7.03,
+            "under": 92.97,
+            "muestra_simulada": 30000
+          },
+          "3.5": {
+            "over": 3.28,
+            "under": 96.72,
+            "muestra_simulada": 30000
+          }
+        },
+        "marcadores": [
+          {
+            "marcador": "0-0",
+            "probabilidad": 57.29,
+            "frecuencia": 17187
+          },
+          {
+            "marcador": "1-0",
+            "probabilidad": 17.67,
+            "frecuencia": 5301
+          },
+          {
+            "marcador": "0-1",
+            "probabilidad": 14.02,
+            "frecuencia": 4207
+          },
+          {
+            "marcador": "1-1",
+            "probabilidad": 4.45,
+            "frecuencia": 1335
+          },
+          {
+            "marcador": "2-0",
+            "probabilidad": 2.78,
+            "frecuencia": 834
+          }
+        ]
+      }
+    },
+    {
+      "id_partido": "LINK::https://www.flashscore.co/partido/futbol/bjelovar-42LxY1cI/nk-koprivnica-IsETHNuC/?mid=f5mxc223",
+      "fecha": "2026-10-17",
+      "hora": "08:00",
+      "pais": "CROACIA",
+      "liga": "DRUGA NL - JORNADA 9",
+      "local": "Bjelovar",
+      "visitante": "Koprivnica",
+      "link": "https://www.flashscore.co/partido/futbol/bjelovar-42LxY1cI/nk-koprivnica-IsETHNuC/?mid=f5mxc223",
+      "estado_resultado": "PENDIENTE",
+      "marcador_real": null,
+      "resultado_real": null,
+      "recomendacion": {
+        "mercado_id": "OVER_1_5",
+        "mercado": "Más de 1.5 goles",
+        "probabilidad": 82.42,
+        "cuota": null,
+        "estado": "PICK"
+      },
+      "premium": false,
+      "modelo_id": "TIPSTER_MONTECARLO_V1",
+      "diagnostico_mercados": {
+        "1X2": {
+          "Local": 56.34,
+          "Empate": 21.12,
+          "Visitante": 22.54
+        },
+        "btts": {
+          "resultado": "SI",
+          "probabilidad": 59.44,
+          "probabilidad_si": 59.44,
+          "probabilidad_no": 40.56
+        },
+        "totales": {
+          "1.5": {
+            "over": 82.42,
+            "under": 17.58,
+            "muestra_simulada": 30000
+          },
+          "2.5": {
+            "over": 61.01,
+            "under": 38.99,
+            "muestra_simulada": 30000
+          },
+          "3.5": {
+            "over": 38.43,
+            "under": 61.57,
+            "muestra_simulada": 30000
+          }
+        },
+        "marcadores": [
+          {
+            "marcador": "2-1",
+            "probabilidad": 10.2,
+            "frecuencia": 3060
+          },
+          {
+            "marcador": "1-1",
+            "probabilidad": 9.81,
+            "frecuencia": 2943
+          },
+          {
+            "marcador": "2-0",
+            "probabilidad": 8.51,
+            "frecuencia": 2553
+          },
+          {
+            "marcador": "1-0",
+            "probabilidad": 8.3,
+            "frecuencia": 2489
+          },
+          {
+            "marcador": "3-1",
+            "probabilidad": 6.41,
+            "frecuencia": 1923
+          }
+        ]
+      }
+    },
+    {
+      "id_partido": "LINK::https://www.flashscore.co/partido/futbol/lucko-AXI6H6hP/radnik-krizevci-6qdHOIHi/?mid=bsjcpPIc",
+      "fecha": "2026-10-17",
+      "hora": "08:00",
+      "pais": "CROACIA",
+      "liga": "DRUGA NL - JORNADA 9",
+      "local": "Radnik Krizevci",
+      "visitante": "Lucko",
+      "link": "https://www.flashscore.co/partido/futbol/lucko-AXI6H6hP/radnik-krizevci-6qdHOIHi/?mid=bsjcpPIc",
+      "estado_resultado": "PENDIENTE",
+      "marcador_real": null,
+      "resultado_real": null,
+      "recomendacion": {
+        "mercado_id": "NO_APOSTAR",
+        "mercado": "NO APOSTAR",
+        "probabilidad": null,
+        "cuota": null,
+        "estado": "NO_APOSTAR"
+      },
+      "premium": false,
+      "modelo_id": "TIPSTER_MONTECARLO_V1",
+      "diagnostico_mercados": {
+        "1X2": {
+          "Local": 37.36,
+          "Empate": 25.55,
+          "Visitante": 37.1
+        },
+        "btts": {
+          "resultado": "SI",
+          "probabilidad": 56.07,
+          "probabilidad_si": 56.07,
+          "probabilidad_no": 43.93
+        },
+        "totales": {
+          "1.5": {
+            "over": 76.05,
+            "under": 23.95,
+            "muestra_simulada": 30000
+          },
+          "2.5": {
+            "over": 52.06,
+            "under": 47.94,
+            "muestra_simulada": 30000
+          },
+          "3.5": {
+            "over": 29.93,
+            "under": 70.07,
+            "muestra_simulada": 30000
+          }
+        },
+        "marcadores": [
+          {
+            "marcador": "1-1",
+            "probabilidad": 12.09,
+            "frecuencia": 3627
+          },
+          {
+            "marcador": "1-0",
+            "probabilidad": 8.78,
+            "frecuencia": 2633
+          },
+          {
+            "marcador": "0-1",
+            "probabilidad": 8.59,
+            "frecuencia": 2577
+          },
+          {
+            "marcador": "2-1",
+            "probabilidad": 8.35,
+            "frecuencia": 2504
+          },
+          {
+            "marcador": "1-2",
+            "probabilidad": 8.27,
+            "frecuencia": 2482
+          }
+        ]
+      }
+    },
+    {
+      "id_partido": "LINK::https://www.flashscore.co/partido/futbol/dugo-selo-KM0V2PR7/slavonija-pozega-Ua3m5DkK/?mid=0lyvuUtI",
+      "fecha": "2026-10-17",
+      "hora": "08:00",
+      "pais": "CROACIA",
+      "liga": "DRUGA NL - JORNADA 9",
+      "local": "Slavonija Pozega",
+      "visitante": "Dugo Selo",
+      "link": "https://www.flashscore.co/partido/futbol/dugo-selo-KM0V2PR7/slavonija-pozega-Ua3m5DkK/?mid=0lyvuUtI",
+      "estado_resultado": "PENDIENTE",
+      "marcador_real": null,
+      "resultado_real": null,
+      "recomendacion": {
+        "mercado_id": "OVER_1_5",
+        "mercado": "Más de 1.5 goles",
+        "probabilidad": 80.14,
+        "cuota": null,
+        "estado": "PICK"
+      },
+      "premium": false,
+      "modelo_id": "TIPSTER_MONTECARLO_V1",
+      "diagnostico_mercados": {
+        "1X2": {
+          "Local": 38.61,
+          "Empate": 24.25,
+          "Visitante": 37.15
+        },
+        "btts": {
+          "resultado": "SI",
+          "probabilidad": 60.7,
+          "probabilidad_si": 60.7,
+          "probabilidad_no": 39.3
+        },
+        "totales": {
+          "1.5": {
+            "over": 80.14,
+            "under": 19.86,
+            "muestra_simulada": 30000
+          },
+          "2.5": {
+            "over": 57.87,
+            "under": 42.13,
+            "muestra_simulada": 30000
+          },
+          "3.5": {
+            "over": 35.14,
+            "under": 64.86,
+            "muestra_simulada": 30000
+          }
+        },
+        "marcadores": [
+          {
+            "marcador": "1-1",
+            "probabilidad": 11.22,
+            "frecuencia": 3367
+          },
+          {
+            "marcador": "2-1",
+            "probabilidad": 8.68,
+            "frecuencia": 2604
+          },
+          {
+            "marcador": "1-2",
+            "probabilidad": 8.53,
+            "frecuencia": 2560
+          },
+          {
+            "marcador": "1-0",
+            "probabilidad": 7.57,
+            "frecuencia": 2270
+          },
+          {
+            "marcador": "0-1",
+            "probabilidad": 7.33,
+            "frecuencia": 2200
+          }
+        ]
+      }
+    },
+    {
+      "id_partido": "LINK::https://www.flashscore.co/partido/futbol/solin-nDhEkglg/uskok-klis-6NJYByep/?mid=O26CtsIM",
+      "fecha": "2026-10-17",
+      "hora": "08:00",
+      "pais": "CROACIA",
+      "liga": "DRUGA NL - JORNADA 9",
+      "local": "Uskok Klis",
+      "visitante": "Solin",
+      "link": "https://www.flashscore.co/partido/futbol/solin-nDhEkglg/uskok-klis-6NJYByep/?mid=O26CtsIM",
+      "estado_resultado": "PENDIENTE",
+      "marcador_real": null,
+      "resultado_real": null,
+      "recomendacion": {
+        "mercado_id": "OVER_1_5",
+        "mercado": "Más de 1.5 goles",
+        "probabilidad": 83.04,
+        "cuota": null,
+        "estado": "PICK"
+      },
+      "premium": false,
+      "modelo_id": "TIPSTER_MONTECARLO_V1",
+      "diagnostico_mercados": {
+        "1X2": {
+          "Local": 43.29,
+          "Empate": 22.77,
+          "Visitante": 33.94
+        },
+        "btts": {
+          "resultado": "SI",
+          "probabilidad": 63.85,
+          "probabilidad_si": 63.85,
+          "probabilidad_no": 36.15
+        },
+        "totales": {
+          "1.5": {
+            "over": 83.04,
+            "under": 16.96,
+            "muestra_simulada": 30000
+          },
+          "2.5": {
+            "over": 62.52,
+            "under": 37.48,
+            "muestra_simulada": 30000
+          },
+          "3.5": {
+            "over": 40.16,
+            "under": 59.84,
+            "muestra_simulada": 30000
+          }
+        },
+        "marcadores": [
+          {
+            "marcador": "1-1",
+            "probabilidad": 10.26,
+            "frecuencia": 3078
+          },
+          {
+            "marcador": "2-1",
+            "probabilidad": 8.87,
+            "frecuencia": 2661
+          },
+          {
+            "marcador": "1-2",
+            "probabilidad": 7.75,
+            "frecuencia": 2326
+          },
+          {
+            "marcador": "1-0",
+            "probabilidad": 6.78,
+            "frecuencia": 2035
+          },
+          {
+            "marcador": "2-2",
+            "probabilidad": 6.41,
+            "frecuencia": 1924
+          }
+        ]
+      }
+    },
+    {
+      "id_partido": "LINK::https://www.flashscore.co/partido/futbol/dragovoljac-WlNUZNS5/varteks-varazdin-2011-40QU6cXB/?mid=focryLup",
+      "fecha": "2026-10-17",
+      "hora": "08:00",
+      "pais": "CROACIA",
+      "liga": "DRUGA NL - JORNADA 9",
+      "local": "Varteks Varazdin",
+      "visitante": "Dragovoljac",
+      "link": "https://www.flashscore.co/partido/futbol/dragovoljac-WlNUZNS5/varteks-varazdin-2011-40QU6cXB/?mid=focryLup",
+      "estado_resultado": "PENDIENTE",
+      "marcador_real": null,
+      "resultado_real": null,
+      "recomendacion": {
+        "mercado_id": "UNDER_3_5",
+        "mercado": "Menos de 3.5 goles",
+        "probabilidad": 74.6,
+        "cuota": null,
+        "estado": "PICK"
+      },
+      "premium": false,
+      "modelo_id": "TIPSTER_MONTECARLO_V1",
+      "diagnostico_mercados": {
+        "1X2": {
+          "Local": 36.78,
+          "Empate": 26.82,
+          "Visitante": 36.4
+        },
+        "btts": {
+          "resultado": "SI",
+          "probabilidad": 52.33,
+          "probabilidad_si": 52.33,
+          "probabilidad_no": 47.67
+        },
+        "totales": {
+          "1.5": {
+            "over": 72.11,
+            "under": 27.89,
+            "muestra_simulada": 30000
+          },
+          "2.5": {
+            "over": 46.93,
+            "under": 53.07,
+            "muestra_simulada": 30000
+          },
+          "3.5": {
+            "over": 25.4,
+            "under": 74.6,
+            "muestra_simulada": 30000
+          }
+        },
+        "marcadores": [
+          {
+            "marcador": "1-1",
+            "probabilidad": 13.0,
+            "frecuencia": 3901
+          },
+          {
+            "marcador": "1-0",
+            "probabilidad": 10.23,
+            "frecuencia": 3070
+          },
+          {
+            "marcador": "0-1",
+            "probabilidad": 9.94,
+            "frecuencia": 2983
+          },
+          {
+            "marcador": "1-2",
+            "probabilidad": 8.09,
+            "frecuencia": 2427
+          },
+          {
+            "marcador": "2-1",
+            "probabilidad": 8.08,
+            "frecuencia": 2425
+          }
+        ]
+      }
+    },
+    {
+      "id_partido": "LINK::https://www.flashscore.co/partido/futbol/jarun-zNoOeOwP/zapresic-zJX3Z3Da/?mid=2B0jZbAd",
+      "fecha": "2026-10-17",
+      "hora": "08:00",
+      "pais": "CROACIA",
+      "liga": "DRUGA NL - JORNADA 9",
+      "local": "Zapresic",
+      "visitante": "Jarun",
+      "link": "https://www.flashscore.co/partido/futbol/jarun-zNoOeOwP/zapresic-zJX3Z3Da/?mid=2B0jZbAd",
+      "estado_resultado": "PENDIENTE",
+      "marcador_real": null,
+      "resultado_real": null,
+      "recomendacion": {
+        "mercado_id": "NO_APOSTAR",
+        "mercado": "NO APOSTAR",
+        "probabilidad": null,
+        "cuota": null,
+        "estado": "NO_APOSTAR"
+      },
+      "premium": false,
+      "modelo_id": "TIPSTER_MONTECARLO_V1",
+      "diagnostico_mercados": {
+        "1X2": {
+          "Local": 30.07,
+          "Empate": 25.01,
+          "Visitante": 44.92
+        },
+        "btts": {
+          "resultado": "SI",
+          "probabilidad": 56.11,
+          "probabilidad_si": 56.11,
+          "probabilidad_no": 43.89
+        },
+        "totales": {
+          "1.5": {
+            "over": 77.11,
+            "under": 22.89,
+            "muestra_simulada": 30000
+          },
+          "2.5": {
+            "over": 53.27,
+            "under": 46.73,
+            "muestra_simulada": 30000
+          },
+          "3.5": {
+            "over": 30.97,
+            "under": 69.03,
+            "muestra_simulada": 30000
+          }
+        },
+        "marcadores": [
+          {
+            "marcador": "1-1",
+            "probabilidad": 11.77,
+            "frecuencia": 3532
+          },
+          {
+            "marcador": "0-1",
+            "probabilidad": 9.56,
+            "frecuencia": 2869
+          },
+          {
+            "marcador": "1-2",
+            "probabilidad": 9.04,
+            "frecuencia": 2712
+          },
+          {
+            "marcador": "0-2",
+            "probabilidad": 7.52,
+            "frecuencia": 2257
+          },
+          {
+            "marcador": "2-1",
+            "probabilidad": 7.23,
+            "frecuencia": 2170
+          }
+        ]
+      }
+    },
+    {
+      "id_partido": "LINK::https://www.flashscore.co/partido/futbol/fuerte-san-francisco-KWPjPNr5/isidro-metapan-dICZMKd4/?mid=fZpjHiwH",
+      "fecha": "2026-10-17",
+      "hora": "20:00",
+      "pais": "EL SALVADOR",
+      "liga": "PRIMERA DIVISIÓN - APERTURA - JORNADA 16",
+      "local": "Isidro Metapán",
+      "visitante": "Fuerte San Francisco",
+      "link": "https://www.flashscore.co/partido/futbol/fuerte-san-francisco-KWPjPNr5/isidro-metapan-dICZMKd4/?mid=fZpjHiwH",
+      "estado_resultado": "PENDIENTE",
+      "marcador_real": null,
+      "resultado_real": null,
+      "recomendacion": {
+        "mercado_id": "UNDER_3_5",
+        "mercado": "Menos de 3.5 goles",
+        "probabilidad": 76.59,
+        "cuota": null,
+        "estado": "PICK"
+      },
+      "premium": false,
+      "modelo_id": "TIPSTER_MONTECARLO_V1",
+      "diagnostico_mercados": {
+        "1X2": {
+          "Local": 48.7,
+          "Empate": 26.19,
+          "Visitante": 25.12
+        },
+        "btts": {
+          "resultado": "NO",
+          "probabilidad": 48.68,
+          "probabilidad_si": 48.68,
+          "probabilidad_no": 51.32
+        },
+        "totales": {
+          "1.5": {
+            "over": 70.86,
+            "under": 29.14,
+            "muestra_simulada": 30000
+          },
+          "2.5": {
+            "over": 45.17,
+            "under": 54.83,
+            "muestra_simulada": 30000
+          },
+          "3.5": {
+            "over": 23.41,
+            "under": 76.59,
+            "muestra_simulada": 30000
+          }
+        },
+        "marcadores": [
+          {
+            "marcador": "1-0",
+            "probabilidad": 12.83,
+            "frecuencia": 3850
+          },
+          {
+            "marcador": "1-1",
+            "probabilidad": 12.2,
+            "frecuencia": 3660
+          },
+          {
+            "marcador": "2-0",
+            "probabilidad": 9.32,
+            "frecuencia": 2796
+          },
+          {
+            "marcador": "2-1",
+            "probabilidad": 9.19,
+            "frecuencia": 2758
+          },
+          {
+            "marcador": "0-0",
+            "probabilidad": 8.65,
+            "frecuencia": 2596
+          }
+        ]
+      }
+    },
+    {
+      "id_partido": "LINK::https://www.flashscore.co/partido/futbol/motagua-pzqly0S1/platense-2VZAoIxb/?mid=UHvTXnIG",
+      "fecha": "2026-10-17",
+      "hora": "16:00",
+      "pais": "HONDURAS",
+      "liga": "LIGA NACIONAL - APERTURA - JORNADA 10",
+      "local": "Platense",
+      "visitante": "Motagua",
+      "link": "https://www.flashscore.co/partido/futbol/motagua-pzqly0S1/platense-2VZAoIxb/?mid=UHvTXnIG",
+      "estado_resultado": "PENDIENTE",
+      "marcador_real": null,
+      "resultado_real": null,
+      "recomendacion": {
+        "mercado_id": "NO_APOSTAR",
+        "mercado": "NO APOSTAR",
+        "probabilidad": null,
+        "cuota": null,
+        "estado": "NO_APOSTAR"
+      },
+      "premium": false,
+      "modelo_id": "TIPSTER_MONTECARLO_V1",
+      "diagnostico_mercados": {
+        "1X2": {
+          "Local": 22.02,
+          "Empate": 25.06,
+          "Visitante": 52.92
+        },
+        "btts": {
+          "resultado": "NO",
+          "probabilidad": 49.7,
+          "probabilidad_si": 49.7,
+          "probabilidad_no": 50.3
+        },
+        "totales": {
+          "1.5": {
+            "over": 72.97,
+            "under": 27.03,
+            "muestra_simulada": 30000
+          },
+          "2.5": {
+            "over": 47.81,
+            "under": 52.19,
+            "muestra_simulada": 30000
+          },
+          "3.5": {
+            "over": 26.49,
+            "under": 73.51,
+            "muestra_simulada": 30000
+          }
+        },
+        "marcadores": [
+          {
+            "marcador": "0-1",
+            "probabilidad": 12.55,
+            "frecuencia": 3764
+          },
+          {
+            "marcador": "1-1",
+            "probabilidad": 11.98,
+            "frecuencia": 3594
+          },
+          {
+            "marcador": "0-2",
+            "probabilidad": 9.84,
+            "frecuencia": 2953
+          },
+          {
+            "marcador": "1-2",
+            "probabilidad": 9.38,
+            "frecuencia": 2813
+          },
+          {
+            "marcador": "0-0",
+            "probabilidad": 7.39,
+            "frecuencia": 2216
+          }
+        ]
+      }
+    },
+    {
+      "id_partido": "LINK::https://www.flashscore.co/partido/futbol/cd-choloma-2JwDzepC/juticalpa-SUJOXqvc/?mid=0410Fv2k",
+      "fecha": "2026-10-17",
+      "hora": "18:15",
+      "pais": "HONDURAS",
+      "liga": "LIGA NACIONAL - APERTURA - JORNADA 10",
+      "local": "Juticalpa",
+      "visitante": "Choloma",
+      "link": "https://www.flashscore.co/partido/futbol/cd-choloma-2JwDzepC/juticalpa-SUJOXqvc/?mid=0410Fv2k",
+      "estado_resultado": "PENDIENTE",
+      "marcador_real": null,
+      "resultado_real": null,
+      "recomendacion": {
+        "mercado_id": "OVER_1_5",
+        "mercado": "Más de 1.5 goles",
+        "probabilidad": 75.45,
+        "cuota": null,
+        "estado": "PICK"
+      },
+      "premium": false,
+      "modelo_id": "TIPSTER_MONTECARLO_V1",
+      "diagnostico_mercados": {
+        "1X2": {
+          "Local": 32.98,
+          "Empate": 25.47,
+          "Visitante": 41.55
+        },
+        "btts": {
+          "resultado": "SI",
+          "probabilidad": 54.9,
+          "probabilidad_si": 54.9,
+          "probabilidad_no": 45.1
+        },
+        "totales": {
+          "1.5": {
+            "over": 75.45,
+            "under": 24.55,
+            "muestra_simulada": 30000
+          },
+          "2.5": {
+            "over": 51.37,
+            "under": 48.63,
+            "muestra_simulada": 30000
+          },
+          "3.5": {
+            "over": 28.97,
+            "under": 71.03,
+            "muestra_simulada": 30000
+          }
+        },
+        "marcadores": [
+          {
+            "marcador": "1-1",
+            "probabilidad": 12.06,
+            "frecuencia": 3618
+          },
+          {
+            "marcador": "0-1",
+            "probabilidad": 9.59,
+            "frecuencia": 2877
+          },
+          {
+            "marcador": "1-2",
+            "probabilidad": 8.61,
+            "frecuencia": 2584
+          },
+          {
+            "marcador": "1-0",
+            "probabilidad": 8.31,
+            "frecuencia": 2494
+          },
+          {
+            "marcador": "2-1",
+            "probabilidad": 7.95,
+            "frecuencia": 2384
+          }
+        ]
+      }
+    },
+    {
+      "id_partido": "LINK::https://www.flashscore.co/partido/futbol/atletico-independiente-xUrewyNe/lobos-upnfm-Wn2jRjr7/?mid=8U48DIW1",
+      "fecha": "2026-10-17",
+      "hora": "20:30",
+      "pais": "HONDURAS",
+      "liga": "LIGA NACIONAL - APERTURA - JORNADA 10",
+      "local": "Atletico Independiente",
+      "visitante": "Lobos UPNFM",
+      "link": "https://www.flashscore.co/partido/futbol/atletico-independiente-xUrewyNe/lobos-upnfm-Wn2jRjr7/?mid=8U48DIW1",
+      "estado_resultado": "PENDIENTE",
+      "marcador_real": null,
+      "resultado_real": null,
+      "recomendacion": {
+        "mercado_id": "UNDER_3_5",
+        "mercado": "Menos de 3.5 goles",
+        "probabilidad": 80.61,
+        "cuota": null,
+        "estado": "PICK"
+      },
+      "premium": false,
+      "modelo_id": "TIPSTER_MONTECARLO_V1",
+      "diagnostico_mercados": {
+        "1X2": {
+          "Local": 36.9,
+          "Empate": 28.71,
+          "Visitante": 34.4
+        },
+        "btts": {
+          "resultado": "NO",
+          "probabilidad": 46.17,
+          "probabilidad_si": 46.17,
+          "probabilidad_no": 53.83
+        },
+        "totales": {
+          "1.5": {
+            "over": 66.01,
+            "under": 33.99,
+            "muestra_simulada": 30000
+          },
+          "2.5": {
+            "over": 39.55,
+            "under": 60.45,
+            "muestra_simulada": 30000
+          },
+          "3.5": {
+            "over": 19.39,
+            "under": 80.61,
+            "muestra_simulada": 30000
+          }
+        },
+        "marcadores": [
+          {
+            "marcador": "1-1",
+            "probabilidad": 13.49,
+            "frecuencia": 4046
+          },
+          {
+            "marcador": "1-0",
+            "probabilidad": 11.84,
+            "frecuencia": 3551
+          },
+          {
+            "marcador": "0-1",
+            "probabilidad": 11.75,
+            "frecuencia": 3525
+          },
+          {
+            "marcador": "0-0",
+            "probabilidad": 10.48,
+            "frecuencia": 3144
+          },
+          {
+            "marcador": "2-1",
+            "probabilidad": 7.72,
+            "frecuencia": 2315
+          }
+        ]
+      }
+    },
+    {
+      "id_partido": "LINK::https://www.flashscore.co/partido/futbol/aluminium-arak-tSKMsunB/sanat-naft-nqFIkLT5/?mid=O4HxWAvh",
+      "fecha": "2026-10-17",
+      "hora": "10:30",
+      "pais": "IRÁN",
+      "liga": "PERSIAN GULF PRO LEAGUE - JORNADA 9",
+      "local": "Sanat-Naft",
+      "visitante": "Aluminium Arak",
+      "link": "https://www.flashscore.co/partido/futbol/aluminium-arak-tSKMsunB/sanat-naft-nqFIkLT5/?mid=O4HxWAvh",
+      "estado_resultado": "PENDIENTE",
+      "marcador_real": null,
+      "resultado_real": null,
+      "recomendacion": {
+        "mercado_id": "UNDER_3_5",
+        "mercado": "Menos de 3.5 goles",
+        "probabilidad": 83.59,
+        "cuota": null,
+        "estado": "PICK"
+      },
+      "premium": false,
+      "modelo_id": "TIPSTER_MONTECARLO_V1",
+      "diagnostico_mercados": {
+        "1X2": {
+          "Local": 31.13,
+          "Empate": 30.12,
+          "Visitante": 38.76
+        },
+        "btts": {
+          "resultado": "NO",
+          "probabilidad": 43.26,
+          "probabilidad_si": 43.26,
+          "probabilidad_no": 56.74
+        },
+        "totales": {
+          "1.5": {
+            "over": 63.2,
+            "under": 36.8,
+            "muestra_simulada": 30000
+          },
+          "2.5": {
+            "over": 35.76,
+            "under": 64.24,
+            "muestra_simulada": 30000
+          },
+          "3.5": {
+            "over": 16.41,
+            "under": 83.59,
+            "muestra_simulada": 30000
+          }
+        },
+        "marcadores": [
+          {
+            "marcador": "1-1",
+            "probabilidad": 13.83,
+            "frecuencia": 4150
+          },
+          {
+            "marcador": "0-1",
+            "probabilidad": 13.36,
+            "frecuencia": 4007
+          },
+          {
+            "marcador": "0-0",
+            "probabilidad": 12.14,
+            "frecuencia": 3642
+          },
+          {
+            "marcador": "1-0",
+            "probabilidad": 11.58,
+            "frecuencia": 3474
+          },
+          {
+            "marcador": "1-2",
+            "probabilidad": 7.97,
+            "frecuencia": 2391
+          }
+        ]
+      }
+    },
+    {
+      "id_partido": "LINK::https://www.flashscore.co/partido/futbol/fas-4AfSOtSi/platense-municipal-xdgB5e4b/?mid=O8RFXCNc",
+      "fecha": "2026-10-18",
+      "hora": "18:30",
+      "pais": "EL SALVADOR",
+      "liga": "PRIMERA DIVISIÓN - APERTURA - JORNADA 16",
+      "local": "FAS",
+      "visitante": "Platense Municipal",
+      "link": "https://www.flashscore.co/partido/futbol/fas-4AfSOtSi/platense-municipal-xdgB5e4b/?mid=O8RFXCNc",
+      "estado_resultado": "PENDIENTE",
+      "marcador_real": null,
+      "resultado_real": null,
+      "recomendacion": {
+        "mercado_id": "UNDER_3_5",
+        "mercado": "Menos de 3.5 goles",
+        "probabilidad": 71.6,
+        "cuota": null,
+        "estado": "PICK"
+      },
+      "premium": false,
+      "modelo_id": "TIPSTER_MONTECARLO_V1",
+      "diagnostico_mercados": {
+        "1X2": {
+          "Local": 47.9,
+          "Empate": 25.1,
+          "Visitante": 27.0
+        },
+        "btts": {
+          "resultado": "SI",
+          "probabilidad": 53.42,
+          "probabilidad_si": 53.42,
+          "probabilidad_no": 46.58
+        },
+        "totales": {
+          "1.5": {
+            "over": 75.05,
+            "under": 24.95,
+            "muestra_simulada": 30000
+          },
+          "2.5": {
+            "over": 50.37,
+            "under": 49.63,
+            "muestra_simulada": 30000
+          },
+          "3.5": {
+            "over": 28.4,
+            "under": 71.6,
+            "muestra_simulada": 30000
+          }
+        },
+        "marcadores": [
+          {
+            "marcador": "1-1",
+            "probabilidad": 11.95,
+            "frecuencia": 3585
+          },
+          {
+            "marcador": "1-0",
+            "probabilidad": 10.77,
+            "frecuencia": 3231
+          },
+          {
+            "marcador": "2-1",
+            "probabilidad": 8.96,
+            "frecuencia": 2687
+          },
+          {
+            "marcador": "2-0",
+            "probabilidad": 8.58,
+            "frecuencia": 2574
+          },
+          {
+            "marcador": "0-1",
+            "probabilidad": 7.71,
+            "frecuencia": 2313
+          }
+        ]
+      }
+    },
+    {
+      "id_partido": "LINK::https://www.flashscore.co/partido/futbol/estrella-de-honduras-2iUTtjy4/genesis-fc-IL2ZQcXn/?mid=zycfyMO8",
+      "fecha": "2026-10-18",
+      "hora": "16:00",
+      "pais": "HONDURAS",
+      "liga": "LIGA NACIONAL - APERTURA - JORNADA 10",
+      "local": "Genesis",
+      "visitante": "Estrella Roja",
+      "link": "https://www.flashscore.co/partido/futbol/estrella-de-honduras-2iUTtjy4/genesis-fc-IL2ZQcXn/?mid=zycfyMO8",
+      "estado_resultado": "PENDIENTE",
+      "marcador_real": null,
+      "resultado_real": null,
+      "recomendacion": {
+        "mercado_id": "OVER_1_5",
+        "mercado": "Más de 1.5 goles",
+        "probabilidad": 74.67,
+        "cuota": null,
+        "estado": "PICK"
+      },
+      "premium": false,
+      "modelo_id": "TIPSTER_MONTECARLO_V1",
+      "diagnostico_mercados": {
+        "1X2": {
+          "Local": 45.68,
+          "Empate": 25.04,
+          "Visitante": 29.28
+        },
+        "btts": {
+          "resultado": "SI",
+          "probabilidad": 53.53,
+          "probabilidad_si": 53.53,
+          "probabilidad_no": 46.47
+        },
+        "totales": {
+          "1.5": {
+            "over": 74.67,
+            "under": 25.33,
+            "muestra_simulada": 30000
+          },
+          "2.5": {
+            "over": 50.82,
+            "under": 49.18,
+            "muestra_simulada": 30000
+          },
+          "3.5": {
+            "over": 28.42,
+            "under": 71.58,
+            "muestra_simulada": 30000
+          }
+        },
+        "marcadores": [
+          {
+            "marcador": "1-1",
+            "probabilidad": 11.64,
+            "frecuencia": 3493
+          },
+          {
+            "marcador": "1-0",
+            "probabilidad": 10.54,
+            "frecuencia": 3161
+          },
+          {
+            "marcador": "2-1",
+            "probabilidad": 9.23,
+            "frecuencia": 2769
+          },
+          {
+            "marcador": "0-1",
+            "probabilidad": 7.97,
+            "frecuencia": 2391
+          },
+          {
+            "marcador": "2-0",
+            "probabilidad": 7.67,
+            "frecuencia": 2302
+          }
+        ]
+      }
+    },
+    {
+      "id_partido": "LINK::https://www.flashscore.co/partido/futbol/benjamin-aceval-lAdLw2uC/sol-de-america-WMg3uAeT/?mid=thhMCWeS",
+      "fecha": "2026-10-18",
+      "hora": "08:00",
+      "pais": "PARAGUAY",
+      "liga": "DIVISIÓN INTERMEDIA - JORNADA 29",
+      "local": "Benjamin Aceval",
+      "visitante": "Sol de América",
+      "link": "https://www.flashscore.co/partido/futbol/benjamin-aceval-lAdLw2uC/sol-de-america-WMg3uAeT/?mid=thhMCWeS",
+      "estado_resultado": "PENDIENTE",
+      "marcador_real": null,
+      "resultado_real": null,
+      "recomendacion": {
+        "mercado_id": "OVER_1_5",
+        "mercado": "Más de 1.5 goles",
+        "probabilidad": 80.82,
+        "cuota": null,
+        "estado": "PICK"
+      },
+      "premium": false,
+      "modelo_id": "TIPSTER_MONTECARLO_V1",
+      "diagnostico_mercados": {
+        "1X2": {
+          "Local": 28.34,
+          "Empate": 23.22,
+          "Visitante": 48.44
+        },
+        "btts": {
+          "resultado": "SI",
+          "probabilidad": 59.53,
+          "probabilidad_si": 59.53,
+          "probabilidad_no": 40.47
+        },
+        "totales": {
+          "1.5": {
+            "over": 80.82,
+            "under": 19.18,
+            "muestra_simulada": 30000
+          },
+          "2.5": {
+            "over": 58.32,
+            "under": 41.68,
+            "muestra_simulada": 30000
+          },
+          "3.5": {
+            "over": 36.18,
+            "under": 63.82,
+            "muestra_simulada": 30000
+          }
+        },
+        "marcadores": [
+          {
+            "marcador": "1-1",
+            "probabilidad": 10.68,
+            "frecuencia": 3203
+          },
+          {
+            "marcador": "1-2",
+            "probabilidad": 9.22,
+            "frecuencia": 2765
+          },
+          {
+            "marcador": "0-1",
+            "probabilidad": 8.33,
+            "frecuencia": 2499
+          },
+          {
+            "marcador": "0-2",
+            "probabilidad": 7.59,
+            "frecuencia": 2277
+          },
+          {
+            "marcador": "2-1",
+            "probabilidad": 6.83,
+            "frecuencia": 2050
+          }
+        ]
+      }
+    },
+    {
+      "id_partido": "LINK::https://www.flashscore.co/partido/futbol/corum-fk-lhqGWSed/rizespor-b54BqOc9/?mid=2HswU1Kt",
+      "fecha": "2026-10-18",
+      "hora": "07:00",
+      "pais": "TURQUÍA",
+      "liga": "U19 LEAGUE - JORNADA 8",
+      "local": "Corum Sub-19",
+      "visitante": "Rizespor Sub-19",
+      "link": "https://www.flashscore.co/partido/futbol/corum-fk-lhqGWSed/rizespor-b54BqOc9/?mid=2HswU1Kt",
+      "estado_resultado": "PENDIENTE",
+      "marcador_real": null,
+      "resultado_real": null,
+      "recomendacion": {
+        "mercado_id": "OVER_1_5",
+        "mercado": "Más de 1.5 goles",
+        "probabilidad": 80.66,
+        "cuota": null,
+        "estado": "PICK"
+      },
+      "premium": false,
+      "modelo_id": "TIPSTER_MONTECARLO_V1",
+      "diagnostico_mercados": {
+        "1X2": {
+          "Local": 38.82,
+          "Empate": 24.66,
+          "Visitante": 36.53
+        },
+        "btts": {
+          "resultado": "SI",
+          "probabilidad": 60.97,
+          "probabilidad_si": 60.97,
+          "probabilidad_no": 39.03
+        },
+        "totales": {
+          "1.5": {
+            "over": 80.66,
+            "under": 19.34,
+            "muestra_simulada": 30000
+          },
+          "2.5": {
+            "over": 58.05,
+            "under": 41.95,
+            "muestra_simulada": 30000
+          },
+          "3.5": {
+            "over": 35.76,
+            "under": 64.24,
+            "muestra_simulada": 30000
+          }
+        },
+        "marcadores": [
+          {
+            "marcador": "1-1",
+            "probabilidad": 11.55,
+            "frecuencia": 3465
+          },
+          {
+            "marcador": "2-1",
+            "probabilidad": 8.59,
+            "frecuencia": 2578
+          },
+          {
+            "marcador": "1-2",
+            "probabilidad": 8.15,
+            "frecuencia": 2445
+          },
+          {
+            "marcador": "1-0",
+            "probabilidad": 7.38,
+            "frecuencia": 2214
+          },
+          {
+            "marcador": "0-1",
+            "probabilidad": 7.14,
+            "frecuencia": 2143
+          }
+        ]
+      }
+    },
+    {
+      "id_partido": "LINK::https://www.flashscore.co/partido/futbol/ca-lugano-UoKLWqBd/canuelas-fkYuJYII/?mid=reP1pgGq",
+      "fecha": "2026-10-19",
+      "hora": "13:00",
+      "pais": "ARGENTINA",
+      "liga": "PRIMERA C - ASCENSO - PLAYOFFS - 1/8 DE FINAL",
+      "local": "Lugano",
+      "visitante": "Cañuelas",
+      "link": "https://www.flashscore.co/partido/futbol/ca-lugano-UoKLWqBd/canuelas-fkYuJYII/?mid=reP1pgGq",
+      "estado_resultado": "PENDIENTE",
+      "marcador_real": null,
+      "resultado_real": null,
+      "recomendacion": {
+        "mercado_id": "NO_APOSTAR",
+        "mercado": "NO APOSTAR",
+        "probabilidad": null,
+        "cuota": null,
+        "estado": "NO_APOSTAR"
+      },
+      "premium": false,
+      "modelo_id": "TIPSTER_MONTECARLO_V1",
+      "diagnostico_mercados": {
+        "1X2": {
+          "Local": 28.02,
+          "Empate": 27.98,
+          "Visitante": 44.0
+        },
+        "btts": {
+          "resultado": "NO",
+          "probabilidad": 44.32,
+          "probabilidad_si": 44.32,
+          "probabilidad_no": 55.68
+        },
+        "totales": {
+          "1.5": {
+            "over": 65.88,
+            "under": 34.12,
+            "muestra_simulada": 30000
+          },
+          "2.5": {
+            "over": 39.34,
+            "under": 60.66,
+            "muestra_simulada": 30000
+          },
+          "3.5": {
+            "over": 18.91,
+            "under": 81.09,
+            "muestra_simulada": 30000
+          }
+        },
+        "marcadores": [
+          {
+            "marcador": "0-1",
+            "probabilidad": 14.47,
+            "frecuencia": 4342
+          },
+          {
+            "marcador": "1-1",
+            "probabilidad": 12.89,
+            "frecuencia": 3866
+          },
+          {
+            "marcador": "0-0",
+            "probabilidad": 10.5,
+            "frecuencia": 3151
+          },
+          {
+            "marcador": "0-2",
+            "probabilidad": 9.55,
+            "frecuencia": 2864
+          },
+          {
+            "marcador": "1-0",
+            "probabilidad": 9.47,
+            "frecuencia": 2841
+          }
+        ]
+      }
+    },
+    {
+      "id_partido": "LINK::https://www.flashscore.co/partido/futbol/sacachispas-x6y9vLzJ/sportivo-barracas-2qmvus66/?mid=tnFe6zw3",
+      "fecha": "2026-10-19",
+      "hora": "13:00",
+      "pais": "ARGENTINA",
+      "liga": "PRIMERA C - ASCENSO - PLAYOFFS - 1/8 DE FINAL",
+      "local": "Sportivo Barracas",
+      "visitante": "Sacachispas",
+      "link": "https://www.flashscore.co/partido/futbol/sacachispas-x6y9vLzJ/sportivo-barracas-2qmvus66/?mid=tnFe6zw3",
+      "estado_resultado": "PENDIENTE",
+      "marcador_real": null,
+      "resultado_real": null,
+      "recomendacion": {
+        "mercado_id": "UNDER_3_5",
+        "mercado": "Menos de 3.5 goles",
+        "probabilidad": 86.84,
+        "cuota": null,
+        "estado": "PICK"
+      },
+      "premium": false,
+      "modelo_id": "TIPSTER_MONTECARLO_V1",
+      "diagnostico_mercados": {
+        "1X2": {
+          "Local": 36.74,
+          "Empate": 31.76,
+          "Visitante": 31.5
+        },
+        "btts": {
+          "resultado": "NO",
+          "probabilidad": 38.5,
+          "probabilidad_si": 38.5,
+          "probabilidad_no": 61.5
+        },
+        "totales": {
+          "1.5": {
+            "over": 57.74,
+            "under": 42.26,
+            "muestra_simulada": 30000
+          },
+          "2.5": {
+            "over": 30.82,
+            "under": 69.18,
+            "muestra_simulada": 30000
+          },
+          "3.5": {
+            "over": 13.16,
+            "under": 86.84,
+            "muestra_simulada": 30000
+          }
+        },
+        "marcadores": [
+          {
+            "marcador": "0-0",
+            "probabilidad": 15.52,
+            "frecuencia": 4657
+          },
+          {
+            "marcador": "1-0",
+            "probabilidad": 14.55,
+            "frecuencia": 4365
+          },
+          {
+            "marcador": "0-1",
+            "probabilidad": 14.04,
+            "frecuencia": 4212
+          },
+          {
+            "marcador": "1-1",
+            "probabilidad": 13.43,
+            "frecuencia": 4029
+          },
+          {
+            "marcador": "2-0",
+            "probabilidad": 7.26,
+            "frecuencia": 2179
+          }
+        ]
+      }
+    },
+    {
+      "id_partido": "LINK::https://www.flashscore.co/partido/futbol/minerva-punjab-IVnnqpTS/mumbai-city-W0uVNCyA/?mid=KbB19v5e",
+      "fecha": "2026-10-19",
+      "hora": "09:00",
+      "pais": "INDIA",
+      "liga": "ISL",
+      "local": "Punjab",
+      "visitante": "Mumbai City",
+      "link": "https://www.flashscore.co/partido/futbol/minerva-punjab-IVnnqpTS/mumbai-city-W0uVNCyA/?mid=KbB19v5e",
+      "estado_resultado": "PENDIENTE",
+      "marcador_real": null,
+      "resultado_real": null,
+      "recomendacion": {
+        "mercado_id": "NO_APOSTAR",
+        "mercado": "NO APOSTAR",
+        "probabilidad": null,
+        "cuota": null,
+        "estado": "NO_APOSTAR"
+      },
+      "premium": false,
+      "modelo_id": "TIPSTER_MONTECARLO_V1",
+      "diagnostico_mercados": {
+        "1X2": {
+          "Local": 45.17,
+          "Empate": 25.64,
+          "Visitante": 29.19
+        },
+        "btts": {
+          "resultado": "SI",
+          "probabilidad": 52.89,
+          "probabilidad_si": 52.89,
+          "probabilidad_no": 47.11
+        },
+        "totales": {
+          "1.5": {
+            "over": 74.18,
+            "under": 25.82,
+            "muestra_simulada": 30000
+          },
+          "2.5": {
+            "over": 48.9,
+            "under": 51.1,
+            "muestra_simulada": 30000
+          },
+          "3.5": {
+            "over": 26.97,
+            "under": 73.03,
+            "muestra_simulada": 30000
+          }
+        },
+        "marcadores": [
+          {
+            "marcador": "1-1",
+            "probabilidad": 12.44,
+            "frecuencia": 3731
+          },
+          {
+            "marcador": "1-0",
+            "probabilidad": 10.71,
+            "frecuencia": 3213
+          },
+          {
+            "marcador": "2-1",
+            "probabilidad": 9.07,
+            "frecuencia": 2720
+          },
+          {
+            "marcador": "2-0",
+            "probabilidad": 8.13,
+            "frecuencia": 2439
+          },
+          {
+            "marcador": "0-1",
+            "probabilidad": 8.04,
+            "frecuencia": 2413
+          }
+        ]
+      }
+    },
+    {
+      "id_partido": "LINK::https://www.flashscore.co/partido/futbol/santos-laguna-hE1DkGNu/toluca-dnXZML8p/?mid=OAfOYz7c",
+      "fecha": "2026-10-19",
+      "hora": "19:00",
+      "pais": "MÉXICO",
+      "liga": "LIGA MX FEMENIL - APERTURA - JORNADA 11",
+      "local": "Toluca F",
+      "visitante": "Santos Laguna F",
+      "link": "https://www.flashscore.co/partido/futbol/santos-laguna-hE1DkGNu/toluca-dnXZML8p/?mid=OAfOYz7c",
+      "estado_resultado": "PENDIENTE",
+      "marcador_real": null,
+      "resultado_real": null,
+      "recomendacion": {
+        "mercado_id": "OVER_1_5",
+        "mercado": "Más de 1.5 goles",
+        "probabilidad": 86.33,
+        "cuota": null,
+        "estado": "PICK"
+      },
+      "premium": false,
+      "modelo_id": "TIPSTER_MONTECARLO_V1",
+      "diagnostico_mercados": {
+        "1X2": {
+          "Local": 50.06,
+          "Empate": 21.55,
+          "Visitante": 28.4
+        },
+        "btts": {
+          "resultado": "SI",
+          "probabilidad": 67.3,
+          "probabilidad_si": 67.3,
+          "probabilidad_no": 32.7
+        },
+        "totales": {
+          "1.5": {
+            "over": 86.33,
+            "under": 13.67,
+            "muestra_simulada": 30000
+          },
+          "2.5": {
+            "over": 68.39,
+            "under": 31.61,
+            "muestra_simulada": 30000
+          },
+          "3.5": {
+            "over": 47.06,
+            "under": 52.94,
+            "muestra_simulada": 30000
+          }
+        },
+        "marcadores": [
+          {
+            "marcador": "2-1",
+            "probabilidad": 9.28,
+            "frecuencia": 2785
+          },
+          {
+            "marcador": "1-1",
+            "probabilidad": 8.78,
+            "frecuencia": 2633
+          },
+          {
+            "marcador": "2-2",
+            "probabilidad": 7.02,
+            "frecuencia": 2107
+          },
+          {
+            "marcador": "1-2",
+            "probabilidad": 6.59,
+            "frecuencia": 1978
+          },
+          {
+            "marcador": "3-1",
+            "probabilidad": 6.22,
+            "frecuencia": 1865
+          }
+        ]
+      }
+    },
+    {
+      "id_partido": "LINK::https://www.flashscore.co/partido/futbol/atlante-lU2IkSoQ/club-leon-23bEp9If/?mid=WzbWWEyA",
+      "fecha": "2026-10-19",
+      "hora": "20:06",
+      "pais": "MÉXICO",
+      "liga": "LIGA MX FEMENIL - APERTURA - JORNADA 11",
+      "local": "León F",
+      "visitante": "Atlante F",
+      "link": "https://www.flashscore.co/partido/futbol/atlante-lU2IkSoQ/club-leon-23bEp9If/?mid=WzbWWEyA",
+      "estado_resultado": "PENDIENTE",
+      "marcador_real": null,
+      "resultado_real": null,
+      "recomendacion": {
+        "mercado_id": "OVER_1_5",
+        "mercado": "Más de 1.5 goles",
+        "probabilidad": 76.88,
+        "cuota": null,
+        "estado": "PICK"
+      },
+      "premium": false,
+      "modelo_id": "TIPSTER_MONTECARLO_V1",
+      "diagnostico_mercados": {
+        "1X2": {
+          "Local": 43.34,
+          "Empate": 24.85,
+          "Visitante": 31.82
+        },
+        "btts": {
+          "resultado": "SI",
+          "probabilidad": 56.4,
+          "probabilidad_si": 56.4,
+          "probabilidad_no": 43.6
+        },
+        "totales": {
+          "1.5": {
+            "over": 76.88,
+            "under": 23.12,
+            "muestra_simulada": 30000
+          },
+          "2.5": {
+            "over": 53.44,
+            "under": 46.56,
+            "muestra_simulada": 30000
+          },
+          "3.5": {
+            "over": 31.85,
+            "under": 68.15,
+            "muestra_simulada": 30000
+          }
+        },
+        "marcadores": [
+          {
+            "marcador": "1-1",
+            "probabilidad": 11.88,
+            "frecuencia": 3565
+          },
+          {
+            "marcador": "1-0",
+            "probabilidad": 9.27,
+            "frecuencia": 2782
+          },
+          {
+            "marcador": "2-1",
+            "probabilidad": 8.64,
+            "frecuencia": 2591
+          },
+          {
+            "marcador": "0-1",
+            "probabilidad": 7.63,
+            "frecuencia": 2290
+          },
+          {
+            "marcador": "1-2",
+            "probabilidad": 7.37,
+            "frecuencia": 2212
+          }
+        ]
+      }
+    },
+    {
+      "id_partido": "LINK::https://www.flashscore.co/partido/futbol/jaguares-de-cordoba-hCwaFc4a/santa-fe-6HbMPbJ1/?mid=4UVLycFG",
+      "fecha": "2026-10-15",
+      "hora": "20:05",
+      "pais": "COLOMBIA",
+      "liga": "PRIMERA A - CLAUSURA - JORNADA 7",
+      "local": "Ind. Santa Fe",
+      "visitante": "Jaguares de Córdoba",
+      "link": "https://www.flashscore.co/partido/futbol/jaguares-de-cordoba-hCwaFc4a/santa-fe-6HbMPbJ1/?mid=4UVLycFG",
+      "estado_resultado": "PENDIENTE",
+      "marcador_real": null,
+      "resultado_real": null,
+      "recomendacion": {
+        "mercado_id": "UNDER_3_5",
+        "mercado": "Menos de 3.5 goles",
+        "probabilidad": 75.91,
+        "cuota": null,
+        "estado": "PICK"
+      },
+      "premium": false,
+      "modelo_id": "TIPSTER_MONTECARLO_V1",
+      "diagnostico_mercados": {
+        "1X2": {
+          "Local": 49.37,
+          "Empate": 26.79,
+          "Visitante": 23.83
+        },
+        "btts": {
+          "resultado": "NO",
+          "probabilidad": 48.55,
+          "probabilidad_si": 48.55,
+          "probabilidad_no": 51.45
+        },
+        "totales": {
+          "1.5": {
+            "over": 71.03,
+            "under": 28.97,
+            "muestra_simulada": 30000
+          },
+          "2.5": {
+            "over": 44.99,
+            "under": 55.01,
+            "muestra_simulada": 30000
+          },
+          "3.5": {
+            "over": 24.09,
+            "under": 75.91,
+            "muestra_simulada": 30000
+          }
+        },
+        "marcadores": [
+          {
+            "marcador": "1-0",
+            "probabilidad": 12.51,
+            "frecuencia": 3753
+          },
+          {
+            "marcador": "1-1",
+            "probabilidad": 12.21,
+            "frecuencia": 3664
+          },
+          {
+            "marcador": "2-0",
+            "probabilidad": 9.97,
+            "frecuencia": 2990
+          },
+          {
+            "marcador": "2-1",
+            "probabilidad": 9.44,
+            "frecuencia": 2831
+          },
+          {
+            "marcador": "0-0",
+            "probabilidad": 8.58,
+            "frecuencia": 2575
           }
         ]
       }
